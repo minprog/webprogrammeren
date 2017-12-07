@@ -1,13 +1,12 @@
-# Webprogrammeren en Databases<br><span class="small">voor Informatiekunde</span><br><span class="small">Studiewijzer</span>
+# Webprogrammeren en Databases<br><span class="small">voor Informatiekunde / Studiewijzer</span>
 
 *Versie: Januari 2018*
 
-In vier weken leer je hoe je voor een opdrachtgever een interactieve website maakt gebruik makend van Flask. In de eerste week leer je de werking van het World-Wide Web, maak je een gedetailleerd ontwerp van je website en bouw je een prototype voorzien van vormgeving (week 1: URLs, DNS, HTTP, HTML/CSS, datamodel ontwerp), in de tweede week maak je een database voor je website (week 2: relationele databases, SQL, Python), daarna wordt interactie tussen de gebruiker en de website toegevoegd (week 3: javascript, AJAX). In de vierde en laatste week wordt aandacht besteed aan de beveiliging van je website, maak je het project af en verdedig je het tijdens een demonstratie en in een rapport.
+In vier weken leer je hoe je een interactieve website maakt met behulp van het Flask-framework. We focussen op het maken van websites met een database-backend waarin gebruikersgegevens worden opgeslagen. Zo kun je in je verdere studie prototypes bouwen van applicaties en snel data verzamelen voor onderzoek. Er wordt gewerkt in teams van drie volgens een vaste structuur, waarbij er veel aandacht is voor leren over groepsprocessen.
 
 ## Contact
 
-Stuur een mail naar <progik@mprog.nl> of spreek je assistent of docenten aan.
-Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen.
+Stuur een mail naar <progik@mprog.nl> of spreek je assistent of docenten aan. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen.
 
 Martijn Stegeman  
 *coördinator*  
@@ -18,48 +17,43 @@ Jelle van Assema
 
 ## Wat gaan we doen?
 
-- 2 opdrachten
-    - scope
-    - correctness
-    - design
-    - style
-- project
-    - scope (functionaliteit)
-    - correctness (functionaliteit)
-    - design (db + code)
-    - style (code)
-- pav
-    - verslag (10%)
+We willen graag dat je leert om kleine websites te bouwen die werken met een database. We focussen op het hergebruiken van online datasets en applicaties met meerdere gelijktijdige gebruikers.
+
+- twee individuele opdrachten (30%)
+    - leren hoe je websites kan maken die passen in het Flask-framework
+    - leren schrijven van SQL-queries voor het manipuleren van databases
+    - leren hoe communicatie tussen een webbrowser en een webserver in elkaar steekt
+    - leren over basis-beveiling van websites
+    - leren hoe je HTML-pagina's schrijft en opmaakt met CSS
+- een programmeerproject in teams van drie studenten (60%)
+    - leren hoe je de functionaliteit van een nieuwe website kunt vastleggen
+    - leren hoe je een technisch ontwerp maakt voor een grotere website
+    - leren hoe je met meerdere mensen code voor een website kunt delen via Git
+    - kennis maken met het werken in teamverband en projectmatig werken
+    - leren hoe je een project kunt opdelen om een tijdsplanning te maken
+- een individueel reflectieverslag over het groepsproces (10%)
+    - kennis maken met groepsprocessen
+    - nadenken over je eigen rol in de groep
+
+Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[62218]). De volgende wekelijkse activiteiten zijn gepland:
+
+- hoorcollege op maandag om 9 uur
+- laptopcolleges voor hulp met programmeren op dinsdag, woensdag en vrijdag
+- gesprekken van teams met docenten op donderdag en vrijdag (afspraken worden nog gemaakt)
 
 ## Voorkennis
 
-We verwachten dat je bekend bent met de beginselen van programmeren in Python. Als je al eerder bij een andere opleiding een vak hebt gevolgd over webprogrammeren is dit vak niet voor jou, en moet je vrijstelling aanvragen bij de examencommissie.
+We verwachten dat je bekend bent met de beginselen van programmeren in Python. Als je al bij een andere opleiding een vak hebt gevolgd over webprogrammeren is dit vak niet voor jou, en moet je vrijstelling aanvragen bij de examencommissie.
 
-## Leerdoelen
+## Projecten
 
-We willen graag dat je leert om kleine websites te bouwen die werken met een database. We focussen op het hergebruiken van online datasets en applicaties met meerdere gelijktijdige gebruikers.
+De concepten voor de projecten moeten voldoen aan één van de volgende templates:
 
-### Technisch
+- Chatbots: Denk hierbij aan telegram / discord bots voor het zenden van reminders / notes. Het verzamelen van data vanaf verschillende api's (youtube / reddit). Hierbij is een achterliggende database nodig, kennis over authenticatie (security) en kennis over verschillende API's. Zowel Telegram als Discord hebben een Python API. Effectief is het dus een volledige website, alleen de front-end is net even anders!
 
-- een niet triviale interactieve website construeren op basis van Flask(+JS) en een eenvoudige relationele database;
-- SQL queries ontwerpen voor CRUD;
-- interactie met de eindgebruiker op gebruikersvriendelijke manier afhandelen;
-- een website beveiligen tegen markup injection, SQL injection, session hijacking, cross-site scripting;
-- gebruik van git met een klein team, oplossen merge conflicts.
+- Een blogsysteem waarbij gebruikers een blog kunnen schrijven, editten en verwijderen. Daarbij kunnen gebruikers andere blogs bekijken, naar zoeken en op reageren? Hierbij krijg je te maken met een achterliggende database, authenticatie en het ondersteunen van verschillende vormen van media (text/images/video).
 
-### Academische vaardigheden
-
-- werken in teamverband;
-- projectmatig werken;
-- rapporteren.
-
-### En oefenen met...
-
-- time management;
-- werken met deadlines;
-- werken met een projectplan;
-- op effectieve wijze binnen een projectgroep feedback geven en ontvangen;
-- reflecteren op het verloop van het project.
+- Een kookboek doorzoekbaar op ingrediënten, smaken etc. Gebruikmakend van een achterliggende API (bijv. https://developer.edamam.com/). Deelbaar met andere gebruikers? Aanpasbaar?
 
 ## Verwachtingen
 
@@ -77,67 +71,39 @@ Om deze cursus te kunnen halen, verwachten we een aantal dingen van je.
 
 Mocht je in de problemen komen met het vak en het tempo, zorg dan dat je meteen contact opneemt (<progik@mprog.nl>). Als het gaat om persoonlijke problemen of andere onvermijdelijke zaken, zijn we altijd bereid te zoeken naar oplossingen.
 
-## Activiteiten
+## Beoordeling
 
-De verwachting is dat je zo'n 21 uur per week aan dit vak kwijt bent. Houd er rekening mee dat je best wat meer tijd kwijt kan zijn, studenten verschillen nu eenmaal. Als je nog niet eerder geprogrammeerd hebt moet je even over een drempel heen voordat je het begint te begrijpen.
-
-| Weken  | Opdracht      | Taal       | Weging |
-| ------ | ------------- | ---------- | ------ |
-| Week 1 | Problem Set 0 | Scratch    |  0%    |
-|        | Problem Set 1 | C          | 10%    |
-| Week 2 | Problem Set 2 | C          | 10%    |
-| Week 3 | Problem Set 3 | C          | 10%    |
-| Week 4 | Tentamen 1    |            | 20%    |
-| Week 5 | Problem set 4 | Python     | 10%    |
-| Week 6 | Problem set 5 | Python     | 10%    |
-| Week 7 | Problem set 6 | Python     | 10%    |
-| Week 8 | Tentamen 2    |            | 20%    |
-
-Problem set 0 telt niet mee voor het cijfer, je krijgt hier enkel een pass of fail voor. Om het vak te halen moet je in principe alle problem sets inleveren en meedoen aan beide tentamens, behalve bij verkrijgen van een schriftelijke uitzondering door de docent.
-
-## Opdrachten
-
-De opdrachten doe je gedeeltelijk in de klas, maar ze zijn groot, dus thuis werken is noodzakelijk. We rekenen op ongeveer 20 uur werk per opdracht, en je hebt 6 uur aan practica per week.
-
-Elke week worden je opdrachten beoordeeld op de volgende factoren:
+De **opdrachten** (30%) in de eerste weken worden beoordeeld via de volgende onderdelen:
 
 * Omvang --- heb je alles geprobeerd?
 * Correctheid --- doet het programma wat de gebruiker mag verwachten?
 * Ontwerp --- hoe ordelijk is je code?
 * Stijl --- hoe leesbaar is je code?
 
-De <strong>deadlines</strong> van de verschillende opdrachten staan in de tabel hieronder. Mis je de deadline, dan hebben wij geen tijd meer om het na te kijken en wordt het lastig het vak nog te halen. Stuur daarom altijd vóór de deadline in wat je hebt.
+De cijfers worden dan bepaald met de formule $$scope * (3 * correctness + 2 * design + style)$$.
 
-| Opdracht      | Deadline             |
-| ------------- | -------------------- |
-| Problem Set 0 | Maandag 04 sep 23:59 |
-| Problem Set 1 | Vrijdag 08 sep 23:59 |
-| Problem Set 2 | Vrijdag 15 sep 23:59 |
-| Problem Set 3 | Vrijdag 22 sep 23:59 |
-| Problem set 4 | Vrijdag 06 okt 23:59 |
-| Problem set 5 | Vrijdag 13 okt 23:59 |
-| Problem set 6 | Vrijdag 20 okt 23:59 |
+Het **project** (60%) wordt beoordeeld via de volgende onderdelen:
 
-### Becijfering van de opdrachten
+* Omvang --- is het een samenhangend en compleet product?
+* Correctheid --- is het product goed te gebruiken voor beginners en gevorderden?
+* Ontwerp --- hoe overzichtelijk en gestructureerd zijn de code en database?
+* Stijl --- hoe leesbaar is de code?
 
-De opdrachten worden dus beoordeeld op `scope`, `correctness`, `design` en `style`.
-Dit is de formule voor de cijfers:
+De cijfers worden dan bepaald met de formule $$scope * (3 * correctness + 2 * design + style)$$.
 
-    grade = scope * (3 * correctness + 2 * design + style)
+Het **verslag** (10%) wordt beoordeeld via een uitgebreide rubric, waarmee je kennis maakt tijdens de PAV-bijeenkomsten.
 
-Gezien je voor elke van deze onderdelen maximaal 5 punten kunt halen, is het
-totale maximum daarmee 150. Alle cijfers worden uiteindelijk dan geschaald naar
-de schaal van 1 tot 10, dus:
+| Opdracht              | Deadline                     |  
+| --------------------- | ---------------------------- |  
+| Problem Set 6         | woensdag 10 januari 23:59    |  
+| Problem Set 7         | woensdag 17 januari 23:59    |  
+| Groepsfeedback        | vrijdag 19 januari 16:59     |  
+| Projectcode op GitHub | woensdag 31 januari 23:59    |  
+| Reflectieverslag      | donderdag 1 februari 23:59   |  
+| Productvideo          | vrijdag 2 februari 11:59     |  
+| Publiekspresentaties  | vrijdag 2 februari 13-17 uur |  
 
-    grade = grade / 150 * 9 + 1
-
-Cijfers komen elke week op of voor woensdag online, zodat je de feedback van de opdracht van de week daarvoor kan verwerken.
-
-## Eindcijfer
-
-Het eindcijfer is gebaseerd op de tussencijfers die je verdient bij de wekelijkse opdrachten (60%) en de cijfers van de twee tentamens (40%). Je moet voor de opdrachten gemiddeld een 5.5 hebben gehaald, en voor Problem Set 0 een pass, om het vak te halen. Ook moet je minimaal een 5.5 halen als gemiddelde voor de tentamens. Dit laatste is belangrijk omdat je zo in een gecontroleerde omgeving laat zien dat je er echt iets van begrijpt.
-
-Wil je de beoordeling of de antwoorden van je tentamen bespreken? Stuur dan een e-mail voor een afspraak.
+Let op! Zonder compleet pakket van productvideo, code op github, history op github en verslag is geen beoordeling mogelijk en wordt geen eindcijfer geregistreerd.
 
 ## Samenwerken, fraude en plagiaat
 
