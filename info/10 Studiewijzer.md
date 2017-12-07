@@ -80,16 +80,16 @@ De **opdrachten** (30%) in de eerste weken worden beoordeeld via de volgende ond
 * Ontwerp --- hoe ordelijk is je code?
 * Stijl --- hoe leesbaar is je code?
 
-De cijfers worden dan bepaald met de formule $$scope * (3 * correctness + 2 * design + style)$$.
+De cijfers worden dan bepaald met de formule $$omvang \times (3 \times correctheid + 2 \times ontwerp + stijl)$$.
 
 Het **project** (60%) wordt beoordeeld via de volgende onderdelen:
 
 * Omvang --- is het een samenhangend en compleet product?
-* Correctheid --- is het product goed te gebruiken voor beginners en gevorderden?
+* Bruikbaarheid --- is het product goed te gebruiken voor beginners en gevorderden?
 * Ontwerp --- hoe overzichtelijk en gestructureerd zijn de code en database?
 * Stijl --- hoe leesbaar is de code?
 
-De cijfers worden dan bepaald met de formule $$scope * (3 * correctness + 2 * design + style)$$.
+De cijfers worden dan bepaald met de formule $$omvang \times (3 \times bruikbaarheid + 2 \times ontwerp + stijl)$$.
 
 Het **verslag** (10%) wordt beoordeeld via een uitgebreide rubric, waarmee je kennis maakt tijdens de PAV-bijeenkomsten.
 
