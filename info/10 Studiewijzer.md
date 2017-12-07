@@ -97,11 +97,25 @@ Let op! Zonder compleet pakket van productvideo, code op github, history op gith
 
 ## Deadlines
 
-| Opdracht              | Deadline                     |  
+| Week 1                | Deadline                     |  
 | --------------------- | ---------------------------- |  
+| Idee geregistreerd    | maandag 8 januari 16:59      |  
+| Projectvoorstel       | woensdag 10 januari 16:59    |  
 | Problem Set 6         | woensdag 10 januari 23:59    |  
+
+| Week 2                | Deadline                     |  
+| --------------------- | ---------------------------- |  
+| Technisch ontwerp     | woensdag 17 januari 16:59    |  
 | Problem Set 7         | woensdag 17 januari 23:59    |  
 | Groepsfeedback        | vrijdag 19 januari 16:59     |  
+
+| Week 3                | Deadline                     |  
+| --------------------- | ---------------------------- |  
+| PAV-meeting           | dinsdag 23 januari 23:59     |  
+| Projectvoorstel       | woensdag 24 januari 23:59    |  
+
+| Week 4                | Deadline                     |  
+| --------------------- | ---------------------------- |  
 | Projectcode op GitHub | woensdag 31 januari 23:59    |  
 | Reflectieverslag      | donderdag 1 februari 23:59   |  
 | Productvideo          | vrijdag 2 februari 11:59     |  
