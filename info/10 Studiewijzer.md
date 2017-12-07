@@ -93,6 +93,10 @@ De cijfers worden dan bepaald met de formule $$scope * (3 * correctness + 2 * de
 
 Het **verslag** (10%) wordt beoordeeld via een uitgebreide rubric, waarmee je kennis maakt tijdens de PAV-bijeenkomsten.
 
+Let op! Zonder compleet pakket van productvideo, code op github, history op github en verslag is geen beoordeling mogelijk en wordt geen eindcijfer geregistreerd.
+
+## Deadlines
+
 | Opdracht              | Deadline                     |  
 | --------------------- | ---------------------------- |  
 | Problem Set 6         | woensdag 10 januari 23:59    |  
@@ -102,8 +106,6 @@ Het **verslag** (10%) wordt beoordeeld via een uitgebreide rubric, waarmee je ke
 | Reflectieverslag      | donderdag 1 februari 23:59   |  
 | Productvideo          | vrijdag 2 februari 11:59     |  
 | Publiekspresentaties  | vrijdag 2 februari 13-17 uur |  
-
-Let op! Zonder compleet pakket van productvideo, code op github, history op github en verslag is geen beoordeling mogelijk en wordt geen eindcijfer geregistreerd.
 
 ## Samenwerken, fraude en plagiaat
 
