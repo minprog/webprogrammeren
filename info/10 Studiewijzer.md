@@ -17,23 +17,23 @@ Jelle van Assema
 
 ## Wat gaan we doen?
 
-We willen graag dat je leert om kleine websites te bouwen die werken met een database. We focussen op het hergebruiken van online datasets en applicaties met meerdere gelijktijdige gebruikers.
-
-- twee individuele opdrachten (30%)
-    - leren hoe je websites kan maken die passen in het Flask-framework
-    - leren schrijven van SQL-queries voor het manipuleren van databases
-    - leren hoe communicatie tussen een webbrowser en een webserver in elkaar steekt
-    - leren over basis-beveiling van websites
-    - leren hoe je HTML-pagina's schrijft en opmaakt met CSS
-- een programmeerproject in teams van drie studenten (60%)
-    - leren hoe je de functionaliteit van een nieuwe website kunt vastleggen
-    - leren hoe je een technisch ontwerp maakt voor een grotere website
-    - leren hoe je met meerdere mensen code voor een website kunt delen via Git
-    - kennis maken met het werken in teamverband en projectmatig werken
-    - leren hoe je een project kunt opdelen om een tijdsplanning te maken
-- een individueel reflectieverslag over het groepsproces (10%)
-    - kennis maken met groepsprocessen
-    - nadenken over je eigen rol in de groep
+| Week 1                | Deadline                     |  
+| --------------------- | ---------------------------- |  
+| Idee geregistreerd    | maandag 8 januari 16:59      |  
+| Projectvoorstel       | woensdag 10 januari 16:59    |  
+| Problem Set 6         | woensdag 10 januari 23:59    |  
+| **Week 2**            | **Deadline**                 |  
+| Technisch ontwerp     | woensdag 17 januari 16:59    |  
+| Problem Set 7         | woensdag 17 januari 23:59    |  
+| Groepsfeedback        | vrijdag 19 januari 16:59     |  
+| **Week 3**            | **Deadline**                 |  
+| PAV-meeting           | dinsdag 23 januari 23:59     |  
+| Projectvoorstel       | woensdag 24 januari 23:59    |  
+| **Week 4**            | **Deadline**                 |  
+| Projectcode op GitHub | woensdag 31 januari 23:59    |  
+| Reflectieverslag      | donderdag 1 februari 23:59   |  
+| Productvideo          | vrijdag 2 februari 11:59     |  
+| Publiekspresentaties  | vrijdag 2 februari 13-17 uur |  
 
 Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[62218]). De volgende wekelijkse activiteiten zijn gepland:
 
@@ -71,6 +71,26 @@ Om deze cursus te kunnen halen, verwachten we een aantal dingen van je.
 
 Mocht je in de problemen komen met het vak en het tempo, zorg dan dat je meteen contact opneemt (<progik@mprog.nl>). Als het gaat om persoonlijke problemen of andere onvermijdelijke zaken, zijn we altijd bereid te zoeken naar oplossingen.
 
+## Leerdoelen
+
+We willen graag dat je leert om kleine websites te bouwen die werken met een database. We focussen op het hergebruiken van online datasets en applicaties met meerdere gelijktijdige gebruikers.
+
+- twee individuele opdrachten (30%)
+    - leren hoe je websites kan maken die passen in het Flask-framework
+    - leren schrijven van SQL-queries voor het manipuleren van databases
+    - leren hoe communicatie tussen een webbrowser en een webserver in elkaar steekt
+    - leren over basis-beveiling van websites
+    - leren hoe je HTML-pagina's schrijft en opmaakt met CSS
+- een programmeerproject in teams van drie studenten (60%)
+    - leren hoe je de functionaliteit van een nieuwe website kunt vastleggen
+    - leren hoe je een technisch ontwerp maakt voor een grotere website
+    - leren hoe je met meerdere mensen code voor een website kunt delen via Git
+    - kennis maken met het werken in teamverband en projectmatig werken
+    - leren hoe je een project kunt opdelen om een tijdsplanning te maken
+- een individueel reflectieverslag over het groepsproces (10%)
+    - kennis maken met groepsprocessen
+    - nadenken over je eigen rol in de groep
+
 ## Beoordeling
 
 De **opdrachten** (30%) in de eerste weken worden beoordeeld via de volgende onderdelen:
@@ -94,26 +114,6 @@ De cijfers worden dan bepaald met de formule $$omvang \times (3 \times bruikbaar
 Het **verslag** (10%) wordt beoordeeld via een uitgebreide rubric, waarmee je kennis maakt tijdens de PAV-bijeenkomsten.
 
 Let op! Zonder compleet pakket van productvideo, code op github, history op github en verslag is geen beoordeling mogelijk en wordt geen eindcijfer geregistreerd.
-
-## Deadlines
-
-| Week 1                | Deadline                     |  
-| --------------------- | ---------------------------- |  
-| Idee geregistreerd    | maandag 8 januari 16:59      |  
-| Projectvoorstel       | woensdag 10 januari 16:59    |  
-| Problem Set 6         | woensdag 10 januari 23:59    |  
-| **Week 2**            | **Deadline**                 |  
-| Technisch ontwerp     | woensdag 17 januari 16:59    |  
-| Problem Set 7         | woensdag 17 januari 23:59    |  
-| Groepsfeedback        | vrijdag 19 januari 16:59     |  
-| **Week 3**            | **Deadline**                 |  
-| PAV-meeting           | dinsdag 23 januari 23:59     |  
-| Projectvoorstel       | woensdag 24 januari 23:59    |  
-| **Week 4**            | **Deadline**                 |  
-| Projectcode op GitHub | woensdag 31 januari 23:59    |  
-| Reflectieverslag      | donderdag 1 februari 23:59   |  
-| Productvideo          | vrijdag 2 februari 11:59     |  
-| Publiekspresentaties  | vrijdag 2 februari 13-17 uur |  
 
 ## Samenwerken, fraude en plagiaat
 
