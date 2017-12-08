@@ -17,23 +17,23 @@ Jelle van Assema
 
 ## Wat gaan we doen?
 
-| Week 1                | Deadline                     |  
-| --------------------- | ---------------------------- |  
-| Idee geregistreerd    | maandag 8 januari 16:59      |  
-| Projectvoorstel       | woensdag 10 januari 16:59    |  
-| Problem Set 6         | woensdag 10 januari 23:59    |  
-| **Week 2**            | **Deadline**                 |  
-| Technisch ontwerp     | woensdag 17 januari 16:59    |  
-| Problem Set 7         | woensdag 17 januari 23:59    |  
-| Groepsfeedback        | vrijdag 19 januari 16:59     |  
-| **Week 3**            | **Deadline**                 |  
-| PAV-meeting           | dinsdag 23 januari 23:59     |  
-| Projectvoorstel       | woensdag 24 januari 23:59    |  
-| **Week 4**            | **Deadline**                 |  
-| Projectcode op GitHub | woensdag 31 januari 23:59    |  
-| Reflectieverslag      | donderdag 1 februari 23:59   |  
-| Productvideo          | vrijdag 2 februari 11:59     |  
-| Publiekspresentaties  | vrijdag 2 februari 13-17 uur |  
+| Week 1                                          | Deadline                     |  
+| ----------------------------------------------- | ---------------------------- |  
+| [Idee geregistreerd](/project/registratie)      | maandag 8 januari 16:59      |  
+| [Projectvoorstel](/project/plan)                | woensdag 10 januari 16:59    |  
+| [Problem Set 6](/problem-sets/sentimental)      | woensdag 10 januari 23:59    |  
+| **Week 2**                                      | **Deadline**                 |  
+| [Technisch ontwerp](/project/technisch-ontwerp) | woensdag 17 januari 16:59    |  
+| [Problem Set 7](/problem-sets/finance)          | woensdag 17 januari 23:59    |  
+| Groepsfeedback                                  | vrijdag 19 januari 16:59     |  
+| **Week 3**                                      | **Deadline**                 |  
+| PAV-meeting                                     | dinsdag 23 januari 23:59     |  
+| [Prototype](/project/prototype)                 | woensdag 24 januari 23:59    |  
+| **Week 4**                                      | **Deadline**                 |  
+| Projectcode op GitHub                           | woensdag 31 januari 23:59    |  
+| Reflectieverslag                                | donderdag 1 februari 23:59   |  
+| Productvideo                                    | vrijdag 2 februari 11:59     |  
+| Publiekspresentaties                            | vrijdag 2 februari 13-17 uur |  
 
 Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[62218]). De volgende wekelijkse activiteiten zijn gepland:
 
