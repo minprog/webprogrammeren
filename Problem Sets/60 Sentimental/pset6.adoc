@@ -25,7 +25,7 @@ cd ~/workspace/pset6/
 
 All code that you write should be consistent with https://www.python.org/dev/peps/pep-0008/[Style Guide for Python Code], otherwise known as PEP 8.
 
-. Implement link:/problems/sentiments[Sentiments] in `pset6/sentiments/`.
+* Implement link:/problems/sentiments[Sentiments] in `pset6/sentiments/`.
 
 == Hints
 
