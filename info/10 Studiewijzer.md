@@ -60,7 +60,7 @@ Je bent verplicht aanwezig bij een **dagelijkse groepsmeeting** die enigszins in
 
 Als je een keer ziek bent meld je dit op de dag van ziek worden en hou je ons op de hoogte per mail naar <progik@mprog.nl>. Als iemand uit het team niet aanwezig is voor het voortgangsgesprek dan komt de rest dit direct melden en wordt er ter plekke een nieuwe afspraak gemaakt.
 
-Bij afwezigheid zonder melding of niet inleveren van opdrachten zonder melding word je direct uit het vak gezet zodat alle groepjes direct verder kunnen. Als je wél netjes je problemen meldt zullen we altijd ons uiterste best doen om te zorgen dat je het vak kunt afmaken.
+Bij afwezigheid zonder melding of niet inleveren van opdrachten zonder melding word je direct uit het vak gezet zodat elk groepje goed verder kan. Als je wél netjes je problemen meldt zullen we altijd ons uiterste best doen om te zorgen dat je het vak kunt afmaken.
 
 ## Voorkennis
 
