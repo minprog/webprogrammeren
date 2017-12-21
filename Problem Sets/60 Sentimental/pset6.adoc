@@ -12,7 +12,7 @@
 
 == Getting Started
 
-If you have not set up your ide50 yet (i.e. you did not take programmeren ik earlier this year) please follow  link:/resources/setting-up-IDE50[these instructions to set up IDE50]. Otherwise, head on over to https://cs50.io and enter the following commands in the terminal.
+If you have not set up your ide50 yet (i.e. you did not take programmeren ik earlier this year) please follow  link:/resources/IDE50-setup[these instructions to set up IDE50]. Otherwise, head on over to https://cs50.io and enter the following commands in the terminal.
 
 [source]
 ----
