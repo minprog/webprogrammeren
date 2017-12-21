@@ -25,8 +25,9 @@ Jelle van Assema
 | [Problem Set 6](/psets/sentimental)             | woensdag 10 januari 23:59    |  
 | **Week 2**                                      | **Deadline**                 |  
 | Hoorcollege: technisch ontwerp                  |                              |  
+| [Problem Set 7](/psets/finance)                 | dinsdag 16 januari 23:59     |  
+| Hoorcollege: git                                | woensdag 17 januari 13:00    |  
 | [Technisch ontwerp](/project/technisch-ontwerp) | woensdag 17 januari 16:59    |  
-| [Problem Set 7](/psets/finance)                 | woensdag 17 januari 23:59    |  
 | Groepsfeedback                                  | vrijdag 19 januari 16:59     |  
 | **Week 3**                                      | **Deadline**                 |  
 | Hoorcollege: ontwerpen voor gebruikers          |                              |  
