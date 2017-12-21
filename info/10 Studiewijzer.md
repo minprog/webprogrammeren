@@ -55,11 +55,13 @@ We verwachten dat je bekend bent met de beginselen van programmeren in Python. A
 
 De concepten voor de projecten moeten voldoen aan één van de volgende templates:
 
-- Chatbots: Denk hierbij aan telegram / discord bots voor het zenden van reminders / notes. Het verzamelen van data vanaf verschillende api's (youtube / reddit). Hierbij is een achterliggende database nodig, kennis over authenticatie (security) en kennis over verschillende API's. Zowel Telegram als Discord hebben een Python API. Effectief is het dus een volledige website, alleen de front-end is net even anders!
+- **Photo sharing**. Gebruikers kunnen publiekelijk foto's posten met of zonder begeleidende tekst. Alle gebruikers kunnen elkaar "volgen" en zo de foto's bekijken en 💕. Gebruikers kunnen in plaats van een eigen foto ook een gif zoeken uit een online API zoals die van <http://api.giphy.com>
 
-- Een blogsysteem waarbij gebruikers een blog kunnen schrijven, editten en verwijderen. Daarbij kunnen gebruikers andere blogs bekijken, naar zoeken en op reageren? Hierbij krijg je te maken met een achterliggende database, authenticatie en het ondersteunen van verschillende vormen van media (text/images/video).
+- **Collectioneur**. Gebruikers kunnen op basis van diverse eigenschappen zoeken naar items die afkomstig zijn uit een online database van *fijne dingen* zoals [recepten](http://developer.edamam.com) of [kunstwerken](http://rijksmuseum.github.io). Ze kunnen favorites opslaan op een publieke pagina en ze kunnen andere gebruikers tippen.
 
-- Een kookboek doorzoekbaar op ingrediënten, smaken etc. Gebruikmakend van een achterliggende API (bijv. https://developer.edamam.com/). Deelbaar met andere gebruikers? Aanpasbaar?
+- **Trivia**. Gebruikers kunnen triviavragen beantwoorden en op die manier punten scoren. Er is een interessant systeem om van andere gebruikers te winnen. De vragen komen uit een online triviadatabase zoals <http://jservice.io>.
+
+In alle gevallen moet je met je team je idee beperken tot een duidelijk concept. Je applicatie mag bijvoorbeeld niet bedoeld zijn om toegang te bieden tot *alle* online verkrijgbare recepten. Kies een leuke niche waarmee je een interessante doelgroep bereikt!
 
 ## Verwachtingen
 
