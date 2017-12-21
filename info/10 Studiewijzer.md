@@ -13,7 +13,7 @@ Martijn Stegeman (coördinator)
 Jelle van Assema  
 Wouter Vrielink
 
-**assistenten**
+**assistenten**  
 Mike Brink  
 Ella Casimiro  
 Nigel van Herwijnen  
