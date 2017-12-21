@@ -15,26 +15,30 @@ mail: <stegeman@uva.nl>
 Jelle van Assema  
 *docent*
 
+Wouter Vrielink  
+*hoofdassistent*
+
+Mike Brink  
+Nigel van Herwijnen  
+Mozes van de Kar  
+Ella Casimiro  
+*assistenten*
+
 ## Wat gaan we doen?
 
 | Week 1                                          | Deadline                     |  
 | ----------------------------------------------- | ---------------------------- |  
-| Hoorcollege: inleiding                          |                              |  
 | [Idee geregistreerd](/project/registratie)      | maandag 8 januari 16:59      |  
 | [Projectvoorstel](/project/plan)                | woensdag 10 januari 16:59    |  
 | [Problem Set 6](/psets/sentimental)             | woensdag 10 januari 23:59    |  
 | **Week 2**                                      | **Deadline**                 |  
-| Hoorcollege: technisch ontwerp                  |                              |  
 | [Problem Set 7](/psets/finance)                 | dinsdag 16 januari 23:59     |  
-| Hoorcollege: git                                | woensdag 17 januari 13:00    |  
 | [Technisch ontwerp](/project/technisch-ontwerp) | woensdag 17 januari 16:59    |  
 | Groepsfeedback                                  | vrijdag 19 januari 16:59     |  
 | **Week 3**                                      | **Deadline**                 |  
-| Hoorcollege: ontwerpen voor gebruikers          |                              |  
 | PAV-meeting                                     | dinsdag 23 januari 23:59     |  
 | [Prototype](/project/prototype)                 | woensdag 24 januari 23:59    |  
 | **Week 4**                                      | **Deadline**                 |  
-| Hoorcollege: security                           |                              |  
 | Projectcode op GitHub                           | woensdag 31 januari 23:59    |  
 | Reflectieverslag                                | donderdag 1 februari 23:59   |  
 | [Productvideo](/project/video)                  | vrijdag 2 februari 11:59     |  
@@ -44,8 +48,24 @@ Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[62218]).
 
 - hoorcollege op maandag om 9 uur
 - laptopcolleges voor hulp met programmeren op dinsdag, woensdag en vrijdag
-- gesprekken van teams met docenten op donderdag en vrijdag (afspraken worden nog gemaakt)
-- dagelijkse groepsmeetings (behalve eerste do/vr)
+
+## Hoorcolleges
+
+| College                                | Datum                     |  
+| -------------------------------------- | ------------------------- |  
+| Hoorcollege: inleiding                 | maandag 8 januari 9:00    |  
+| Hoorcollege: technisch ontwerp         | maandag 15 januari 9:00   |  
+| Hoorcollege: gebruik van git           | woensdag 17 januari 13:00 |  
+| Hoorcollege: ontwerpen voor gebruikers | maandag 22 januari 9:00   |  
+| Hoorcollege: security                  | maandag 29 januari 9:00   |  
+
+## Aanwezigheid
+
+Je bent verplicht aanwezig bij een **dagelijkse groepsmeeting** (behalve allereerste do/vr) die gedocumenteerd wordt door middel van een groepsfoto. Daarnaast zijn de **voortgangsgesprekken** met een docent verplicht voor alle teamleden (bij ontbreken teamlid moet de meeting later op de dag gepland worden).
+
+Als je een keer ziek bent meld je dit op de dag van ziekworden en hou je ons op de hoogte per mail naar <progik@mprog.nl>. Als iemand uit het team niet aanwezig is voor het voortgangsgesprek dan komt de rest dit direct melden en wordt er ter plekke een nieuwe afspraak gemaakt.
+
+Bij afwezigheid zonder melding of niet inleveren van opdrachten zonder melding word je direct uit het vak gezet zodat alle groepjes direct verder kunnen.
 
 ## Voorkennis
 
@@ -71,11 +91,11 @@ Om deze cursus te kunnen halen, verwachten we een aantal dingen van je.
 
 * We verwachten dat je ongeveer 40 uur per week aan dit vak besteedt. Programmeren leer je door te doen, en dat kost veel tijd. Houd hier rekening mee!
 
-* We verwachten dat je met je team dagelijks bijeenkomt, fysiek, in de buurt van Amsterdam, en de aanwezigheid documenteert door het opsturen van een groepsselfie naar <progik@mprog.nl> (uitzondering: eerste week do/vr). 
+* We verwachten dat je met je team dagelijks bijeenkomt, fysiek, in de buurt van Amsterdam, en de aanwezigheid documenteert door het posten van een groepsselfie in Slack (uitzondering: eerste week do/vr). 
 
 * We verwachten dat je aanwezig bent bij je computerpractica als je dit nodig hebt om de opdrachten met succes te maken.
 
-* We verwachten dat je goed beschikbaar bent voor je groepsgenoten en je tutor, en dat je op tijd bent bij afspraken.
+* We verwachten dat je dagelijks goed beschikbaar bent voor je groepsgenoten en je tutor, en dat je op tijd bent bij afspraken.
 
 * We verwachten dat je de feedback over je opdrachten gebruikt om de opdrachten van de volgende week beter te maken, zodat je niet alleen leert programmeren, maar ook goed programmeren.
 
