@@ -62,6 +62,8 @@ Als je een keer ziek bent meld je dit op de dag van ziek worden en hou je ons op
 
 Bij afwezigheid zonder melding of niet inleveren van opdrachten zonder melding word je direct uit het vak gezet zodat elk groepje goed verder kan. Als je wél netjes je problemen meldt zullen we altijd ons uiterste best doen om te zorgen dat je het vak kunt afmaken.
 
+Tot slot is het verplicht om met het hele team aanwezig te zijn bij de finale presentatiesessie op 2 februari in de middag.
+
 ## Voorkennis
 
 We verwachten dat je bekend bent met de beginselen van programmeren in Python. Als je al bij een andere opleiding een vak hebt gevolgd over webprogrammeren is dit vak niet voor jou, en moet je vrijstelling aanvragen bij de examencommissie.
