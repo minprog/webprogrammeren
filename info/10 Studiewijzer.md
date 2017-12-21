@@ -45,6 +45,7 @@ Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[62218]).
 - hoorcollege op maandag om 9 uur
 - laptopcolleges voor hulp met programmeren op dinsdag, woensdag en vrijdag
 - gesprekken van teams met docenten op donderdag en vrijdag (afspraken worden nog gemaakt)
+- dagelijkse groepsmeetings (behalve eerste do/vr)
 
 ## Voorkennis
 
@@ -64,9 +65,11 @@ De concepten voor de projecten moeten voldoen aan één van de volgende template
 
 Om deze cursus te kunnen halen, verwachten we een aantal dingen van je.
 
-* We verwachten dat je jouw uiterste best doen om ten minste alle opdrachten volledig te proberen te maken. Dit vinden we belangrijker dan dat alles precies correct werkt.
+* We verwachten dat je jouw uiterste best doen om ten minste alle individuele opdrachten volledig te proberen te maken. Dit vinden we belangrijker dan dat alles precies correct werkt.
 
 * We verwachten dat je ongeveer 40 uur per week aan dit vak besteedt. Programmeren leer je door te doen, en dat kost veel tijd. Houd hier rekening mee!
+
+* We verwachten dat je met je team dagelijks bijeenkomt, fysiek, in de buurt van Amsterdam, en de aanwezigheid documenteert door het opsturen van een groepsselfie naar <progik@mprog.nl> (uitzondering: eerste week do/vr). 
 
 * We verwachten dat je aanwezig bent bij je computerpractica als je dit nodig hebt om de opdrachten met succes te maken.
 
