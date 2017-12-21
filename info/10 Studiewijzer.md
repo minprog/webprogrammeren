@@ -51,13 +51,13 @@ Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[62218]).
 
 ## Hoorcolleges
 
-| College                                | Datum                     |  
-| -------------------------------------- | ------------------------- |  
-| Hoorcollege: inleiding                 | maandag 8 januari 9:00    |  
-| Hoorcollege: technisch ontwerp         | maandag 15 januari 9:00   |  
-| Hoorcollege: gebruik van git           | woensdag 17 januari 13:00 |  
-| Hoorcollege: ontwerpen voor gebruikers | maandag 22 januari 9:00   |  
-| Hoorcollege: security                  | maandag 29 januari 9:00   |  
+| Onderwerp                 | Datum                     |  
+| ------------------------- | ------------------------- |  
+| Inleiding                 | maandag 8 januari 9:00    |  
+| Technisch ontwerp         | maandag 15 januari 9:00   |  
+| Gebruik van git           | woensdag 17 januari 13:00 |  
+| Ontwerpen voor gebruikers | maandag 22 januari 9:00   |  
+| Security                  | maandag 29 januari 9:00   |  
 
 ## Aanwezigheid
 
@@ -65,7 +65,7 @@ Je bent verplicht aanwezig bij een **dagelijkse groepsmeeting** (behalve alleree
 
 Als je een keer ziek bent meld je dit op de dag van ziekworden en hou je ons op de hoogte per mail naar <progik@mprog.nl>. Als iemand uit het team niet aanwezig is voor het voortgangsgesprek dan komt de rest dit direct melden en wordt er ter plekke een nieuwe afspraak gemaakt.
 
-Bij afwezigheid zonder melding of niet inleveren van opdrachten zonder melding word je direct uit het vak gezet zodat alle groepjes direct verder kunnen.
+Bij afwezigheid zonder melding of niet inleveren van opdrachten zonder melding word je direct uit het vak gezet zodat alle groepjes direct verder kunnen. Als je wél netjes je problemen meldt zullen we altijd ons uiterste best doen om te zorgen dat je het vak kunt afmaken.
 
 ## Voorkennis
 
