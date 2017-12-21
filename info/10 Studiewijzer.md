@@ -56,9 +56,9 @@ Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[62218]).
 
 ## Aanwezigheid
 
-Je bent verplicht aanwezig bij een **dagelijkse groepsmeeting** (behalve allereerste do/vr) die gedocumenteerd wordt door middel van een groepsfoto. Daarnaast zijn de **voortgangsgesprekken** met een docent verplicht voor alle teamleden (bij ontbreken teamlid moet de meeting later op de dag gepland worden).
+Je bent verplicht aanwezig bij een **dagelijkse groepsmeeting** die enigszins in de buurt van Science Park plaatsvindt en die gedocumenteerd wordt door middel van een dagelijkse groepsfoto (eerste do/vr niet verplicht). Daarnaast moeten alle teamleaden gezamenlijk aanwezig zijn bij de **voortgangsgesprekken** met een docent.
 
-Als je een keer ziek bent meld je dit op de dag van ziekworden en hou je ons op de hoogte per mail naar <progik@mprog.nl>. Als iemand uit het team niet aanwezig is voor het voortgangsgesprek dan komt de rest dit direct melden en wordt er ter plekke een nieuwe afspraak gemaakt.
+Als je een keer ziek bent meld je dit op de dag van ziek worden en hou je ons op de hoogte per mail naar <progik@mprog.nl>. Als iemand uit het team niet aanwezig is voor het voortgangsgesprek dan komt de rest dit direct melden en wordt er ter plekke een nieuwe afspraak gemaakt.
 
 Bij afwezigheid zonder melding of niet inleveren van opdrachten zonder melding word je direct uit het vak gezet zodat alle groepjes direct verder kunnen. Als je wél netjes je problemen meldt zullen we altijd ons uiterste best doen om te zorgen dat je het vak kunt afmaken.
 
