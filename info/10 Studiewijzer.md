@@ -21,23 +21,23 @@ Mozes van de Kar
 
 ## Wat gaan we doen?
 
-| Week 1                                          | Deadline                     |  
-| ----------------------------------------------- | ---------------------------- |  
-| [Idee geregistreerd](/project/registratie)      | maandag 8 januari 16:59      |  
-| [Projectvoorstel](/project/plan)                | woensdag 10 januari 16:59    |  
-| [Problem Set 6](/psets/sentimental)             | woensdag 10 januari 23:59    |  
-| **Week 2**                                      | **Deadline**                 |  
-| [Problem Set 7](/psets/finance)                 | dinsdag 16 januari 23:59     |  
-| [Technisch ontwerp](/project/technisch-ontwerp) | woensdag 17 januari 16:59    |  
-| Groepsfeedback                                  | vrijdag 19 januari 16:59     |  
-| **Week 3**                                      | **Deadline**                 |  
-| PAV-meeting                                     | dinsdag 23 januari 23:59     |  
-| [Prototype](/project/prototype)                 | woensdag 24 januari 23:59    |  
-| **Week 4**                                      | **Deadline**                 |  
-| Projectcode op GitHub                           | woensdag 31 januari 23:59    |  
-| Reflectieverslag                                | donderdag 1 februari 23:59   |  
-| [Productvideo](/project/video)                  | vrijdag 2 februari 11:59     |  
-| Publiekspresentaties                            | vrijdag 2 februari 13-17 uur |  
+| Week 1                | Deadline                     |  
+| --------------------- | ---------------------------- |  
+| Idee geregistreerd    | maandag 8 januari 16:59      |  
+| Projectvoorstel       | woensdag 10 januari 16:59    |  
+| Problem Set 6         | woensdag 10 januari 23:59    |  
+| **Week 2**            | **Deadline**                 |  
+| Problem Set 7         | dinsdag 16 januari 23:59     |  
+| Technisch ontwerp     | woensdag 17 januari 16:59    |  
+| Groepsfeedback        | vrijdag 19 januari 16:59     |  
+| **Week 3**            | **Deadline**                 |  
+| PAV-meeting           | dinsdag 23 januari 23:59     |  
+| Prototype             | woensdag 24 januari 23:59    |  
+| **Week 4**            | **Deadline**                 |  
+| Projectcode op GitHub | woensdag 31 januari 23:59    |  
+| Reflectieverslag      | donderdag 1 februari 23:59   |  
+| Productvideo          | vrijdag 2 februari 11:59     |  
+| Publiekspresentaties  | vrijdag 2 februari 13-17 uur |  
 
 Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[62218]). De volgende wekelijkse activiteiten zijn gepland:
 
@@ -60,7 +60,7 @@ Je bent verplicht aanwezig bij een **dagelijkse groepsmeeting** die enigszins in
 
 Als je een keer ziek bent meld je dit op de dag van ziek worden en hou je ons op de hoogte per mail naar <progik@mprog.nl>. Als iemand uit het team niet aanwezig is voor het voortgangsgesprek dan komt de rest dit direct melden en wordt er ter plekke een nieuwe afspraak gemaakt.
 
-Bij afwezigheid zonder melding of niet inleveren van opdrachten zonder melding word je direct uit het vak gezet zodat alle groepjes direct verder kunnen. Als je wél netjes je problemen meldt zullen we altijd ons uiterste best doen om te zorgen dat je het vak kunt afmaken.
+Bij afwezigheid zonder melding of niet inleveren van opdrachten zonder melding word je direct uit het vak gezet zodat elk groepje goed verder kan. Als je wél netjes je problemen meldt zullen we altijd ons uiterste best doen om te zorgen dat je het vak kunt afmaken.
 
 ## Voorkennis
 
@@ -142,17 +142,7 @@ Let op! Zonder compleet pakket van productvideo, code op github, history op gith
 
 ## Samenwerken, fraude en plagiaat
 
-Samenwerken tijdens dit vak is niet toegestaan. Dit vak heeft als doel jouw persoonlijke programmeervaardigheid te ontwikkelen. Bij vervolgvakken is het vaak wél mogelijk om intensief samen te programmeren.
-
-Tijdens de practica is het natuurlijk prima als je de opgave bespreekt met de student die naast je zit. Het is echter <strong>niet toegestaan</strong> om delen van code van je medestudenten, of van internet, over te nemen.
-
-Een belangrijk verschil dus: je kunt discussiëren over de manier waarop je een probleem aanpakt, maar je kopieert nooit code van anderen. Om het jezelf niet moeilijk te maken kijk je dus doorgaans ook niet op het scherm van een ander.
-
-Als je merkt dat je zodanig aan het overleggen bent dat je dezelfde code krijgt als de student die naast je zit, wordt het tijd om te stoppen en de assistent om hulp te vragen. Als dit teveel gebeurt gaan we je vragen niet meer bij elkaar te zitten.
-
-Kom je in tijdnood? Bespreek het even met de docent. We willen het graag zo oplossen dat je het vak zelfstandig kunt halen.
-
-## Plagiaatregeling
+Samenwerken voor de individuele opdrachten in dit vak is niet toegestaan. Die opdrachten hebben als doel jouw persoonlijke programmeervaardigheid te ontwikkelen. Bij de groepsopdrachten is het natuurlijk wel de bedoeling om samen te programmeren, waarbij het belangrijk is dat ieder een redelijk deel van het werk doet.
 
 Fraude volgens de UvA: *"Het handelen of nalaten van een student waardoor een juist oordeel over zijn kennis, inzicht en vaardigheden geheel of gedeeltelijk onmogelijk wordt."*
 
@@ -161,8 +151,6 @@ We gebruiken bij de beoordeling van de opdrachten plagiaatdetectie. Als blijkt d
 * Er is een bronvermelding: in dat geval voldoe je niet aan de eis van het   zelfstandig maken van de opgaven en wordt je inzending afgekeurd. Omdat dit   meestal na de deadline is betekent dat doorgaans dat je het vak dit jaar niet kunt afronden.
 
 * Er is geen bronvermelding: in dat geval rapporteren we aan de examencommissie welke inzendingen overeenkomen, waarna de commissie beslist over te nemen   maatregelen.
-
-In eerdere jaren is één student uitgesloten van deelname na het kopiëren van een practicumopdracht. Andere studenten hebben een waarschuwing gekregen.
 
 Zie ook:
 
