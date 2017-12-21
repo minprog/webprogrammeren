@@ -19,17 +19,21 @@ Jelle van Assema
 
 | Week 1                                          | Deadline                     |  
 | ----------------------------------------------- | ---------------------------- |  
+| Hoorcollege: inleiding                          |                              |  
 | [Idee geregistreerd](/project/registratie)      | maandag 8 januari 16:59      |  
 | [Projectvoorstel](/project/plan)                | woensdag 10 januari 16:59    |  
 | [Problem Set 6](/psets/sentimental)             | woensdag 10 januari 23:59    |  
 | **Week 2**                                      | **Deadline**                 |  
+| Hoorcollege: technisch ontwerp                  |                              |  
 | [Technisch ontwerp](/project/technisch-ontwerp) | woensdag 17 januari 16:59    |  
 | [Problem Set 7](/psets/finance)                 | woensdag 17 januari 23:59    |  
 | Groepsfeedback                                  | vrijdag 19 januari 16:59     |  
 | **Week 3**                                      | **Deadline**                 |  
+| Hoorcollege: ontwerpen voor gebruikers          |                              |  
 | PAV-meeting                                     | dinsdag 23 januari 23:59     |  
 | [Prototype](/project/prototype)                 | woensdag 24 januari 23:59    |  
 | **Week 4**                                      | **Deadline**                 |  
+| Hoorcollege: security                           |                              |  
 | Projectcode op GitHub                           | woensdag 31 januari 23:59    |  
 | Reflectieverslag                                | donderdag 1 februari 23:59   |  
 | [Productvideo](/project/video)                  | vrijdag 2 februari 11:59     |  
