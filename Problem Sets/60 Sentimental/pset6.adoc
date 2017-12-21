@@ -5,12 +5,14 @@
 = Problem Set 6: Sentimental
 
 == tl;dr
- 
+
 . Watch Week 8's lecture (and Week 6's and Week 7's, if you haven't already).
 . Port some programs from C to Python.
 . Analyze some sentiments.
 
 == Getting Started
+
+If you have not set up your ide50 yet (i.e. you did not take programmeren ik earlier this year) please follow  link:/resources/setting-up-IDE50[these instructions to set up IDE50]. Otherwise, head on over to https://cs50.io and enter the following commands in the terminal.
 
 [source]
 ----
@@ -19,33 +21,11 @@ mkdir ~/workspace/pset6/
 cd ~/workspace/pset6/
 ----
 
-== Problems
+== Problem: Sentiments
 
 All code that you write should be consistent with https://www.python.org/dev/peps/pep-0008/[Style Guide for Python Code], otherwise known as PEP 8.
 
-. Implement either of the below exactly as specified but in Python:
-+
---
-* link:/problems/mario-less[Mario], less comfortable, in a file called `mario.py` in `pset6/`.
-* link:/problems/mario-more[Mario], more comfortable, in a file called `mario.py` in `pset6/`.
---
-+
-. Implement either of the below exactly as specified but in Python:
-+
---
-* link:/problems/greedy[Greedy], less comfortable, in a file called `greedy.py` in `pset6/`.
-* link:/problems/credit[Credit], more comfortable, in a file called `credit.py` in `pset6/`.
---
-. Implement any (one) of the below exactly as specified but in Python:
-+
---
-* link:/problems/caesar[Caesar], less comfortable, in a file called `caesar.py` in `pset6/`.
-* link:/problems/vigenere[Vigenère], less comfortable, in a file called `vigenere.py` in `pset6/`.
-* link:/problems/crack[Crack], more comfortable, in a file called `crack.py` in `pset6/`.
---
 . Implement link:/problems/sentiments[Sentiments] in `pset6/sentiments/`.
-
-No `check50` for these!
 
 == Hints
 
@@ -115,5 +95,5 @@ to resolve!
 . Make sure you are signed in to this website!
 . In the form below, add the files that you downloaded.
 . Press "Submit for grading". Presto!
- 
+
 This was Problem Set 6.
