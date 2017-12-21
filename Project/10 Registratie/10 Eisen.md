@@ -10,4 +10,4 @@ De concepten voor de projecten moeten voldoen aan één van de volgende template
 
 In alle gevallen moet je met je team je idee beperken tot een duidelijk concept. Je applicatie mag bijvoorbeeld niet bedoeld zijn om toegang te bieden tot *alle* online verkrijgbare recepten. Kies een leuke niche waarmee je een interessante doelgroep bereikt!
 
-Geef in het kanaal van jouw groep op [webik.slack.com][https://webik.slack.com] aan welk project jouw groep wilt doen.
+Geef in het kanaal van jouw groep op [webik.slack.com](https://webik.slack.com) aan welk project jouw groep wilt doen.
