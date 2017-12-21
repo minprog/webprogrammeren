@@ -8,21 +8,16 @@ In vier weken leer je hoe je een interactieve website maakt met behulp van het F
 
 Stuur een mail naar <progik@mprog.nl> of spreek je assistent of docenten aan. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen.
 
-Martijn Stegeman  
-*coördinator*  
-mail: <stegeman@uva.nl>
-
+**heads**  
+Martijn Stegeman (coördinator)  
 Jelle van Assema  
-*docent*
+Wouter Vrielink
 
-Wouter Vrielink  
-*hoofdassistent*
-
+**assistenten**
 Mike Brink  
-Nigel van Herwijnen  
-Mozes van de Kar  
 Ella Casimiro  
-*assistenten*
+Nigel van Herwijnen  
+Mozes van de Kar
 
 ## Wat gaan we doen?
 
