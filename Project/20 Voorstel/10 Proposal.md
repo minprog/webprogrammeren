@@ -8,6 +8,8 @@ Je gaat je voorstel schrijven in "Markdown", een manier om snel teksten te schri
 
 Beschrijf in 4--5 zinnen wat het doel van je webapplicatie is, waarom het een uniek idee is[^1] en wat bezoekers er aan hebben. Schaaf een paar keer aan je omschrijving. Probeer 'm kort en bondig te houden, maar wel zodat anderen er een snel idee van je applicatie bij krijgen. Denk ook aan spelfouten!
 
+[^1]: Echt helemaal uniek is lastig, want alles bestaat al natuurlijk. Maar er is altijd wel een manier om jouw website neer te zetten als iets bijzonders of anders dan de concurrent.
+
 ## Schetsen
 
 Om een concreet beeld te vormen van de applicatie, moeten er schetsen bijgevoegd zijn van de verschillende *schermen* die een rol spelen in de applicatie. Als je bijvoorbeeld naar Twitter kijkt, dan zie je deze belangrijke schermen:
