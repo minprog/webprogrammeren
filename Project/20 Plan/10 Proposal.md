@@ -1,6 +1,6 @@
 # Projectvoorstel
 
-You'll spend the first **day** building a proposal document. This document should connect the functional design of your project (what does it do?) to a problem in the real world.  Below, we list all required aspects of your proposal document.
+You'll spend the first few days building a proposal document. This document should connect the functional design of your project (what does it do?) to a problem in the real world.  Below, we list all required aspects of your proposal document.
 
 ## Getting started
 
