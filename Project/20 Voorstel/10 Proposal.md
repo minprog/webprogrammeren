@@ -59,12 +59,7 @@ Nu je dit hebt gedaan (en je hebt inmiddels ook een beetje een beeld van hoe web
 
 ## Sanity check
 
-Before continuing, compare your solution to the [project requirements](/reference/requirements) one last time. Also, is it still clear that your proposed project is indeed a solution to the stated problem?
-
-Also, the proposal document should be well-written and clearly formatted. Do not forget to include a
-title, your name, and a paragraph summary of the application goals at the top.
-
-Finally, make sure that your document is spell-checked, and that images are not too large or too small (your document will be read in a normal browser via GitHub).
+Check, voordat je verder gaat, of je voorgestelde applicatie klopt met de projecteisen zoals ze in de [studiewijzer](/) staan. En laat iemand van buiten je groep nog een keer je voorstel bekijken, dan kun je onduidelijkheden en spelfouten nog verbeteren. Vergeet ten slotten niet om in het document netjes de naam van de applicatie en de namen van de groepsleden op te nemen!
 
 ## Submit
 
