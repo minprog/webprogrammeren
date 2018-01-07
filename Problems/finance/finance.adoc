@@ -26,7 +26,7 @@ Let's turn our attention now to the app's distribution code!
 
 [source,subs="macros"]
 ----
-$ wget https://webik.mprog.nl/course/problems/finance/problems-finance.zip
+$ wget https://webik.mprog.nl/course/problems/finance/finance.zip
 $ unzip finance.zip
 $ rm finance.zip
 $ mv problems-finance finance
