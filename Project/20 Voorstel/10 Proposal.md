@@ -61,7 +61,7 @@ Nu je dit hebt gedaan (en je hebt inmiddels ook een beetje een beeld van hoe web
 
 ## Sanity check
 
-Check, voordat je verder gaat, of je voorgestelde applicatie klopt met de projecteisen zoals ze in de [studiewijzer](/) staan. En laat iemand van buiten je groep nog een keer je voorstel bekijken, dan kun je onduidelijkheden en spelfouten nog verbeteren. Vergeet ten slotten niet om in het document netjes de naam van de applicatie en de namen van de groepsleden op te nemen!
+Check, voordat je verder gaat, of je voorgestelde applicatie klopt met de projecteisen zoals ze in de [studiewijzer](/) staan. En laat iemand van buiten je groep nog een keer je voorstel bekijken, dan kun je onduidelijkheden en spelfouten nog verbeteren. Vergeet ten slotte niet om in het document netjes de naam van de applicatie en de namen van de groepsleden op te nemen!
 
 ## Submit
 
