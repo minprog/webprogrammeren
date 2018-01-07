@@ -53,9 +53,9 @@ Nu je dit hebt gedaan (en je hebt inmiddels ook een beetje een beeld van hoe web
 
 - Maak een lijst van **externe componenten** die je nodig hebt. Bijvoorbeeld Bootstrap voor het maken van een simpele website.
 
-- Zoek een paar concurrende bestaande websites en beschrijf een paar punten die interessant zijn. Elke website heeft natuurlijk nét weer een andere insteek en het is goed om je bewust te zijn van de kracht van jouw website tegenover de concurrentie.
+- Zoek een paar **concurrende bestaande** websites en beschrijf een paar punten die interessant zijn. Elke website heeft natuurlijk nét weer een andere insteek en het is goed om je bewust te zijn van de kracht van jouw website tegenover de concurrentie.
 
-- Maak een lijst van de moeilijkste delen van de applicatie. Wat wordt veel uitzoekwerk? Wat is gewoon echt moeilijk? Wat heb je nodig om het makkelijker te maken? Deze lijst is waarschijnlijk makkelijker te maken als je al weer wat meer weet van webapplicaties maken, maar als je nu al iets hebt, noteer het in je document.
+- Maak een lijst van de **moeilijkste delen** van de applicatie. Wat wordt veel uitzoekwerk? Wat is gewoon echt moeilijk? Wat heb je nodig om het makkelijker te maken? Deze lijst is waarschijnlijk makkelijker te maken als je al weer wat meer weet van webapplicaties maken, maar als je nu al iets hebt, noteer het in je document.
 
 ## Sanity check
 
