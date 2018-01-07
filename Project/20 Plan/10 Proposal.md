@@ -1,53 +1,88 @@
-# Project Proposal
+# Projectvoorstel
 
-You'll spend the first <strong>three days</strong> building a *proposal document*. It paints a fairly complete picture of what your application will look like, how the user will interact with it.
+You'll spend the first **day** building a proposal document. This document should connect the functional design of your project (what does it do?) to a problem in the real world.  Below, we list all required aspects of your proposal document.
 
-> Writing a good proposal document will help you successfully finish the project on day 18. Your project has a high risk of failure if:
->
-> - the envisioned product tries to do too much
-> - the envisioned product doesn't do enough
-> - the purpose of the product is not well-defined (too vague)
->
-> By writing a clear proposal document and getting feedback on it from multiple students and teachers, you can easily avoid these risks.
+## Getting started
 
-These are the expected contents of your proposal document:
+To start your project, you should create a new empty Github repository. Your project proposal must be written in Markdown and be saved in the repository as `README.md`. This will make sure that the proposal is easily viewable for the staff.
 
-- a definition of the target audience of your application
+If needed, refer to the documentation: [Markdown](/naslag/markdown).
 
-- an overview of what features will be available
+## Goal of the document
 
-- a visual sketch of what the application will look like for the user
+You and others can use this document to estimate the effort required to implement the project. Your project has a high risk of failure if:
 
-- which external components (online APIs, libraries etc.) you will need to make certain features possible (name and URL link)
+- the envisioned product tries to do too much
+- the envisioned product doesn't do enough
+- the purpose of the product is not well-defined (too vague)
 
-- technical problems or limitations that could arise during development and what possibilities you have to overcome these
+By writing a clear proposal document and getting feedback on it from multiple students and teachers, you can better avoid these risks!
 
-- a review of similar mobile apps or related visualizations, in terms of features and technical aspects (what do they offer? how have they implemented it? can you do it in the same way?)
+## Problem statement
 
-- which parts of the application define the *minimum viable product* (MVP) and which parts may be optional
+Write a statement about the problem that your finished product will solve. The problem[^1] has to be clearly described and very specific. We see two possibilities:
 
-## GitHub
+- There is a clearly defined problem that a reasonably large group of people have, which an app or visualization can solve particularly well.
+- There is a widespread lack of knowledge or understanding that an interactive visualization is particularly suited to remedy.
 
-All documentation and code of this project must be hosted on GitHub and updated
-daily, in order for the staff to be able to monitor your progress. Please note
-that the repository must be public!
+In both cases, you should be able to define a target audience who have specific interests that match your project. Include that, too.
 
-To create such a document and get your project started, complete the following
-steps:
+In total, keep the problem statement to four lines of text.
 
-1. Go to <https://github.com/new> and create a new code repository. Check the box to initialize the repository with a readme document:
+## Solution
 
-   ![Check Initialize this repository with a README](readme.png)
+Describe your solution in full detail.
 
-2. Edit the plain text document called **README.md**. The **.md** extension indicates its *Markdown* formatting style. Have you never written Markdown before? Refer to the [reference](/reference/markdown) for more information. Write your proposal in that document.
+- Summarize your idea in a single sentence, connecting it to the "gap" that you describe.
 
-   The proposal document should be well-written and clearly formatted. Do not forget to include a
-   title, your name, and a paragraph summary of the application goals at the top.
+- Include a **visual sketch** of what the final product will look like for the user; if you envision the application to have multiple screens, sketch these all out separately. Clearly specify the possible user interactions, and include concrete examples of data. Your sketches do not have to be professional-looking, but they have to be complete and neat!
 
-3. As you will need to include some sketches into your proposal, put these images in your repository.
+<div class="row">
+<div class="col-xs-6 col-md-3">
+<a href="/course/10%20Milestones/10%20Project%20Proposal/screens-proposal.png" class="thumbnail">
+![](screens-proposal.png)
+Example sketch for a mobile app
+</a>
+</div>
+<div class="col-xs-6 col-md-3">
+<a href="/course/10%20Milestones/10%20Project%20Proposal/sketch.jpg" class="thumbnail">
+![](sketch.jpg)
+Example sketch for a data visualization
+</a>
+</div>
+</div>
 
-4. Discuss the contents with fellow students and the teaching crew *before* handing it in!
+- Include a list of **main features** that will be available to users. All features should also be visible in the sketch. Keep it brief.
 
-5. Now, copy the URL of the GitHub page for your project and submit it below. It will be in this format: <https://github.com/stgm/project>.
+- Mark which features define the *minimum viable product* (MVP) and which parts may be optional to implement.
 
-> Don't commit any code yet! Your repository should be clean for us to read, containing the **README.md**, a **doc** folder (exactly that name), pictures in the **doc** folder, and nothing else.
+## Prerequisites
+
+Describe the things that you'll have to get in order.
+
+- List the **data sources** that you will use and whether you will need to transform the data before it is usable for your application. The list should include links to where the data sources can be found.
+
+- List the **external components** (libraries like `d3-tip` or `SQLite`) that you need to implement certain features. Include the names, and if the component is not standard, include a link to its website.
+
+- Include a review of **similar** mobile apps or related visualizations, in terms of features and technical aspects: what do they do? how have they implemented it? can you do it in the same way?
+
+- Identify the **hardest parts** of implementing your application: think of technical problems or limitations that could arise during development and what possibilities you have to overcome these.
+
+## Sanity check
+
+Before continuing, compare your solution to the [project requirements](/reference/requirements) one last time. Also, is it still clear that your proposed project is indeed a solution to the stated problem?
+
+Also, the proposal document should be well-written and clearly formatted. Do not forget to include a
+title, your name, and a paragraph summary of the application goals at the top.
+
+Finally, make sure that your document is spell-checked, and that images are not too large or too small (your document will be read in a normal browser via GitHub).
+
+## Submitting
+
+After you have pushed all changes to Github, copy the URL of the GitHub page for your project and submit it below. It will be in this format: <https://github.com/stgm/project>.
+
+Don't commit any code yet! Your repository should be clean for us to read, containing the **README.md**, a **doc** folder (exactly that name), pictures in the **doc** folder, and nothing else.
+
+## Verder
+
+De volgende stap voor het project is om een *technisch ontwerpdocument* te maken. Daar vertaal je de eisen uit je projectvoorstel naar een technische opzet voor je project. Daarbij maak je gebruik van je kennis over hoe Flask-projecten in elkaar zitten.
