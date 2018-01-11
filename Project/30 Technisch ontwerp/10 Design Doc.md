@@ -1,43 +1,47 @@
-# Design Document
+# Technisch ontwerp
 
-Based on your proposal, you can now start studying your problem in a more
-technical fashion. The teaching staff and your fellow students can help you
-spot fundamental problems that need to be solved, or if
-technical limitations will likely prevent you from finishing the
-project.
+Je hebt een voorstel gemaakt en aangepast, en nu is het tijd om te gaan puzzelen hoe je website past in het Flask-framework. Je hebt inmiddels wat ervaring opgedaan met dat framework, dus je weet dat MVC hier een belangrijke rol speelt (zie Lecture 8).
 
-## An overview of your application
+## Controllers
 
-Map the separate parts of the solution onto the framework(s) that you are
-using. What APIs, methods or techniques do you need to implement each feature?
-Think about and fully express how the user interface will be handled, where the
-data is coming from, and how the various parts will work together to form a
-complete application.
+In Flask werk je standaard met één controller, namelijk `application.py`. Hierin worden diverse functies gedefinieerd, die elk een bepaalde "route" afhandelen. Je kunt nu al goed voorspellen welke pagina's je gaat maken: veel heb je al uitgetekend in je proposal.
 
-> It is expected that you separate, in your code, handling of the user interface from data management and from complex algorithms whenever possible.
+Er zijn ook routes die niet aan een scherm gekoppeld zijn. Soms heb je een route die er voor dient om een formulier te verwerken. Deze route zal eindigen met een redirect naar een andere route.
 
-Some parts that you may describe here:
+> Doen: maak een lijst van routes (met korte omschrijving) en bedenk alvast de naam van de functie. Geef aan of er een scherm bij hoort en of het een GET of POST request is.
 
-- a diagram of modules, classes and functions that you’ve decided to implement, in
-  appropriate detail
+## Views
 
-- advanced sketches of your UI that clearly explain which features are
-  connected to which underlying part of the code
+Als je gaat nadenken over de controllers zal waarschijnlijk blijken dat er nog schermen ontbreken in je projectvoorstel. Nu is het moment om dat uit te breiden.
 
-- a list of APIs and frameworks or plugins that you will be using to provide
-  functionality in your app
+> Doen: maak een nieuwe schets van je applicatie, waarin alle schermen uitgetekend zijn. Het doel is om snel een goed overzicht van de hele applicatie te krijgen. Zorg dus dat je schermen die bij elkaar horen ook groepeert. En laat met pijlen zien als een knop doorlinkt naar een ander scherm.
 
-- a list of data sources if you will get data from an external source
+## Models/helpers
 
-- a list of database tables and fields (and their types) if you will use a database
+In CS50 Finance schrijf je zelf de SQL-queries direct in de functies van de controller. Dat kun je nu ook weer doen. Mocht je ergens een stuk ingewikkelde code nodig hebben, dan heeft het wellicht zin om daar een aparte Python-module van te maken die je dan `import` in de controller. Ook kan het zijn dat je bepaalde functies vaak nodig hebt, zoals `apology()` en `usd()` in de `helpers.py` van CS50 Finance.
 
-If your application has multiple independent programs working together (e.g. a
-separate script to clean your dataset) you need to provide a high-level
-overview of these components and then provide a lower-level overview of the
-inner workings of each component.
+> Doen: bekijk zoveel mogelijk wat voor hulpfuncties je nodig zal hebben en maak een lijst van één of meer helper-modules met die functies. Geef van elke functie een korte omschrijving waar deze voor dient.
 
-## Repository
+## Geavanceerde architectuur
 
-Save your design document as **DESIGN.md** in the root of your GitHub
-repository. Don't forget to update your **README.md** if you have made any
-incompatible decisions, and push that file, too!
+Als je veel ervaring hebt met webprogrammeren dan zul je misschien op zoek gaan naar mogelijkheden om een grote Flask-app beter te structureren, bijvoorbeeld om de controller op te splitsen in meerdere bestanden. Dat is akkoord, maar het is belangrijk dat de hele groep goed mee kan komen hierin. Als jij de lead neemt hierin, dan is het jouw taak om de rest van de groep goed uit te leggen hoe het werkt.
+
+## Plugins en frameworks
+
+Wil je plugins voor Flask gebruiken of een framework zoals Bootstrap? Dat moet nu ook vastgelegd worden in het ontwerpdocument. Dan weet je wat je nog moet uitzoeken.
+
+> Doen: geef een korte lijst van plugins en frameworks die je gebruikt, elk met een URL van waar informatie/documentatie te vinden is.
+
+## Update projectvoorstel
+
+Je projectvoorstel moet nu nog aangepast worden aan de nieuwe ideeën die je hebt opgedaan sinds het inleveren van de eerste versie.
+
+> Doen: pas je projectvoorstel aan zodat het precies in sync is met je technisch ontwerp. Je projectvoorstel gaat ook dienen als README van je project op GitHub, zodat iedereen snel kan zien waar het voor dient.
+
+## Submit
+
+Je kunt Markdown-documenten ook in Slack posten. Zet het definitieve document (en het nieuwe "voorsgtel") dus in het kanaal van je groep zodat de docenten dit kunnen bekijken. We bespreken het bij de afspraak op donderdag/vrijdag. Vergeet niet om de schetsen er ook bij te zetten!
+
+## Verder
+
+De volgende stap in het project is een eerste versie van je Flask-app op GitHub zetten, en werken aan het invullen van alle pagina's!
