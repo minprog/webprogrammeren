@@ -12,7 +12,7 @@ Er zijn ook routes die niet aan een scherm gekoppeld zijn. Soms heb je een route
 
 ## Views
 
-Als je gaat nadenken over de controllers zal waarschijnlijk blijken dat er nog schermen ontbreken in je projectvoorstel. Nu is het moment om dat uit te breiden.
+Als je gaat nadenken over de controllers, zal waarschijnlijk blijken dat er nog schermen ontbreken in je projectvoorstel. Nu is het moment om dat uit te breiden.
 
 > Doen: maak een nieuwe schets van je applicatie, waarin alle schermen uitgetekend zijn. Het doel is om snel een goed overzicht van de hele applicatie te krijgen. Zorg dus dat je schermen die bij elkaar horen ook groepeert. En laat met pijlen zien als een knop doorlinkt naar een ander scherm.
 
@@ -40,7 +40,7 @@ Je projectvoorstel moet nu nog aangepast worden aan de nieuwe ideeën die je heb
 
 ## Submit
 
-Je kunt Markdown-documenten ook in Slack posten. Zet het definitieve document (en het nieuwe "voorsgtel") dus in het kanaal van je groep zodat de docenten dit kunnen bekijken. We bespreken het bij de afspraak op donderdag/vrijdag. Vergeet niet om de schetsen er ook bij te zetten!
+Je kunt Markdown-documenten ook in Slack posten. Zet het definitieve document (en het nieuwe "voorstel") dus in het kanaal van je groep zodat de docenten dit kunnen bekijken. We bespreken het bij de afspraak op donderdag/vrijdag. Vergeet niet om de schetsen er ook bij te zetten!
 
 ## Verder
 
