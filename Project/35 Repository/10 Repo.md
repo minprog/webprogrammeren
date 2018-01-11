@@ -2,7 +2,7 @@
 
 Alle documentatie en code van je project moet op GitHub terecht komen, en vanaf de tweede week zul je ook samenwerken via Git. Als het goed is heb je een college gevolgd over het gebruik van Git. Voor meer uitleg over dit systeem, zie [de Git-naslag](/naslag/git).
 
-> Tip: er zijn allerlei manieren om goed samen te werken via git. We houden het hier simpel. Het belangrijkste is dat we "merge conflicts" willen voorkomen: als twee teamleaden aan het zelfde bestand werken en aanpassingen met elkaar botsen. Er zijn twee maatregelen die je moet nemen: 1) zorg dat je goed verdeelt wie aan welk bestand werkt, je kunt bijvoorbeeld meerdere CSS-bestanden maken als dit handig is, en 2) voordat je `git commit` doet even de laatste versie van de centrale repo binnen halen met `git pull`.
+> Tip: er zijn allerlei manieren om goed samen te werken via git. We houden het hier simpel. Het belangrijkste is dat we "merge conflicts" willen voorkomen: als twee teamleaden aan het zelfde bestand werken en aanpassingen met elkaar botsen. Er zijn twee maatregelen die je moet nemen: 1) zorg dat je goed verdeelt wie aan welk bestand werkt, je kunt bijvoorbeeld meerdere CSS-bestanden maken als dit handig is, en 2) voordat je `git commit` doet even de laatste versie van de centrale repo binnen halen met `git pull`. Krijg je toch een merge conflict? Vraag dan om hulp.
 
 ## Aanmaken van je repository
 
