@@ -40,7 +40,9 @@ Je projectvoorstel moet nu nog aangepast worden aan de nieuwe ideeën die je heb
 
 ## Submit
 
-Je kunt Markdown-documenten ook in Slack posten. Zet het definitieve document (en het nieuwe "voorstel") dus in het kanaal van je groep zodat de docenten dit kunnen bekijken. We bespreken het bij de afspraak op donderdag/vrijdag. Vergeet niet om de schetsen er ook bij te zetten!
+Je ontwerpdocument en aangepaste voorstel (en de plaatjes!) moeten op de website GitHub terecht komen. Voor informatie over het maken van je repository, zie [hier](/project/repository). Zodra de repository helemaal goed is, stuur je hieronder een link in naar de juiste URL. Deze ziet er als volgt uit:
+
+    https://github.com/<gebruikersnaam>/<reponaam>
 
 ## Verder
 
