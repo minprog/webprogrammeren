@@ -54,6 +54,8 @@ Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[62218]).
 | Ontwerpen voor gebruikers | maandag 22 januari 9:00   |  
 | Security                  | maandag 29 januari 9:00   |  
 
+[Slides Technisch ontwerp](Technisch Ontwerp.pdf)
+
 ## Aanwezigheid
 
 Je bent verplicht aanwezig bij een **dagelijkse groepsmeeting** die enigszins in de buurt van Science Park plaatsvindt en die gedocumenteerd wordt door middel van een dagelijkse groepsfoto (eerste do/vr niet verplicht). Daarnaast moeten alle teamleaden gezamenlijk aanwezig zijn bij de **voortgangsgesprekken** met een docent.
@@ -88,7 +90,7 @@ Om deze cursus te kunnen halen, verwachten we een aantal dingen van je.
 
 * We verwachten dat je ongeveer 40 uur per week aan dit vak besteedt. Programmeren leer je door te doen, en dat kost veel tijd. Houd hier rekening mee!
 
-* We verwachten dat je met je team dagelijks bijeenkomt, fysiek, in de buurt van Amsterdam, en de aanwezigheid documenteert door het posten van een groepsselfie in Slack (uitzondering: eerste week do/vr). 
+* We verwachten dat je met je team dagelijks bijeenkomt, fysiek, in de buurt van Amsterdam, en de aanwezigheid documenteert door het posten van een groepsselfie in Slack (uitzondering: eerste week do/vr).
 
 * We verwachten dat je aanwezig bent bij je computerpractica als je dit nodig hebt om de opdrachten met succes te maken.
 
