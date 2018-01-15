@@ -54,7 +54,7 @@ Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[62218]).
 | Ontwerpen voor gebruikers | maandag 22 januari 9:00   |  
 | Security                  | maandag 29 januari 9:00   |  
 
-[Slides Technisch ontwerp](Technisch Ontwerp.pdf)
+[Slides Technisch ontwerp](TechnischOntwerp.pdf)
 
 ## Aanwezigheid
 
