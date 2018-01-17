@@ -29,9 +29,9 @@ Mozes van de Kar
 | **Week 2**            | **Deadline**                 |  
 | Problem Set 7         | dinsdag 16 januari 23:59     |  
 | Technisch ontwerp     | woensdag 17 januari 16:59    |  
-| Groepsfeedback        | vrijdag 19 januari 16:59     |  
+| Projectplan 2 PAV     | vrijdag 19 januari 16:59     |  
 | **Week 3**            | **Deadline**                 |  
-| PAV-meeting           | dinsdag 23 januari 23:59     |  
+| Groepsfeedback        | dinsdag 23 januari 13:00     |  
 | Prototype             | woensdag 24 januari 23:59    |  
 | **Week 4**            | **Deadline**                 |  
 | Projectcode op GitHub | woensdag 31 januari 23:59    |  
