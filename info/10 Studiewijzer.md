@@ -37,7 +37,7 @@ Mozes van de Kar
 | Projectcode op GitHub | woensdag 31 januari 23:59    |  
 | Productvideo          | vrijdag 2 februari 11:59     |  
 | Publiekspresentaties  | vrijdag 2 februari 13-17 uur |  
-| Reflectieverslag      | donderdag 2 februari 23:59   |  
+| Reflectieverslag      | vrijdag 2 februari 23:59   |  
 
 Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[62218]). De volgende wekelijkse activiteiten zijn gepland:
 
