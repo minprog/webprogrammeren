@@ -14,4 +14,4 @@ Hieronder vind je de instructies voor het opleveren van je code.
 
     - Voeg een aantal punten toe die ons helpen snel de weg te vinden in je repository. Heb je bijvoorbeeld helpers gemaakt, leg dan uit wat we daar voor soort dingen kunnen vinden. En leg even uit welke mapjes er zijn.
     
-- Laat je `DESIGN.md` helemaal staan zoals deze nu is. Je hoeft deze niet verder bij te werken. Maar het bestand moet er wel staan met daarin je oorspronkelijke technisch ontwerp!
+- Als je een apart ontwerpdocument had gemaakt, laat dat dan gewoon helemaal staan zoals dit nu is. Je hoeft het niet verder bij te werken.
