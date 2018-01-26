@@ -52,4 +52,4 @@ You can use any tool you'd like if you already know how to record screen casts. 
 
 ## Uploading
 
-After recording your video, upload it to Youtube or another video streaming service.  Include a link to your video in the `README.md` on Github.
+After recording your video, upload it to Youtube or another video streaming service.  Include a link to your video in the `README.md` on GitHub.
