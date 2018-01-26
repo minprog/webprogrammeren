@@ -15,3 +15,5 @@ Hieronder vind je de instructies voor het opleveren van je code.
     - Voeg een aantal punten toe die ons helpen snel de weg te vinden in je repository. Heb je bijvoorbeeld helpers gemaakt, leg dan uit wat we daar voor soort dingen kunnen vinden. En leg even uit welke mapjes er zijn.
     
 - Als je een apart ontwerpdocument had gemaakt, laat dat dan gewoon helemaal staan zoals dit nu is. Je hoeft het niet verder bij te werken.
+
+- Als je van repository bent veranderd, stuur deze dan nogmaals in via de [voorstel-pagina](/project/voorstel).
