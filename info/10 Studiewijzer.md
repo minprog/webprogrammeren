@@ -52,7 +52,6 @@ Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[62218]).
 | Technisch ontwerp ([slides](TechnischOntwerp.pdf))         | maandag 15 januari 9:00   |  
 | Gebruik van git           | woensdag 17 januari 13:00 |  
 | Ontwerpen voor gebruikers ([slides](https://www.dropbox.com/s/k7wefnkuroyd5ps/ontwerpen-voor-gebruikers.pdf?dl=0)) | maandag 22 januari 9:00   |  
-| Security                  | maandag 29 januari 9:00   |  
 
 ## Aanwezigheid
 
