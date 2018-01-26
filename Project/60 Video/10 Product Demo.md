@@ -6,7 +6,7 @@ Keep in mind: the video does not have to be *perfect*! Most important is that th
 
 ## Script
 
-Before recording, make a script of the thing you would like to show. Keep in mind the following requirements:
+Before recording, make a script of what you would like to show. Keep in mind the following requirements:
 
 * Start with an introduction of the goals of your project: who will use it, in what situation and what will they get out of it.
 
@@ -14,7 +14,7 @@ Before recording, make a script of the thing you would like to show. Keep in min
 
 * Then, show other ways of navigating the application, special features, exceptions.
 
-* Always show all features.
+* Always show all features: anything that's not in the video does not exist.
 
 Your demo may be narrated in either Dutch or English. Make sure your demonstration does not take longer than 7 minutes. PowerPoint or other tools are not allowed, just show the product. Here are two examples: a [data visualisation](https://www.youtube.com/watch?time_continue=13&v=zvaAuhy_0_Q) and a [mobile app](https://youtu.be/oBUHaiU5GAo).
 
@@ -52,4 +52,4 @@ You can use any tool you'd like if you already know how to record screen casts. 
 
 ## Uploading
 
-After recording your video, upload it to Youtube or another video streaming service. 
+After recording your video, upload it to Youtube or another video streaming service.  Include a link to your video in the `README.md` on Github.
