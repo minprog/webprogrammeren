@@ -16,4 +16,4 @@ Hieronder vind je de instructies voor het opleveren van je code.
     
 - Als je een apart ontwerpdocument had gemaakt, laat dat dan gewoon helemaal staan zoals dit nu is. Je hoeft het niet verder bij te werken.
 
-- Als je van repository bent veranderd, stuur deze dan nogmaals in via de [voorstel-pagina](/project/voorstel).
+- Als je van repository bent veranderd, stuur deze dan nogmaals in via de [pagina over het technisch ontwerp](/project/technisch-ontwerp).
