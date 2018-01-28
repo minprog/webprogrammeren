@@ -6,7 +6,7 @@ Hieronder vind je de instructies voor het opleveren van je code.
 
 - Als bepaalde features niet af zijn, haal deze dan weg uit je applicatie, inclusief alle code van die feature! Zorg dat wat er wél is ook helemaal werkt.
 
-- Zorg dat je `README.md` volledig up-to-date is met de final versie van je applicatie.
+- Zorg dat je een `README.md` schrijf (in Markdown) die volledig up-to-date is met de final versie van je applicatie.
 
     - Begin met de naam van je applicatie, en vermeld natuurlijk duidelijk de namen van de studenten die hebben meegewerkt.
     

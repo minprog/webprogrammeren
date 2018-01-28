@@ -14,7 +14,7 @@ Before recording, make a script of what you would like to show. Keep in mind the
 
 * Then, show other ways of navigating the application, special features, exceptions.
 
-* Always show all features: anything that's not in the video does not exist.
+* Always show all features: anything that's not in the video **does not exist**.
 
 Your demo may be narrated in either Dutch or English. Make sure your demonstration does not take longer than 7 minutes. PowerPoint or other tools are not allowed, just show the product. Here are two examples: a [data visualisation](https://www.youtube.com/watch?time_continue=13&v=zvaAuhy_0_Q) and a [mobile app](https://youtu.be/oBUHaiU5GAo).
 
