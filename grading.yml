@@ -40,7 +40,7 @@ calculation:
 psets:
     submits:
         sentimental: 1
-        finance: 1
+        finance: 2
 
 project:
     submits:
