@@ -26,7 +26,7 @@ grades:
             design_mvc: integer
             design_intern: integer
             style: integer
-        calculation: (scope * (3 * ((bruikbaar_minimalisme + bruikbaar_consistentie + bruikbaar_platform + bruikbaar_fouten)/4.0) + design_mvc + design_intern + style) / 108.0 * 9 + 1).round(1)
+        calculation: (omvang * (3 * ((bruikbaar_minimalisme + bruikbaar_consistentie + bruikbaar_platform + bruikbaar_fouten)/4.0) + design_mvc + design_intern + style) / 108.0 * 9 + 1).round(1)
     pav:
         type: float
         hide_calculated: true
