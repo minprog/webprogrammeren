@@ -7,7 +7,6 @@ grades:
             design: integer
             style: integer
         calculation: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
-        hide_calculated: true
     finance:
         type: float
         subgrades:
@@ -16,4 +15,18 @@ grades:
             design: integer
             style: integer
         calculation: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
+    project:
+        type: float
+        subgrades:
+            omvang: integer
+            bruikbaar_minimalisme: integer
+            bruikbaar_consistentie: integer
+            bruikbaar_platform: integer
+            bruikbaar_fouten: integer
+            design_mvc: integer
+            design_intern: integer
+            style: integer
+        calculation: (scope * (3 * ((bruikbaar_minimalisme + bruikbaar_consistentie + bruikbaar_platform + bruikbaar_fouten)/4.0) + design_mvc + design_intern + style) / 108.0 * 9 + 1).round(1)
+    pav:
+        type: float
         hide_calculated: true
