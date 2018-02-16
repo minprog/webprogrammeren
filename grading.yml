@@ -30,3 +30,23 @@ grades:
     pav:
         type: float
         hide_calculated: true
+
+calculation:
+    final:
+        psets: 30
+        project: 60
+        pav: 10
+
+psets:
+    submits:
+        sentimental: 1
+        finance: 1
+
+project:
+    submits:
+        project: 1
+
+pav:
+    required: true
+    submits:
+        pav: 1
