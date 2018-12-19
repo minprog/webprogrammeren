@@ -63,7 +63,7 @@ Als je een keer ziek bent meld je dit op de dag van ziek worden en hou je ons op
 
 Bij afwezigheid zonder melding of niet inleveren van opdrachten zonder melding word je direct uit het vak gezet zodat elk groepje goed verder kan. Als je wél netjes je problemen meldt zullen we altijd ons uiterste best doen om te zorgen dat je het vak kunt afmaken.
 
-Tot slot is het verplicht om met het hele team aanwezig te zijn bij de finale presentatiesessie op 2 februari in de middag.
+Tot slot is het verplicht om met het hele team aanwezig te zijn bij de finale presentatiesessie op 1 februari in de middag.
 
 ## Voorkennis
 
@@ -103,13 +103,13 @@ Mocht je in de problemen komen met het vak en het tempo, zorg dan dat je meteen 
 
 We willen graag dat je leert om kleine websites te bouwen die werken met een database. We focussen op het hergebruiken van online datasets en applicaties met meerdere gelijktijdige gebruikers.
 
-- twee individuele opdrachten (30%)
+- twee individuele opdrachten (20%)
     - leren hoe je websites kan maken die passen in het Flask-framework
     - leren schrijven van SQL-queries voor het manipuleren van databases
     - leren hoe communicatie tussen een webbrowser en een webserver in elkaar steekt
     - leren over basis-beveiling van websites
     - leren hoe je HTML-pagina's schrijft en opmaakt met CSS
-- een programmeerproject in teams van drie studenten (60%)
+- een programmeerproject in teams van drie studenten (70%)
     - leren hoe je de functionaliteit van een nieuwe website kunt vastleggen
     - leren hoe je een technisch ontwerp maakt voor een grotere website
     - leren hoe je met meerdere mensen code voor een website kunt delen via Git
@@ -121,14 +121,15 @@ We willen graag dat je leert om kleine websites te bouwen die werken met een dat
 
 ## Beoordeling
 
-De **opdrachten** (30%) in de eerste weken worden beoordeeld via de volgende onderdelen:
+De **opdracht Homepage** (0%) moet werkend gedemonstreerd worden.
 
-* Omvang --- heb je alles geprobeerd?
+De **opdracht Finance** (20%) in de eerste weken worden beoordeeld via de volgende onderdelen:
+
 * Correctheid --- doet het programma wat de gebruiker mag verwachten?
 * Ontwerp --- hoe ordelijk is je code?
 * Stijl --- hoe leesbaar is je code?
 
-De cijfers worden dan bepaald met de formule $$omvang \times (3 \times correctheid + 2 \times ontwerp + stijl)$$.
+De cijfers worden dan bepaald met de formule $$3 \times correctheid + 2 \times ontwerp + stijl$$.
 
 Het **project** (60%) wordt beoordeeld via de volgende onderdelen:
 
