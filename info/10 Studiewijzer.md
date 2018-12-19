@@ -46,12 +46,12 @@ Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[62218]).
 
 ## Hoorcolleges
 
-| Onderwerp                 | Datum                     |  
-| ------------------------- | ------------------------- |  
-| Inleiding                 | maandag 8 januari 9:00    |  
-| Technisch ontwerp ([slides](TechnischOntwerp.pdf))         | maandag 15 januari 9:00   |  
-| Gebruik van git           | woensdag 17 januari 13:00 |  
-| Ontwerpen voor gebruikers ([slides](https://www.dropbox.com/s/k7wefnkuroyd5ps/ontwerpen-voor-gebruikers.pdf?dl=0)) | maandag 22 januari 9:00   |  
+| Onderwerp        | Datum                    |  
+| ---------------- | ------------------------ |  
+| HTML en CSS, Git | maandag 7 januari 13:00  |  
+| Databases        | maandag 14 januari 13:00 |  
+| Javascript       | maandag 21 januari 11:00 |  
+| Finishing up     | maandag 28 januari 11:00 |  
 
 ## Aanwezigheid
 
