@@ -21,24 +21,26 @@ Quinten van der Post
 
 ## Wat gaan we doen?
 
-| Week 1                | Deadline                      |  
-| --------------------- | ----------------------------- |  
-| Idee geregistreerd    | maandag 7 januari 16:59       |  
-| Homepage              | dinsdag 8 januari 23:59       |  
-| Projectvoorstel       | woensdag 9 januari 16:59      |  
-| Finance               | vrijdag 11 januari 23:59      |  
-| **Week 2**            | **Deadline**                  |  
-| Technisch ontwerp     | woensdag 16 januari 16:59     |  
-| Projectplan 2 PAV     | vrijdag 18 januari 16:59      |  
-| **Week 3**            | **Deadline**                  |  
-| Groepsfeedback PAV    | dinsdag 22 januari 13:00      |  
-| Prototype             | woensdag 23 januari 23:59     |  
-| Hackathon             | donderdag 24 januari hele dag |  
-| **Week 4**            | **Deadline**                  |  
-| Projectcode op GitHub | woensdag 30 januari 23:59     |  
-| Productvideo          | vrijdag 1 februari 11:59      |  
-| Publiekspresentaties  | vrijdag 1 februari 13-17 uur  |  
-| Reflectieverslag      | vrijdag 1 februari 23:59      |  
+| Week 1                            | Deadline                      |  
+| --------------------------------- | ----------------------------- |  
+| Idee geregistreerd                | maandag 7 januari 17:00       |  
+| Homepage                          | dinsdag 8 januari 23:59       |  
+| Projectvoorstel                   | vrijdag 11 januari 17:00      |  
+| Projectplan PAV                   | vrijdag 11 januari 17:00      |  
+| Finance                           | vrijdag 11 januari 23:59      |  
+| **Week 2**                        | **Deadline**                  |  
+| Technisch ontwerp                 | woensdag 16 januari 17:00     |  
+| Projectplanning PAV               | vrijdag 18 januari 17:00      |  
+| **Week 3**                        | **Deadline**                  |  
+| Groepsfeedback PAV                | dinsdag 22 januari 13:00      |  
+| Prototype                         | woensdag 23 januari 23:59     |  
+| Hackathon                         | donderdag 24 januari hele dag |  
+| Tussentijdse Projectevaluatie PAV | vrijdag 25 januari 17:00      |  
+| **Week 4**                        | **Deadline**                  |  
+| Projectcode op GitHub             | woensdag 30 januari 23:59     |  
+| Productvideo                      | vrijdag 1 februari 12:00      |  
+| Publiekspresentaties              | vrijdag 1 februari 13--17 uur |  
+| Verslag PAV                       | vrijdag 1 februari 23:59      |  
 
 Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[70039]). De volgende wekelijkse activiteiten zijn gepland:
 
