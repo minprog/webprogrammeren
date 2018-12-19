@@ -23,26 +23,27 @@ Mozes van de Kar
 
 | Week 1                | Deadline                     |  
 | --------------------- | ---------------------------- |  
-| Idee geregistreerd    | maandag 8 januari 16:59      |  
-| Projectvoorstel       | woensdag 10 januari 16:59    |  
-| Problem Set 6         | woensdag 10 januari 23:59    |  
+| Idee geregistreerd    | maandag 7 januari 16:59      |  
+| Projectvoorstel       | woensdag 9 januari 16:59    |  
+| Problem Set 6         | woensdag 9 januari 23:59    |  
 | **Week 2**            | **Deadline**                 |  
-| Problem Set 7         | dinsdag 16 januari 23:59     |  
-| Technisch ontwerp     | woensdag 17 januari 16:59    |  
-| Projectplan 2 PAV     | vrijdag 19 januari 16:59     |  
+| Problem Set 7         | dinsdag 15 januari 23:59     |  
+| Technisch ontwerp     | woensdag 16 januari 16:59    |  
+| Projectplan 2 PAV     | vrijdag 18 januari 16:59     |  
 | **Week 3**            | **Deadline**                 |  
-| Groepsfeedback        | dinsdag 23 januari 13:00     |  
-| Prototype             | woensdag 24 januari 23:59    |  
+| Groepsfeedback        | dinsdag 22 januari 13:00     |  
+| Prototype             | woensdag 23 januari 23:59    |  
 | **Week 4**            | **Deadline**                 |  
-| Projectcode op GitHub | woensdag 31 januari 23:59    |  
-| Productvideo          | vrijdag 2 februari 11:59     |  
-| Publiekspresentaties  | vrijdag 2 februari 13-17 uur |  
-| Reflectieverslag      | vrijdag 2 februari 23:59   |  
+| Projectcode op GitHub | woensdag 30 januari 23:59    |  
+| Productvideo          | vrijdag 1 februari 11:59     |  
+| Publiekspresentaties  | vrijdag 1 februari 13-17 uur |  
+| Reflectieverslag      | vrijdag 1 februari 23:59   |  
 
-Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[62218]). De volgende wekelijkse activiteiten zijn gepland:
+Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[70039]). De volgende wekelijkse activiteiten zijn gepland:
 
-- hoorcollege op maandag om 9 uur
-- laptopcolleges voor hulp met programmeren op dinsdag, woensdag en vrijdag
+- hoorcollege op maandag
+- laptopcolleges voor hulp met programmeren op dinsdag, woensdag en donderdag
+- teamgesprekken op vrijdag
 
 ## Hoorcolleges
 
