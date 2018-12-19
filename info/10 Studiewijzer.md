@@ -1,8 +1,8 @@
 # Webprogrammeren en Databases<br><span class="small">voor Informatiekunde / Studiewijzer</span>
 
-*Versie: Januari 2018*
+*Versie: Januari 2019 (nog niet definitief)*
 
-In vier weken leer je hoe je een interactieve website maakt met behulp van het Flask-framework. We focussen op het maken van websites met een database-backend waarin gebruikersgegevens worden opgeslagen. Zo kun je in je verdere studie prototypes bouwen van applicaties en snel data verzamelen voor onderzoek. Er wordt gewerkt in teams van drie volgens een vaste structuur, waarbij er veel aandacht is voor leren over groepsprocessen.
+In vier weken leer je hoe je een interactieve website maakt met behulp van het Flask-framework. We focussen op het maken van websites met een database-backend waarin gebruikersgegevens worden opgeslagen. Zo kun je in je verdere studie prototypes bouwen van applicaties en snel data verzamelen voor onderzoek. Er wordt gewerkt in teams van vier volgens een vaste structuur, waarbij er veel aandacht is voor leren over groepsprocessen.
 
 ## Contact
 
@@ -10,14 +10,14 @@ Stuur een mail naar <progik@mprog.nl> of spreek je assistent of docenten aan. Vo
 
 **heads**  
 Martijn Stegeman (coördinator)  
-Jelle van Assema  
+Jelle van Assema (docent)  
 Wouter Vrielink
 
 **assistenten**  
-Mike Brink  
-Ella Casimiro  
-Nigel van Herwijnen  
-Mozes van de Kar
+Aynel Gül  
+Rienk Koenders  
+Miguel Pieters  
+Quinten van der Post
 
 ## Wat gaan we doen?
 
