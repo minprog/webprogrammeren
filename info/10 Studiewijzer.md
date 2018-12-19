@@ -24,10 +24,10 @@ Quinten van der Post
 | Week 1                | Deadline                     |  
 | --------------------- | ---------------------------- |  
 | Idee geregistreerd    | maandag 7 januari 16:59      |  
-| Projectvoorstel       | woensdag 9 januari 16:59    |  
-| Problem Set 6         | woensdag 9 januari 23:59    |  
+| Homepage              | dinsdag 8 januari 23:59      |  
+| Projectvoorstel       | woensdag 9 januari 16:59     |  
+| Finance               | vrijdag 11 januari 23:59     |  
 | **Week 2**            | **Deadline**                 |  
-| Problem Set 7         | dinsdag 15 januari 23:59     |  
 | Technisch ontwerp     | woensdag 16 januari 16:59    |  
 | Projectplan 2 PAV     | vrijdag 18 januari 16:59     |  
 | **Week 3**            | **Deadline**                 |  
@@ -37,7 +37,7 @@ Quinten van der Post
 | Projectcode op GitHub | woensdag 30 januari 23:59    |  
 | Productvideo          | vrijdag 1 februari 11:59     |  
 | Publiekspresentaties  | vrijdag 1 februari 13-17 uur |  
-| Reflectieverslag      | vrijdag 1 februari 23:59   |  
+| Reflectieverslag      | vrijdag 1 februari 23:59     |  
 
 Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[70039]). De volgende wekelijkse activiteiten zijn gepland:
 
