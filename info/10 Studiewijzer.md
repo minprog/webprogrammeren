@@ -31,8 +31,9 @@ Quinten van der Post
 | Technisch ontwerp     | woensdag 16 januari 16:59    |  
 | Projectplan 2 PAV     | vrijdag 18 januari 16:59     |  
 | **Week 3**            | **Deadline**                 |  
-| Groepsfeedback        | dinsdag 22 januari 13:00     |  
+| Groepsfeedback PAV    | dinsdag 22 januari 13:00     |  
 | Prototype             | woensdag 23 januari 23:59    |  
+| Hackathon             | donderdag 24 januari hele dag    |  
 | **Week 4**            | **Deadline**                 |  
 | Projectcode op GitHub | woensdag 30 januari 23:59    |  
 | Productvideo          | vrijdag 1 februari 11:59     |  
