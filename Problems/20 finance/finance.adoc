@@ -175,7 +175,20 @@ video::sy1o1yLob5U[youtube,list=PLhQjrBD2T380UP0XpPRhaUNxWbhftko_b]
 
 == Testing
 
-No `check50` for this one, but be sure to try to "break" your own site, as by
+[source,text]
+----
+check50 uva/progik/2018/finance
+----
+
+If you get an invalid slug error while trying to run check50, be sure to download the latest version of check50 by executing the following commands
+
+[source,text]
+----
+pip install git+https://github.com/cs50/check50.git@develop --user --upgrade
+sudo pip install git+https://github.com/cs50/check50.git@develop --upgrade
+----
+
+Also be sure to try to "break" your own site, as by
 
 * inputting alpabetical strings into forms when only numbers are expected,
 * inputting zero or negative numbers into forms when only positive numbers are expected,
@@ -184,6 +197,7 @@ No `check50` for this one, but be sure to try to "break" your own site, as by
 * trying to sell more shares than a user has,
 * inputting an invalid stock symbol, and
 * including potentially dangerous characters like `'` and `;` in SQL queries.
+
 
 == Staff's Solution
 
