@@ -14,7 +14,7 @@ Alle documentatie en code van je project moet op GitHub terecht komen, en vanaf 
 
 3.  Nu kan iedereen een lokale kopie maken van de repository. Alle teamleden gaan naar de Terminal van hun IDE en halen de repository binnen via het commando:
 
-        https://github.com/<username>/project.git
+        git clone https://github.com/<username>/project.git
 
 4.  Als je nieuwe repository "project" heet, dan wordt er ook een map aangemaakt in de IDE met die naam. Dit is de lokale kopie, waarin je wijzigingen kan doen en eventueel terugsturen naar de centrale repository op GitHub.
 
