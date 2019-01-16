@@ -1,6 +1,6 @@
 # Webprogrammeren en Databases<br><span class="small">voor Informatiekunde / Studiewijzer</span>
 
-*Versie: Januari 2019 (nog niet definitief)*
+*Versie: Januari 2019*
 
 In vier weken leer je hoe je een interactieve website maakt met behulp van het Flask-framework. We focussen op het maken van websites met een database-backend waarin gebruikersgegevens worden opgeslagen. Zo kun je in je verdere studie prototypes bouwen van applicaties en snel data verzamelen voor onderzoek. Er wordt gewerkt in teams van vier volgens een vaste structuur, waarbij er veel aandacht is voor leren over groepsprocessen.
 
