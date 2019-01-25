@@ -1,20 +1,13 @@
 grades:
-    sentimental:
-        type: float
-        subgrades:
-            scope: integer
-            correctness: integer
-            design: integer
-            style: integer
-        calculation: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
     finance:
         type: float
         subgrades:
-            scope: integer
             correctness: integer
             design: integer
             style: integer
-        calculation: (scope * (3 * correctness + 2 * design + 1 * style) / 150.0 * 9 + 1).round(1)
+        automatic:
+            correctness: (check_score * 5).round
+        calculation: ((3 * correctness + 2 * design + 1 * style) / 30.0 * 9 + 1).round(1)
     project:
         type: float
         subgrades:
@@ -33,14 +26,13 @@ grades:
 
 calculation:
     final:
-        psets: 30
-        project: 60
+        psets: 20
+        project: 70
         pav: 10
 
 psets:
     submits:
-        sentimental: 1
-        finance: 2
+        finance: 1
 
 project:
     submits:
