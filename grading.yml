@@ -1,13 +1,42 @@
-grades:
-    finance:
-        type: float
+templates:
+    1: &fullyauto
+        type: pass
         subgrades:
             correctness: integer
-            design: integer
-            style: integer
         automatic:
-            correctness: (check_score * 5).round
-        calculation: ((3 * correctness + 2 * design + 1 * style) / 30.0 * 9 + 1).round(1)
+            correctness: (check_score * 5).floor
+        calculation: -(correctness/5)
+        # hide_calculated: true
+    # 2: &automatic
+    #     type: float
+    #     subgrades:
+    #         correctness: integer
+    #         design: integer
+    #         style: integer
+    #     automatic:
+    #         correctness: (check_score * 5).floor
+    #         style: style_score
+    #     calculation: ((3 * correctness + 2 * design + 1 * style - 6) * 0.375 + 1).round(1)
+    #     hide_calculated: true
+    3: &manual
+        type: float
+        subgrades:
+            points: integer
+            hacker: integer
+            late: float
+        calculation: ((points + hacker - (late.abs)) / 5.0 * 9 + 1).round(1)
+        hide_calculated: true
+    4: &test
+        type: pass
+        subgrades:
+            passed: integer
+        calculation: "(passed.abs == 0 ? 0 : -1)"
+        is_test: true
+        hide_calculated: true
+
+grades:
+    finance: *fullyauto
+    individual: *manual
     project:
         type: float
         subgrades:
@@ -32,7 +61,7 @@ calculation:
 
 psets:
     submits:
-        finance: 1
+        individual: 1
 
 project:
     submits:
