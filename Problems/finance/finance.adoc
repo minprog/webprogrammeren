@@ -10,6 +10,15 @@ Implement a website via which users can "buy" and "sell" stocks, a la the below.
 
 image::finance.png["C$50 Finance",role="related thumb"]
 
+== Grading
+
+This problem will be graded on code quality, primarily on the following aspects:
+
+- [Comments](/quality/comments)
+- [Naming](/quality/naming)
+- [Duplication](/quality/duplication)
+- [Nesting](/quality/nesting)
+
 == Background
 
 If you're not quite sure what it means to buy and sell stocks (i.e., shares of a company), head to http://www.investopedia.com/university/stocks/ for a tutorial.

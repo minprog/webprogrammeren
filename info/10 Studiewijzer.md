@@ -14,58 +14,60 @@ Jelle van Assema (docent)
 Wouter Vrielink
 
 **assistenten**  
-Aynel Gül  
-Rienk Koenders  
-Miguel Pieters  
-Quinten van der Post
+Marijn Jansen
+Miguel Pieters
+Lotte Heek
+Yunus Demir
+Rebecca Davidsson
+Maythe Dirkzwager
 
 ## Wat gaan we doen?
 
 | Week 1                            | Deadline                      |  
 | --------------------------------- | ----------------------------- |  
-| Idee geregistreerd                | maandag 7 januari 17:00       |  
-| Homepage                          | dinsdag 8 januari 23:59       |  
-| Projectvoorstel                   | vrijdag 11 januari 17:00      |  
-| Projectplan PAV                   | vrijdag 11 januari 17:00      |  
-| Finance                           | vrijdag 11 januari 23:59      |  
+| Idee geregistreerd                | maandag 6 januari 17:00       |  
+| Homepage                          | dinsdag 7 januari 23:59       |  
+| Projectvoorstel                   | vrijdag 10 januari 17:00      |  
+| Projectplan PAV                   | vrijdag 10 januari 17:00      |  
+| Finance                           | vrijdag 10 januari 23:59      |  
 | **Week 2**                        | **Deadline**                  |  
-| Technisch ontwerp                 | woensdag 16 januari 17:00     |  
-| Projectplanning PAV               | vrijdag 18 januari 17:00      |  
+| Technisch ontwerp                 | woensdag 15 januari 17:00     |  
+| Projectplanning PAV               | vrijdag 17 januari 17:00      |  
 | **Week 3**                        | **Deadline**                  |  
-| Groepsfeedback PAV                | dinsdag 22 januari 13:00      |  
-| Prototype                         | woensdag 23 januari 23:59     |  
-| Hackathon                         | donderdag 24 januari hele dag |  
-| Tussentijdse Projectevaluatie PAV | vrijdag 25 januari 17:00      |  
+| Groepsfeedback PAV                | dinsdag 21 januari 13:00      |  
+| Prototype                         | woensdag 22 januari 23:59     |  
+| Hackathon                         | donderdag 23 januari hele dag |  
+| Tussentijdse Projectevaluatie PAV | vrijdag 24 januari 17:00      |  
 | **Week 4**                        | **Deadline**                  |  
-| Projectcode op GitHub             | woensdag 30 januari 23:59     |  
-| Productvideo                      | vrijdag 1 februari 12:00      |  
-| Publiekspresentaties              | vrijdag 1 februari 13--17 uur |  
+| Projectcode op GitHub             | woensdag 29 januari 23:59     |  
+| Productvideo                      | donderdag 30 januari 23:59    |  
+| Publiekspresentaties              | vrijdag 1 februari 9--13 uur  |  
 | Verslag PAV                       | vrijdag 1 februari 23:59      |  
 
-Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[70039]). De volgende wekelijkse activiteiten zijn gepland:
+Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[78627]). De volgende wekelijkse activiteiten zijn gepland:
 
 - hoorcollege op maandag
-- laptopcolleges voor hulp met programmeren op dinsdag, woensdag en donderdag
+- laptopcolleges voor hulp met programmeren op wisselende dagen
 - teamgesprekken op vrijdag
 
 ## Hoorcolleges
 
 | Onderwerp        | Datum                    |  
 | ---------------- | ------------------------ |  
-| HTML en CSS, Git | maandag 7 januari 13:00  |  
-| Databases        | maandag 14 januari 13:00 |  
-| Javascript       | maandag 21 januari 11:00 |  
-| Finishing up     | maandag 28 januari 11:00 |  
+| HTML en CSS, Git | maandag 6 januari 13:00  |  
+| Databases        | maandag 13 januari 13:00 |  
+| Javascript       | maandag 20 januari 11:00 |  
+| Finishing up     | maandag 27 januari 11:00 |  
 
 ## Aanwezigheid
 
-Je bent verplicht aanwezig bij een **dagelijkse groepsmeeting** die enigszins in de buurt van Science Park plaatsvindt en die gedocumenteerd wordt door middel van een dagelijkse groepsfoto (eerste do/vr niet verplicht). Daarnaast moeten alle teamleaden gezamenlijk aanwezig zijn bij de **voortgangsgesprekken** met een docent.
+Je bent verplicht aanwezig bij een **dagelijkse groepsmeeting** die enigszins in de buurt van Science Park plaatsvindt en die gedocumenteerd wordt door middel van een dagelijkse groepsfoto (eerste do/vr niet verplicht). Daarnaast moeten alle teamleaden gezamenlijk aanwezig zijn bij de **voortgangsgesprekken** op vrijdag.
 
 Als je een keer ziek bent meld je dit op de dag van ziek worden en hou je ons op de hoogte per mail naar <progik@mprog.nl>. Als iemand uit het team niet aanwezig is voor het voortgangsgesprek dan komt de rest dit direct melden en wordt er ter plekke een nieuwe afspraak gemaakt.
 
 Bij afwezigheid zonder melding of niet inleveren van opdrachten zonder melding word je direct uit het vak gezet zodat elk groepje goed verder kan. Als je wél netjes je problemen meldt zullen we altijd ons uiterste best doen om te zorgen dat je het vak kunt afmaken.
 
-Tot slot is het verplicht om met het hele team aanwezig te zijn bij de finale presentatiesessie op 1 februari in de middag.
+Tot slot is het verplicht om met het hele team aanwezig te zijn bij de finale presentatiesessie op 1 februari.
 
 ## Voorkennis
 
@@ -87,7 +89,7 @@ In alle gevallen moet je met je team je idee beperken tot een duidelijk concept.
 
 Om deze cursus te kunnen halen, verwachten we een aantal dingen van je.
 
-* We verwachten dat je jouw uiterste best doen om ten minste alle individuele opdrachten volledig te proberen te maken. Dit vinden we belangrijker dan dat alles precies correct werkt.
+* We verwachten dat je jouw uiterste best doet om alle individuele opdrachten volledig probeert te maken.
 
 * We verwachten dat je ongeveer 40 uur per week aan dit vak besteedt. Programmeren leer je door te doen, en dat kost veel tijd. Houd hier rekening mee!
 
@@ -125,13 +127,14 @@ We willen graag dat je leert om kleine websites te bouwen die werken met een dat
 
 De **opdracht Homepage** (0%) moet werkend gedemonstreerd worden.
 
-De **opdracht Finance** (20%) in de eerste weken worden beoordeeld via de volgende onderdelen:
+De **opdracht Finance** (20%) in de eerste weken wordt beoordeeld op codekwaliteit. Met een focus op de aspecten van commentaar, naamgeving, code duplicatie en nesting. De schaal is als volgt:
 
-* Correctheid --- doet het programma wat de gebruiker mag verwachten?
-* Ontwerp --- hoe ordelijk is je code?
-* Stijl --- hoe leesbaar is je code?
-
-De cijfers worden dan bepaald met de formule $$3 \times correctheid + 2 \times ontwerp + stijl$$.
+5. uitzonderlijk goed resultaat met doordacht ontwerp
+4. goed resultaat op alle aangegeven aspecten
+3. zichtbare aandacht voor alle aspecten, goed resultaat op sommige
+2. zichtbare aandacht voor de meeste aspecten
+1. zichtbare aandacht voor een beperkt aantal aspecten
+{: start="5" reversed=""}
 
 Het **project** (60%) wordt beoordeeld via de volgende onderdelen:
 
