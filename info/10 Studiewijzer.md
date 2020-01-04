@@ -14,12 +14,12 @@ Jelle van Assema (docent)
 Wouter Vrielink
 
 **assistenten**  
-Marijn Jansen
-Miguel Pieters
-Lotte Heek
-Yunus Demir
-Rebecca Davidsson
-Maythe Dirkzwager
+Marijn Jansen<br/>
+Miguel Pieters<br/>
+Lotte Heek<br/>
+Yunus Demir<br/>
+Rebecca Davidsson<br/>
+Maythe Dirkzwager<br/>
 
 ## Wat gaan we doen?
 
