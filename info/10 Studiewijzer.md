@@ -26,7 +26,7 @@ Maythe Dirkzwager<br/>
 | Week 1                            | Deadline                      |  
 | --------------------------------- | ----------------------------- |  
 | Idee geregistreerd                | maandag 6 januari 17:00       |  
-| Homepage                          | dinsdag 7 januari 23:59       |  
+| Homepage                          | maandag 6 januari 23:59       |  
 | Projectvoorstel                   | vrijdag 10 januari 17:00      |  
 | Projectplan PAV                   | vrijdag 10 januari 17:00      |  
 | Finance                           | vrijdag 10 januari 23:59      |  
@@ -52,12 +52,12 @@ Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[78627]).
 
 ## Hoorcolleges
 
-| Onderwerp        | Datum                    |  
-| ---------------- | ------------------------ |  
-| HTML en CSS, Git | maandag 6 januari 13:00  |  
-| Databases        | maandag 13 januari 13:00 |  
-| Javascript       | maandag 20 januari 11:00 |  
-| Finishing up     | maandag 27 januari 11:00 |  
+| Onderwerp                    | Datum                    |  
+| ---------------------------- | ------------------------ |  
+| HTML & CSS                   | maandag 6 januari 13:00  |  
+| Git, Databases & JavaScript  | maandag 13 januari 13:00 |  
+| Javascript                   | maandag 20 januari 11:00 |  
+| Finishing up                 | maandag 27 januari 11:00 |  
 
 ## Aanwezigheid
 
@@ -136,14 +136,14 @@ De **opdracht Finance** (20%) in de eerste weken wordt beoordeeld op codekwalite
 1. zichtbare aandacht voor een beperkt aantal aspecten
 {: start="5" reversed=""}
 
-Het **project** (60%) wordt beoordeeld via de volgende onderdelen:
+Het **project** (70%) wordt beoordeeld via de volgende onderdelen:
 
 * Omvang --- is het een samenhangend en compleet product?
 * Bruikbaarheid --- is het product goed te gebruiken voor beginners en gevorderden?
 * Ontwerp --- hoe overzichtelijk en gestructureerd zijn de code en database?
 * Stijl --- hoe leesbaar is de code?
 
-De cijfers worden dan bepaald met de formule $$omvang \times (3 \times bruikbaarheid + 2 \times ontwerp + stijl)$$.
+De cijfers worden dan bepaald met de formule omvang * (3 * bruikbaarheid + 2 * ontwerp + stijl).
 
 Het **verslag** (10%) wordt beoordeeld via een uitgebreide rubric, waarmee je kennis maakt tijdens de PAV-bijeenkomsten.
 
@@ -153,15 +153,63 @@ Let op! Zonder compleet pakket van productvideo, code op github, history op gith
 
 Samenwerken voor de individuele opdrachten in dit vak is niet toegestaan. Die opdrachten hebben als doel jouw persoonlijke programmeervaardigheid te ontwikkelen. Bij de groepsopdrachten is het natuurlijk wel de bedoeling om samen te programmeren, waarbij het belangrijk is dat ieder een redelijk deel van het werk doet.
 
-Fraude volgens de UvA: *"Het handelen of nalaten van een student waardoor een juist oordeel over zijn kennis, inzicht en vaardigheden geheel of gedeeltelijk onmogelijk wordt."*
+"Wees redelijk", dat is kort samengevat het beleid van dit vak. We realiseren ons dat het nuttig is om interactie te hebben met je klasgenoten en dat dit kan helpen bij het beheersen van de stof. Natuurlijk is er een grens tussen het vragen van hulp aan een ander en het inleveren van werk van een ander. Hier karakteriseren we beide kanten van die grens.
 
-We gebruiken bij de beoordeling van de opdrachten plagiaatdetectie. Als blijkt dat je opgave geheel of gedeeltelijk overeenkomt met een andere inzending of een uitwerking van internet, dan zijn er twee mogelijkheden.
+De essentie van alles wat je inlevert moet van jou zijn. Je mag niet samenwerken aan de individuele opdrachten. Met als uitzondering dat je klasgenoten en anderen voor hulp mag vragen, zolang dat er niet op neer komt dat een ander het werk voor jou doet. Over het algemeen, als je vraagt om hulp, mag je jouw code laten zien, maar kijk je niet naar de code van een ander.
 
-* Er is een bronvermelding: in dat geval voldoe je niet aan de eis van het   zelfstandig maken van de opgaven en wordt je inzending afgekeurd. Omdat dit   meestal na de deadline is betekent dat doorgaans dat je het vak dit jaar niet kunt afronden.
+Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen van welke handelingen we als redelijk en onredelijk bestempelen. Twijfel je of een handeling redelijk is, wacht dan tot je geschreven toestemming hebt gekregen van een docent. Onredelijke handelingen worden streng afgehandeld.
 
-* Er is geen bronvermelding: in dat geval rapporteren we aan de examencommissie welke inzendingen overeenkomen, waarna de commissie beslist over te nemen   maatregelen.
+#### Redelijk
 
-Zie ook:
+* Praten met je klasgenoten over de opdrachten in het Nederlands (of een ander gesproken taal).
 
-* de [fraude- en plagiaatwebsite](http://www.uva.nl/plagiaat), en
-* de onderwijs- en examenregeling van Informatiekunde.
+* Het cursusmateriaal bespreken met anderen om het beter te begrijpen.
+
+* Een klasgenoot helpen bij het debuggen tijdens een laptopcollege of daarbuiten, of zelfs online, door het bekijken, compileren of draaien van zijn of haar code, zelfs op je eigen computer.
+
+* Het opnemen van een paar regels code die je online of ergens anders vindt in jouw eigen code, gegeven dat deze regels niet oplossingen vormen tot opdrachten en dat je de bron van de code vermeldt.
+
+* Het inzien van tentamens van voorgaande jaren en oplossingen daarvan.
+
+* Versturen of code laten zien die jij hebt geschreven aan iemand anders, wellicht een klasgenoot, zodat hij of zij kan helpen bij het debuggen.
+
+* Het online delen van een paar regels van jouw code zodat anderen wellicht kunnen helpen met debuggen.
+
+* Op een assistent afstappen voor hulp tijdens de laptopcolleges.
+
+* Naar het internet of ergens anders gaan voor instructies buiten het vak, voor referenties, en voor oplossingen op technische problemen, maar niet voor gehele oplossingen voor opdrachten.
+
+* Het uittekenen of uitwerken van oplossingen op een whiteboard door middel van diagrammen of pseudocode, maar niet "echte" code.
+
+* Werken met (en zelfs betalen voor) een tutor om je te helpen met het vak, gegeven dat de tutor niet het werk voor je doet.
+
+
+#### Onredelijk
+
+* Een oplossing van een opdracht inkijken voordat je jouw opdracht hebt ingeleverd.
+
+* Een klasgenoot vragen om zijn of haar oplossing, voordat je jouw opdracht hebt ingeleverd.
+
+* Het decompileren, deobfuscereen, of demonteren van een "staff" oplossing van een opdracht.
+
+* Vergeten de bron te citeren van code of technieken die je hebt opgenomen van buiten de lessen van dit vak, en hebt geïntegreerd in je eigen werk, zelfs als je wel de andere restricties aanhoudt.
+
+* Geven, of laten zien, van een oplossing voor een opdracht aan een klasgenoot waar hij of zij, dus niet jij, moeite mee heeft om op te lossen.
+
+* Betalen, of het aanbieden om te betalen, voor het recht om werk van een ander als onderdeel van jouw eigen werk in te leveren.
+
+* Het beschikbaar stellen van oplossingen voor opdrachten van dit vak aan anderen die dit vak in de toekomst wellicht gaan volgen.
+
+* Het opzoeken van complete oplossingen voor opdrachten online of ergens anders.
+
+* Werk van een opdracht opsplitsen met een ander.
+
+* Werk van een ander, behalve een paar regels zoals eerder omschreven, inleveren.
+
+* Hetzelfde of bijna hetzelfde werk inleveren bij dit vak dat je hebt ingeleverd of gaat inleveren bij een ander vak.
+
+* Het inleveren van werk voor dit vak, waarbij je intentie is om dit ook ergens anders voor in te zetten (zeg voor een baan), zonder daar eerst toestemming voor te hebben gekregen van een docent.
+
+* Naar de oplossing voor een opdracht van iemand anders kijken, en vervolgens jouw oplossing daarop baseren.
+
+In alle gevallen volgen we de plagiaatregeling van de Universiteit van Amsterdam en de richtlijnen van de bachelor Kunstmatige Intelligentie. Deze vind je [hier](http://uva.nl/plagiaat).
