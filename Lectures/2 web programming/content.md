@@ -1,4 +1,4 @@
-# Lecture 7: Web Programming
+# Web Programming
 
 ![embed](https://www.youtube.com/embed/zzDUnnj2p8I)
 

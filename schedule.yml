@@ -1,0 +1,42 @@
+Week 1:
+    (groep) Projectregistratie:
+        "Registratie": /project/registratie
+    (individueel) Homepage:
+        "Lecture: web": /lectures/web
+        Implementeer Homepage: /problems/homepage
+    (individueel) Finance:
+        "Lecture: web programming": /lectures/web-programming
+        "Lecture: sql": /lectures/sql
+        Implementeer Finance: /problems/finance
+    (groep) Projectvoorstel:
+        "Voorstel": /project/voorstel
+Module 1:
+    Overview & Grading: /overviews/c
+    Hello:
+        "Lecture: C": /lectures/c
+        Create a GitHub account: https://github.com/join
+        Implement Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
+    Get your IDE:
+        Create your own CS50 IDE: https://ide.cs50.io/
+        Learn about the Command Line: /shorts/command-line
+        Water: /problems/water
+    Assignments:
+        Greedy: /problems/greedy
+        Mario: /problems/mario-less
+        Credit: /problems/credit
+    Toetsje:
+        Afspraak maken: https://toetsje.mprog.nl/progki/
+        A Variables: /exercises/a-variables
+Module 2:
+    Overview & Grading: /overviews/crypto
+    "Lecture: Arrays": /lectures/arrays
+    "Implement":
+        Initials: /problems/initials-more
+        Caesar: /problems/caesar
+    "Implement either of:":
+        Vigenere: /problems/vigenere
+        Crack (hacker): /problems/crack
+    Toetsjes:
+        Afspraak maken: https://toetsje.mprog.nl/progki/
+        B Control flow: /exercises/b-control-flow
+        C Unscratch: /exercises/c-unscratch

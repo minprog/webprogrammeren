@@ -1,4 +1,4 @@
-# Lecture 5: HTTP, HTML, CSS
+# HTTP, HTML, CSS
 
 ![embed](https://www.youtube.com/embed/uEmF74eHRO8)
 

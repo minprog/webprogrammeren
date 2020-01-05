@@ -1,4 +1,4 @@
-# Lecture 8: SQL
+# SQL
 
 ![embed](https://www.youtube.com/embed/LxDetsPQAPQ)
 
