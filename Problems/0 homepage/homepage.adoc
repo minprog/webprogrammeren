@@ -117,4 +117,4 @@ For fairly comprehensive guides on the languages introduced in this problem, che
 
 == How to Submit
 
-No need to submit. We will check your homepage this Friday during the first meeting!
+We will check your homepage this Friday during the first meeting!
