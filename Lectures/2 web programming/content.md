@@ -468,36 +468,40 @@
         return jsonify(words)
     ```
   * And our `index.html` has the JavaScript to append each word as an `<li>` element:
-    ```javascript
-    let input = document.querySelector('input');
-    input.onkeyup = function() {
-        $.get('/search?q=' + input.value, function(data) {
-            let html = '';
-            for (word of data) {
-                html += '<li>' + word + '</li>';
-            }
-            document.querySelector('ul').innerHTML = html;
-        });
-    };
-    ```
-* In fact, since the browser can run JavaScript that can search a list, we can write all of this in JavaScript, without making a request to a server:
-  ```javascript
-  let input = document.querySelector('input');
-  input.onkeyup = function() {
-      let html = '';
-      if (input.value) {
-          for (word of WORDS) {
-              if (word.startsWith(input.value)) {
+
+      let input = document.querySelector('input');
+      input.onkeyup = function() {
+          $.get('/search?q=' + input.value, function(data) {
+              let html = '';
+              for (word of data) {
                   html += '<li>' + word + '</li>';
               }
-          }
-      }
-      document.querySelector('ul').innerHTML = html;
-  };
-  ```
+              document.querySelector('ul').innerHTML = html;
+          });
+      };
+
+
+* In fact, since the browser can run JavaScript that can search a list, we can write all of this in JavaScript, without making a request to a server:
+
+
+    let input = document.querySelector('input');
+    input.onkeyup = function() {
+        let html = '';
+        if (input.value) {
+            for (word of WORDS) {
+                if (word.startsWith(input.value)) {
+                    html += '<li>' + word + '</li>';
+                }
+            }
+        }
+        document.querySelector('ul').innerHTML = html;
+    };
+
+
     * When we get input from the user, we'll just iterate over a `WORDS` array and append any `word` string that starts with the input's value to the page as an `<li>` element.
   * We'll also have to include a `large.js` file that creates that global variable, `WORDS`, which starts with the following:
-    ```javascript
+
+
     let WORDS = [
       "a",
       "aaa",
@@ -507,5 +511,6 @@
       "aalesund",
       "aardvark",
       ...
-    ```
+
+
 * Even with a relatively simple example, we see how there can be a few different approaches to solving the same problem. With version 0, our server sent back entire, complete pages on every search. With version 1, we used JavaScript to make requests without navigating to another page, getting back data with markup from the server. With version 2, we used JavaScript, but only got back data from the server, that we then marked up in the browser. Finally, with version 3, we used JavaScript and the word list to accomplish the same results, but all within the browser. Each approach has pros and cons, so depending on what tradeoffs we value, one solution might be better than the rest.
