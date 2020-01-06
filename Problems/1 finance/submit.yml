@@ -2,3 +2,6 @@ name: finance
 files:
     required:
         - finance.zip
+check:
+    tool: check50
+    slug: minpog/cs50x/2019/finance
