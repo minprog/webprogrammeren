@@ -18,8 +18,7 @@ Focusing on just the first two of those three languages for now, create a simple
 
 Here's how to download this problem's "distribution code" (i.e., starter code) into your own CS50 IDE. Log into link:https://cs50.io/[CS50 IDE] and then, in a terminal window, execute each of the below.
 
-1. Execute `update50` to ensure your IDE is up-to-date. That command might take a few minutes to finish.
-1. Execute `cd` to ensure that you're in `~/workspace/` (i.e., a directory called `workspace` that's in your home directory, aka `~`).
+1. Execute `cd` to ensure that you're in `~/` (i.e., your home directory, aka `~`).
 1. Execute `mkdir pset5` to make (i.e., create) a directory called `pset5` in your home directory.
 1. Execute `cd pset5` to change into (i.e., open) that directory.
 1. Execute `wget http://cdn.cs50.net/2018/fall/psets/5/homepage/homepage.zip` to download a (compressed) ZIP file with this problem's distribution.
@@ -34,7 +33,7 @@ Here's how to download this problem's "distribution code" (i.e., starter code) i
 http-server
 ```
 +
-in the terminal window and clicking on the link that appears, which should be of the form `http://ide50-USERNAME.cs50.io:8080`, substituting, of course, your actual username on CS50 IDE in place of `USERNAME`.
+in the terminal window and clicking on the link that appears, substituting, of course.
 
 == Specification
 
@@ -73,10 +72,10 @@ http-server
 In either case, you'll be brought to a URL of the form
 
 ```
-http://ide50-USERNAME.cs50.io:XXXX
+https://RANDOM_HASH-ide.cs50.xyz:8080
 ```
 
-Where `USERNAME` is your username on CS50 IDE, and `XXXX` is either `8080` or `8081`, those referring to the _port number_ on which your web server is listening for requests (instead of the default `80` or `443` for HTTP and HTTPS requests, respectively). At that address, you'll see a listing of all of the files in your `homepage` directory, and from there can navigate to any HTML page you've created.
+Where `RANDOM_HASH` is a hash CS50 IDE created, and `XXXX` is either `8080` or `8081`, those referring to the _port number_ on which your web server is listening for requests (instead of the default `80` or `443` for HTTP and HTTPS requests, respectively). At that address, you'll see a listing of all of the files in your `homepage` directory, and from there can navigate to any HTML page you've created.
 
 Recall also that by opening Developer Tools in Google Chrome, you can _simulate_ visiting your page on a mobile device by clicking the phone-shaped icon to the left of *Elements* in the developer tools window, or, once the Developer Tools tab has already been opened, by typing `Ctrl`+`Shift`+`M` on a PC or `Cmd`+`Shift`+`M` on a Mac, rather than needing to visit your site on a mobile device separately!
 
