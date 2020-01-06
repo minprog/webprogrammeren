@@ -253,12 +253,3 @@ If, upon running `check50`, you see this error, odds are you have a bug in your 
 === check50 is taking longer than normal!
 
 If you see this, make sure to remove or comment out any print statements from application.py and try `check50` again.
-
-
-== How to Submit
-
-Execute the below from within your `~/workspace/pset8/finance` directory, logging in with your GitHub username and password when prompted. For security, you'll see asterisks (`*`) instead of the actual characters in your password.
-
-```
-submit50 cs50/2018/fall/finance
-```
