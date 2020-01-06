@@ -41,8 +41,8 @@ Maythe Dirkzwager<br/>
 | **Week 4**                        | **Deadline**                  |  
 | Projectcode op GitHub             | woensdag 29 januari 23:59     |  
 | Productvideo                      | donderdag 30 januari 23:59    |  
-| Publiekspresentaties              | vrijdag 1 februari 9--13 uur  |  
-| Verslag PAV                       | vrijdag 1 februari 23:59      |  
+| Publiekspresentaties              | vrijdag 31 januari 9--13 uur  |  
+| Verslag PAV                       | vrijdag 31 januari 23:59      |  
 
 Het rooster van het vak is [hier te vinden](https://datanose.nl/#course[78627]). De volgende wekelijkse activiteiten zijn gepland:
 
