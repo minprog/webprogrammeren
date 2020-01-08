@@ -6,6 +6,11 @@
 
 ![embed](https://www.youtube.com/embed/zzDUnnj2p8I)
 
+- Source Code
+    - [Index](http://cdn.cs50.net/2018/fall/lectures/8/src8/)
+    - [PDF](http://cdn.cs50.net/2018/fall/lectures/8/src8.pdf)
+    - [ZIP](http://cdn.cs50.net/2018/fall/lectures/8/src8.zip)
+
 ## Last times
 
 * Last time, we learned about Python, a programming language that comes with many features and libraries. Today, we'll use Python to generate HTML for webpages, and see how separations of concerns might be applied.
