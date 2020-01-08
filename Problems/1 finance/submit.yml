@@ -4,4 +4,4 @@ files:
         - finance.zip
 check:
     tool: check50
-    slug: minpog/cs50x/2019/finance
+    slug: minprog/cs50x/2019/finance
