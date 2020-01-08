@@ -7,9 +7,9 @@
 ![embed](https://www.youtube.com/embed/zzDUnnj2p8I)
 
 - Source Code
-    - [Index](http://cdn.cs50.net/2018/fall/lectures/8/src8/)
-    - [PDF](http://cdn.cs50.net/2018/fall/lectures/8/src8.pdf)
-    - [ZIP](http://cdn.cs50.net/2018/fall/lectures/8/src8.zip)
+    - [Index](http://cdn.cs50.net/2018/fall/lectures/7/src7/)
+    - [PDF](http://cdn.cs50.net/2018/fall/lectures/7/src7.pdf)
+    - [ZIP](http://cdn.cs50.net/2018/fall/lectures/7/src7.zip)
 
 ## Last times
 
