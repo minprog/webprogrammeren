@@ -15,13 +15,26 @@ This problem will be graded on code quality, primarily on the following aspects:
 - /quality/duplication[Duplication]
 - /quality/nesting[Nesting]
 
+
+== Configuring
+Before getting started on this assignment, we’ll need to register for an API key in order to be able to query IEX’s data. To do so, follow these steps:
+
+* Visit iexcloud.io/cloud-login#/register/.
+* Enter your email address and a password, and click “Create account”.
+* Once you’ve confirmed your account via a confirmation email, sign in to iexcloud.io.
+* Click API Tokens.
+* Copy the key that appears under the Token column (it should begin with pk_).
+* In a terminal window within CS50 IDE, execute:
+
+    $ export API_KEY=value
+
+where value is that (pasted) value, without any space immediately before or after the =. You also may wish to paste that value in a text document somewhere, in case you need it again later.
+
 == Background
 
 If you're not quite sure what it means to buy and sell stocks (i.e., shares of a company), head to http://www.investopedia.com/university/stocks/ for a tutorial.
 
-You're about to implement C$50 Finance, a web app via which you can manage portfolios of stocks. Not only will this tool allow you to check real stocks' actual prices and portfolios' values, it will also let you buy (okay, "buy") and sell (okay, "sell") stocks by querying https://iextrading.com/developer/[IEX] for stocks' prices.
-
-Indeed, IEX lets you download stock quotes via their API (applivcation programming interface) using URLs like https://api.iextrading.com/1.0/stock/NFLX/quote. Notice how Netflix's symbol (NFLX) is embedded in this URL; that's how IEX knows whose data to return. If you follow that link, you'll see a reponse in JSON (JavaScript Object Notation) format. It's a bit messy, but notice how, between the curly braces, there's a comma-separated list of key-value pairs, with a colon separating each key from its value.
+You're about to implement C$50 Finance, a web app via which you can manage portfolios of stocks. Not only will this tool allow you to check real stocks' actual prices and portfolios' values, it will also let you buy (okay, "buy") and sell (okay, "sell") stocks by querying iextrading.com for stocks' prices.
 
 Let's turn our attention now to this problem's distribution code!
 
@@ -201,7 +214,7 @@ Be sure to test your web app manually too, as by
 
 [source]
 ----
-check50 minpog/cs50x/2019/finance
+check50 minprog/cs50x/2019/finance
 ----
 
 === Style
