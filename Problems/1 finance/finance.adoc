@@ -274,3 +274,16 @@ If, upon running `check50`, you see this error, odds are you have a bug in your 
 === check50 is taking longer than normal!
 
 If you see this, make sure to remove or comment out any print statements from application.py and try `check50` again.
+
+== How to submit
+
+*In your `finance` folder (the one that contains `application.py`), run the following command to create your zip file:*
+
+[source]
+----
+zip -r -9 finance.zip application.py finance.db helpers.py requirements.txt static templates
+----
+
+Download that zipfile and make sure it is not unzipped on your own computer!
+
+Don't forget to check on this same website that our `check50` agrees that your submission is complete and correct. It will take a couple of minutes to test.
