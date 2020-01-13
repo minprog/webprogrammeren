@@ -1,5 +1,7 @@
 # Git
 
+- [cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 Git is een systeem om de broncode van softwareprojecten te beheren. Er zijn twee belangrijke redenen om zo'n speciaal systeem te gebruiken:
 
 - Tijdens de ontwikkeling van een applicatie maak je steeds wijzigingen, soms gooi je zelfs grote delen weg of schrijf je weer een heel stuk. Je wil misschien wat dingen helemaal omgooien, maar niet alles kwijtraken als het mislukt. Een beheerssysteem kan steeds weer versies opslaan die je makkelijk kunt terughalen.
