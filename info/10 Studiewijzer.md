@@ -36,8 +36,6 @@ Maythe Dirkzwager<br/>
 | **Week 3**                        | **Deadline**                  |  
 | Groepsfeedback PAV                | dinsdag 21 januari 13:00      |  
 | Prototype                         | woensdag 22 januari 23:59     |  
-| Hackathon                         | donderdag 23 januari hele dag |  
-| Tussentijdse Projectevaluatie PAV | vrijdag 24 januari 17:00      |  
 | **Week 4**                        | **Deadline**                  |  
 | Projectcode op GitHub             | woensdag 29 januari 23:59     |  
 | Productvideo                      | donderdag 30 januari 23:59    |  
