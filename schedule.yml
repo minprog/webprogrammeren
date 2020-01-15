@@ -10,6 +10,17 @@ Week 1:
         Implementeer Finance: /problems/finance
     (groep) Projectvoorstel:
         "Voorstel": /project/voorstel
+Week 2:
+    (individueel) Finance:
+        "Lecture: web programming": /lectures/web-programming
+        "Lecture: sql": /lectures/sql
+        Implementeer Finance: /problems/finance
+    (groep) Technisch ontwerp:
+        "Ontwerp": /project/technisch-ontwerp
+    (groep) Prototype (deadline wo 22 jan):
+        "Prototype": /project/prototype
+    (optioneel) Git college:
+        "Lecture: Git": /lectures/git
 Module 1:
     Overview & Grading: /overviews/c
     Hello:
