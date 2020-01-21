@@ -5,7 +5,7 @@ templates:
             correctness: integer
             score: integer
         automatic:
-            correctness: correctness_score
+            correctness: correctness_score * 5
         calculation: correctness >= 5 && score || 0
         # hide_calculated: true
     # 2: &automatic
