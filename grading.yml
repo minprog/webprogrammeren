@@ -3,9 +3,10 @@ templates:
         type: pass
         subgrades:
             correctness: integer
+            score: integer
         automatic:
-            correctness: (check_score * 5).floor
-        calculation: -(correctness/5)
+            correctness: correctness_score
+        calculation: correctness >= 5 && score || 0
         # hide_calculated: true
     # 2: &automatic
     #     type: float
@@ -14,7 +15,7 @@ templates:
     #         design: integer
     #         style: integer
     #     automatic:
-    #         correctness: (check_score * 5).floor
+    #         correctness: (correctness_score * 5).floor
     #         style: style_score
     #     calculation: ((3 * correctness + 2 * design + 1 * style - 6) * 0.375 + 1).round(1)
     #     hide_calculated: true
