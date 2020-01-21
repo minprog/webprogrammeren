@@ -10,10 +10,10 @@ image::finance.png["C$50 Finance",role="related thumb"]
 
 This problem will be graded on code quality, primarily on the following aspects:
 
-- /quality/comments[Comments]
-- /quality/naming[Naming]
-- /quality/duplication[Duplication]
-- /quality/nesting[Nesting]
+- link:/quality/comments[Comments]
+- link:/quality/naming[Naming]
+- link:/quality/duplication[Duplication]
+- link:/quality/nesting[Nesting]
 
 
 == Configuring
