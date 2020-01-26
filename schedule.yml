@@ -21,33 +21,10 @@ Week 2:
         "Prototype": /project/prototype
     (optioneel) Git lecture:
         "Lecture: Git": /lectures/git
-Module 1:
-    Overview & Grading: /overviews/c
-    Hello:
-        "Lecture: C": /lectures/c
-        Create a GitHub account: https://github.com/join
-        Implement Hello: https://lab.cs50.io/uva/cs50x/master/problems/hello/
-    Get your IDE:
-        Create your own CS50 IDE: https://ide.cs50.io/
-        Learn about the Command Line: /shorts/command-line
-        Water: /problems/water
-    Assignments:
-        Greedy: /problems/greedy
-        Mario: /problems/mario-less
-        Credit: /problems/credit
-    Toetsje:
-        Afspraak maken: https://toetsje.mprog.nl/progki/
-        A Variables: /exercises/a-variables
-Module 2:
-    Overview & Grading: /overviews/crypto
-    "Lecture: Arrays": /lectures/arrays
-    "Implement":
-        Initials: /problems/initials-more
-        Caesar: /problems/caesar
-    "Implement either of:":
-        Vigenere: /problems/vigenere
-        Crack (hacker): /problems/crack
-    Toetsjes:
-        Afspraak maken: https://toetsje.mprog.nl/progki/
-        B Control flow: /exercises/b-control-flow
-        C Unscratch: /exercises/c-unscratch
+Week 4:
+    Oplevering (deadline wo 29 jan):
+        "Oplevering": /project/oplevering
+    Productvideo (deadline do 30 jan):
+        "Productvideo": /project/video
+    Eindpresentatie (vr 31 jan):
+        "Presentatie": /project/presentatie
