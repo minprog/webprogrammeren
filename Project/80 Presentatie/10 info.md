@@ -6,10 +6,8 @@ De staff heeft op donderdag al jullie code gereviewd, maar heeft nog nooit julli
 
 Op basis van de presentatie wordt het onderdeel "bruikbaarheid" beoordeeld. Daarbij is het belangrijk dat je alle onderdelen van je applicatie laat zien en de fijne details van je website uitlicht. Zoals formulieren die je helpen met het invullen, webpagina's die je niet hoeft te verversen, etc. Maak dit expliciet en laat zien wat je hebt gedaan om jouw website een fijne gebruikservaring (UX) te geven. "Undersell" je project niet, want je hebt veel gedaan in de afgelopen tijd en daar mag je echt een beetje trots op zijn!
 
-Niet geheel toevallig, is er donderdag de opdracht om een screencast te maken van maximaal 7 minuten. Want voor de screencast ga je juist ook alle aspecten van je website uitlichten. Daarbij produceer je een script en beeldmateriaal die je vervolgens op vrijdag makkelijk kan inzetten tijdens de presentatie. Zo is de presentatie zo gemaakt. Ga dus niet meteen een powerpointpresentatie in elkaar zetten, want misschien zijn slides helemaal niet nodig/handig/leuk. De screencast zelf wordt gebruikt bij twijfel over de beoordeling. Zo kunnen we altijd nog even terugkijken.
+Niet geheel ontoevallig, is er donderdag de opdracht om een screencast te maken van maximaal 7 minuten. Want voor de screencast ga je juist ook alle aspecten van je website uitlichten. Daarbij produceer je een script en beeldmateriaal die je vervolgens op vrijdag makkelijk kan inzetten tijdens de presentatie. Zo is de presentatie dus zo gemaakt. Ga daarom niet meteen een powerpointpresentatie in elkaar zetten, want misschien zijn slides helemaal niet nodig/handig/leuk. De screencast zelf wordt gebruikt bij twijfel over de beoordeling. Zo kunnen we altijd nog even terugkijken.
 
-Verwachte FAQ:
+## Verwachte FAQ
 * "Moet iedereen van het groepje presenteren?" Niet iedereen in je groepje hoeft te presenteren, wel moet iedereen natuurlijk aanwezig zijn. Probeer voor de presentatie een vorm te vinden voor de presentatie die goed past bij jullie en je project. Trek bijvoorbeeld twee "vrijwilligers" (evt. vooringelicht) uit de zaal om je triviaspel te spelen.
 * "Moeten we de website live laten zien?" Dat kan, maar we raden het je niet aan. Live gaan er altijd dingen mis (Murphy's law). Gebruik dus vooral materiaal uit je screencasts! :)
-
- 
