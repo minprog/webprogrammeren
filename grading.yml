@@ -1,6 +1,6 @@
 templates:
     1: &fullyauto
-        type: pass
+        type: float
         subgrades:
             correctness: integer
             score: integer
