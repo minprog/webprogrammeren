@@ -11,15 +11,10 @@ grades:
     project:
         type: float
         subgrades:
-            omvang: integer
-            bruikbaar_minimalisme: integer
-            bruikbaar_consistentie: integer
-            bruikbaar_platform: integer
-            bruikbaar_fouten: integer
-            design_mvc: integer
-            design_intern: integer
-            style: integer
-        calculation: (omvang * (3 * ((bruikbaar_minimalisme + bruikbaar_consistentie + bruikbaar_platform + bruikbaar_fouten)/4.0) + design_mvc + design_intern + style) / 108.0 * 9 + 1).round(1)
+            cijfer: float
+        calculation: cijfer
+        hide_calculated: true
+        is_test: true
     pav:
         type: float
         subgrades:
