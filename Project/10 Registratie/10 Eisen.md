@@ -1,6 +1,7 @@
 # Projecten
 
-Dit vak kent een open eindproject waar jullie een eigen creatieve invulling aangeven. Dat betekent dat je een geheel eigen idee kan uitwerken in de laatste twee weken van het vak. Tegelijkertijd is dit een kort vak en is de stof nieuw, en dat maakt het lastig in te schatten wat er zoal kan in twee weken. Daarom vind je hieronder drie templates om je inspiratie te geven voor je eigen project. Deze templates zijn uitdagend, maar ook haalbaar in korte tijd. 
+Dit vak kent een open eindproject waar jullie een eigen creatieve invulling aangeven. Dat betekent dat je een geheel eigen idee kan uitwerken in de laatste twee weken van het vak. Tegelijkertijd is dit een kort vak met veel nieuwe stof, en dat maakt het lastig in te schatten wat er zoal kan in twee weken. Daarom vind je hieronder drie templates om je inspiratie te geven voor je eigen project. Deze templates zijn uitdagend, maar ook haalbaar in korte tijd. 
+
 
 ## Templates
 
@@ -31,6 +32,7 @@ Ieder template kent vijf losse features en het is de taak aan ieder lid van de g
 
 De templates zijn een groffe invulling van een project. Het is aan je team om dit concreet uit te werken tot een duidelijk concept. Het is daarbij belangrijk dat je goed nadenkt over een leuke niche en wie precies de doelgroep vormt.
 
+
 ## Inspiratie
 
 Hieronder vind je verschillende projectideeën van voorgaande jaren die allemaal erg goed uitpakten. Het is okee om met één van deze ideeën aan de haal te gaan, maar het is natuurlijk leuker om je eigen idee uit te werken:
@@ -39,8 +41,13 @@ Hieronder vind je verschillende projectideeën van voorgaande jaren die allemaal
 
 * What the fridge (Jesse, Rico, Stijn & Huib, 2020) & Smart Cooking (Jill, Gijs, Miro & Talia, 2019) "recepten vinden met ingrediënten die je in huis hebt" door op basis van de ingedriënten in de koelkast te zoeken naar recepten die geheel of bijna gemaakt kunnen worden.
 
-* Sociaal dierenasiel 
+* Sociaal dierenasiel "voor meer aandacht voor de dieren van het asiel". Een sociaal netwerk waarop de dieren van het asiel worden vertegenwoordigd. Daarop kunnen verzorgers posten en gebruikers reageren. Na adoptie krijgt de nieuwe eigenaar toegang tot het account om zo de dieren voor langere tijd te kunnen volgen.
 
-* ...
 
-Geef in het kanaal van jouw groep op [webik.slack.com](https://webik.slack.com) aan wat voor project je groep gaat doen en hoe je de website voor je ziet.
+## Wat te doen
+
+Spring met je groepje in een Zoom-sessie en overleg jullie idee voor een project. Werk dit idee uit tot een "elevator-pitch" van 60 seconden. In die 60 seconden moet je een ander (lees je mentor, je studiegenoot, je beste vriendin en je ouders) kunnen overtuigen van je idee. Het moet daaruit duidelijk worden voor wie je applicatie is bedoelt (de doelgroep) en welk probleem er wordt opgelost. 
+
+Druk nu op de recordknop in Zoom en neem in maximaal (harde grens) 60 seconden je elevator-pitch op. Misschien dat je het een keertje opnieuw wilt doen, maar doe het niet vaker dan dat. Upload je video hier: https://video.uva.nl/ en deel de video-url samen met de naam van je project in het slack kanaal van jouw groep op [webik.slack.com](https://webik.slack.com).
+
+Vervolgens wordt je pitch bekeken en krijg je van ons feedback en vragen naar aanleiding van jullie idee. Tijdens het eerste voortgangsgesprek wordt dit in detail besproken.
