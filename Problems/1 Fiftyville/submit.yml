@@ -1,0 +1,8 @@
+name: movies
+files:
+    required:
+        - log.sql
+        - answers.txt
+check:
+    tool: check50
+    slug: minprog/todo
