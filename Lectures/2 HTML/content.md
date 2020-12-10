@@ -258,9 +258,10 @@ Watch the lecture by clicking the image below.
       </body>
   </html>
   ```
-  
+
   * For each _type_ of tag, we've used a CSS **type selector** to style it.
 * We can also use a more specific **class selector**:
+
   ```html
   <!DOCTYPE html>
 
@@ -304,10 +305,12 @@ Watch the lecture by clicking the image below.
       </body>
   </html>
   ```
+
   * We can define our own CSS class with a `.` followed by a keyword we choose, so here we've created `.large`, `.medium`, and `.small`, each with some property for the font size.
   * Then, on any number of tags in our page's HTML, we can add one or more of these classes with `class="centered large"`, reusing these styles.
   * We can remove the redundancy for `centered`, and apply it to just the `<body>` tag as well.
 * Finally, we can take all of the CSS for the properties and move them to another file with the `<link>` tag:
+
   ```html
   <!DOCTYPE html>
 
@@ -329,9 +332,11 @@ Watch the lecture by clicking the image below.
       </body>
   </html>
   ```
+
   * Now, one person can work on the HTML and another can work on the CSS, more independently.
 * With CSS, we'll also rely on references and other resources to look up how to use properties as we need them.
 * We can use **pseudoselectors**, which selects certain states:
+
   ```html
   <!DOCTYPE html>
 
@@ -367,6 +372,7 @@ Watch the lecture by clicking the image below.
       </body>
   </html>
   ```
+
   * Here, we're using `a:hover` to set properties on `<a>` tags when the user hovers over them.
   * We also have an `id` attribute on each `<a>` tag, to set different colors on each with **ID selectors** that start with a `#` in CSS.
 
@@ -374,6 +380,7 @@ Watch the lecture by clicking the image below.
 
 * To write code that can run in users' browsers, or on the client, we'll use a new language, **JavaScript**.
 * The syntax of JavaScript is similar to that of C and Python for basic constructs:
+
   ```javascript
   let counter = 0;
   ```
@@ -424,9 +431,11 @@ Watch the lecture by clicking the image below.
 
   }
   ```
+
   * Notice that JavaScript is loosely typed as well, with `let` being the keyword to declare variables of any type.
 * With JavaScript, we can change the HTML in the browser in real-time. We can use `<script>` tags to include our code directly, or from a `.js` file.
 * We'll create another form:
+
   ```html
   <!DOCTYPE html>
 
@@ -450,9 +459,11 @@ Watch the lecture by clicking the image below.
       </body>
   </html>
   ```
+
   * Here, we won't add an `action` to our form, since this will stay on the same page. Instead, we'll have an `onsubmit` attribute that will call a function we've defined in JavaScript, and use `return false;` to prevent the form from actually being submitted anywhere.
   * Now, if we load that page, we'll see `hello, body` being shown when we submit the form.
 * Since our input tag, or **element**, has an ID of `name`, we can use it in our script:
+
   ```javascript
   <script>
 
@@ -464,16 +475,20 @@ Watch the lecture by clicking the image below.
 
   </script>
   ```
+
   * `document` is a global variable that comes with JavaScript in the browser, and `querySelector` is another function we can use to select a node in the **DOM**, Document Object Model, or the tree structure of the HTML page. After we select the element with the ID `name`, we get the `value` inside the input, and add it to our alert.
   * Note that JavaScript uses single quotes for strings by convention, though double quotes can be used as well as long as they match for each string.
 * We can add more attributes to our form, to change placeholder text, change the button's text, disable autocomplete, or autofocus the input:
+
   ```html
   <form>
       <input autocomplete="off" autofocus id="name" placeholder="Name" type="text">
       <input type="submit">
   </form>
   ```
+
 * We can also listen to **events** in JavaScript, which occur when something happens on the page. For example, we can listen to the `submit` event on our form, and call the `greet` function:
+
   ```javascript
   <script>
 
@@ -491,9 +506,11 @@ Watch the lecture by clicking the image below.
 
   </script>
   ```
+
   * Here, in `listen` we pass the function `greet` by name, and not call it yet. The event listener will call it for us when the event happens.
   * We need to first listen to the `DOMContentLoaded` event, since the browser reads our HTML file from top to bottom, and `form` wouldn't exist until it's read the entire file and loaded the content. So by listening to this event, and calling our `listen` function, we know `form` will exist.
 * We can also use **anonymous functions** in JavaScript:
+
   ```javascript
   <script>
 
@@ -506,6 +523,7 @@ Watch the lecture by clicking the image below.
 
   </script>
   ```
+
   * We can pass in a lambda function with the `function()` syntax, so here we've passed in both listeneres directly to `addEventListener`.
 * In addition to `submit`, there are many other events we can listen to:
   * `blur`
@@ -523,6 +541,7 @@ Watch the lecture by clicking the image below.
   * `unload`
   * `...`
 * For example, we can listen to the `keyup` event, and change the DOM as soon as we release a key:
+
   ```html
   <!DOCTYPE html>
 
@@ -554,8 +573,10 @@ Watch the lecture by clicking the image below.
       </body>
   </html>
   ```
+
   * Notice that we can substitute strings in JavaScript as well, with the `${input.value}` inside a string surrounded by backticks, `` ` ``.
 * We can programmatically change style, too:
+
   ```html
   <!DOCTYPE html>
 
@@ -584,6 +605,7 @@ Watch the lecture by clicking the image below.
       </body>
   </html>
   ```
+
   * After selecting an element, we can use the `style` property to set values for CSS properties as well. Here, we have three buttons, each of which has an `onclick` listener that changes the background color of the `<body>` element.
   * Notice here that our `<script>` tag is at the end of our HTML file, so we don't need to listen to the `DOMContentLoaded` event, since the rest of the DOM will already have been read by the browser.
 * In a browser's developer tools, too, we can see the DOM and any styles applied via the `Elements` tab:\\
@@ -592,6 +614,7 @@ Watch the lecture by clicking the image below.
 * In [`size.html`](https://cdn.cs50.net/2020/fall/lectures/8/src8/size.html?highlight), we can set the font size with a dropdown via JavaScript, and in [`blink.html`](https://cdn.cs50.net/2020/fall/lectures/8/src8/blink.html?highlight) we can make an element "blink", alternating between visible and hidden.
 * With [`geolocation.html`](https://cdn.cs50.net/2020/fall/lectures/8/src8/geolocation.html?highlight), we can ask the browser for a user's GPS coordinates, and with [`autocomplete.html`](https://cdn.cs50.net/2020/fall/lectures/8/src8/autocomplete.html?highlight), we can autocomplete something we typed in, with words from a dictionary file.
 * Finally, we can use Python to write code that connect to other devices on a local network, like a light bulb, via an **API**, application programming interface. Our light bulb's API in particular accepts request at certain URLs:
+
   ```python
   import os
   import requests
@@ -603,9 +626,11 @@ Watch the lecture by clicking the image below.
 
   requests.put(URL, json={"on": False})
   ```
+
   * With this code, we can use the PUT method to send a message to our light bulb, turning it off.
   * We use environment variables, values stored elsewhere on our computer, for our username and IP address.
 * Now, with a little more logic, we can make our light bulb blink:
+
   ```python
   import os
   import requests
@@ -621,4 +646,5 @@ Watch the lecture by clicking the image below.
       requests.put(URL, json={"on": False})
       time.sleep(1)
     ```
+    
 * We'll put together HTML, CSS, JavaScript, Python, and SQL next time!
