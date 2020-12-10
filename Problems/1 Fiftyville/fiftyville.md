@@ -38,7 +38,7 @@ Ultimately, you should submit both your `log.sql` and `answers.txt` files.
 
 ## Walkthrough
 
-![embed](https://www.youtube.com/watch?v=x7Q8tJMi7cQ)
+![embed](https://www.youtube.com/embed/x7Q8tJMi7cQ)
 
 ## Hints
 
