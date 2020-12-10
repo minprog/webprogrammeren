@@ -78,7 +78,7 @@ You're welcome to check your queries' results against [IMDb](https://www.imdb.co
 
 ## Walkthrough
 
-{% video https://www.youtube.com/watch?v=v5_A3giDlQs %}
+![embed](https://www.youtube.com/watch?v=v5_A3giDlQs)
 
 ## Usage
 
