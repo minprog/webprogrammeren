@@ -34,22 +34,18 @@ Watch the lecture by clicking the image below.
   * Finally, the `/` at the end is a request for the default file, like `index.html`, that the web server will respond with.
 * An HTTP request will start with:
 
-        ```
         GET / HTTP/1.1
         Host: www.example.com
         ...
-        ```
 
   * The `GET` indicates that the request is for some file, and `/` indicates the default file. A request could be more specific, and start with `GET /index.html`.
   * There are different versions of the HTTP protocol, so `HTTP/1.1` indicates that the browser is using version 1.1.
   * `Host: www.example.com` indicates that the request is for `www.example.com`, since the same web server might be hosting multiple websites and domains.
 * A response will start with:
 
-        ```
         HTTP/1.1 200 OK
         Content-Type: text/html
         ...
-        ```
 
   * The web server will respond with the version of HTTP, followed by a status code, which is `200 OK` here, indicating that the request was valid.
   * Then, the web server indicates the type of content in its response, which might be text, image, or other format.
@@ -77,7 +73,6 @@ Watch the lecture by clicking the image below.
   * ...
 * We can use a command-line tool, `curl`, to connect to a URL. We can run:
 
-        ```
         curl -I http://safetyschool.org
         HTTP/1.1 301 Moved Permanently
         Server: Sun-ONE-Web-Server/6.1
@@ -86,17 +81,14 @@ Watch the lecture by clicking the image below.
         Content-type: text/html
         Location: http://www.yale.edu
         Connection: close
-        ```
 
   * It turns out that `safetyschool.org` redirects to `yale.edu`!
   * And `harvardsucks.org` is a website with another prank on Harvard!
 * Finally, an HTTP request can include inputs to servers, like the string `q=cats` after the `?`:
 
-        ```
         GET /search?q=cats HTTP/1.1
         Host: www.google.com
         ...
-        ```
     
   * This uses a standard format for passing input, like command-line arguments, to web servers.
 
@@ -141,7 +133,6 @@ Watch the lecture by clicking the image below.
   * We could set the `href` to `https://www.yale.edu`, but leave `Harvard` within the tag, which might prank users or even trick them into visiting a fake version of some website. **Phishing** is an act of tricking users, a form of social engineering that includes misleading links.
 * In `search.html`, we can create a more complex form that takes user input and sends it to Google's search engine:
 
-        ```html
         <!DOCTYPE html>
 
         <html lang="en">
@@ -155,7 +146,6 @@ Watch the lecture by clicking the image below.
                 </form>
             </body>
         </html>
-        ```
 
   * First, we have a `<form>` tag that has an `action` of Google's search URL, with a method of GET.
   * Inside the form, we have one `<input>`, with the name `q`, and another `<input>` with the type of `submit`. When the second input, a button, is clicked, the form will append the text in the first input to the action URL, ending it with `search?q=...`.
@@ -168,7 +158,6 @@ Watch the lecture by clicking the image below.
 * In HTML, we have some options for including CSS. We can add a `<style>` tag within the `<head>` tag, with styles direcly inside, or we can link to a `styles.css` file with a `<link>` tag within the `<head>` tag.
 * We can also include CSS directly in each tag:
 
-        ```html
         <!DOCTYPE html>
 
         <html lang="en">
@@ -187,14 +176,12 @@ Watch the lecture by clicking the image below.
                 </footer>
             </body>
         </html>
-        ```
 
   * `<header>`, `<main>`, and `<footer>` tags are like `<p>` tags, indicating the sections that the text on our page are in.
   * For each tag, we can add a `style` attribute, with the value being a list of CSS key-value properties, separated by semicolons. Here, we're setting the `font-size` for each tag, and aligning the text in the center.
   * Note that we can use `&#169;`, an **HTML entity**, as a code to include some symbol in our web page.
 * We can align all the text at once:
 
-        ```html
         <!DOCTYPE html>
 
         <html lang="en">
@@ -213,12 +200,10 @@ Watch the lecture by clicking the image below.
                 </footer>
             </body>
         </html>
-        ```
 
   * Here, the style applied to the `<body>` tag cascades, or applies, to its children, so all the sections inside will have centered text as well.
 * To factor out, or separate our CSS from HTML, we can include styles in the `<head>` tag:
 
-        ```html
         <!DOCTYPE html>
 
         <html lang="en">
@@ -257,12 +242,10 @@ Watch the lecture by clicking the image below.
                 </footer>
             </body>
         </html>
-        ```
 
   * For each _type_ of tag, we've used a CSS **type selector** to style it.
 * We can also use a more specific **class selector**:
 
-        ```html
         <!DOCTYPE html>
 
         <html lang="en">
@@ -304,14 +287,12 @@ Watch the lecture by clicking the image below.
                 </footer>
             </body>
         </html>
-        ```
 
   * We can define our own CSS class with a `.` followed by a keyword we choose, so here we've created `.large`, `.medium`, and `.small`, each with some property for the font size.
   * Then, on any number of tags in our page's HTML, we can add one or more of these classes with `class="centered large"`, reusing these styles.
   * We can remove the redundancy for `centered`, and apply it to just the `<body>` tag as well.
 * Finally, we can take all of the CSS for the properties and move them to another file with the `<link>` tag:
 
-        ```html
         <!DOCTYPE html>
 
         <html lang="en">
@@ -331,13 +312,11 @@ Watch the lecture by clicking the image below.
                 </footer>
             </body>
         </html>
-        ```
 
   * Now, one person can work on the HTML and another can work on the CSS, more independently.
 * With CSS, we'll also rely on references and other resources to look up how to use properties as we need them.
 * We can use **pseudoselectors**, which selects certain states:
 
-        ```html
         <!DOCTYPE html>
 
         <html lang="en">
@@ -371,7 +350,6 @@ Watch the lecture by clicking the image below.
                 Visit <a href="https://www.harvard.edu/" id="harvard" >Harvard</a> or <a href="https://www.yale.edu/" id="yale" >Yale</a>.
             </body>
         </html>
-        ```
 
   * Here, we're using `a:hover` to set properties on `<a>` tags when the user hovers over them.
   * We also have an `id` attribute on each `<a>` tag, to set different colors on each with **ID selectors** that start with a `#` in CSS.
@@ -381,21 +359,17 @@ Watch the lecture by clicking the image below.
 * To write code that can run in users' browsers, or on the client, we'll use a new language, **JavaScript**.
 * The syntax of JavaScript is similar to that of C and Python for basic constructs:
 
-        ```javascript
         let counter = 0;
-        ```
-        ```javascript
+
         counter = counter + 1;
         counter += 1;
         counter++;
-        ```
-        ```javascript
+
         if (x < y)
         {
 
         }
-        ```
-        ```javascript
+
         if (x < y)
         {
 
@@ -404,8 +378,7 @@ Watch the lecture by clicking the image below.
         {
 
         }
-        ```
-        ```javascript
+
         if (x < y)
         {
 
@@ -418,25 +391,21 @@ Watch the lecture by clicking the image below.
         {
 
         }
-        ```
-        ```javascript
+
         while (true)
         {
 
         }
-        ```
-        ```javascript
+
         for (let i = 0; i < 3; i++)
         {
 
         }
-        ```
 
   * Notice that JavaScript is loosely typed as well, with `let` being the keyword to declare variables of any type.
 * With JavaScript, we can change the HTML in the browser in real-time. We can use `<script>` tags to include our code directly, or from a `.js` file.
 * We'll create another form:
 
-        ```html
         <!DOCTYPE html>
 
         <html lang="en">
@@ -458,13 +427,11 @@ Watch the lecture by clicking the image below.
                 </form>
             </body>
         </html>
-        ```
 
   * Here, we won't add an `action` to our form, since this will stay on the same page. Instead, we'll have an `onsubmit` attribute that will call a function we've defined in JavaScript, and use `return false;` to prevent the form from actually being submitted anywhere.
   * Now, if we load that page, we'll see `hello, body` being shown when we submit the form.
 * Since our input tag, or **element**, has an ID of `name`, we can use it in our script:
 
-        ```javascript
         <script>
 
             function greet()
@@ -474,22 +441,18 @@ Watch the lecture by clicking the image below.
             }
 
         </script>
-        ```
 
   * `document` is a global variable that comes with JavaScript in the browser, and `querySelector` is another function we can use to select a node in the **DOM**, Document Object Model, or the tree structure of the HTML page. After we select the element with the ID `name`, we get the `value` inside the input, and add it to our alert.
   * Note that JavaScript uses single quotes for strings by convention, though double quotes can be used as well as long as they match for each string.
 * We can add more attributes to our form, to change placeholder text, change the button's text, disable autocomplete, or autofocus the input:
 
-        ```html
         <form>
             <input autocomplete="off" autofocus id="name" placeholder="Name" type="text">
             <input type="submit">
         </form>
-        ```
 
 * We can also listen to **events** in JavaScript, which occur when something happens on the page. For example, we can listen to the `submit` event on our form, and call the `greet` function:
 
-        ```javascript
         <script>
 
             function greet()
@@ -505,13 +468,11 @@ Watch the lecture by clicking the image below.
             document.addEventListener('DOMContentLoaded', listen);
 
         </script>
-        ```
 
   * Here, in `listen` we pass the function `greet` by name, and not call it yet. The event listener will call it for us when the event happens.
   * We need to first listen to the `DOMContentLoaded` event, since the browser reads our HTML file from top to bottom, and `form` wouldn't exist until it's read the entire file and loaded the content. So by listening to this event, and calling our `listen` function, we know `form` will exist.
 * We can also use **anonymous functions** in JavaScript:
 
-        ```javascript
         <script>
 
             document.addEventListener('DOMContentLoaded', function() {
@@ -522,7 +483,6 @@ Watch the lecture by clicking the image below.
             });
 
         </script>
-        ```
 
   * We can pass in a lambda function with the `function()` syntax, so here we've passed in both listeneres directly to `addEventListener`.
 * In addition to `submit`, there are many other events we can listen to:
@@ -542,7 +502,6 @@ Watch the lecture by clicking the image below.
   * `...`
 * For example, we can listen to the `keyup` event, and change the DOM as soon as we release a key:
 
-        ```html
         <!DOCTYPE html>
 
         <html lang="en">
@@ -572,12 +531,10 @@ Watch the lecture by clicking the image below.
                 <p id="name"></p>
             </body>
         </html>
-        ```
 
   * Notice that we can substitute strings in JavaScript as well, with the `${input.value}` inside a string surrounded by backticks, `` ` ``.
 * We can programmatically change style, too:
 
-        ```html
         <!DOCTYPE html>
 
         <html lang="en">
@@ -604,7 +561,6 @@ Watch the lecture by clicking the image below.
                 </script>
             </body>
         </html>
-        ```
 
   * After selecting an element, we can use the `style` property to set values for CSS properties as well. Here, we have three buttons, each of which has an `onclick` listener that changes the background color of the `<body>` element.
   * Notice here that our `<script>` tag is at the end of our HTML file, so we don't need to listen to the `DOMContentLoaded` event, since the rest of the DOM will already have been read by the browser.
@@ -615,7 +571,6 @@ Watch the lecture by clicking the image below.
 * With [`geolocation.html`](https://cdn.cs50.net/2020/fall/lectures/8/src8/geolocation.html?highlight), we can ask the browser for a user's GPS coordinates, and with [`autocomplete.html`](https://cdn.cs50.net/2020/fall/lectures/8/src8/autocomplete.html?highlight), we can autocomplete something we typed in, with words from a dictionary file.
 * Finally, we can use Python to write code that connect to other devices on a local network, like a light bulb, via an **API**, application programming interface. Our light bulb's API in particular accepts request at certain URLs:
 
-        ```python
         import os
         import requests
 
@@ -625,13 +580,11 @@ Watch the lecture by clicking the image below.
         URL = f"http://{IP}/api/{USERNAME}/lights/1/state"
 
         requests.put(URL, json={"on": False})
-        ```
 
   * With this code, we can use the PUT method to send a message to our light bulb, turning it off.
   * We use environment variables, values stored elsewhere on our computer, for our username and IP address.
 * Now, with a little more logic, we can make our light bulb blink:
 
-        ```python
         import os
         import requests
         import time
@@ -645,6 +598,5 @@ Watch the lecture by clicking the image below.
             time.sleep(1)
             requests.put(URL, json={"on": False})
             time.sleep(1)
-            ```
 
 * We'll put together HTML, CSS, JavaScript, Python, and SQL next time!
