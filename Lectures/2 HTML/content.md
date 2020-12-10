@@ -103,20 +103,18 @@ Watch the lecture by clicking the image below.
 * Now that we can use the internet and HTTP to send and receive messages, it's time to see what's in the content for web pages. **HTML**, Hypertext Markup Language, is not a programming language, but rather used to format web pages and tell the browser how to display pages, using tags and attributes.
 * A simple page in HTML might look like this:
 
-    ```html
-    <!DOCTYPE html>
+        <!DOCTYPE html>
 
-    <html lang="en">
-        <head>
-            <title>
-                hello, title
-            </title>
-        </head>
-        <body>
-            hello, body
-        </body>
-    </html>
-    ```
+        <html lang="en">
+            <head>
+                <title>
+                    hello, title
+                </title>
+            </head>
+            <body>
+                hello, body
+            </body>
+        </html>
 
   * The first line is a declaration that the page follows the HTML standard.
   * Next is a **tag**, a word in brackets like `<html>` and `</html>`. The first is a start or open tag, and the second is a close tag. In this case, the tags indicate the start and end of the HTML page. The start tag here has an **attribute** as well, `lang="en"` which specifies that the language of the page will be in English, to help the browser translate the page if needed.
