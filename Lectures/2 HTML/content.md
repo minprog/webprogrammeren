@@ -33,20 +33,24 @@ Watch the lecture by clicking the image below.
   * `www` is the hostname that, by convention, indicates to us that this is a "world wide web" service. It's not required, so today many websites aren't configured to include it.
   * Finally, the `/` at the end is a request for the default file, like `index.html`, that the web server will respond with.
 * An HTTP request will start with:
+
   ```
   GET / HTTP/1.1
   Host: www.example.com
   ...
   ```
+
   * The `GET` indicates that the request is for some file, and `/` indicates the default file. A request could be more specific, and start with `GET /index.html`.
   * There are different versions of the HTTP protocol, so `HTTP/1.1` indicates that the browser is using version 1.1.
   * `Host: www.example.com` indicates that the request is for `www.example.com`, since the same web server might be hosting multiple websites and domains.
 * A response will start with:
+
   ```
   HTTP/1.1 200 OK
   Content-Type: text/html
   ...
   ```
+
   * The web server will respond with the version of HTTP, followed by a status code, which is `200 OK` here, indicating that the request was valid.
   * Then, the web server indicates the type of content in its response, which might be text, image, or other format.
   * Finally, the rest of the packet or packets will include the content.
@@ -85,10 +89,12 @@ Watch the lecture by clicking the image below.
   * It turns out that `safetyschool.org` redirects to `yale.edu`!
   * And `harvardsucks.org` is a website with another prank on Harvard!
 * Finally, an HTTP request can include inputs to servers, like the string `q=cats` after the `?`:
+
   ```
   GET /search?q=cats HTTP/1.1
   Host: www.google.com
   ...
+
   ```
   * This uses a standard format for passing input, like command-line arguments, to web servers.
 
@@ -96,6 +102,7 @@ Watch the lecture by clicking the image below.
 
 * Now that we can use the internet and HTTP to send and receive messages, it's time to see what's in the content for web pages. **HTML**, Hypertext Markup Language, is not a programming language, but rather used to format web pages and tell the browser how to display pages, using tags and attributes.
 * A simple page in HTML might look like this:
+
   ```html
   <!DOCTYPE html>
 
@@ -110,6 +117,7 @@ Watch the lecture by clicking the image below.
       </body>
   </html>
   ```
+
   * The first line is a declaration that the page follows the HTML standard.
   * Next is a **tag**, a word in brackets like `<html>` and `</html>`. The first is a start or open tag, and the second is a close tag. In this case, the tags indicate the start and end of the HTML page. The start tag here has an **attribute** as well, `lang="en"` which specifies that the language of the page will be in English, to help the browser translate the page if needed.
   * Within the `<html>` tag are two more tags, `<head>` and `<body>`, which are both like children nodes in a tree. And within `<head>` is the `<title>` tag, the contents of which we see in a tab or window's title in a browser. Within `<body>` is the contents of the page itself, which we'll see in the main view of a browser as well.
@@ -132,6 +140,7 @@ Watch the lecture by clicking the image below.
 * We can create links in [`link.html`](https://cdn.cs50.net/2020/fall/lectures/8/src8/link0.html?highlight) with the `<a>`, or anchor, tag. The `href` attribute is for a hypertext reference, or simply where the link should take us, and within the tag is the text that should appear as the link.
   * We could set the `href` to `https://www.yale.edu`, but leave `Harvard` within the tag, which might prank users or even trick them into visiting a fake version of some website. **Phishing** is an act of tricking users, a form of social engineering that includes misleading links.
 * In `search.html`, we can create a more complex form that takes user input and sends it to Google's search engine:
+
   ```html
   <!DOCTYPE html>
 
@@ -147,6 +156,7 @@ Watch the lecture by clicking the image below.
       </body>
   </html>
   ```
+
   * First, we have a `<form>` tag that has an `action` of Google's search URL, with a method of GET.
   * Inside the form, we have one `<input>`, with the name `q`, and another `<input>` with the type of `submit`. When the second input, a button, is clicked, the form will append the text in the first input to the action URL, ending it with `search?q=...`.
   * So when we open `search.html` in our browser, we can use the form to search via Google.
@@ -157,6 +167,7 @@ Watch the lecture by clicking the image below.
 * We can improve the aesthetics of our pages with **CSS**, Cascading Style Sheets, another language that tells our browser how to display tags on a page. CSS uses **properties**, or key-value pairs, like `color: red;` to tags with selectors.
 * In HTML, we have some options for including CSS. We can add a `<style>` tag within the `<head>` tag, with styles direcly inside, or we can link to a `styles.css` file with a `<link>` tag within the `<head>` tag.
 * We can also include CSS directly in each tag:
+
   ```html
   <!DOCTYPE html>
 
@@ -177,10 +188,12 @@ Watch the lecture by clicking the image below.
       </body>
   </html>
   ```
+
   * `<header>`, `<main>`, and `<footer>` tags are like `<p>` tags, indicating the sections that the text on our page are in.
   * For each tag, we can add a `style` attribute, with the value being a list of CSS key-value properties, separated by semicolons. Here, we're setting the `font-size` for each tag, and aligning the text in the center.
   * Note that we can use `&#169;`, an **HTML entity**, as a code to include some symbol in our web page.
 * We can align all the text at once:
+
   ```html
   <!DOCTYPE html>
 
@@ -201,15 +214,16 @@ Watch the lecture by clicking the image below.
       </body>
   </html>
   ```
+
   * Here, the style applied to the `<body>` tag cascades, or applies, to its children, so all the sections inside will have centered text as well.
 * To factor out, or separate our CSS from HTML, we can include styles in the `<head>` tag:
+
   ```html
   <!DOCTYPE html>
 
   <html lang="en">
       <head>
           <style>
-
               header
               {
                   font-size: large;
@@ -244,6 +258,7 @@ Watch the lecture by clicking the image below.
       </body>
   </html>
   ```
+  
   * For each _type_ of tag, we've used a CSS **type selector** to style it.
 * We can also use a more specific **class selector**:
   ```html
