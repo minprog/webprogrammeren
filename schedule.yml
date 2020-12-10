@@ -1,26 +1,17 @@
+Week 0:
+    "Lees allereerst even rustig de studiewijzer door": /syllabus
 Week 1:
-    (groep) Projectregistratie:
-        "Registratie": /project/registratie
-    (individueel) Homepage:
-        "Lecture: web": /lectures/web
-        Implementeer Homepage: /problems/homepage
-    (individueel) Finance:
-        "Lecture: web programming": /lectures/web-programming
-        "Lecture: sql": /lectures/sql
-        Implementeer Finance: /problems/finance
-    (groep) Projectvoorstel:
-        "Voorstel": /project/voorstel
+    SQL:
+        "Lecture": /lectures/sql
+        "Problem: Movies":  /problems/movies
+        "Problem: Fiftyville": /problems/fiftyville
+    "HTML, CSS & JavaScript":
+        "Lecture": /lectures/html
+        "Problem: Homepage": /problems/homepage
 Week 2:
-    (individueel) Finance:
-        "Lecture: web programming": /lectures/web-programming
-        "Lecture: sql": /lectures/sql
-        Implementeer Finance: /problems/finance
-    (groep) Technisch ontwerp:
-        "Ontwerp": /project/technisch-ontwerp
-    (groep) Prototype (deadline wo 22 jan):
-        "Prototype": /project/prototype
-    (optioneel) Git lecture:
-        "Lecture: Git": /lectures/git
+    Flask:
+        "Lecture": /lectures/flask
+        "Problem: Finance": /problems/finance
 Week 4:
     Oplevering (deadline wo 29 jan):
         "Oplevering": /project/oplevering
