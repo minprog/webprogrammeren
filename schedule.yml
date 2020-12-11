@@ -12,7 +12,8 @@ Week 2:
     Flask:
         "Lecture": /lectures/flask
         "Problem: Finance": /problems/finance
-    "(Groep) projectidee": "/project/idee"
+    Project:
+        "(Groep) Idee": "/project/idee"
 Week 4:
     Oplevering (deadline wo 29 jan):
         "Oplevering": /project/oplevering
