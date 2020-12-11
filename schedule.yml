@@ -13,8 +13,8 @@ Week 2:
         "Lecture": /lectures/flask
         "Problem: Finance": /problems/finance
     Project:
-        "(Groep) Idee [dinsdag 11:00 - 13:00]": "/project/idee"
-        "(Groep) Voorstel [donderdag 10:00 - 13:00]": "/project/voorstel"
+        "Idee (dinsdag 11:00 - 13:00)": "/project/idee"
+        "Voorstel (donderdag 10:00 - 13:00)": "/project/voorstel"
 Week 4:
     Oplevering (deadline wo 29 jan):
         "Oplevering": /project/oplevering
