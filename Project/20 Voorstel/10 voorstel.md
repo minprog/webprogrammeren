@@ -1,6 +1,6 @@
 # Projectvoorstel
 
-In de eerste dagen ga je een projectvoorstel maken. Dit document dient ervoor om te zorgen dat de groep het zelfde doel nastreeft, en om te zorgen dat assistenten en docenten een goede inschatting kunnen maken over de complexiteit van het project: is het te veel of misschien juist te weinig werk?
+Nu is het tijd om een voorstel te schrijven. Dit document dient ervoor om te zorgen dat de groep hetzelfde doel nastreeft, en om te zorgen dat assistenten en docenten een goede inschatting kunnen maken over de complexiteit van het project: is het te veel of misschien juist te weinig werk?
 
 Je gaat je voorstel schrijven in "Markdown", een manier om snel teksten te schrijven met opmaak voor een HTML-browser. Zie [Markdown](/naslag/markdown) voor de documentatie.
 
@@ -41,15 +41,21 @@ Producten zijn altijd een combinatie van allerlei *features*. die beschrijven wa
 
 In je document neem je een lijst features op. De meeste features moeten ook zichbaar zijn in de schetsen. Waarschijnlijk moet je (terwijl je met je team discussieert) een beetje heen en weer springen tussen schetsen maken en features verzinnen.
 
-## Minimum viable product
+### Minimum viable product
 
 We willen graag een *product* maken dat aan de eisen voldoet. Waarschijnlijk heb je al extra features bedacht of zijn er dingen waar je als groep over twijfelt. 
 
 Om te zorgen dat je uiteindelijk wel een product oplevert dat "klopt", kun je nu al markeren welke combinatie van features nodig is voor het *minimum viable product* (MVP). Andere features zijn dan optioneel.
 
+### Features toekennen
+
+Zoals ook in het projectidee staat, moet ieder lid van het team één verticale feature uitwerken. Dit is dan ook het moment om de taken te verdelen en ieder lid verantwoordelijk te maken voor één feature. Geef in het voorstel duidelijk aan wie welke feature gaat bouwen. Het kan zo zijn dat het minimal viable product te weinig verticale features heeft om te verdelen, in dat geval moet er wellicht een feature bijkomen zodat aan deze projecteis wordt voldaan.
+
+Let op, uiteindelijk leveren jullie als team een project op en dat project wordt beoordeeld en becijferd. Jullie dragen dus samen de verantwoordelijkheid voor het eindproduct. Het is daarom belangrijk elkaar te helpen en goed te overleggen, ook bij de features die individueel worden uitgewerkt. Zoek elkaar online op en stel vragen.
+
 ## Afhankelijkheden
 
-Nu je dit hebt gedaan (en je hebt inmiddels ook een beetje een beeld van hoe webapplicaties in elkaar zitten) kun je een eerste lijst van afhankelijkheden maken: dingen die je niet zelf programmeert maar wel moet gebruiken, begrijpen of regelen.
+Nu je de features op een rijtje hebt, en je hebt inmiddels ook een beetje een beeld van hoe webapplicaties in elkaar zitten, kun je een eerste lijst van afhankelijkheden maken: dingen die je niet zelf programmeert maar wel moet gebruiken, begrijpen of regelen.
 
 - Maak een lijst van de **databronnen** die je gekozen hebt voor je project, bijvoorbeeld de URL van een website waar je de API kunt vinden.
 
@@ -61,7 +67,7 @@ Nu je dit hebt gedaan (en je hebt inmiddels ook een beetje een beeld van hoe web
 
 ## Sanity check
 
-Check, voordat je verder gaat, of je voorgestelde applicatie klopt met de projecteisen zoals ze in de [studiewijzer](/) staan. En laat iemand van buiten je groep nog een keer je voorstel bekijken, dan kun je onduidelijkheden en spelfouten nog verbeteren. Vergeet ten slotte niet om in het document netjes de naam van de applicatie en de namen van de groepsleden op te nemen!
+Check, voordat je verder gaat, of je voorgestelde applicatie klopt met de projecteisen zoals ze in de [studiewijzer](/syllabus) staan. En laat iemand van buiten je groep nog een keer je voorstel bekijken, dan kun je onduidelijkheden en spelfouten nog verbeteren. Vergeet ten slotte niet om in het document netjes de naam van de applicatie en de namen van de groepsleden op te nemen!
 
 ## Submit
 
