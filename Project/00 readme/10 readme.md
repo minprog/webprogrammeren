@@ -21,7 +21,7 @@ In drie weken tijd van een vaag idee naar een concrete uitwerking met z'n vijven
 Hier ben je vanaf week 2 mee bezig.
 
 # (Technische) begeleiding
-Tijdens het project is er iedere middag assistentie via de hands op deze website. Zoals je begrijpt zijn het type vragen bij een projectsvak als dit wat groter dan bij een introductievak zoals Programmeren voor Informatiekunde. Daarom kan het weleens zo zijn dat je langer moet wachten voordat je geholpen kan worden. Het is dus extra belangrijk dat je goed om hulp vraagt bij je teamgenoten. Zo zorg je er ook voor dat je beter geholpen kan worden door een assistent. Nodig je teamgenoten ook uit als je een vraag via hands stelt
+Tijdens het project is er iedere middag assistentie via de Hands op deze website. Zoals je begrijpt zijn het type vragen bij een projectsvak als dit wat groter dan bij een introductievak zoals Programmeren voor Informatiekunde. Daarom kan het zo zijn dat je langer moet wachten voordat je geholpen wordt. Het is dus extra belangrijk dat je goed om hulp vraagt bij je teamgenoten. Zo zorg je er ook voor dat je beter geholpen kan worden door een assistent. Nodig je teamgenoten ook uit als je een vraag via hands stelt
 
 Naast Hands is er ook weer Ed, een forum voor codevragen. Probeer hier waar mogelijk gebruik van te maken. Want hoewel veel problemen aanvoelen als uniek voor één project, zul je zien dat het merendeel tegen dezelfde problemen aanloopt en jullie elkaar dus erg goed kunnen helpen.
 
