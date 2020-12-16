@@ -31,7 +31,7 @@ Om deze cursus te kunnen halen, verwachten we een aantal dingen van je.
 
 * We verwachten dat je ongeveer 40 uur per week aan dit vak besteedt. Programmeren leer je door te doen en dat kost veel tijd. Houd hier rekening mee!
 
-* We verwachten dat je tijdens het project met je team dagelijks (online) bijeenkomt en de aanwezigheid documenteert door het posten van een groepsselfie in Slack.
+* We verwachten dat je tijdens het project met je team dagelijks (online) bijeenkomt en de aanwezigheid documenteert.
 
 * We verwachten dat je dagelijks goed beschikbaar bent voor je groepsgenoten en je mentor, en dat je op tijd bent bij afspraken.
 
