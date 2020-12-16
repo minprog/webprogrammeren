@@ -12,13 +12,16 @@ Jelle van Assema (docent)
 
 **assistenten**  
 Maythe Dirkzwager<br/>
-Nina van Liebergen<br/>
+Marijn Doeve<br/>
 Rachel de Haan<br/>
 Friso Harlaar<br/>
 Jasper van der Heide<br/>
 Maik Larooij<br/>
+Nina van Liebergen<br/>
 Mijntje Meijer<br/>
+Björn Out<br/>
 Robert van Straten<br/>
+
 
 ## Wat ga je doen?
 
@@ -51,7 +54,7 @@ Er zijn geen hoorcolleges bij dit vak, maar wel vooropgenomen videocolleges die 
 
 ## Aanwezigheid
 
-Vanaf de derde week ben je verplicht aanwezig bij een **dagelijkse groepsmeeting** via Zoom en die gedocumenteerd wordt door middel van een dagelijkse groepsfoto. Daarnaast moeten alle teamleaden gezamenlijk aanwezig zijn bij alle **voortgangsgesprekken**.
+Dit is een kort vak met een full-time studielast. Daarom verwachten we dat je bij alle activiteiten aanwezig bent. Specifiek ben je vanaf de derde week verplicht aanwezig bij een **dagelijkse groepsmeeting** via Zoom en die gedocumenteerd wordt door middel van een dagelijkse groepsfoto. Daarnaast moeten alle teamleaden gezamenlijk aanwezig zijn bij alle **voortgangsgesprekken**.
 
 Als je een keer ziek bent meld je dit op de dag van ziek worden en hou je je mentor op de hoogte via Slack. Als iemand uit het team niet aanwezig is voor het voortgangsgesprek dan komt de rest dit direct melden en wordt er ter plekke een nieuwe afspraak gemaakt.
 
@@ -95,21 +98,18 @@ Lever je dus alle opdrachten compleet en werkend in, dan heb je al 50% van het e
 
 We willen graag dat je leert om kleine websites te bouwen die werken met een database. We focussen op het hergebruiken van online datasets en applicaties met meerdere gelijktijdige gebruikers.
 
-- twee individuele opdrachten (20%)
+- individuele opdrachten
     - leren hoe je websites kan maken die passen in het Flask-framework
     - leren schrijven van SQL-queries voor het manipuleren van databases
     - leren hoe communicatie tussen een webbrowser en een webserver in elkaar steekt
     - leren over basis-beveiling van websites
     - leren hoe je HTML-pagina's schrijft en opmaakt met CSS
-- een programmeerproject in teams van drie studenten (70%)
+- een programmeerproject in teams van vijf studenten
     - leren hoe je de functionaliteit van een nieuwe website kunt vastleggen
     - leren hoe je een technisch ontwerp maakt voor een grotere website
     - leren hoe je met meerdere mensen code voor een website kunt delen via Git
     - kennis maken met het werken in teamverband en projectmatig werken
     - leren hoe je een project kunt opdelen om een tijdsplanning te maken
-- een individueel reflectieverslag over het groepsproces (10%)
-    - kennis maken met groepsprocessen
-    - nadenken over je eigen rol in de groep
 
 ## Samenwerken, fraude en plagiaat
 
@@ -174,4 +174,4 @@ Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen va
 
 * Naar de oplossing voor een opdracht van iemand anders kijken, en vervolgens jouw oplossing daarop baseren.
 
-In alle gevallen volgen we de plagiaatregeling van de Universiteit van Amsterdam en de richtlijnen van de bachelor Kunstmatige Intelligentie. Deze vind je [hier](http://uva.nl/plagiaat).
+In alle gevallen volgen we de plagiaatregeling van de Universiteit van Amsterdam en de richtlijnen van de bachelor Informatiekunde. Deze vind je [hier](http://uva.nl/plagiaat).
