@@ -25,6 +25,8 @@ Robert van Straten<br/>
 
 ## Wat ga je doen?
 
+Dit vak kent twee delen die ieder grofweg twee weken duren. In het eerste deel maak je verschillende programmeeropdrachten die je wegwijs maken in het webprogrammeren. Zo ga je queries schrijven in SQL, webpagina's maken met HTML, CSS & JavaSript, en je eigen webserver maken met Flask. Deze opdrachten mogen in tweetallen gemaakt worden. In het tweede deel ga je met een team van vijf studenten een eigen webproject uitwerken. Hieronder vind je de gehele tijdlijn en alle deadlines.
+
 | Week 1                            | Deadline                      |  
 | --------------------------------- | ----------------------------- |  
 | Movies                            | dinsdag 5 januari 18:00       |  
@@ -43,7 +45,7 @@ Robert van Straten<br/>
 
 ## Video Lectures
 
-Er zijn geen hoorcolleges bij dit vak, maar wel vooropgenomen videocolleges die je voor iedere opdracht kijkt. 
+Behalve het intro-college zijn er geen hoorcolleges bij dit vak, maar wel vooropgenomen videocolleges die je voor iedere opdracht kijkt. 
 
 | Onderwerp                    |
 | ---------------------------- |
