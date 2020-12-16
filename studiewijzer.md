@@ -124,7 +124,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - hele nare bugs
 - aanmelden via [Calendly](https://calendly.com/proglab/helpdesk)
 
-**Mail:** contact met de vakcoördinatoren via <help@mprog.nl>.
+**Mail:** contact met de vakcoördinatoren via <progik@mprog.nl>.
 
 - maken van persoonlijke planningsafspraken
 - meedenken over grote problemen met het vak
