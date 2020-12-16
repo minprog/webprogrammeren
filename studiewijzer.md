@@ -72,12 +72,12 @@ Dit vak kent twee delen die ieder grofweg twee weken duren. In het eerste deel m
 Let op, na vrijdag 15 januari 18:00 kunnen er geen opdrachten meer worden ingeleverd. Vanaf dat moment begint het project voor iedereen.
 
 
-## Hoe werken de opdrachten?
+### Hoe werken de opdrachten?
 
 Gedurende de eerste twee weken maak je een totaal van vier opdrachten. Ieder van deze opdrachten mag je samen met één andere student maken. Alle opdrachten, videocolleges en inleverpunten vind je in de kantlijn van deze website. Iedere dag is er in de middag assistentie beschikbaar en is er een wekelijkse werkgroep met de twee mentoren die je begeleiden tijdens het vak.
 
 
-## Hoe loopt het project?
+### Hoe loopt het project?
 
 De eerste stappen van het project zet je in week 2 van het vak. Daar zijn twee vaste momenten om het idee en het voorstel uit te werken. Vanaf week 3 begint het programmeren en ben je dagelijks in contact met je team via een gedocumenteerde groepsmeeting in de ochtend. Na ieder inlevermoment is er een voortgangsgesprek met de twee mentoren die je begeleiden tijdens het vak. Ook is er weer iedere middag assistentie in dezelfde vormen als tijdens de opdrachten.
 
