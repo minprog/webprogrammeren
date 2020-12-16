@@ -84,7 +84,7 @@ De eerste stappen van het project zet je in week 2 van het vak. Daar zijn twee v
 
 ## Aanwezigheid
 
-Dit is een kort vak met een full-time studielast. Daarom verwachten we dat je bij alle activiteiten aanwezig bent. Specifiek ben je vanaf de derde week verplicht aanwezig bij een **dagelijkse groepsmeeting** via Zoom en die gedocumenteerd wordt door middel van een dagelijkse groepsfoto. Daarnaast moeten alle teamleaden gezamenlijk aanwezig zijn bij alle **voortgangsgesprekken**.
+Dit is een kort vak met een full-time studielast. Daarom verwachten we dat je bij alle activiteiten aanwezig bent. Specifiek ben je vanaf de derde week verplicht aanwezig bij een **dagelijkse groepsmeeting** via Zoom en die gedocumenteerd wordt door middel van een dagelijkse groepsfoto. Daarnaast moeten alle teamleden gezamenlijk aanwezig zijn bij alle **voortgangsgesprekken**.
 
 Als je een keer ziek bent meld je dit op de dag van ziek worden en hou je je mentor op de hoogte via Slack. Als iemand uit het team niet aanwezig is voor het voortgangsgesprek dan komt de rest dit direct melden en wordt er ter plekke een nieuwe afspraak gemaakt.
 
