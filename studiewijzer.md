@@ -82,18 +82,6 @@ Gedurende de eerste twee weken maak je een totaal van vier opdrachten. Ieder van
 De eerste stappen van het project zet je in week 2 van het vak. Daar zijn twee vaste momenten om het idee en het voorstel uit te werken. Vanaf week 3 begint het programmeren en ben je dagelijks in contact met je team via een gedocumenteerde groepsmeeting in de ochtend. Na ieder inlevermoment is er een voortgangsgesprek met de twee mentoren die je begeleiden tijdens het vak. Ook is er weer iedere middag assistentie in dezelfde vormen als tijdens de opdrachten.
 
 
-## Videocolleges
-
-Behalve het intro-college in week 1 & 2, zijn er geen hoorcolleges bij dit vak, maar wel vooropgenomen videocolleges die je voor iedere opdracht kijkt. 
-
-| Onderwerp                    |
-| ---------------------------- |
-| SQL                          |
-| HTML, CSS & JavaScript       | 
-| Flask                        | 
-| Git                          |
-
-
 ## Aanwezigheid
 
 Dit is een kort vak met een full-time studielast. Daarom verwachten we dat je bij alle activiteiten aanwezig bent. Specifiek ben je vanaf de derde week verplicht aanwezig bij een **dagelijkse groepsmeeting** via Zoom en die gedocumenteerd wordt door middel van een dagelijkse groepsfoto. Daarnaast moeten alle teamleaden gezamenlijk aanwezig zijn bij alle **voortgangsgesprekken**.
