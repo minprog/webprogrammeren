@@ -19,8 +19,6 @@ How will you go about solving this mystery? The Fiftyville authorities have take
 Here's how to download this problem into your own CS50 IDE. Log into [CS50 IDE](https://ide.cs50.io/) and then, in a terminal window, execute each of the below.
 
 * Execute `cd` to ensure that you're in `~/` (i.e., your home directory, aka `~`).
-* If you haven't already, execute `mkdir pset7` to make (i.e., create) a directory called `pset7` in your home directory.
-* Execute `cd pset7` to change into (i.e., open) that directory.
 * Execute `wget https://webik.mprog.nl/course/problems/1%20fiftyville/fiftyville.zip` to download a (compressed) ZIP file with this problem's distribution.
 * Execute `unzip fiftyville.zip` to uncompress that file.
 * Execute `rm fiftyville.zip` followed by `yes` or `y` to delete that ZIP file.

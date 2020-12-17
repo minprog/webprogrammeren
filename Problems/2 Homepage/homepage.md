@@ -17,8 +17,6 @@ Create a simple homepage that introduces yourself, your favorite hobby or extrac
 Here's how to download this problem's "distribution code" (i.e., starter code) into your own CS50 IDE. Log into [CS50 IDE](https://ide.cs50.io/) and then, in a terminal window, execute each of the below.
 
 1. Execute `cd` to ensure that you're in `~/` (i.e., your home directory).
-1. Execute `mkdir pset8` to make (i.e., create) a directory called `pset8` in your home directory.
-1. Execute `cd pset8` to change into (i.e., open) that directory.
 1. Execute `wget https://webik.mprog.nl/course/problems/2%20homepage/homepage.zip` to download a (compressed) ZIP file with this problem's distribution.
 1. Execute `unzip homepage.zip` to uncompress that file.
 1. Execute `rm homepage.zip` followed by `yes` or `y` to delete that ZIP file.
