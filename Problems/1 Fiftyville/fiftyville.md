@@ -57,3 +57,9 @@ check50 minprog/todo
 ## Acknowledgements
 
 Inspired by another case over at [SQL City](http://mystery.knightlab.com/).
+
+## Collaboration notice
+
+If you've collaborated with another student on this problem, please note their full name (first and last) below. Otherwise it suffices to simply note: `-`
+
+<textarea name="form[partner]" rows="1" required></textarea>

@@ -90,3 +90,8 @@ For fairly comprehensive guides on the languages introduced in this problem, che
 * [JavaScript](https://www.w3schools.com/js/)
 
 
+## Collaboration notice
+
+If you've collaborated with another student on this problem, please note their full name (first and last) below. Otherwise it suffices to simply note: `-`
+
+<textarea name="form[partner]" rows="1" required></textarea>

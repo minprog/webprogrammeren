@@ -282,3 +282,9 @@ By default, `flask` looks for a file called `application.py` in your current wor
 
 If, upon running `flask`, you see this error, odds are you (still) have `flask` running in another tab. Be sure to kill that other process, as with ctrl-c, before starting `flask` again. If you haven't any such other tab, execute `fuser -k 8080/tcp` to kill any processes that are (still) listening on TCP port 8080.
 
+
+## Collaboration notice
+
+If you've collaborated with another student on this problem, please note their full name (first and last) below. Otherwise it suffices to simply note: `-`
+
+<textarea name="form[partner]" rows="1" required></textarea>
