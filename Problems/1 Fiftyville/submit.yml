@@ -1,4 +1,4 @@
-name: movies
+name: fiftyville
 files:
     required:
         - log.sql
