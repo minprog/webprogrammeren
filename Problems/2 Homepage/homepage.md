@@ -1,5 +1,8 @@
 # Homepage
 
+> Voor deze opdracht raden we je aan samen te werken met één andere student. Zie voor de precieze instructies de [samenwerken pagina](/naslag/samenwerken). Werk je samen aan de opdracht, dan is het belangrijk dat jullie allebei elkaars naam en studentnummer melden bij het inleveren van de opdracht. Dat doe je onderaan deze pagina. Anders kan het voorkomen dat je opdracht onterecht uit de plagiaatscan komt rollen.
+{:.bg-light}
+
 Build a simple homepage using HTML, CSS, and JavaScript.
 
 ## Background
@@ -92,6 +95,10 @@ For fairly comprehensive guides on the languages introduced in this problem, che
 
 ## Collaboration notice
 
-If you've collaborated with another student on this problem, please note their full name (first and last) below. Otherwise it suffices to simply note: `-`
+If you've collaborated with another student on this problem, please note their full name (first and last), and their student number below. Otherwise it suffices to simply note: `-`
 
+Full name:
+<textarea name="form[partner]" rows="1" required></textarea>
+
+Student number:
 <textarea name="form[partner]" rows="1" required></textarea>
