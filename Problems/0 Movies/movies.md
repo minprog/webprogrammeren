@@ -133,3 +133,9 @@ Information courtesy of
 IMDb
 (<http://www.imdb.com>).
 Used with permission.
+
+## Collaboration notice
+
+If you've collaborated with another student on this problem, please note their full name (first and last) below. Otherwise it suffices to simply note `-`.
+
+<textarea name="form[partner]" rows="1" required></textarea>
