@@ -10,13 +10,12 @@ Een eerlijke taakverdeling is belangrijk, maar gaat nooit helemaal lukken in een
 # Projectvormgeving
 In drie weken tijd van een vaag idee naar een concrete uitwerking met z'n vijven is niet makkelijk. Daarbij gaan we je helpen door milestones te stellen waarin je het idee steeds verder uitwerkt. Iedere milestone is een "deliverable" en lever je op deze website in. Hieronder vind je alle milestones voor het project:
 
-* Idee
-* Voorstel
-* Technisch ontwerp
-* Alpha
-* Beta
-* Final
-* Oplevering
+* [Idee](/milestones/idee)
+* [Voorstel](/milestones/voorstel)
+* [Alpha](/milestones/alpha)
+* [Beta](/milestones/beta)
+* [Final](/milestones/final)
+* [Oplevering](/milestones/oplevering)
 
 Hier ben je vanaf week 2 mee bezig.
 
