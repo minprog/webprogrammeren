@@ -1,6 +1,6 @@
 # Beta
 
-Bij deze milestone moeten alle noodzakelijke features (en bugs) bestaan. Het Minimal Viable Product is compleet en iedereens eigen features is geïmplementeerd. Ook zijn alle individuele features samengevoegd in één website. Er mogen ruwe kanten aan het project zitten en wellicht is nog niet alles even goed samengevoegd, maar alle noodzakelijke componenten bestaan. Deze milestone wordt weer besproken in een voortgangsgesprek.
+Bij deze milestone moeten alle noodzakelijke features (en bugs) bestaan. Het Minimal Viable Product is compleet en iedereens eigen feature is geïmplementeerd. Ook zijn alle individuele features samengevoegd in één website. Er mogen ruwe kanten aan het project zitten en wellicht is nog niet alles even goed samengevoegd, maar alle noodzakelijke componenten bestaan. Deze milestone wordt weer besproken in een voortgangsgesprek.
 
 Vanaf deze milestone verschuift de focus naar het afleveren van een eindproduct. Dat maakt de Beta milestone het einde van nieuwe features. Zo ben je vanaf nu bezig met het "polishen" en vooral testen van bestaande functionaliteit.
 
