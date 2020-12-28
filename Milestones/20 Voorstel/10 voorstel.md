@@ -71,8 +71,4 @@ Check, voordat je verder gaat, of je voorgestelde applicatie klopt met de projec
 
 ## Submit
 
-Je kunt Markdown-documenten ook in Slack posten. Zet het definitieve document dus in het kanaal van je groep zodat de docenten dit kunnen bekijken. We bespreken het bij de afspraak op donderdag/vrijdag. Vergeet niet om de schetsen er ook bij te zetten!
-
-## Verder
-
-De volgende stap voor het project is om een *technisch ontwerpdocument* te maken. Daar vertaal je de eisen uit je projectvoorstel naar een technische opzet voor je project. Daarbij maak je gebruik van je kennis over hoe Flask-projecten in elkaar zitten.
+Je kunt Markdown-documenten ook in Slack posten. Zet het definitieve document dus in het kanaal van je groep zodat de mentoren dit kunnen bekijken. We bespreken het bij het eerste voortgangsgesprek. Vergeet niet om de schetsen er ook bij te zetten!

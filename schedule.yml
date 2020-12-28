@@ -3,23 +3,22 @@ Week 0:
 Week 1:
     SQL:
         "Lecture": /lectures/sql
-        "Problem: Movies":  /problems/movies
-        "Problem: Fiftyville": /problems/fiftyville
+        "Problem: Movies (dinsdag 18:00)":  /problems/movies
+        "Problem: Fiftyville (woensdag 18:00)": /problems/fiftyville
     "HTML, CSS & JavaScript":
         "Lecture": /lectures/html
-        "Problem: Homepage": /problems/homepage
+        "Problem: Homepage (vrijdag 18:00)": /problems/homepage
 Week 2:
     Flask:
         "Lecture": /lectures/flask
-        "Problem: Finance": /problems/finance
+        "Problem: Finance (vrijdag 18:00)": /problems/finance
     Project:
         "Leesmij": "/project/readme"
-        "Idee (dinsdag 11:00 - 13:00)": "/project/idee"
-        "Voorstel (donderdag 10:00 - 13:00)": "/project/voorstel"
+        "Idee (dinsdag 11:00 - 13:00)": "/milestones/idee"
+        "Voorstel (donderdag 10:00 - 13:00)": "/milestones/voorstel"
+Week 3:
+    "Alpha (woensdag 18:00)": "/milestones/alpha"
 Week 4:
-    Oplevering (deadline wo 29 jan):
-        "Oplevering": /project/oplevering
-    Productvideo (deadline do 30 jan):
-        "Productvideo": /project/video
-    Eindpresentatie (vr 31 jan):
-        "Presentatie": /project/presentatie
+    "Beta (maandag 18:00)": "/milestones/beta"
+    "Final (woensdag 23:59)": "/milestones/final"
+    "Oplevering (vrijdag 23:59" "/milestones/oplevering"

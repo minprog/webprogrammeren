@@ -50,4 +50,4 @@ Spring met je groepje in een Zoom-sessie en overleg jullie idee voor een project
 
 Druk nu op de recordknop in Zoom en neem in maximaal (harde grens) 60 seconden je elevator-pitch op. Misschien dat je het een keertje opnieuw wilt doen, maar doe het niet vaker dan dat. Upload je video hier: https://video.uva.nl/ en deel de video-url samen met de naam van je project in het slack kanaal van jouw groep op [webik.slack.com](https://webik.slack.com).
 
-Vervolgens wordt je pitch bekeken en krijg je van ons feedback en vragen naar aanleiding van jullie idee. Tijdens het eerste voortgangsgesprek wordt dit in detail besproken.
+Vervolgens wordt je pitch bekeken en krijg je van ons feedback en vragen naar aanleiding van je idee. Tijdens het eerste voortgangsgesprek wordt dit in detail besproken.
