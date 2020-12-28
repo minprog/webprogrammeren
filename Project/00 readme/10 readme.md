@@ -16,7 +16,7 @@ In drie weken tijd van een vaag idee naar een concrete uitwerking met z'n vijven
 * Alpha
 * Beta
 * Final
-* Aflevering
+* Oplevering
 
 Hier ben je vanaf week 2 mee bezig.
 
