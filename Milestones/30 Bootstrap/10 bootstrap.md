@@ -87,3 +87,8 @@ Vervolgens kan je Finance draaien met:
         flask run
 
 Wellicht dat je eerst nog een API_KEY moet `export`en. Zie daarvoor de [Finance opdracht](/problems/finance).
+
+
+## Inleveren
+
+Staat alle Finance code op GitHub, deel dan hieronder de GitHub-url van jullie repo.
