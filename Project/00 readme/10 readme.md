@@ -12,6 +12,7 @@ In drie weken tijd van een vaag idee naar een concrete uitwerking met z'n vijven
 
 * [Idee](/milestones/idee)
 * [Voorstel](/milestones/voorstel)
+* [Bootstrap](/milestones/bootstrap)
 * [Alpha](/milestones/alpha)
 * [Beta](/milestones/beta)
 * [Final](/milestones/final)

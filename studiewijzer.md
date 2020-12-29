@@ -62,12 +62,13 @@ Dit vak kent twee delen die ieder grofweg twee weken duren. In het eerste deel m
 | Projectidee                       | dinsdag 12 januari 13:00      |  
 | Projectvoorstel                   | donderdag 14 januari 13:00    |
 | Finance                           | vrijdag 15 januari 18:00      | 
-| **Week 3**                        | **Deadline**                  |  
-| Alpha                             | Woensdag 19 januari 18:00     |  
+| **Week 3**                        | **Deadline**                  | 
+| Bootstrap                         | Maandag 18 januari 13:00      |  
+| Alpha                             | Woensdag 20 januari 18:00     |  
 | **Week 4**                        | **Deadline**                  |  
-| Beta                              | Maandag 24 januari 18:00      |  
-| Final                             | Woensdag 26 januari 23:59     |
-| Oplevering                        | Vrijdag 28 januari 23:59      |
+| Beta                              | Maandag 25 januari 18:00      |  
+| Final                             | Woensdag 27 januari 23:59     |
+| Oplevering                        | Vrijdag 29 januari 23:59      |
 
 Let op, na vrijdag 15 januari 18:00 kunnen er geen opdrachten meer worden ingeleverd. Vanaf dat moment begint het project voor iedereen.
 
