@@ -57,7 +57,7 @@ Dit vak kent twee delen die ieder grofweg twee weken duren. In het eerste deel m
 | --------------------------------- | ----------------------------- |  
 | Movies                            | dinsdag 5 januari 18:00       |  
 | Fiftyville                        | woensdag 6 januari 18:00      |  
-| Homepage                          | vrijdag 8 januari 18:00       |  
+| Profile                           | vrijdag 8 januari 18:00       |  
 | **Week 2**                        | **Deadline**                  |  
 | Projectidee                       | dinsdag 12 januari 13:00      |  
 | Projectvoorstel                   | donderdag 14 januari 13:00    |

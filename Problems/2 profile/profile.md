@@ -1,9 +1,10 @@
-# Homepage
+# Profile
 
 > Voor deze opdracht raden we je aan samen te werken met één andere student. Zie voor de precieze instructies de [samenwerken pagina](/naslag/samenwerken). Werk je samen aan de opdracht, dan is het belangrijk dat jullie allebei elkaars naam en studentnummer melden bij het inleveren van de opdracht. Dat doe je onderaan deze pagina. Anders kan het voorkomen dat je opdracht onterecht uit de plagiaatscan komt rollen.
 {:.bg-light}
 
-Build a simple homepage using HTML, CSS, and JavaScript.
+Build a simple profile page using HTML, CSS, and JavaScript.
+
 
 ## Background
 
@@ -13,18 +14,19 @@ The internet has enabled incredible things: we can use a search engine to resear
 1. CSS, _Cascading Style Sheets_, which is used to describe the aesthetics of websites; and
 1. JavaScript, which is used to make websites interactive and dynamic.
 
-Create a simple homepage that introduces yourself, your favorite hobby or extracurricular, or anything else of interest to you.
+Create a simple profile page that introduces yourself, your favorite hobby or extracurricular, your interests (music, books, food) and/or your motivation to study Information Science.
+
 
 ## Getting Started
 
 Here's how to download this problem's "distribution code" (i.e., starter code) into your own CS50 IDE. Log into [CS50 IDE](https://ide.cs50.io/) and then, in a terminal window, execute each of the below.
 
 1. Execute `cd` to ensure that you're in `~/` (i.e., your home directory).
-1. Execute `wget https://webik.mprog.nl/course/problems/2%20homepage/homepage.zip` to download a (compressed) ZIP file with this problem's distribution.
-1. Execute `unzip homepage.zip` to uncompress that file.
-1. Execute `rm homepage.zip` followed by `yes` or `y` to delete that ZIP file.
-1. Execute `ls`. You should see a directory called `homepage`, which was inside of that ZIP file.
-1. Execute `cd homepage` to change into that directory.
+1. Execute `wget https://webik.mprog.nl/course/problems/2%20profile/profile.zip` to download a (compressed) ZIP file with this problem's distribution.
+1. Execute `unzip profile.zip` to uncompress that file.
+1. Execute `rm profile.zip` followed by `yes` or `y` to delete that ZIP file.
+1. Execute `ls`. You should see a directory called `profile`, which was inside of that ZIP file.
+1. Execute `cd profile` to change into that directory.
 1. Execute `ls`. You should see this problem's distribution, including `index.html` and `styles.css`.
 1. You can immediately start a server to view the site by running
 
@@ -32,11 +34,13 @@ Here's how to download this problem's "distribution code" (i.e., starter code) i
 
 in the terminal window and clicking on the link that appears.
 
+
 ## Specification
 
-Implement in your `homepage` directory a website that must:
+Implement in your `profile` directory a website that must:
 
 *   Contain at least four different `.html` pages, at least one of which is `index.html` (the main page of your website), and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
+*   `index.html` should include a profile picture, your name, and a short description of you and your interests. During the course we'll create a face book of sorts that combines all these pages. This face book will be shared among this year's cohort of students. Do note that if you feel uncomfortable sharing personal images or details, you are welcome to use an avatar picture instead, or to opt-out all together by mailing the staff at progik@mprog.nl.
 *   Use at least ten (10) distinct HTML tags besides `<html>`, `<head>`, `<body>`, and `<title>`. Using some tag (e.g., `<p>`) multiple times still counts as just one (1) of those ten!
 *   Integrate one or more features from Bootstrap into your site. Bootstrap is a popular library (that comes with lots of CSS classes and more) via which you can beautify your site. See [Bootstrap's documentation](https://getbootstrap.com/docs/4.5/) to get started. In particular, you might find some of [Bootstrap's components](https://getbootstrap.com/docs/4.5/components/) of interest. To add Bootstrap to your site, it suffices to include
 
@@ -58,11 +62,11 @@ Implement in your `homepage` directory a website that must:
 
 If you want to view how your site looks while you work on it, there are two options:
 
-1.  Within CS50 IDE, navigate to your `homepage` directory (remember how?) and then execute
+1.  Within CS50 IDE, navigate to your `profile` directory (remember how?) and then execute
 
         $ http-server
 
-1.  Within CS50 IDE, right-click (or Ctrl+click, on a Mac) on the `homepage` directory in the file tree at left. From the options that appear, select **Serve**, which should open a new tab in your browser (it may take a second or two) with your site therein.
+1.  Within CS50 IDE, right-click (or Ctrl+click, on a Mac) on the `profile` directory in the file tree at left. From the options that appear, select **Serve**, which should open a new tab in your browser (it may take a second or two) with your site therein.
 
 Recall also that by opening Developer Tools in Google Chrome, you can _simulate_ visiting your page on a mobile device by clicking the phone-shaped icon to the left of **Elements** in the developer tools window, or, once the Developer Tools tab has already been opened, by typing `Ctrl`+`Shift`+`M` on a PC or `Cmd`+`Shift`+`M` on a Mac, rather than needing to visit your site on a mobile device separately!
 
