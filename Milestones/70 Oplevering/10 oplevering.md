@@ -29,6 +29,6 @@ Daarom is het dus belangrijk dat je een licentie kiest. Om een goede inschatting
 
 ## Puntjes op de i
 
-Naast de screencast, readme en licentie, is dit het aangewezen moment om de kwaliteit van het project op te poetsen. Zorg ervoor dat de fonts overal kloppen, de knoppen goed zijn uitgelijnd etc. En let natuurlijk ook op de code. De afgelopen maanden ben je veel aan de slag geweest met codekwaliteit, en dit is het moment om die kennis in te zetten. Dus zet comments waar ze nodig zijn, haal ongebruikte code weg, maak de code simpeler waar het kan, etc!
+Naast de screencast, readme en licentie, is dit het aangewezen moment om de kwaliteit van het project op te hogen. Zorg ervoor dat de fonts overal kloppen, de knoppen goed zijn uitgelijnd etc. En let natuurlijk ook op de code. De afgelopen maanden ben je veel aan de slag geweest met codekwaliteit, en dit is het moment om die kennis in te zetten. Dus zet comments waar ze nodig zijn, haal ongebruikte code weg, maak de code simpeler waar het kan, etc!
 
 > Het is heel verleidelijk om in deze fase van het project toch nog die ene feature af te maken of toe te voegen. Doe dit **niet** en steek je energie nu op het goed afronden van project. Dat heeft een groter effect op de beoordeling, en een veel kleiner risico op nachten doorhalen omdat het programmeren toch net iets langer duurde dan gedacht.
