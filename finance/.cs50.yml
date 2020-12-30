@@ -1,0 +1,9 @@
+check50:
+  dependencies:
+    - flask_session
+  files:
+    - !exclude "*.pyc"
+    - !exclude __pycache__
+    - !require application.py
+    - !require finance.db
+    - !require helpers.py
