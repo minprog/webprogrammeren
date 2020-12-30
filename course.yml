@@ -5,7 +5,7 @@ language: nl
 links:
     '[terminal] IDE': https://ide.cs50.io/
     '[book] Ed': https://us.edstem.org
-    '[chat-text] Slack': https://slack.com
+    '[chat-text] Slack': http://webik2021.slack.com/
 
 acknowledgements:
     - 'Based on CS50 from https://cs50.harvard.edu/college/2020/fall/ -- Copyright 2011--2020, David J. Malan.'
