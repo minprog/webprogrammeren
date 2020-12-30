@@ -221,13 +221,13 @@ Implement at least one personal touch of your choice:
 
 ## Walkthrough
 
-{% video https://www.youtube.com/watch?v=kAvCTffbH04 %}
+![embed](https://www.youtube.com/embed/kAvCTffbH04)
 
 ## Testing
 
 To test your code with `check50`, execute the below.
 
-    $ check50 cs50/problems/2020/fall/finance
+    $ check50 -l minprog/webprogrammeren/2020_checks/finance
 
 Be sure to test your web app manually too, as by
 

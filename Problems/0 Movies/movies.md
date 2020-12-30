@@ -128,7 +128,7 @@ Note that row counts do not include header rows that only show column names.
 Execute the below to evaluate the correctness of your code using `check50`.
 
 ```
-check50 minprog/todo
+check50 -l minprog/webprogrammeren/2020_checks/movies
 ```
 
 ## Acknowledgements
