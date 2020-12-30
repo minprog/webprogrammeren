@@ -2,4 +2,12 @@ long_name: Webprogrammeren
 short_name: WebIK2021
 language: nl
 
+links:
+    '[terminal] IDE': https://ide.cs50.io/
+    '[book] Ed': https://us.edstem.org
+    '[chat-text] Slack': https://slack.com
+
+acknowledgements:
+    - 'Based on CS50 from https://cs50.harvard.edu/college/2020/fall/ -- Copyright 2011--2020, David J. Malan.'
+
 license: <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
