@@ -12,15 +12,19 @@ Week 2:
     Flask:
         "Lecture": /lectures/flask
         "Problem: Finance (vrijdag 18:00)": /problems/finance
-    Project:
+    Project milestones:
         "Leesmij": "/project/readme"
         "Idee (dinsdag 11:00 - 13:00)": "/milestones/idee"
         "Voorstel (donderdag 10:00 - 13:00)": "/milestones/voorstel"
 Week 3:
-    "Git Lecture": "/lectures/git"
-    "Bootstrap (maandag 11:00 - 13:00)": "/milestones/bootstrap"
-    "Alpha (woensdag 18:00)": "/milestones/alpha"
+    Git:
+        "Git Lecture": "/lectures/git"
+        "Git naslag": "/naslag/git"
+    Project milestones:
+        "Bootstrap (maandag 11:00 - 13:00)": "/milestones/bootstrap"
+        "Alpha (woensdag 18:00)": "/milestones/alpha"
 Week 4:
-    "Beta (maandag 18:00)": "/milestones/beta"
-    "Final (woensdag 23:59)": "/milestones/final"
-    "Oplevering (vrijdag 23:59)": "/milestones/oplevering"
+    Project milestones:
+        "Beta (maandag 18:00)": "/milestones/beta"
+        "Final (woensdag 23:59)": "/milestones/final"
+        "Oplevering (vrijdag 23:59)": "/milestones/oplevering"
