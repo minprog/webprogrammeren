@@ -202,26 +202,11 @@ Complete the implementation of `sell` in such a way that it enables a user to se
 * Submit the user's input via `POST` to `/sell`.
 * You don't need to worry about race conditions (or use transactions).
 
-### `history`
-
-Complete the implementation of `history` in such a way that it displays an HTML table summarizing all of a user's transactions ever, listing row by row each and every buy and every sell.
-
-* For each row, make clear whether a stock was bought or sold and include the stock's symbol, the (purchase or sale) price, the number of shares bought or sold, and the date and time at which the transaction occurred.
-* You might need to alter the table you created for `buy` or supplement it with an additional table. Try to minimize redundancies.
-
-### personal touch
-
-Implement at least one personal touch of your choice:
-
-* Allow users to change their passwords.
-* Allow users to add additional cash to their account.
-* Allow users to buy more shares or sell shares of stocks they already own via `index` itself, without having to type stocks' symbols manually.
-* Require users' passwords to have some number of letters, numbers, and/or symbols.
-* Implement some other feature of comparable scope.
-
 ## Walkthrough
 
 ![embed](https://www.youtube.com/embed/kAvCTffbH04)
+
+> Note that Finance has been shortened for this course and no longer requires a history page, nor an additional "personal touch". Do just ignore these features in the video above.
 
 ## Testing
 
