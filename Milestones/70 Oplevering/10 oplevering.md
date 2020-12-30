@@ -16,6 +16,10 @@ De afgelopen weken hebben jullie samen een project gemaakt, en daarvan weet je a
 Voor instructies zie [deze GitHub pagina](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes) en [deze instructies voor leesbare READMEs](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md).
 
 
+### Wie deed wat?
+
+Voor de afronding van dit vak is het noodzakelijk dat je in de README opneemt wie welke verticale feature heeft toegevoegd. Maak daarvoor in de README een lijstje met de vijf features en vijf namen.
+
 ## Licentie
 
 Het is belangrijk om een licentie te kiezen voor je werk. Zo kan je bepalen wat er mag gebeuren met je code, en van wie het copyright is. In Nederland is copyright automatisch, als je het maakt, bezit je het copyright. Dat is niet altijd wenselijk, want het voorkomt dat anderen met jouw code kunnen werken. Zie ook [choosealicense.com/no-permission/](https://choosealicense.com/no-permission/)
