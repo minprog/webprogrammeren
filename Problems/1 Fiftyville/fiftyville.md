@@ -22,7 +22,7 @@ How will you go about solving this mystery? The Fiftyville authorities have take
 Here's how to download this problem into your own CS50 IDE. Log into [CS50 IDE](https://ide.cs50.io/) and then, in a terminal window, execute each of the below.
 
 * Execute `cd` to ensure that you're in `~/` (i.e., your home directory, aka `~`).
-* Execute `wget https://webik.mprog.nl/course/problems/1%20fiftyville/fiftyville.zip` to download a (compressed) ZIP file with this problem's distribution.
+* Execute `wget https://github.com/bjorn-out/webprogrammeren/raw/patch-1/Problems/1%20Fiftyville/fiftyville.zip` to download a (compressed) ZIP file with this problem's distribution.
 * Execute `unzip fiftyville.zip` to uncompress that file.
 * Execute `rm fiftyville.zip` followed by `yes` or `y` to delete that ZIP file.
 * Execute `ls`. You should see a directory called `fiftyville`, which was inside of that ZIP file.
