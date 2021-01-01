@@ -22,7 +22,7 @@ Create a simple profile page that introduces yourself, your favorite hobby or ex
 Here's how to download this problem's "distribution code" (i.e., starter code) into your own CS50 IDE. Log into [CS50 IDE](https://ide.cs50.io/) and then, in a terminal window, execute each of the below.
 
 1. Execute `cd` to ensure that you're in `~/` (i.e., your home directory).
-1. Execute `wget https://webik.mprog.nl/course/problems/2%20profile/profile.zip` to download a (compressed) ZIP file with this problem's distribution.
+1. Execute `wget https://github.com/minprog/webprogrammeren/raw/2020/Problems/2%20profile/profile.zip` to download a (compressed) ZIP file with this problem's distribution.
 1. Execute `unzip profile.zip` to uncompress that file.
 1. Execute `rm profile.zip` followed by `yes` or `y` to delete that ZIP file.
 1. Execute `ls`. You should see a directory called `profile`, which was inside of that ZIP file.
