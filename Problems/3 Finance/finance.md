@@ -70,7 +70,7 @@ Let's turn our attention now to this problem's distribution code!
 ### Downloading
 
 
-    $ wget https://webik.mprog.nl/course/problems/3%20finance/finance.zip
+    $ wget https://github.com/minprog/webprogrammeren/raw/2020/Problems/3%20Finance/finance.zip
     $ unzip finance.zip
     $ rm finance.zip
     $ cd finance
