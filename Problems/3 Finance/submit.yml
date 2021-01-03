@@ -4,4 +4,4 @@ files:
         - finance.zip
 check:
     tool: check50
-    slug: minprog/webprogrammeren/2020_checks/finance
+    slug: minprog/webprogrammeren/checks_2020/finance

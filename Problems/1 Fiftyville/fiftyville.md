@@ -54,7 +54,7 @@ Ultimately, you should submit both your `log.sql` and `answers.txt` files.
 Execute the below to evaluate the correctness of your code using `check50`.
 
 ```
-check50 -l minprog/webprogrammeren/2020_checks/fiftyville
+check50 -l minprog/webprogrammeren/checks_2020/fiftyville
 ```
 
 ## Acknowledgements

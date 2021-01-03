@@ -5,4 +5,4 @@ files:
         - answers.txt
 check:
     tool: check50
-    slug: minprog/webprogrammeren/2020_checks/fiftyville
+    slug: minprog/webprogrammeren/checks_2020/fiftyville
