@@ -212,7 +212,7 @@ Complete the implementation of `sell` in such a way that it enables a user to se
 
 To test your code with `check50`, execute the below.
 
-    $ check50 -l minprog/webprogrammeren/2020_checks/finance
+    $ check50 -l minprog/webprogrammeren/checks_2020/finance
 
 Be sure to test your web app manually too, as by
 
