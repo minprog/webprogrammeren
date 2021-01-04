@@ -1,43 +1,64 @@
-grades:
-    finance:
+templates:
+    1: &auto_pset
         type: float
         subgrades:
-            correctness: integer
-            score: integer
-            late: integer
+            done: boolean
         automatic:
-            correctness: correctness_score * 5
-        calculation: "correctness >= 5 && ([score / 5.0 * 9 + 1 - (late.abs < 2 ? 0 : late.abs - 2), 1].max).round(1) || 0"
-    project:
+            done: -(correctness_score.floor)
+        calculation: -(done * 10)
+        auto_publish: true
+        hide_calculated: true
+    2: &manual_pset
         type: float
         subgrades:
-            cijfer: float
-        calculation: cijfer
+            done: boolean
+        calculation: -(done * 10)
         hide_calculated: true
-        is_test: true
-    pav:
-        type: float
+    3: &milestone
+        type: pass
         subgrades:
+            done: boolean
+        calculation: done
+        is_test: true
+        hide_calculated: true
+
+grades:
+    bootstrap: *milestone
+    alpha: *milestone
+    beta: *milestone
+    final: *milestone
+    
+    movies: *auto_pset
+    fiftyville: *auto_pset
+    profile: *manual_pset
+    finance: *auto_pset
+    
+    oplevering:
+        type: float
+        subgrades: 
             cijfer: float
         calculation: cijfer
-        hide_calculated: true
         is_test: true
+        hide_calculated: true
 
 calculation:
     final:
-        psets: 20
-        project: 70
-        pav: 10
+        opdrachten: 50
+        project: 50
 
-psets:
+opdrachten:
+    show_progress: true
     submits:
-        finance: 1
+        movies: 1
+        fiftyville: 1
+        profile: 1
+        finance: 2
 
 project:
+    show_progress: true
     submits:
-        project: 1
-
-pav:
-    required: true
-    submits:
-        pav: 1
+        bootstrap: 0
+        alpha: 0
+        beta: 0
+        final: 0
+        oplevering: 1
