@@ -1,5 +1,3 @@
-from cs50 import SQL
-
 import check50
 import sqlparse
 
@@ -116,6 +114,7 @@ def test13():
         ordered=False)
 
 def run_query(filename):
+    from cs50 import SQL
     try:
         with open(filename) as f:
             query = f.read().strip()
