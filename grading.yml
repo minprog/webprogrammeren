@@ -40,11 +40,20 @@ grades:
         calculation: cijfer
         is_test: true
         hide_calculated: true
+        
+    pav:
+        type: pass
+        subgrades: 
+            done: boolean
+        calculation: done
+        is_test: true
+        hide_calculated: true
 
 calculation:
-    final:
+    eindcijfer:
         opdrachten: 50
         project: 50
+        practicum: 0
 
 opdrachten:
     show_progress: true
@@ -62,3 +71,8 @@ project:
         beta: 0
         final: 0
         oplevering: 1
+        
+practicum:
+    required: true
+    submits:
+        pav: 0
