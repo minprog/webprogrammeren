@@ -4,25 +4,26 @@
 
 In vier weken leer je hoe je een interactieve website maakt met behulp van het Flask-framework. We focussen op het maken van websites met een database-backend waarin gebruikersgegevens worden opgeslagen. Zo kun je in je verdere studie prototypes bouwen van applicaties en snel data verzamelen voor onderzoek. Er wordt gewerkt in teams van vijf volgens een vaste structuur, waarbij er veel aandacht is voor leren over groepsprocessen.
 
+
 ## Contact
 
 Stuur een mail naar <progik@mprog.nl> of spreek je mentoren of docenten aan. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen.
 
 **heads**  
-Robin Langerak (docent)
+Robin Langerak (docent)  
 Jelle van Assema (docent)
 
 **assistenten**  
-Maythe Dirkzwager<br/>
-Marijn Doeve<br/>
-Rachel de Haan<br/>
-Friso Harlaar<br/>
-Jasper van der Heide<br/>
-Maik Larooij<br/>
-Nina van Liebergen<br/>
-Mijntje Meijer<br/>
-Björn Out<br/>
-Robert van Straten<br/>
+Maythe Dirkzwager  
+Marijn Doeve  
+Rachel de Haan  
+Friso Harlaar  
+Jasper van der Heide  
+Maik Larooij  
+Nina van Liebergen  
+Mijntje Meijer  
+Björn Out  
+Robert van Straten
 
 
 ## Verwachtingen
