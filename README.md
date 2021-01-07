@@ -150,7 +150,7 @@ Lever je dus alle opdrachten compleet en werkend in, dan heb je al 50% van het e
 * Ontwerp --- is het een samenhangend en compleet product? Is het product goed te gebruiken voor beginners en gevorderden?
 * Code --- hoe overzichtelijk en gestructureerd zijn de code en database? Hoe leesbaar is de code?
 
-Je krijgt alleen een cijfer voor het groepsproject als je zichtbaar één feature hebt bijgedragen aan het project zoals staat omschreven bij [het project idee](/project/idee). Ieder lid van het team krijgt hetzelfde cijfer voor het project. Alleen in uitzonderlijke situaties wordt er een persoonlijk cijfer toegekend.
+Je krijgt alleen een cijfer voor het groepsproject als je zichtbaar één feature hebt bijgedragen aan het project zoals staat omschreven bij [het project idee](/milestones/idee). Ieder lid van het team krijgt hetzelfde cijfer voor het project. Alleen in uitzonderlijke situaties wordt er een persoonlijk cijfer toegekend.
 
 ## Leerdoelen
 
