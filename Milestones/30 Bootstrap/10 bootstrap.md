@@ -40,7 +40,7 @@ Onze situatie is iets anders dan die hierboven, want je hebt al een project (Fin
         git add .
         git commit -m "first commit"
         git branch -M main
-        git remote add origin https://github.com/uvawebapps/WebIK-<TEAMNAAM>.git
+        git remote add origin https://github.com/uva-webapps/WebIK-<TEAMNAAM>.git
         git push -u origin main
 
 > Vergeet niet `<TEAMNAAM>` te vervangen met jouw teamnaam naam.
