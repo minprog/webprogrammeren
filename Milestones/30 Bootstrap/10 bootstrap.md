@@ -10,28 +10,22 @@ Vorige week hebben jullie allemaal een versie van Finance geïmplementeerd. Dit 
 
 ## Git
 
-De volgende stap is om de code met elkaar te delen. Dit doe je via `git`, zie ook [de lecture](/lectures/git) en [de naslag](/naslag/git). Git zul je waarschijnlijk moeten installeren. Hoe je dat doet hangt af van wat voor besturingssysteem je gebruikt. 
+De volgende stap is om de code met elkaar te delen. Dit doe je via `git`, zie ook [de lecture](/lectures/git) en [de naslag](/naslag/git). Git zul je waarschijnlijk moeten installeren. Hoe je dat doet hangt af van wat voor besturingssysteem je gebruikt.
 
-Voor Windows kan je `git` hier downloaden: [git-scm.com/downloads](https://git-scm.com/downloads) en daarvandaan installeren. 
+Voor Windows kan je `git` hier downloaden: [git-scm.com/downloads](https://git-scm.com/downloads) en daarvandaan installeren.
 
-Op de Mac raden we het gebruik van Homebrew aan, dit kan je hier downloaden: [brew.sh](https://brew.sh/). Homebrew is een zogenaamde package manager. Een programma dat packages (andere programma's) kan installeren, updaten en verwijderen. Zo kan je na het installeren van homebrew git installeren met het simpele commando:
+Op de Mac wordt git automatisch geïnstalleerd als je dit voor de eerste keer gebruikt. Je kan dit controleren met:
 
-        brew install git
+        git --version
 
-En ook weer oninstalleren met:
-
-        brew uninstall git
+Had je git nog niet geïnstalleerd? Dan krijg je nu de vraag of je de "Command line tools" wilt installeren. Anders krijg je te zien welke versie van git je hebt geïnstalleerd.
 
 Onder Linux vertrouwen we erop dat je zelf de beste weg vindt. Het hangt nou eenmaal af van welke distributie je draait en hoe je zelf het systeem wilt onderhouden. Natuurlijk kan je ons wel om hulp vragen!
 
 
 ## GitHub
 
-De volgende stap is om de code op een locatie te zetten waardoor je teamgenoten (en wij) er ook bij kunnen. Hiervoor gebruiken we bij dit vak GitHub en dit is de plek om een nieuwe repository aan te maken: [github.com/new](https://github.com/new). Let op, maar één teamgenoot hoeft dit te doen. Eigenlijk hoef je alleen de repository een naam te geven:
-
-![new repo](githubnew.png)
-
-> Je kan ervoor kiezen om de repository op private te zetten, maar het is niet noodzakelijk voor dit vak. Kies je er wel voor, dan moet je later ook je mentoren toevoegen als collaborator aan het project.
+De volgende stap is om de code op een locatie te zetten waardoor je teamgenoten (en wij) er ook bij kunnen. Hiervoor gebruiken we bij dit vak GitHub (Classroom), door op [deze](https://classroom.github.com/g/CLqDDtqT) link te klikken maakt één persoon een groep aan. Vervolgens kunnen je groepsgenoten via dezelfde link de groep selecteren.
 
 
 ## Eerste commit & push
@@ -46,19 +40,10 @@ Onze situatie is iets anders dan die hierboven, want je hebt al een project (Fin
         git add .
         git commit -m "first commit"
         git branch -M main
-        git remote add origin git@github.com:<USERNAME>/<REPONAME>.git
+        git remote add origin https://github.com/uvawebapps/WebIK-<TEAMNAAM>.git
         git push -u origin main
 
-> Vergeet niet `<USERNAME>` en `<REPONAME>` te vervangen met jouw respectievelijke namen. In dit voorbeeld zou het zijn: git remote add origin git@github.com:Jelleas/GeweldigeWebsite.git
-
-
-## Collaborators
-
-Nu is het tijd om je teamgenoten toe te voegen aan het project. Dat doe je hier: `https://github.com/<USERNAME>/<REPONAME>/settings/access`. Zorg ervoor dat alle teamgenoten een collaborator zijn bij deze GitHub repo. Iedereen ontvangt daarvoor een email met een acceptatielink die je even moet klikken.
-
-Hierna kan iedereen het project binnen halen d.m.v.
-
-    git clone https://github.com/<USERNAME>/<REPONAME>/
+> Vergeet niet `<TEAMNAAM>` te vervangen met jouw teamnaam naam.
 
 
 ## Finance draaien
