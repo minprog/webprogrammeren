@@ -11,6 +11,12 @@ os.environ["API_KEY"] = "foo"
 @check50.check()
 def exists():
     """application.py exists"""
+    if 'finance.zip' in os.listdir():
+        check50.run(f"unzip finance.zip").exit()
+
+    if 'finance' in os.listdir():
+        check50.run(f"mv finance/* .").exit()
+
     check50.exists("application.py")
     check50.include("lookup.py")
     check50.py.append_code("helpers.py", "lookup.py")

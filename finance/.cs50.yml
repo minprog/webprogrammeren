@@ -4,6 +4,7 @@ check50:
   files:
     - !exclude "*.pyc"
     - !exclude __pycache__
-    - !require application.py
-    - !require finance.db
-    - !require helpers.py
+    - !include application.py
+    - !include finance.db
+    - !include helpers.py
+    - !include finance.zip
