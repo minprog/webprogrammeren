@@ -6,7 +6,7 @@ templates:
         automatic:
             done: -(correctness_score.floor)
         calculation: -(done * 10)
-        auto_publish: true
+        auto_publish: false
         hide_calculated: true
     2: &manual_pset
         type: float
