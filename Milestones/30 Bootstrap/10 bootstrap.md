@@ -16,7 +16,7 @@ Voor Windows kan je `git` hier downloaden: [git-scm.com/downloads](https://git-s
 
 Op de Mac wordt git automatisch geïnstalleerd als je dit voor de eerste keer gebruikt. Je kan dit controleren met:
 
-        git --version
+    git --version
 
 Had je git nog niet geïnstalleerd? Dan krijg je nu de vraag of je de "Command line tools" wilt installeren. Anders krijg je te zien welke versie van git je hebt geïnstalleerd.
 
@@ -36,42 +36,56 @@ GitHub geeft je bij het aanmaken ook meteen de instructies voor de eerstvolgende
 
 Onze situatie is iets anders dan die hierboven, want je hebt al een project (Finance) en wilt dit nu in deze repository zetten. Dus pak je code van Finance, zet deze in een map op je computer. Navigeer met je terminal naar die map en draai daar de volgende commando's:
 
-        git init
-        git add .
-        git commit -m "first commit"
-        git branch -M main
-        git remote add origin https://github.com/uva-webapps/WebIK-<TEAMNAAM>.git
-        git push -u origin main
+    git init
+    git add .
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/uva-webapps/WebIK-<TEAMNAAM>.git
+    git push -u origin main
 
 > Vergeet niet `<TEAMNAAM>` te vervangen met jouw teamnaam naam.
 
 
 ## Finance draaien
 
-Om Finance lokaal te kunnen draaien moet je Flask installeren, dit gaat via `pip`. Dit is even afhankelijk van hoe Python geïnstalleerd staat op jouw machine. Check allereerst even je Pythonversie met
+Om Finance lokaal te kunnen draaien moet je eerst de benodigde packages installeren installeren, dit gaat via `pip`. Dit is even afhankelijk van hoe Python geïnstalleerd staat op jouw machine. Check allereerst even je Pythonversie met
 
-        python --version
+    python --version
 
 en:
 
-        python3 --version
+    python3 --version
 
 Eén van de twee zou een versienummer met 3.+ moeten opleveren. Afhankelijk daarvan draai je:
 
-
-        python -m pip install flask
+    python -m pip install -r requirements.txt
 
 Of
 
-        python3 -m pip install flask
+    python3 -m pip install -r requirements.txt
 
 > Mocht je al bekend zijn met pip, en nu denken: Huh, `python -m pip` i.p.v. gewoon `pip`? `python -m` is een snelle manier om een package van een Python installatie te draaien. Zo weet je zeker dat je de juiste `pip` te pakken hebt, en niet ééntje die hoort bij een andere Python installatie.
 
+Daarmee worden alle Python packages die je nodig hebt om finance te draaien geïnstalleerd. Als laatste moet je nog even een API_KEY `export`'en en moet je aan Flask aangeven welk bestand gedraaid moet worden. Dat doe je als volgt:
+
+Op een Mac/Linux:
+
+    export FLASK_APP=application.py
+    export API_KEY=<jouw API key>
+        
+In de Windows opdrachtprompt:
+
+    set FLASK_APP=application.py
+    set API_KEY=<jouw API key>
+        
+In Windows Powershell:
+
+    $env:FLASK_APP = "application.py"
+    $env:API_KEY = "<jouw API key>"
+
 Vervolgens kan je Finance draaien met:
 
-        flask run
-
-Wellicht dat je eerst nog een API_KEY moet `export`en. Zie daarvoor de [Finance opdracht](/problems/finance).
+    flask run
 
 
 ## Inleveren
