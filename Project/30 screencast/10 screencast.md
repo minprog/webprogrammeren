@@ -36,4 +36,4 @@ Als je de video nu public maakt dan kun je de link aan ons doorsturen.
 - Kies voor **Unlisted** en klik op **Save**
 - Kopieer dan de link van de pagina. Die ziet er bijvoorbeeld zo uit
     `https://video.uva.nl/media/0_r41konuy`
-- Plak de link bij de opdrachtpagina en kies **Submit for Grading**
+- Plak de link bij de [opdrachtpagina](/milestones/oplevering) en kies **Submit for Grading**
