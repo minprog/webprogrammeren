@@ -4,6 +4,9 @@ Nu je zelf een webite gemaakt wil je die ook met de rest van de wereld delen. Ge
 
 Heroku is een cloudplatform waarop je zelf een webapplicatie kan hosten.   Alternatieven zijn [Google Cloud Platform's App Engine](https://cloud.google.com/appengine), [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) of [Azure App Service](https://azure.microsoft.com/en-us/services/app-service/)
 
+### Wat werkt niet op Heroku
+
+- File uploads (bestanden en afbeeldingen opslaan in een map)
 
 ## Flask app klaarmaken voor Heroku
 
@@ -115,7 +118,7 @@ Pushen naar heroku, je ziet hier het hele uitrolprocess. Kijk goed of je hier fo
 
 > Zorg er wel voor dat je de laatste wijzigingen gecommit hebt!
 
-Als alles goed is gegaan kan je jouw webapplicatie nu vinden op `https://\<app-name\>.herokuapp.com/`.
+Als alles goed is gegaan kan je jouw webapplicatie nu vinden op `https://<app-name>.herokuapp.com/`.
 
 ## Problemen oplossen
 
