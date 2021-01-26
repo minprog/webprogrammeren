@@ -52,7 +52,7 @@ Verander de regel:
 
 naar:
 
-    db = SQL(os.env.getenv("DATABASE_URL", "sqlite:///finance.db"))
+    db = SQL(os.getenv("DATABASE_URL", "sqlite:///finance.db"))
 
 Dit zorgt ervoor dat Heroku de juiste database kan vinden.
 
