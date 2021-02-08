@@ -230,6 +230,10 @@ INSERT INTO people (name, birth) VALUES ("Craig T. Nelson", 1944);
 INSERT INTO people (name, birth) VALUES ("Richard Griffifths", 1947);
 INSERT INTO people (name, birth) VALUES ("Rupert Grint", 1988);
 INSERT INTO people (name, birth) VALUES ("Daniel Radcliffe", 1989);
+INSERT INTO people (name, birth) VALUES ("Daniel Radcliffe", 2021);
+INSERT INTO people (name, birth) VALUES ("Christopher Nolan", 2021);
+INSERT INTO people (name, birth) VALUES ("Bill Paxton", 2021);
+INSERT INTO people (name, birth) VALUES ("Kevin Bacon", 2021);
 
 -- Stars
 INSERT INTO stars (person_id, movie_id) VALUES (
@@ -317,13 +321,13 @@ INSERT INTO stars (person_id, movie_id) VALUES (
     (SELECT id FROM people WHERE name = "Colin Firth"),
     (SELECT id FROM movies WHERE title = "The King's Speech"));
 INSERT INTO stars (person_id, movie_id) VALUES (
-    (SELECT id FROM people WHERE name = "Kevin Bacon"),
+    (SELECT id FROM people WHERE name = "Kevin Bacon" AND birth = 1958),
     (SELECT id FROM movies WHERE title = "X-Men: First Class"));
 INSERT INTO stars (person_id, movie_id) VALUES (
-    (SELECT id FROM people WHERE name = "Kevin Bacon"),
+    (SELECT id FROM people WHERE name = "Kevin Bacon" AND birth = 1958),
     (SELECT id FROM movies WHERE title = "Apollo 13"));
 INSERT INTO stars (person_id, movie_id) VALUES (
-    (SELECT id FROM people WHERE name = "Kevin Bacon"),
+    (SELECT id FROM people WHERE name = "Kevin Bacon" AND birth = 1958),
     (SELECT id FROM movies WHERE title = "A Few Good Men"));
 INSERT INTO stars (person_id, movie_id) VALUES (
     (SELECT id FROM people WHERE name = "James McAvoy"),
@@ -338,7 +342,7 @@ INSERT INTO stars (person_id, movie_id) VALUES (
     (SELECT id FROM people WHERE name = "Tom Hanks"),
     (SELECT id FROM movies WHERE title = "Apollo 13"));
 INSERT INTO stars (person_id, movie_id) VALUES (
-    (SELECT id FROM people WHERE name = "Bill Paxton"),
+    (SELECT id FROM people WHERE name = "Bill Paxton" AND birth = 1955),
     (SELECT id FROM movies WHERE title = "Apollo 13"));
 INSERT INTO stars (person_id, movie_id) VALUES (
     (SELECT id FROM people WHERE name = "Gary Sinise"),
@@ -383,15 +387,24 @@ INSERT INTO stars (person_id, movie_id) VALUES (
     (SELECT id FROM people WHERE name = "Rupert Grint"),
     (SELECT id FROM movies WHERE title = "Harry Potter and the Prisoner of Azkaban"));
 INSERT INTO stars (person_id, movie_id) VALUES (
-    (SELECT id FROM people WHERE name = "Daniel Radcliffe"),
+    (SELECT id FROM people WHERE name = "Daniel Radcliffe" AND birth = 1989),
     (SELECT id FROM movies WHERE title = "Harry Potter and the Prisoner of Azkaban"));
+INSERT INTO stars (person_id, movie_id) VALUES (
+    (SELECT id FROM people WHERE name = "Daniel Radcliffe" AND birth = 2021),
+    (SELECT id FROM movies WHERE title = "The Incredibles"));
 INSERT INTO stars (person_id, movie_id) VALUES (
     (SELECT id FROM people WHERE name = "Emma Watson"),
     (SELECT id FROM movies WHERE title = "Harry Potter and the Prisoner of Azkaban"));
+INSERT INTO stars (person_id, movie_id) VALUES (
+    (SELECT id FROM people WHERE name = "Bill Paxton" AND birth = 2021),
+    (SELECT id FROM movies WHERE title = "X-Men: First Class"));
+INSERT INTO stars (person_id, movie_id) VALUES (
+    (SELECT id FROM people WHERE name = "Kevin Bacon" AND birth = 2021),
+    (SELECT id FROM movies WHERE title = "The Professor"));
 
 -- Directors
 INSERT INTO directors (person_id, movie_id) VALUES (
-    (SELECT id FROM people WHERE name = "Christopher Nolan"),
+    (SELECT id FROM people WHERE name = "Christopher Nolan" AND birth = 1970),
     (SELECT id FROM movies WHERE title = "The Dark Knight"));
 INSERT INTO directors (person_id, movie_id) VALUES (
     (SELECT id FROM people WHERE name = "Yimou Zhang"),
@@ -401,4 +414,7 @@ INSERT INTO directors (person_id, movie_id) VALUES (
     (SELECT id FROM movies WHERE title = "Incredibles 2"));
 INSERT INTO directors (person_id, movie_id) VALUES (
     (SELECT id FROM people WHERE name = "Frank Darabont"),
+    (SELECT id FROM movies WHERE title = "The Shawshank Redemption"));
+INSERT INTO directors (person_id, movie_id) VALUES (
+    (SELECT id FROM people WHERE name = "Christopher Nolan" AND birth = 2021),
     (SELECT id FROM movies WHERE title = "The Shawshank Redemption"));
