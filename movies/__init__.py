@@ -92,7 +92,7 @@ def test10():
     if results.count("Christopher Nolan") != 2:
         raise check50.Failure(f"please take care to differentiate between different people with the same name")
 
-    check_single_col(run_query(result),
+    check_single_col(result,
         {"Christopher Nolan", "Frank Darabont", "Yimou Zhang", "Christopher Nolan"},
         ordered=False)
 
