@@ -69,7 +69,7 @@ opdrachten:
 project:
     show_progress: true
     submits:
-        bootstrap: 0
+        # bootstrap: 0
         # alpha: 0
         # beta: 0
         # final: 0
