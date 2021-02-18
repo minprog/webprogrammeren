@@ -78,4 +78,4 @@ project:
 pav:
     required: true
     submits:
-        pav: 0
+        pav: 1
