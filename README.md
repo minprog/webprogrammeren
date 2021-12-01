@@ -95,23 +95,9 @@ Deze week gaan jullie als groep afronden. Maandag worden alle individuele bijdra
 Jouw persoonlijke bijdrage in het eindproject telt voor 75% mee in je eindcijfer. We kijken hier naar de *hoeveelheid* werk die jij aantoonbaar hebt gedaan (code die jij hebt geschreven), de *kwaliteit* van jouw code (leesbaarheid, consistentie), ...
 
 
-## Uitleg
-
-### Hoe werken de opdrachten?
-
-Gedurende de eerste twee weken maak je een totaal van vier opdrachten. Ieder van deze opdrachten mag je samen met één andere student maken. Alle opdrachten, videocolleges en inleverpunten vind je in de kantlijn van deze website. Iedere dag is er in de middag assistentie beschikbaar en is er een wekelijkse werkgroep met de twee mentoren die je begeleiden tijdens het vak.
-
-
-### Hoe loopt het project?
-
-De eerste stappen van het project zet je in week 2 van het vak. Daar zijn twee vaste momenten om het idee en het voorstel uit te werken. Vanaf week 3 begint het programmeren en ben je dagelijks in contact met je team via een gedocumenteerde groepsmeeting in de ochtend. Na ieder inlevermoment is er een voortgangsgesprek met de twee mentoren die je begeleiden tijdens het vak. Ook is er weer iedere middag assistentie in dezelfde vormen als tijdens de opdrachten.
-
-
 ## Aanwezigheid
 
-Dit is een kort vak met een full-time studielast. Daarom verwachten we dat je bij alle activiteiten aanwezig bent. Specifiek ben je vanaf de derde week verplicht aanwezig bij een **dagelijkse groepsmeeting** via Zoom en die gedocumenteerd wordt door middel van een dagelijkse groepsfoto. Daarnaast moeten alle teamleden gezamenlijk aanwezig zijn bij alle **voortgangsgesprekken**.
-
-Als je een keer ziek bent meld je dit op de dag van ziek worden en hou je je mentor op de hoogte via Slack. Als iemand uit het team niet aanwezig is voor het voortgangsgesprek dan komt de rest dit direct melden en wordt er ter plekke een nieuwe afspraak gemaakt.
+Dit is een kort vak met een full-time studielast. Daarom moet je bij alle geplande activiteiten aanwezig zijn. Je moet bovendien **dagelijks** contact hebben met één of meer groepsgenoten. Alle teamleden moeten gezamenlijk aanwezig zijn bij alle **mentorgesprekken** en de **eindpresentaties**.
 
 
 ## Voorkennis
@@ -129,25 +115,20 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - snelle vragen over deadlines, contact met samenwerkpartner
 - mentor is niet doorlopend beschikbaar!
 
-**Ed:** altijd beschikbaar, de belangrijkste plek voor hulp.
+**Programmeerbalie:** direct contact met een assistent, voor moeilijk te formuleren vragen.
 
-- vragen over wat er in de opdracht bedoeld wordt
-- technische vragen over programmeren en bugs
-- medestudenten en assistenten denken mee
-
-**Assistentie:** direct contact met een assistent, voor moeilijk te formuleren vragen.
-
-- hulp via een videogesprek waar je je scherm kunt delen
+- hulp op locatie, of via een videogesprek waar je je scherm kunt delen
 - je weet niet waar te beginnen of een onvindbare bug
 - moeite met verzinnen oplossing (met partner)
 - dagelijks 13-17 uur, wachttijd kan oplopen
+- aanmelden via de [Balie](https://balie.mprog.nl/planner/1-programmeerbalie)
 
 **Helpdesk:** direct contact met een assistent, voor technische problemen.
 
 - problemen met je computer
-- problemen met de werking van je online IDE
+- problemen met de werking van je online IDE of git
 - hele nare bugs
-- aanmelden via [Calendly](https://calendly.com/proglab/helpdesk)
+- aanmelden via de [Balie](https://balie.mprog.nl/planner/1-programmeerbalie)
 
 **Mail:** contact met de vakcoördinatoren via <progik@mprog.nl>.
 
@@ -189,68 +170,3 @@ We willen graag dat je leert om kleine websites te bouwen die werken met een dat
     - leren hoe je met meerdere mensen code voor een website kunt delen via Git
     - kennis maken met het werken in teamverband en projectmatig werken
     - leren hoe je een project kunt opdelen om een tijdsplanning te maken
-
-## Samenwerken, fraude en plagiaat
-
-Bij alle opdrachten van het vak is samenwerken toegestaan, maar wel altijd met een vast aantal medestudenten. Zo mag je de opdrachten met één andere student maken en is het project met teams van maximaal vijf studenten.
-
-"Wees redelijk", dat is kort samengevat het beleid van dit vak. We realiseren ons dat het nuttig is om interactie te hebben met je klasgenoten en dat dit kan helpen bij het beheersen van de stof. Natuurlijk is er een grens tussen het vragen van hulp aan een ander en het inleveren van werk van een ander. Hier karakteriseren we beide kanten van die grens.
-
-De essentie van alles wat je inlevert moet van jou zijn. Je mag niet samenwerken met anderen buiten je team. Met als uitzondering dat je klasgenoten en anderen voor hulp mag vragen, zolang dat er niet op neer komt dat een ander het werk voor jou doet. Over het algemeen, als je vraagt om hulp, mag je jouw code laten zien, maar kijk je niet naar de code van een ander.
-
-Hieronder vind je een incomplete lijst van voorbeelden die een beeld schetsen van welke handelingen we als redelijk en onredelijk bestempelen. Twijfel je of een handeling redelijk is, wacht dan tot je geschreven toestemming hebt gekregen van een docent. Onredelijke handelingen worden streng afgehandeld.
-
-#### Redelijk
-
-* Praten met je klasgenoten over de opdrachten in het Nederlands (of een ander gesproken taal).
-
-* Het cursusmateriaal bespreken met anderen om het beter te begrijpen.
-
-* Een klasgenoot helpen bij het debuggen tijdens een laptopcollege of daarbuiten, of zelfs online, door het bekijken, compileren of draaien van zijn of haar code, zelfs op je eigen computer.
-
-* Het opnemen van een paar regels code die je online of ergens anders vindt in jouw eigen code, gegeven dat deze regels niet oplossingen vormen tot opdrachten en dat je de bron van de code vermeldt.
-
-* Het inzien van tentamens van voorgaande jaren en oplossingen daarvan.
-
-* Versturen of code laten zien die jij hebt geschreven aan iemand anders, wellicht een klasgenoot, zodat hij of zij kan helpen bij het debuggen.
-
-* Het online delen van een paar regels van jouw code zodat anderen wellicht kunnen helpen met debuggen.
-
-* Op een assistent afstappen voor hulp tijdens de laptopcolleges.
-
-* Naar het internet of ergens anders gaan voor instructies buiten het vak, voor referenties, en voor oplossingen op technische problemen, maar niet voor gehele oplossingen voor opdrachten.
-
-* Het uittekenen of uitwerken van oplossingen op een whiteboard door middel van diagrammen of pseudocode, maar niet "echte" code.
-
-* Werken met (en zelfs betalen voor) een tutor om je te helpen met het vak, gegeven dat de tutor niet het werk voor je doet.
-
-
-#### Onredelijk
-
-* Een oplossing van een opdracht inkijken voordat je jouw opdracht hebt ingeleverd.
-
-* Een klasgenoot vragen om zijn of haar oplossing, voordat je jouw opdracht hebt ingeleverd.
-
-* Het decompileren, deobfuscereen, of demonteren van een "staff" oplossing van een opdracht.
-
-* Vergeten de bron te citeren van code of technieken die je hebt opgenomen van buiten de lessen van dit vak, en hebt geïntegreerd in je eigen werk, zelfs als je wel de andere restricties aanhoudt.
-
-* Geven, of laten zien, van een oplossing voor een opdracht aan een klasgenoot waar hij of zij, dus niet jij, moeite mee heeft om op te lossen.
-
-* Betalen, of het aanbieden om te betalen, voor het recht om werk van een ander als onderdeel van jouw eigen werk in te leveren.
-
-* Het beschikbaar stellen van oplossingen voor opdrachten van dit vak aan anderen die dit vak in de toekomst wellicht gaan volgen.
-
-* Het opzoeken van complete oplossingen voor opdrachten online of ergens anders.
-
-* Werk van een opdracht opsplitsen met een ander.
-
-* Werk van een ander, behalve een paar regels zoals eerder omschreven, inleveren.
-
-* Hetzelfde of bijna hetzelfde werk inleveren bij dit vak dat je hebt ingeleverd of gaat inleveren bij een ander vak.
-
-* Het inleveren van werk voor dit vak, waarbij je intentie is om dit ook ergens anders voor in te zetten (zeg voor een baan), zonder daar eerst toestemming voor te hebben gekregen van een docent.
-
-* Naar de oplossing voor een opdracht van iemand anders kijken, en vervolgens jouw oplossing daarop baseren.
-
-In alle gevallen volgen we de plagiaatregeling van de Universiteit van Amsterdam en de richtlijnen van de bachelor Informatiekunde. Deze vind je [hier](http://uva.nl/plagiaat).
