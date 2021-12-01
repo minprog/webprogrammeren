@@ -1,8 +1,8 @@
 # Webprogrammeren en Databases voor Informatiekunde
 
-*Versie: Januari 2021*
+*Versie: Januari 2022*
 
-In vier weken leer je hoe je een interactieve website maakt met behulp van het Flask-framework. We focussen op het maken van websites met een database-backend waarin gebruikersgegevens worden opgeslagen. Zo kun je in je verdere studie prototypes bouwen van applicaties en snel data verzamelen voor onderzoek. Er wordt gewerkt in teams van vijf volgens een vaste structuur, waarbij er veel aandacht is voor leren over groepsprocessen.
+In vier weken leer je hoe je een interactieve website maakt met behulp van het Flask-framework. We focussen op het maken van websites met een database-backend waarin gebruikersgegevens worden opgeslagen. Zo kun je in je verdere studie prototypes bouwen van applicaties en snel data verzamelen voor onderzoek. Er wordt gewerkt in teams van 6 studenten volgens een vaste structuur, waarbij er veel aandacht is voor leren over groepsprocessen.
 
 
 ## Contact
@@ -11,19 +11,11 @@ Stuur een mail naar <progik@mprog.nl> of spreek je mentoren of docenten aan. Voo
 
 **heads**  
 Robin Langerak (docent)  
+Martijn Stegeman (docent)  
 Jelle van Assema (docent)
 
 **assistenten**  
-Maythe Dirkzwager  
-Marijn Doeve  
-Rachel de Haan  
-Friso Harlaar  
-Jasper van der Heide  
-Maik Larooij  
-Nina van Liebergen  
-Mijntje Meijer  
-Björn Out  
-Robert van Straten
+TBA
 
 
 ## Verwachtingen
@@ -52,29 +44,57 @@ Met je mentoren heb je de eerste twee weken een **werkgroep**. Via Slack zullen 
 Zodra het project begint zijn er geen werkgroepen meer, maar wordt dit vervangen door voortgangsgesprekken. Waar je met je team afspreekt met je mentoren. Deze gesprekken zijn belangrijke momenten van feedback en de aangewezen plek om het project goed vorm te geven. 
 
 
-## Wat ga je doen?
+## Project en Opdrachten
 
-Dit vak kent twee delen die ieder grofweg twee weken duren. In het eerste deel maak je verschillende programmeeropdrachten die je wegwijs maken in het webprogrammeren. Zo ga je queries schrijven in SQL, webpagina's maken met HTML, CSS & JavaSript, en je eigen webserver maken met Flask. Deze opdrachten mogen in tweetallen gemaakt worden. In het tweede deel ga je met een team van vijf studenten een eigen webproject uitwerken. Hieronder vind je de gehele tijdlijn en alle deadlines.
+De cursus bestaat uit de opdrachten Profile, Movies en Fiftyville, en een gezamenlijk project waarin je een individuele bijdrage doet.
 
-| Week 1                            | Deadline                      |  
-| --------------------------------- | ----------------------------- |  
-| Movies                            | dinsdag 5 januari 18:00       |  
-| Fiftyville                        | woensdag 6 januari 18:00      |  
-| Profile                           | vrijdag 8 januari 18:00       |  
-| **Week 2**                        | **Deadline**                  |  
-| Projectidee                       | dinsdag 12 januari 13:00      |  
-| Projectvoorstel                   | donderdag 14 januari 13:00    |
-| Finance                           | vrijdag 15 januari 18:00      | 
-| **Week 3**                        | **Deadline**                  | 
-| Bootstrap                         | Maandag 18 januari 13:00      |  
-| Alpha                             | Woensdag 20 januari 18:00     |  
-| **Week 4**                        | **Deadline**                  |  
-| Beta                              | Maandag 25 januari 18:00      |  
-| Final                             | Woensdag 27 januari 23:59     |
-| Oplevering                        | Vrijdag 29 januari 23:59      |
+## Week 1
 
-Let op, na vrijdag 15 januari 18:00 kunnen er geen opdrachten meer worden ingeleverd. Vanaf dat moment begint het project voor iedereen.
+Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, en je maakt met je projectgroep **plannen** om aan de gezamenlijke website te werken.
 
+De plannen bespreek je op woensdag of donderdag uitgebreid met de groepsmentor. Op basis daarvan stellen jullie gezamenlijk de plannen bij en kun je aan de slag.
+
+| Week 1                            | Deadline                      |
+| --------------------------------- | ----------------------------- |
+| Projectvoorstel                   | dinsdag 11 januari 17:59      |
+| Profile                           | vrijdag 14 januari 17:59      |
+| mentorgesprek                     | woensdag of donderdag         |
+
+Jouw persoonlijke website wordt beoordeeld op *hoeveelheid* (uit hoeveel zelfgeschreven HTML, CSS en JS de website bestaat) en *consistentie* (hoe zorgvuldig de code is geschreven ... consistentie). Dit onderdeel telt voor 25% mee in het eindcijfer.
+
+## Week 2
+
+Deze week ga je **SQL** leren met twee opdrachten Movies en Fiftyville. Daarnaast ga je je verdiepen in de **technieken** die je nodig hebt om jouw aandeel in het project te volbrengen.
+
+Om te starten met de website heeft de groep een startproject gekregen, dat jullie gezamenlijk uitpluizen. Tijdens het gesprek met de groepsmentor presenteren jullie hoe het startproject in elkaar zit, en elke student vertelt hoe ze hun eigen doelen gaan verwezenlijken met hulp van dit startproject.
+
+| Week 2                            | Deadline                      |
+| --------------------------------- | ----------------------------- |
+| Movies                            | dinsdag 18 januari 17:59      |
+| Fiftyville                        | vrijdag 21 januari 17:59      |
+| mentorgesprek                     | woensdag of donderdag         |
+
+##  Week 3
+
+Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je gaat toepassen en je bent deze week keihard aan de slag om jouw aandeel in het project uit te werken. Dit is de week waarin het gaat gebeuren. Tijdens het mentorgesprek geeft iedereen een update.
+
+| Week 3                            | Deadline                      |
+| --------------------------------- | ----------------------------- |
+| mentorgesprek                     | woensdag of donderdag         |
+
+## Week 4
+
+Deze week gaan jullie als groep afronden. Maandag worden alle individuele bijdragen definitief samengevoegd. Dan maakt de groep een plan om nog kleine verbeteringen te doen. Deze verbeteringen zijn uiterlijk woensdag verwerkt in het eindproject, dat dan definitief ingeleverd wordt.
+
+| Week 4                            | Deadline                      |
+| --------------------------------- | ----------------------------- |
+| Beta                              | maandag 31 januari 17:59      |
+| Final                             | woensdag 2 februari 17:59     |
+| Oplevering                        | vrijdag 4 februari 17:59      |
+
+
+
+## Uitleg
 
 ### Hoe werken de opdrachten?
 
