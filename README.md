@@ -90,8 +90,9 @@ Deze week gaan jullie als groep afronden. Maandag worden alle individuele bijdra
 | --------------------------------- | ----------------------------- |
 | Beta                              | maandag 31 januari 17:59      |
 | Final                             | woensdag 2 februari 17:59     |
-| Oplevering                        | vrijdag 4 februari 17:59      |
+| Eindpresentaties                  | vrijdag 4 februari 17:59      |
 
+Jouw persoonlijke bijdrage in het eindproject telt voor 75% mee in je eindcijfer. We kijken hier naar de *hoeveelheid* werk die jij aantoonbaar hebt gedaan (code die jij hebt geschreven), de *kwaliteit* van jouw code (leesbaarheid, consistentie), ...
 
 
 ## Uitleg
