@@ -26,7 +26,7 @@ Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een tea
 
 - Individueel aandeel project (50%)---jouw bijdrage aan het groepsproject wordt beoordeeld op uitgebreidheid, kwaliteit van de code, en diepgang van uitleg in je persoonlijk verslag.
 
-- Groepscijfer (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre alle studenten een passende, uitdagende bijdrage hebben gedaan en aantoonbaar van elkaar geleerd hebben.
+- Groepscijfer (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre <u>alle</u> studenten een passende, uitdagende bijdrage hebben gedaan en aantoonbaar van elkaar geleerd hebben.
 
 Voor het laatste onderdeel is het essentieel dat teamgenoten elkaar uitgebreid helpen tijdens de projectfase, zelfs al doet iedereen een individuele bijdrage aan het project. Dit wordt onder andere gecontroleerd tijdens de voortgangsgesprekken, en via het procesboek dat elke student moet bijhouden.
 
