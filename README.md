@@ -2,7 +2,7 @@
 
 *Versie: Januari 2022*
 
-In vier weken leer je hoe je een interactieve website maakt met behulp van het Flask-framework. We focussen op het maken van websites met een database-backend waarin gebruikersgegevens worden opgeslagen. Zo kun je in je verdere studie prototypes bouwen van applicaties en snel data verzamelen voor onderzoek. Er wordt gewerkt in teams van 6 studenten volgens een vaste structuur, waarbij er veel aandacht is voor leren over groepsprocessen.
+In vier weken leer je hoe je een interactieve website maakt met behulp van het Flask-framework. We focussen op het maken van websites met een database-backend waarin gebruikersgegevens worden opgeslagen. Zo kun je in je verdere studie prototypes bouwen van applicaties en snel data verzamelen voor onderzoek. Er wordt gewerkt in teams van 6 studenten.
 
 
 ## Contact
@@ -16,32 +16,6 @@ Jelle van Assema (docent)
 
 **assistenten**  
 TBA
-
-
-## Verwachtingen
-
-Om deze cursus te kunnen halen, verwachten we een aantal dingen van je.
-
-* We verwachten dat je jouw uiterste best doet om alle opdrachten volledig te maken.
-
-* We verwachten dat je ongeveer 40 uur per week aan dit vak besteedt. Programmeren leer je door te doen en dat kost veel tijd. Houd hier rekening mee!
-
-* We verwachten dat je tijdens het project met je team dagelijks (online) bijeenkomt en de aanwezigheid documenteert.
-
-* We verwachten dat je dagelijks goed beschikbaar bent voor je groepsgenoten en je mentor, en dat je op tijd bent bij afspraken.
-
-* We verwachten dat je de feedback over je opdrachten gebruikt om de opdrachten van de volgende week beter te maken, zodat je niet alleen leert programmeren, maar ook goed programmeren.
-
-Mocht je in de problemen komen met het vak en het tempo, zorg dan dat je meteen contact opneemt (<progik@mprog.nl>). Als het gaat om persoonlijke problemen of andere onvermijdelijke zaken, zijn we altijd bereid te zoeken naar oplossingen.
-
-
-## Mentoren
-
-Bij dit vak word je begeleid door twee mentoren. Een **mentor** is een student die het vak eerder heeft gevolgd of een docent die alles over onze cursus weet. Je mentoren helpen je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden. Je ontvangt een uitnodiging voor een chatomgeving (Slack) waar je gedurende de week contact kunt onderhouden.
-
-Met je mentoren heb je de eerste twee weken een **werkgroep**. Via Slack zullen je mentoren laten weten wanneer de eerste online-werkgroep is, waar je kennis maakt met andere teams begeleid door dezelfde mentoren. Als je een probleem ziet met het gebruik van een webcam dan moet je vooraf contact opnemen met de docenten om een oplossing te verzinnen, omdat je anders niet kunt meedoen.
-
-Zodra het project begint zijn er geen werkgroepen meer, maar wordt dit vervangen door voortgangsgesprekken. Waar je met je team afspreekt met je mentoren. Deze gesprekken zijn belangrijke momenten van feedback en de aangewezen plek om het project goed vorm te geven. 
 
 
 ## Project en Opdrachten
@@ -93,6 +67,15 @@ Deze week gaan jullie als groep afronden. Maandag worden alle individuele bijdra
 | Eindpresentaties                  | vrijdag 4 februari 17:59      |
 
 Jouw persoonlijke bijdrage in het eindproject telt voor 75% mee in je eindcijfer. We kijken hier naar de *hoeveelheid* werk die jij aantoonbaar hebt gedaan (code die jij hebt geschreven), de *kwaliteit* van jouw code (leesbaarheid, consistentie), ...
+
+
+## Mentoren
+
+Bij dit vak word je begeleid door twee mentoren. Een **mentor** is een student die het vak eerder heeft gevolgd of een docent die alles over onze cursus weet. Je mentoren helpen je wegwijs maken, doet voor hoe je het beste de opdrachten kunt aanpakken, kijkt je werk na, en kan jouw vragen over de organisatie van het vak beantwoorden. Je ontvangt een uitnodiging voor een chatomgeving (Slack) waar je gedurende de week contact kunt onderhouden.
+
+Met je mentoren heb je de eerste twee weken een **werkgroep**. Via Slack zullen je mentoren laten weten wanneer de eerste online-werkgroep is, waar je kennis maakt met andere teams begeleid door dezelfde mentoren. Als je een probleem ziet met het gebruik van een webcam dan moet je vooraf contact opnemen met de docenten om een oplossing te verzinnen, omdat je anders niet kunt meedoen.
+
+Zodra het project begint zijn er geen werkgroepen meer, maar wordt dit vervangen door voortgangsgesprekken. Waar je met je team afspreekt met je mentoren. Deze gesprekken zijn belangrijke momenten van feedback en de aangewezen plek om het project goed vorm te geven. 
 
 
 ## Aanwezigheid
@@ -153,20 +136,3 @@ Lever je dus alle opdrachten compleet en werkend in, dan heb je al 50% van het e
 * Code --- hoe overzichtelijk en gestructureerd zijn de code en database? Hoe leesbaar is de code?
 
 Je krijgt alleen een cijfer voor het groepsproject als je zichtbaar één feature hebt bijgedragen aan het project zoals staat omschreven bij [het project idee](/milestones/idee). Ieder lid van het team krijgt hetzelfde cijfer voor het project. Alleen in uitzonderlijke situaties wordt er een persoonlijk cijfer toegekend.
-
-## Leerdoelen
-
-We willen graag dat je leert om kleine websites te bouwen die werken met een database. We focussen op het hergebruiken van online datasets en applicaties met meerdere gelijktijdige gebruikers.
-
--  opdrachten
-    - leren hoe je websites kan maken die passen in het Flask-framework
-    - leren schrijven van SQL-queries voor het manipuleren van databases
-    - leren hoe communicatie tussen een webbrowser en een webserver in elkaar steekt
-    - leren over basis-beveiling van websites
-    - leren hoe je HTML-pagina's schrijft en opmaakt met CSS
-- een programmeerproject in teams van vijf studenten
-    - leren hoe je de functionaliteit van een nieuwe website kunt vastleggen
-    - leren hoe je een technisch ontwerp maakt voor een grotere website
-    - leren hoe je met meerdere mensen code voor een website kunt delen via Git
-    - kennis maken met het werken in teamverband en projectmatig werken
-    - leren hoe je een project kunt opdelen om een tijdsplanning te maken
