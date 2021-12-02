@@ -26,7 +26,7 @@ Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een tea
 
 - Individueel aandeel project (50%)---jouw bijdrage aan het groepsproject wordt beoordeeld op uitgebreidheid, kwaliteit van de code, en diepgang van uitleg in je persoonlijk verslag.
 
-- Groepscijfer (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre alle studenten een passende, uitdagende bijdrage hebben gedaan.
+- Groepscijfer (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre alle studenten een passende, uitdagende bijdrage hebben gedaan en aantoonbaar van elkaar geleerd hebben.
 
 Voor het laatste onderdeel is het essentieel dat teamgenoten elkaar uitgebreid helpen tijdens de projectfase, zelfs al doet iedereen een individuele bijdrage aan het project.
 
@@ -35,7 +35,7 @@ Voor het laatste onderdeel is het essentieel dat teamgenoten elkaar uitgebreid h
 
 Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, en je maakt met je projectgroep **plannen** om aan de gezamenlijke website te werken.
 
-De plannen bespreek je op woensdag of donderdag uitgebreid met de groepsmentor. Belangrijke factor is dat alle individuele plannen ófwel bijna niet overlappen, ófwel elkaar duidelijk aanvullen. Dit wordt zorgvuldig doorgenomen tijdens het gesprek. Op basis daarvan stellen jullie gezamenlijk de plannen bij en kun je aan de slag met je team.
+De plannen bespreek je op woensdag of donderdag uitgebreid met jullie **mentor**. Belangrijke factor is dat alle individuele plannen ófwel bijna niet overlappen, ófwel elkaar duidelijk aanvullen. Dit wordt zorgvuldig doorgenomen tijdens het gesprek. Op basis daarvan stellen jullie gezamenlijk de plannen bij en kun je aan de slag met je team.
 
 | Belangrijke data week 1           |                               |
 | --------------------------------- | ----------------------------- |
@@ -73,8 +73,8 @@ Tijdens de laatste dagen werk je aan een **individuele presentatie** van jouw bi
 
 | Belangrijke data week 4           |                               |
 | --------------------------------- | ----------------------------- |
-| Beta                              | maandag 31 januari 17:59      |
-| Final                             | woensdag 2 februari 17:59     |
+| Samenvoeging                      | maandag 31 januari 17:59      |
+| Definitieve versie                | woensdag 2 februari 17:59     |
 | Eindpresentaties                  | vrijdag 4 februari 17:59      |
 
 
