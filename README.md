@@ -35,7 +35,7 @@ Voor het laatste onderdeel is het essentieel dat teamgenoten elkaar uitgebreid h
 
 Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, en je maakt met je projectgroep **plannen** om aan de gezamenlijke website te werken.
 
-De plannen bespreek je op woensdag of donderdag uitgebreid met de groepsmentor. Op basis daarvan stellen jullie gezamenlijk de plannen bij en kun je aan de slag.
+De plannen bespreek je op woensdag of donderdag uitgebreid met de groepsmentor. Belangrijke factor is dat alle individuele plannen ófwel bijna niet overlappen, ófwel elkaar duidelijk aanvullen. Dit wordt zorgvuldig doorgenomen tijdens het gesprek. Op basis daarvan stellen jullie gezamenlijk de plannen bij en kun je aan de slag met je team.
 
 | Belangrijke data week 1           |                               |
 | --------------------------------- | ----------------------------- |
@@ -45,9 +45,9 @@ De plannen bespreek je op woensdag of donderdag uitgebreid met de groepsmentor. 
 
 ## Week 2
 
-Deze week ga je **SQL** leren met twee opdrachten Movies en Fiftyville. Daarnaast ga je je verdiepen in de **technieken** die je nodig hebt om jouw aandeel in het project te volbrengen.
+Deze week ga je zelf **SQL** leren met twee opdrachten Movies en Fiftyville. Hiervoor krijg je geen cijfer, maar je moet ze wel af hebben. Daarnaast ga je je verdiepen in de **technieken** die je nodig hebt om jouw aandeel in het project te volbrengen.
 
-Om te starten met de website heeft het team een **projectstarter** gekregen, die jullie gezamenlijk uitpluizen. Tijdens het gesprek met de groepsmentor presenteren jullie hoe de projectstarter in elkaar zit, en elke student vertelt hoe ze hun eigen doelen gaan verwezenlijken binnen dit framework.
+Om te starten met de website heeft het team een **projectstarter** gekregen, die jullie gezamenlijk uitpluizen. Tijdens het gesprek met de groepsmentor presenteren jullie hoe de projectstarter in elkaar zit, en elke student vertelt wat ze al gedaan hebben aan hun individuele bijdrage, en hoe ze komende week aan de slag gaan.
 
 | Belangrijke data week 2           |                               |
 | --------------------------------- | ----------------------------- |
@@ -57,7 +57,9 @@ Om te starten met de website heeft het team een **projectstarter** gekregen, die
 
 ##  Week 3
 
-Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je gaat toepassen en je bent deze week keihard aan de slag om jouw aandeel in het project uit te werken. Dit is de week waarin het gaat gebeuren. Tijdens het mentorgesprek geeft iedereen een persoonlijke update.
+Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je gaat toepassen en je bent deze week keihard aan de slag om jouw **aandeel** in het project uit te werken. Dit is de week waarin het gaat gebeuren.
+
+Tijdens het **mentorgesprek** geeft iedereen een persoonlijke update waarin ook wordt doorgevraagd op details. Hiermee toetsen we al of elke student de eigen bijdrage goed onder controle heeft en voldoende leert.
 
 | Belangrijke data week 3           |                               |
 | --------------------------------- | ----------------------------- |
@@ -65,7 +67,9 @@ Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je
 
 ## Week 4
 
-Deze week gaan jullie als groep afronden. Maandag worden alle individuele bijdragen definitief samengevoegd. Dan maakt de groep een plan om nog kleine verbeteringen te doen. Deze verbeteringen zijn uiterlijk woensdag verwerkt in het eindproject, dat dan definitief ingeleverd wordt.
+Deze week gaan jullie als groep **afronden**. Maandag worden alle individuele bijdragen definitief samengevoegd. Dan maakt de groep een plan om nog kleine verbeteringen te doen. Deze verbeteringen zijn uiterlijk woensdag verwerkt in het eindproject, dat dan definitief ingeleverd wordt.
+
+Tijdens de laatste dagen werk je aan een **individuele presentatie** van jouw bijdrage en hoe deze technisch in elkaar zit. Je beschrijft ook wat de belangrijkste dingen zijn die je geleerd hebt. Hiermee vindt de definitieve toetsing plaats of je persoonlijk voldoende hebt geleerd.
 
 | Belangrijke data week 4           |                               |
 | --------------------------------- | ----------------------------- |
