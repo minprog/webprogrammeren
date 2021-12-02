@@ -18,6 +18,17 @@ Jelle van Assema (docent)
 TBA
 
 
+## Eindcijfer
+
+- Persoonlijke website (25%)---jouw eigen kleine website bouw je in de eerste week. Deze wordt beoordeeld op uitgebreidheid en kwaliteit van de code.
+
+- Individueel aandeel project (50%)---jouw bijdrage aan het groepsproject wordt beoordeeld op uitgebreidheid, kwaliteit van de code, en diepgang van uitleg in je persoonlijk verslag.
+
+- Groepscijfer (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre alle studenten een passende, uitdagende bijdrage hebben gedaan.
+
+Met name voor het laatste onderdeel is het essentieel dat groepsgenoten elkaar uitgebreid helpen tijdens de projectfase, hoewel iedereen een eigen bijdrage aan het project doet.
+
+
 ## Project en Opdrachten
 
 De cursus bestaat uit de opdrachten Profile, Movies en Fiftyville, en een gezamenlijk project waarin je een individuele bijdrage doet.
@@ -119,20 +130,3 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - meedenken over grote problemen met het vak
 - andere officiële zaken
 - administratie na afloop van het vak
-
-
-## Cijfers
-
-Deze cursus bestaat uit opdrachten en een groepsproject. Alle opdrachten worden nagekeken en daar krijg je natuurlijk feedback op. Voor iedere compleet werkende opdracht krijg je punten. Iedere punt is een punt op het eindcijfer als volgt:
-
-- movies (1 punt)
-- fiftyville (1 punt)
-- homepage (1 punt)
-- finance (2 punten)
-
-Lever je dus alle opdrachten compleet en werkend in, dan heb je al 50% van het eindcijfer, ofwel een 5. De andere 50% komt van het groepsproject. Dit project wordt gewoon op de Nederlandse schaal van 1 t/m 10 becijferd op de volgende onderdelen:
-
-* Ontwerp --- is het een samenhangend en compleet product? Is het product goed te gebruiken voor beginners en gevorderden?
-* Code --- hoe overzichtelijk en gestructureerd zijn de code en database? Hoe leesbaar is de code?
-
-Je krijgt alleen een cijfer voor het groepsproject als je zichtbaar één feature hebt bijgedragen aan het project zoals staat omschreven bij [het project idee](/milestones/idee). Ieder lid van het team krijgt hetzelfde cijfer voor het project. Alleen in uitzonderlijke situaties wordt er een persoonlijk cijfer toegekend.
