@@ -35,7 +35,7 @@ Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, 
 
 De plannen bespreek je op woensdag of donderdag uitgebreid met de groepsmentor. Op basis daarvan stellen jullie gezamenlijk de plannen bij en kun je aan de slag.
 
-| Belangrijke data week 1           | Deadline                      |
+| Belangrijke data week 1           |                               |
 | --------------------------------- | ----------------------------- |
 | Projectvoorstel                   | dinsdag 11 januari 17:59      |
 | Profile                           | vrijdag 14 januari 17:59      |
@@ -47,7 +47,7 @@ Deze week ga je **SQL** leren met twee opdrachten Movies en Fiftyville. Daarnaas
 
 Om te starten met de website heeft de groep een startproject gekregen, dat jullie gezamenlijk uitpluizen. Tijdens het gesprek met de groepsmentor presenteren jullie hoe het startproject in elkaar zit, en elke student vertelt hoe ze hun eigen doelen gaan verwezenlijken met hulp van dit startproject.
 
-| Belangrijke data week 2           | Deadline                      |
+| Belangrijke data week 2           |                               |
 | --------------------------------- | ----------------------------- |
 | Movies                            | dinsdag 18 januari 17:59      |
 | Fiftyville                        | vrijdag 21 januari 17:59      |
@@ -57,7 +57,7 @@ Om te starten met de website heeft de groep een startproject gekregen, dat julli
 
 Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je gaat toepassen en je bent deze week keihard aan de slag om jouw aandeel in het project uit te werken. Dit is de week waarin het gaat gebeuren. Tijdens het mentorgesprek geeft iedereen een update.
 
-| Belangrijke data week 3           | Deadline                      |
+| Belangrijke data week 3           |                               |
 | --------------------------------- | ----------------------------- |
 | mentorgesprek                     | woensdag of donderdag         |
 
@@ -65,7 +65,7 @@ Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je
 
 Deze week gaan jullie als groep afronden. Maandag worden alle individuele bijdragen definitief samengevoegd. Dan maakt de groep een plan om nog kleine verbeteringen te doen. Deze verbeteringen zijn uiterlijk woensdag verwerkt in het eindproject, dat dan definitief ingeleverd wordt.
 
-| Belangrijke data week 4           | Deadline                      |
+| Belangrijke data week 4           |                               |
 | --------------------------------- | ----------------------------- |
 | Beta                              | maandag 31 januari 17:59      |
 | Final                             | woensdag 2 februari 17:59     |
