@@ -29,10 +29,6 @@ TBA
 Met name voor het laatste onderdeel is het essentieel dat groepsgenoten elkaar uitgebreid helpen tijdens de projectfase, hoewel iedereen een eigen bijdrage aan het project doet.
 
 
-## Project en Opdrachten
-
-De cursus bestaat uit de opdrachten Profile, Movies en Fiftyville, en een gezamenlijk project waarin je een individuele bijdrage doet.
-
 ## Week 1
 
 Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, en je maakt met je projectgroep **plannen** om aan de gezamenlijke website te werken.
