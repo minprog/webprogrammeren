@@ -28,7 +28,7 @@ Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een tea
 
 - Groepscijfer (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre alle studenten een passende, uitdagende bijdrage hebben gedaan en aantoonbaar van elkaar geleerd hebben.
 
-Voor het laatste onderdeel is het essentieel dat teamgenoten elkaar uitgebreid helpen tijdens de projectfase, zelfs al doet iedereen een individuele bijdrage aan het project.
+Voor het laatste onderdeel is het essentieel dat teamgenoten elkaar uitgebreid helpen tijdens de projectfase, zelfs al doet iedereen een individuele bijdrage aan het project. Dit wordt onder andere gecontroleerd tijdens de voortgangsgesprekken, en via het procesboek dat elke student moet bijhouden.
 
 
 ## Week 1
@@ -76,6 +76,11 @@ Tijdens de laatste dagen werk je aan een **individuele presentatie** van jouw bi
 | Samenvoeging                      | maandag 31 januari 17:59      |
 | Definitieve versie                | woensdag 2 februari 17:59     |
 | Eindpresentaties                  | vrijdag 4 februari 17:59      |
+
+
+## Procesboek
+
+Alle studenten houden een procesboek bij. Hierin schrijf je elke dag wat je nieuw bent tegengekomen, waar je vragen over hebt op dat moment, wie je heeft geholpen (teamgenoten en assistenten, met naam erbij), wat de oplossing voor je vraag was, welke blokkades je had bij het programmeren en hoe je daar uit bent gekomen, en je ideeën voor de komende dagen of voor de mentorgesprekken.
 
 
 ## Mentoren
