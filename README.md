@@ -2,9 +2,7 @@
 
 *Versie: Januari 2022*
 
-In vier weken leer je hoe je een interactieve website maakt met behulp van het Flask-framework. We focussen op het maken van websites met een database-backend waarin gebruikersgegevens worden opgeslagen. Zo kun je in je verdere studie prototypes bouwen van applicaties en snel data verzamelen voor onderzoek. Er wordt gewerkt in teams van 6 of 7 studenten.
-
-De website van je team is gebaseerd op één van de [ideeën die je kunt vinden op deze pagina](/milestones/idee).
+In vier weken leer je hoe je een interactieve website maakt met behulp van het Flask-framework. We focussen op het maken van websites met een database-backend waarin gebruikersgegevens worden opgeslagen. Zo kun je in je verdere studie prototypes bouwen van applicaties en snel data verzamelen voor onderzoek. Er wordt gewerkt in vrij grote teams.
 
 
 ## Contact
@@ -20,6 +18,17 @@ Jelle van Assema (docent)
 TBA
 
 Tijdens het vak houd je contact met je teamgenoten en mentoren via Slack. Zie hieronder voor meer informatie.
+
+
+## Project
+
+Je gaat, naast enkele individuele opdrachten, een project doen aan de hand van de volgende eisen:
+
+- Het project wordt gedaan in een team van 6-8 personen. Studenten werken afwisselend samen binnen dit team.
+- Alle teamleden programmeren een individuele bijdrage die afgestemd is op hun voorkennis en comfort met programmeren.
+- De website van je team is gebaseerd op één van de vaste [ideeën die je kunt vinden op deze pagina](/milestones/idee).
+
+De examinator moet altijd goedkeuring geven voor invulling van de eisen.
 
 
 ## Eindcijfer
@@ -89,6 +98,8 @@ Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een tea
         {: start="0"}
 
 Voor het laatste onderdeel is het essentieel dat teamgenoten elkaar uitgebreid helpen tijdens de projectfase, zelfs al doet iedereen een individuele bijdrage aan het project. Dit wordt onder andere gecontroleerd tijdens de voortgangsgesprekken, en via het procesboek dat elke student moet bijhouden.
+
+De opdrachten Profile, Movies en Fiftyville moeten afgerond en ingeleverd worden om het vak te kunnen halen.
 
 
 ## Week 1
