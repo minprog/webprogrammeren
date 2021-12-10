@@ -212,7 +212,7 @@ Je moet **dagelijks** contact hebben met één of meer groepsgenoten, op locatie
 
 ## Groepsdynamiek
 
-Voor het groepcijfer is het essentieel dat teamgenoten elkaar aantoonbaar helpen om een uitdagende bijdrage aan het project te doen. Hiervoor is afstemming en vorming van subgroepen noodzakelijk. Mocht je in goed overleg uit de groep moeten stappen, dan kun je geen punten krijgen voor het groepsdeel van het project. Als er geen goed overleg is met de vakcoördinator kun je niet uit de groep stappen.
+Voor het groepcijfer is het essentieel dat teamgenoten elkaar aantoonbaar helpen om een uitdagende bijdrage aan het project te doen. Hiervoor is afstemming en vorming van subgroepen noodzakelijk. Mocht je in goed overleg uit de groep moeten stappen, dan kun je geen punten krijgen voor het groepsdeel van het project. Als er *vooraf* geen goed overleg is met de vakcoördinator kun je niet uit de groep stappen of gezet worden.
 
 
 ## Voorkennis
