@@ -111,6 +111,7 @@ Uiterlijk dinsdag hebben jullie een projectvoorstel gemaakt waarin jullie de web
     - Welke individuele onderdelen ze gaan maken
     - Hoe dit past bij de voorkennis 
     - Wat er geleerd gaat worden
+- Alle teamleden worden geacht iets aan te pakken dat voor hen leerzaam is, afgestemd op hun voorkennis en comfort met programmeren
 - Individuele plannen moeten bijna niet overlappen, óf elkaar juist zorgvuldig aanvullen
 - Geef aan wie met wie (eventueel) gaat samenwerken en waaraan precies
 - Geef aan welke studenten voortouw gaan nemen met Git en consistent maken project
@@ -121,6 +122,8 @@ Check voor de vaste projecten [Idee](/milestones/idee). Volg verder de instructi
 
 Elke woensdag of donderdag spreekt het team uitgebreid met minstens 2 **mentoren**. Deze week ga je het plan finetunen.
 
+- Enkele studenten lichten het globale idee voor de website toe.
+- Alle individuele studenten leggen uit wat ze gaan doen binnen het project.
 - Alle individuele plannen moeten ófwel bijna niet overlappen, ófwel elkaar duidelijk aanvullen. Dit wordt zorgvuldig doorgenomen tijdens het gesprek.
 - Op basis van de bespreking stellen jullie gezamenlijk de plannen bij. Dan lever je je formele plan in.
 - Daarna kun je aan de slag met je team.
@@ -145,7 +148,7 @@ Om te starten met de website heeft het team een **projectstarter** gekregen, die
 ##### Bespreking week 2
 
 - Enkele teamleden presenteren hoe de projectstarter in elkaar zit, en wat er globaal moet gebeuren om jullie website te maken
-- Elke individuele student vertelt wat tot nu toe gedaan hebben aan hun individuele bijdrage, en hoe ze komende week aan de slag gaan
+- Elke individuele student vertelt wat ze tot nu toe gedaan hebben aan hun individuele bijdrage, en hoe ze komende week aan de slag gaan
 
 ##  Week 3
 
