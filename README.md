@@ -4,6 +4,8 @@
 
 In vier weken leer je hoe je een interactieve website maakt met behulp van het Flask-framework. We focussen op het maken van websites met een database-backend waarin gebruikersgegevens worden opgeslagen. Zo kun je in je verdere studie prototypes bouwen van applicaties en snel data verzamelen voor onderzoek. Er wordt gewerkt in teams van 6 of 7 studenten.
 
+De website van je team is gebaseerd op één van de [ideeën die je kunt vinden op deze pagina](/milestones/idee).
+
 
 ## Contact
 
@@ -16,6 +18,8 @@ Jelle van Assema (docent)
 
 **assistenten**  
 TBA
+
+Tijdens het vak houd je contact met je teamgenoten en mentoren via Slack. Zie hieronder voor meer informatie.
 
 
 ## Eindcijfer
@@ -93,6 +97,7 @@ Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, 
 
 | Belangrijke data week 1           |                               |
 | --------------------------------- | ----------------------------- |
+| Registratie Slack                 | maandag 10 januari 13:59      |
 | Projectvoorstel                   | dinsdag 11 januari 17:59      |
 | Profile                           | vrijdag 14 januari 17:59      |
 | mentorgesprek                     | woensdag of donderdag         |
@@ -110,13 +115,19 @@ Uiterlijk dinsdag hebben jullie een projectvoorstel gemaakt waarin jullie de web
 - Geef aan wie met wie (eventueel) gaat samenwerken en waaraan precies
 - Geef aan welke studenten voortouw gaan nemen met Git en consistent maken project
 
-##### Bespreking
+Check voor de vaste projecten [Idee](/milestones/idee). Volg verder de instructies voor het [Projectvoorstel](/milestones/voorstel).
+
+##### Bespreking week 1
 
 Elke woensdag of donderdag spreekt het team uitgebreid met minstens 2 **mentoren**. Deze week ga je het plan finetunen.
 
 - Alle individuele plannen moeten ófwel bijna niet overlappen, ófwel elkaar duidelijk aanvullen. Dit wordt zorgvuldig doorgenomen tijdens het gesprek.
 - Op basis van de bespreking stellen jullie gezamenlijk de plannen bij. Dan lever je je formele plan in.
 - Daarna kun je aan de slag met je team.
+
+##### Opstarten projecten
+
+Volg de instructies [voor het Bootstrappen van het project](/milestones/bootstrap).
 
 
 ## Week 2
@@ -131,7 +142,7 @@ Om te starten met de website heeft het team een **projectstarter** gekregen, die
 | Fiftyville                        | vrijdag 21 januari 17:59      |
 | mentorgesprek                     | woensdag of donderdag         |
 
-##### Bespreking
+##### Bespreking week 2
 
 - Enkele teamleden presenteren hoe de projectstarter in elkaar zit, en wat er globaal moet gebeuren om jullie website te maken
 - Elke individuele student vertelt wat tot nu toe gedaan hebben aan hun individuele bijdrage, en hoe ze komende week aan de slag gaan
@@ -144,7 +155,7 @@ Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je
 | --------------------------------- | ----------------------------- |
 | mentorgesprek                     | woensdag of donderdag         |
 
-##### Bespreking
+##### Bespreking week 3
 
 Alle teamleden geven een persoonlijke update waarin ook wordt doorgevraagd op details. Hiermee toetsen we al of elke student de eigen bijdrage goed onder controle heeft en voldoende leert.
 
@@ -159,9 +170,13 @@ Deze week gaan jullie als groep **afronden**. Maandag worden alle individuele bi
 | Definitieve versie                | woensdag 2 februari 17:59     |
 | Eindpresentaties                  | vrijdag 4 februari 17:59      |
 
-##### Bespreking
+##### Bespreking week 4
 
 Tijdens de laatste dagen werk je aan een **individuele presentatie** van jouw bijdrage en hoe deze technisch in elkaar zit. Je beschrijft ook wat de belangrijkste dingen zijn die je geleerd hebt. Hiermee vindt de definitieve toetsing plaats of je persoonlijk voldoende hebt geleerd.
+
+##### Virtuele presentatie
+
+[Oplevering](/milestones/oplevering)
 
 
 ## Procesboek
