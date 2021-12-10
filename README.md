@@ -24,6 +24,20 @@ Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een tea
 
 - Persoonlijke website (25%)---jouw eigen kleine website bouw je in de eerste week. Deze wordt beoordeeld op uitgebreidheid en kwaliteit van de code.
 
+    - Uitgebreidheid
+        0. Nauwelijks code of geen JS/CSS
+        1. Voldoet niet precies aan de minimumeisen
+        2. Voldoet aan minimumeisen
+        3. Richting 2x de minimumeisen
+        {: start="0"}
+
+    - Kwaliteit
+        0. Alleen copy-paste is netjes, indentatie niet netjes
+        1. Indentatie bijna overal consistent doorgevoerd
+        2. Consistente indentatie, in alle files, opdeling in blokjes
+        3. Superconsistent, opdelen in meerdere files, her en der zinvolle comments
+        {: start="0"}
+
 - Individueel aandeel project (50%)---jouw bijdrage aan het groepsproject wordt beoordeeld op uitgebreidheid, kwaliteit van de code, en diepgang van uitleg in je persoonlijk verslag.
 
 - Groepscijfer (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre <u>alle</u> studenten een passende, uitdagende bijdrage hebben gedaan en aantoonbaar van elkaar geleerd hebben.
