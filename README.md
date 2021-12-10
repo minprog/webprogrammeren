@@ -22,7 +22,7 @@ TBA
 
 Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een team aan een project. De cijfers worden zo samengesteld:
 
-- Persoonlijke website (25%)---jouw eigen kleine website bouw je in de eerste week. Deze wordt beoordeeld op uitgebreidheid en kwaliteit van de code.
+- **Persoonlijke website** (25%)---jouw eigen kleine website bouw je in de eerste week. Deze wordt beoordeeld op uitgebreidheid en kwaliteit van de code.
 
     - Uitgebreidheid
         0. Nauwelijks code of geen JS/CSS
@@ -38,9 +38,51 @@ Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een tea
         3. Superconsistent, opdelen in meerdere files, her en der zinvolle comments
         {: start="0"}
 
-- Individueel aandeel project (50%)---jouw bijdrage aan het groepsproject wordt beoordeeld op uitgebreidheid, kwaliteit van de code, en diepgang van uitleg in je persoonlijk verslag.
+- **Individueel aandeel project** (50%)---jouw bijdrage aan het groepsproject wordt beoordeeld op uitgebreidheid, kwaliteit van de code, en diepgang van uitleg in je persoonlijk verslag.
 
-- Groepscijfer (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre <u>alle</u> studenten een passende, uitdagende bijdrage hebben gedaan en aantoonbaar van elkaar geleerd hebben.
+    - Uitgebreidheid
+        0. Nauwelijks code of geen JS/CSS of geen Python
+        1. Voldoende HTML/JS/CSS geschreven
+        2. ...
+        3. ...
+        {: start="0"}
+
+    - Kwaliteit HTML, CSS, JS
+        0. Alleen copy-paste is netjes, indentatie niet netjes
+        1. Indentatie bijna overal consistent doorgevoerd
+        2. Consistente indentatie, in alle files, opdeling in blokjes
+        3. Superconsistent, opdelen in meerdere files, her en der zinvolle comments
+        {: start="0"}
+
+    - Kwaliteit Python
+        0. Alleen copy-paste is netjes, indentatie niet netjes
+        1. Indentatie bijna overal consistent doorgevoerd
+        2. Consistente indentatie, in alle files, opdeling in blokjes
+        3. Superconsistent, opdelen in meerdere files, her en der zinvolle comments
+        {: start="0"}
+
+    - Diepgang persoonlijk verslag
+        0. Alleen opsommingen van wat gedaan is, geen uitleg van leerproces
+        1. ..
+        2. ..
+        3. ..
+        {: start="0"}
+
+- **Groepscijfer** (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre <u>alle</u> studenten een passende, uitdagende bijdrage hebben gedaan en aantoonbaar van elkaar geleerd hebben.
+
+    - Algemene consistentie
+        0. Website bestaat uit losse onderdelen bovenop de template
+        1. ..
+        2. Topnavigatie verbindt duidelijk alle onderdelen, nog wel verschillend in werking/opmaak
+        3. Navigatie en werking zijn consistent, wel ruimte voor "eigenheid" individuele bijdragen
+        {: start="0"}
+
+    - Samenwerking en bijdrage
+        0. Er zijn misschien sporadisch tekenen van samenwerken gevonden
+        1. Voor sommige onderdelen is duidelijk samengewerkt tussen enkele teamleden
+        2. Vrijwel alle teamleden hebben aantoonbaar werk op hun niveau gedaan, samenwerking
+        3. Alle teamleden hebben aantoonbaar werk op hun niveau gedaan, zijn gecoacht door ervarenen
+        {: start="0"}
 
 Voor het laatste onderdeel is het essentieel dat teamgenoten elkaar uitgebreid helpen tijdens de projectfase, zelfs al doet iedereen een individuele bijdrage aan het project. Dit wordt onder andere gecontroleerd tijdens de voortgangsgesprekken, en via het procesboek dat elke student moet bijhouden.
 
