@@ -68,7 +68,7 @@ Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een tea
         3. ..
         {: start="0"}
 
-- **Groepscijfer** (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre <u>alle</u> studenten een passende, uitdagende bijdrage hebben gedaan en aantoonbaar van elkaar geleerd hebben.
+- **Groepscijfer** (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre <u>alle</u> studenten een passende, uitdagende bijdrage hebben gedaan en aantoonbaar van elkaar geleerd hebben. Aantonen kan met hulp van het process book dat elk teamlid bijhoudt.
 
     - Algemene consistentie
         0. Website bestaat uit losse onderdelen bovenop de template
@@ -89,9 +89,7 @@ Voor het laatste onderdeel is het essentieel dat teamgenoten elkaar uitgebreid h
 
 ## Week 1
 
-Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, en je maakt met je projectgroep **plannen** om aan de gezamenlijke website te werken.
-
-De plannen bespreek je op woensdag of donderdag uitgebreid met jullie **mentor**. Belangrijke factor is dat alle individuele plannen ófwel bijna niet overlappen, ófwel elkaar duidelijk aanvullen. Dit wordt zorgvuldig doorgenomen tijdens het gesprek. Op basis daarvan stellen jullie gezamenlijk de plannen bij en kun je aan de slag met je team.
+Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, en maak je **plannen** met je projectgroep om aan de gezamenlijke website te werken.
 
 | Belangrijke data week 1           |                               |
 | --------------------------------- | ----------------------------- |
@@ -99,11 +97,33 @@ De plannen bespreek je op woensdag of donderdag uitgebreid met jullie **mentor**
 | Profile                           | vrijdag 14 januari 17:59      |
 | mentorgesprek                     | woensdag of donderdag         |
 
+##### Projectvoorstel
+
+Uiterlijk dinsdag hebben jullie een projectvoorstel gemaakt waarin jullie de website beschrijven die je gaat maken.
+
+- Jullie geven de globale richting aan van wat je gaat maken
+- Per teamlid:
+    - Welke individuele onderdelen ze gaan maken
+    - Hoe dit past bij de voorkennis 
+    - Wat er geleerd gaat worden
+- Individuele plannen moeten bijna niet overlappen, óf elkaar juist zorgvuldig aanvullen
+- Geef aan wie met wie (eventueel) gaat samenwerken en waaraan precies
+- Geef aan welke studenten voortouw gaan nemen met Git en consistent maken project
+
+##### Bespreking
+
+Elke woensdag of donderdag spreekt het team uitgebreid met minstens 2 **mentoren**. Deze week ga je het plan finetunen.
+
+- Alle individuele plannen moeten ófwel bijna niet overlappen, ófwel elkaar duidelijk aanvullen. Dit wordt zorgvuldig doorgenomen tijdens het gesprek.
+- Op basis van de bespreking stellen jullie gezamenlijk de plannen bij. Dan lever je je formele plan in.
+- Daarna kun je aan de slag met je team.
+
+
 ## Week 2
 
 Deze week ga je zelf **SQL** leren met twee opdrachten Movies en Fiftyville. Hiervoor krijg je geen cijfer, maar je moet ze wel af hebben. Daarnaast ga je je verdiepen in de **technieken** die je nodig hebt om jouw aandeel in het project te volbrengen.
 
-Om te starten met de website heeft het team een **projectstarter** gekregen, die jullie gezamenlijk uitpluizen. Tijdens het gesprek met de groepsmentor presenteren jullie hoe de projectstarter in elkaar zit, en elke student vertelt wat ze al gedaan hebben aan hun individuele bijdrage, en hoe ze komende week aan de slag gaan.
+Om te starten met de website heeft het team een **projectstarter** gekregen, die jullie gezamenlijk uitpluizen. 
 
 | Belangrijke data week 2           |                               |
 | --------------------------------- | ----------------------------- |
@@ -111,21 +131,27 @@ Om te starten met de website heeft het team een **projectstarter** gekregen, die
 | Fiftyville                        | vrijdag 21 januari 17:59      |
 | mentorgesprek                     | woensdag of donderdag         |
 
+##### Bespreking
+
+- Enkele teamleden presenteren hoe de projectstarter in elkaar zit, en wat er globaal moet gebeuren om jullie website te maken
+- Elke individuele student vertelt wat tot nu toe gedaan hebben aan hun individuele bijdrage, en hoe ze komende week aan de slag gaan
+
 ##  Week 3
 
 Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je gaat toepassen en je bent deze week keihard aan de slag om jouw **aandeel** in het project uit te werken. Dit is de week waarin het gaat gebeuren.
-
-Tijdens het **mentorgesprek** geeft iedereen een persoonlijke update waarin ook wordt doorgevraagd op details. Hiermee toetsen we al of elke student de eigen bijdrage goed onder controle heeft en voldoende leert.
 
 | Belangrijke data week 3           |                               |
 | --------------------------------- | ----------------------------- |
 | mentorgesprek                     | woensdag of donderdag         |
 
+##### Bespreking
+
+Alle teamleden geven een persoonlijke update waarin ook wordt doorgevraagd op details. Hiermee toetsen we al of elke student de eigen bijdrage goed onder controle heeft en voldoende leert.
+
+
 ## Week 4
 
 Deze week gaan jullie als groep **afronden**. Maandag worden alle individuele bijdragen definitief samengevoegd. Dan maakt de groep een plan om nog kleine verbeteringen te doen. Deze verbeteringen zijn uiterlijk woensdag verwerkt in het eindproject, dat dan definitief ingeleverd wordt.
-
-Tijdens de laatste dagen werk je aan een **individuele presentatie** van jouw bijdrage en hoe deze technisch in elkaar zit. Je beschrijft ook wat de belangrijkste dingen zijn die je geleerd hebt. Hiermee vindt de definitieve toetsing plaats of je persoonlijk voldoende hebt geleerd.
 
 | Belangrijke data week 4           |                               |
 | --------------------------------- | ----------------------------- |
@@ -133,10 +159,16 @@ Tijdens de laatste dagen werk je aan een **individuele presentatie** van jouw bi
 | Definitieve versie                | woensdag 2 februari 17:59     |
 | Eindpresentaties                  | vrijdag 4 februari 17:59      |
 
+##### Bespreking
+
+Tijdens de laatste dagen werk je aan een **individuele presentatie** van jouw bijdrage en hoe deze technisch in elkaar zit. Je beschrijft ook wat de belangrijkste dingen zijn die je geleerd hebt. Hiermee vindt de definitieve toetsing plaats of je persoonlijk voldoende hebt geleerd.
+
 
 ## Procesboek
 
 Alle studenten houden een procesboek bij. Hierin schrijf je elke dag wat je nieuw bent tegengekomen, waar je vragen over hebt op dat moment, wie je heeft geholpen (teamgenoten en assistenten, met naam erbij), wat de oplossing voor je vraag was, welke blokkades je had bij het programmeren en hoe je daar uit bent gekomen, en je ideeën voor de komende dagen of voor de mentorgesprekken.
+
+Het procesboek is een essentieel onderdeel van de beoordeling van het groepsproject. Als één van de teamleden het niet goed bijhoudt leidt dit mogelijk tot een lager cijfer voor het groepsdeel.
 
 
 ## Mentoren
