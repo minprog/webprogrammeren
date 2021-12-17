@@ -46,10 +46,14 @@ Je gaat, naast enkele individuele opdrachten, een project doen aan de hand van d
 
 De examinator moet altijd goedkeuring geven voor invulling van de eisen.
 
+### Verantwoordelijkheden
+
+Tijdens het project nemen de studenten die enige ervaring hebben het voortouw met het gebruiken van Git en het afstemmen van de projecten. Ook hebben zij expliciet de taak om medestudenten te helpen om verder te komen en (voor hun niveau) uitdagende projecten aan te pakken.
+
 
 ## Eindcijfer
 
-Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een team aan een project. De cijfers worden zo samengesteld:
+Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een team aan een project. De cijfers worden als volgt samengesteld. **Deze beschrijvingen liggen op dit moment nog niet vast.**
 
 - **Persoonlijke website** (25%)---jouw eigen kleine website bouw je in de eerste week. Deze wordt beoordeeld op uitgebreidheid en kwaliteit van de code.
 
