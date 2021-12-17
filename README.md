@@ -230,7 +230,7 @@ Voor het groepcijfer is het essentieel dat teamgenoten elkaar aantoonbaar helpen
 We verwachten dat je bekend bent met de beginselen van programmeren in Python. Als je al bij een andere opleiding een vak hebt gevolgd over webprogrammeren is dit vak niet voor jou, en moet je vrijstelling aanvragen bij de examencommissie.
 
 
-## Vragen stellen
+### Vragen stellen
 
 Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
