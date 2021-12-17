@@ -29,9 +29,11 @@ Martijn Stegeman
 Bij dit vak worden jij en je team begeleid door twee mentoren (assistenten). Je mentoren helpen je wegwijs maken, doen voor hoe je het beste de opdrachten kunt aanpakken en kijken je werk na. Elke week zijn er **voortgangsgesprekken** met je hele team en je mentor, op woensdag of donderdag.
 
 
-### Slack
+### Team en Slack
 
 Tijdens het vak houd je contact met je teamgenoten en assistenten via Slack. Op de eerste dag krijg je een uitnodiging voor deze omgeving. Check je spam-folder en zorg dat je direct contact legt met teamgenoten die niet fysiek aanwezig zijn. Dit is jullie gezamenlijke verantwoordelijkheid.
+
+Als je geen contact krijgt met een teamlid moet je dit tijdens de dag nog laten weten. Als een teamlid voor het eind van de dag geen contact heeft met de groep en/of met de docenten kan deze persoon worden uitgesloten van het vak.
 
 
 ### Project
