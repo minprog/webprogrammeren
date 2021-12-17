@@ -131,8 +131,8 @@ Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, 
 | Belangrijke momenten week 1       |                               |
 | --------------------------------- | ----------------------------- |
 | Registratie Slack                 | maandag 10 januari 13:59      |
-| Aanmelding projectidee            | maandag 10 januari 19:59      |
-| Projectmeeting                    | dinsdag 10 januari 10:59      |
+| Aanmelding projectidee [deadline] | maandag 10 januari 19:59      |
+| Projectmeeting                    | dinsdag 10 januari ochtend    |
 | Projectvoorstel [deadline]        | dinsdag 11 januari 17:59      |
 | Opdracht: Profile [deadline]      | vrijdag 14 januari 17:59      |
 | Mentorgesprek                     | woensdag of donderdag         |
