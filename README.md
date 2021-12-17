@@ -111,9 +111,9 @@ Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een tea
         3. Alle teamleden hebben aantoonbaar werk op hun niveau gedaan, zijn gecoacht door ervaren medestudenten en groep heeft als geheel iedereen erbij gehouden
         {: start="0"}
 
-Voor het laatste onderdeel is het essentieel dat teamgenoten elkaar uitgebreid helpen tijdens de projectfase, zelfs al doet iedereen een individuele bijdrage aan het project. Dit wordt onder andere gecontroleerd tijdens de voortgangsgesprekken, en via het procesboek dat elke student moet bijhouden.
+Voor het groepscijfer is het essentieel dat teamgenoten elkaar uitgebreid helpen tijdens de projectfase, zelfs al doet iedereen een individuele bijdrage aan het project. Dit wordt onder andere gecontroleerd tijdens de voortgangsgesprekken, en via het procesboek dat elke student moet bijhouden.
 
-Let op dat bovenstaande beschrijvingen indicaties zijn. Gebruik ze om te begrijpen wat de bedoeling is, maar onthou dat als je specifiek op het randje gaat mikken, je kunt verwachten dat naar beneden wordt afgerond.
+Let op dat bovenstaande beschrijvingen indicaties zijn. Uiteindelijk vind er een professioneel oordeel plaats in samenspraak tussen mentoren, docenten en examinator op basis van het ingeleverde werk. Gebruik de indicaties om te begrijpen wat de bedoeling is, maar onthou dat als je specifiek op het randje gaat mikken, je kunt verwachten dat naar beneden wordt afgerond.
 
 De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke deadlines afgerond en ingeleverd worden om het vak te kunnen halen. Ze mogen niet blijven hangen.
 
@@ -145,7 +145,7 @@ Uiterlijk dinsdag hebben jullie een projectvoorstel gemaakt waarin jullie de web
 
 Check voor de vaste projecten [Idee](/milestones/idee). Volg verder de instructies voor het [Projectvoorstel](/milestones/voorstel).
 
-##### Bespreking week 1
+##### Mentorgesprek week 1
 
 Elke woensdag of donderdag spreekt het team uitgebreid met minstens 2 **mentoren**. Deze week ga je het plan finetunen.
 
@@ -174,7 +174,7 @@ Om te starten met de website heeft het team een **projectstarter** gekregen, die
 | Fiftyville [deadline]             | vrijdag 21 januari 17:59      |
 | Mentorgesprek                     | woensdag of donderdag         |
 
-##### Bespreking week 2
+##### Mentorgesprek week 2
 
 - Enkele teamleden presenteren hoe de projectstarter in elkaar zit, en wat er globaal moet gebeuren om jullie website te maken
 - Elke individuele student vertelt wat ze tot nu toe gedaan hebben aan hun individuele bijdrage, en hoe ze komende week aan de slag gaan
@@ -187,7 +187,7 @@ Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je
 | --------------------------------- | ----------------------------- |
 | Mentorgesprek                     | woensdag of donderdag         |
 
-##### Bespreking week 3
+##### Mentorgesprek week 3
 
 Alle teamleden geven een <u>persoonlijke</u> update waarin ook wordt doorgevraagd op details. Hiermee toetsen we al of elke student de eigen bijdrage goed onder controle heeft en voldoende leert.
 
@@ -203,7 +203,7 @@ Deze week gaan jullie als groep **afronden**. Maandag worden alle individuele bi
 | Mentorgesprek                     | woensdag of donderdag         |
 | Virtuele presentatie  [deadline]  | vrijdag 4 februari 17:59      |
 
-##### Bespreking week 4
+##### Mentorgesprek week 4
 
 Tijdens de laatste bespreking presenteer je jouw bijdrage en hoe deze technisch in elkaar zit. Je beschrijft ook wat de belangrijkste dingen zijn die je geleerd hebt. Hiermee vindt de definitieve toetsing plaats of je persoonlijk voldoende hebt geleerd.
 
