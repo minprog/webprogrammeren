@@ -9,13 +9,10 @@ In vier weken leer je hoe je een interactieve website maakt met behulp van het F
 
 Stuur een mail naar <progik@mprog.nl> of spreek je mentoren of docenten aan. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen.
 
-**heads**  
-Robin Langerak (docent)  
-Martijn Stegeman (docent)  
-Jelle van Assema (docent)
-
-**assistenten**  
-TBA
+**docenten**  
+Jelle van Assema  
+Robin Langerak  
+Martijn Stegeman
 
 Tijdens het vak houd je contact met je teamgenoten en mentoren via Slack. Zie hieronder voor meer informatie.
 
@@ -47,59 +44,61 @@ Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een tea
     - Kwaliteit
         0. Alleen copy-paste is netjes, indentatie niet netjes
         1. Indentatie bijna overal consistent doorgevoerd
-        2. Consistente indentatie, in alle files, opdeling in blokjes
+        2. Consistente indentatie, in alle files, opdeling code in blokjes en duidelijke afscheiding grote delen in grote files
         3. Superconsistent, opdelen in meerdere files, her en der zinvolle comments
         {: start="0"}
 
-- **Individueel aandeel project** (50%)---jouw bijdrage aan het groepsproject wordt beoordeeld op uitgebreidheid, kwaliteit van de code, en diepgang van uitleg in je persoonlijk verslag.
+- **Individueel aandeel project** (50%)---jouw bijdrage aan het groepsproject wordt beoordeeld op uitgebreidheid, kwaliteit van de code, en diepgang van uitleg in je persoonlijk verslag. Je hoeft niet per se JS te gebruiken.
 
     - Uitgebreidheid
-        0. Nauwelijks code of geen JS/CSS of geen Python
-        1. Voldoende HTML/JS/CSS geschreven
-        2. ...
-        3. ...
+        0. Weinig code of geen JS/CSS of geen Python (dan verder geen punten voor individueel)
+        1. Voldoende HTML/JS/CSS zelf geschreven en wat Python en SQL-queries
+        2. Meerdere HTML/JS/CSS-onderdelen gemaakt, met Python en SQL-queries erbij
+        3. Meerdere pagina's gemaakt met substantiële HTML/JS/CSS, met de backend erbij
         {: start="0"}
 
     - Kwaliteit HTML, CSS, JS
-        0. Alleen copy-paste is netjes, indentatie niet netjes
+        0. Alleen wat is gecopy-paste is netjes, indentatie niet netjes
         1. Indentatie bijna overal consistent doorgevoerd
-        2. Consistente indentatie, in alle files, opdeling in blokjes
+        2. Consistente indentatie, alle files op zelfde manier, opdeling in blokjes, visuele afscheiding grote delen
         3. Superconsistent, opdelen in meerdere files, her en der zinvolle comments
         {: start="0"}
 
-    - Kwaliteit Python
-        0. Alleen copy-paste is netjes, indentatie niet netjes
-        1. Indentatie bijna overal consistent doorgevoerd
-        2. Consistente indentatie, in alle files, opdeling in blokjes
-        3. Superconsistent, opdelen in meerdere files, her en der zinvolle comments
+    - Kwaliteit Python-code
+        0. Grote delen zijn slordig
+        1. Aardige basisstijl, maar functies zijn erg lang en niet opgesplitst, duplicatie van code
+        2. Duidelijke onderdelen, prima stijl
+        3. Consistent opgemaakt, duidelijk afgescheiden onderdelen, onderdelen zijn kort en eenvoudig
         {: start="0"}
 
     - Diepgang persoonlijk verslag
-        0. Alleen opsommingen van wat gedaan is, geen uitleg van leerproces
-        1. ..
-        2. ..
-        3. ..
+        0. Alleen opsommingen van wat gedaan is per dag of per week, geen uitleg van leerproces
+        1. Plausibele connectie tussen bronnen en wat per dag gedaan is, maar weinig uitleg
+        2. Per gemaakt onderdeel overzichtelijk wat gedaan is en welke bronnen en analyse van wat je hiervan geleerd hebt
+        3. Voor enkele gemaakte onderdelen een duidelijke beschrijving van hoe het in elkaar zit, welke bronnen zijn gebruikt en <u>hoe</u> die bronnen hebben geholpen te leren; uitgebreide beschouwing op algemeen leren tijdens het vak.
         {: start="0"}
 
-- **Groepscijfer** (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre <u>alle</u> studenten een passende, uitdagende bijdrage hebben gedaan en aantoonbaar van elkaar geleerd hebben. Aantonen kan met hulp van het process book dat elk teamlid bijhoudt.
+- **Groepscijfer** (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre <u>alle</u> studenten een passende, uitdagende bijdrage hebben gedaan en aantoonbaar van elkaar geleerd hebben. Aantonen kan met hulp van het procesboek dat elk teamlid bijhoudt.
 
     - Algemene consistentie
-        0. Website bestaat uit losse onderdelen bovenop de template
-        1. ..
-        2. Topnavigatie verbindt duidelijk alle onderdelen, nog wel verschillend in werking/opmaak
-        3. Navigatie en werking zijn consistent, wel ruimte voor "eigenheid" individuele bijdragen
+        0. Website bestaat vrijwel geheel uit losse onderdelen bovenop de template
+        1. Topnavigatie verbindt duidelijk alle onderdelen, wel flink verschillend in werking/opmaak
+        2. De consistentie is redelijk en/of de onderdelen vullen elkaar niet helemaal aan
+        3. Navigatie en werking zijn consistent, wel altijd ruimte voor "eigenheid" individuele bijdragen
         {: start="0"}
 
     - Samenwerking en bijdrage
-        0. Er zijn misschien sporadisch tekenen van samenwerken gevonden
-        1. Voor sommige onderdelen is duidelijk samengewerkt tussen enkele teamleden
-        2. Vrijwel alle teamleden hebben aantoonbaar werk op hun niveau gedaan, samenwerking
-        3. Alle teamleden hebben aantoonbaar werk op hun niveau gedaan, zijn gecoacht door ervarenen
+        0. Er zijn niet veel tekenen van samenwerken gevonden en/of diverse teamleden hebben niet genoeg uitdagend werk gedaan met hulp van anderen
+        1. Voor sommige onderdelen is duidelijk op een zinvolle manier samengewerkt tussen teamleden maar enkele teamleden hebben vooral individueel gewerkt en/of niet uitdagend werk gedaan
+        2. Vrijwel alle teamleden hebben aantoonbaar werk op hun niveau gedaan, samenwerking tussen verschillende leden is ook duidelijk uit dagelijks bijgehouden procesboek
+        3. Alle teamleden hebben aantoonbaar werk op hun niveau gedaan, zijn gecoacht door ervaren medestudenten en groep heeft als geheel iedereen erbij gehouden
         {: start="0"}
 
 Voor het laatste onderdeel is het essentieel dat teamgenoten elkaar uitgebreid helpen tijdens de projectfase, zelfs al doet iedereen een individuele bijdrage aan het project. Dit wordt onder andere gecontroleerd tijdens de voortgangsgesprekken, en via het procesboek dat elke student moet bijhouden.
 
-De opdrachten Profile, Movies en Fiftyville moeten afgerond en ingeleverd worden om het vak te kunnen halen.
+Let op dat bovenstaande beschrijving een indicatie zijn. Gebruik ze om te begrijpen wat de bedoeling is, maar onthou dat als je specifiek op het randje gaat mikken, je kunt verwachten dat naar beneden wordt afgerond.
+
+De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke deadlines afgerond en ingeleverd worden om het vak te kunnen halen. Ze mogen niet blijven hangen.
 
 
 ## Week 1
