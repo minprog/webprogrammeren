@@ -123,8 +123,8 @@ Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, 
 | Belangrijke momenten week 1       |                               |
 | --------------------------------- | ----------------------------- |
 | Registratie Slack                 | maandag 10 januari 13:59      |
-| Projectvoorstel                   | dinsdag 11 januari 17:59      |
-| Profile                           | vrijdag 14 januari 17:59      |
+| Projectvoorstel [deadline]        | dinsdag 11 januari 17:59      |
+| Opdracht: Profile [deadline]      | vrijdag 14 januari 17:59      |
 | Mentorgesprek                     | woensdag of donderdag         |
 
 ##### Projectvoorstel
@@ -168,8 +168,8 @@ Om te starten met de website heeft het team een **projectstarter** gekregen, die
 
 | Belangrijke momenten week 2       |                               |
 | --------------------------------- | ----------------------------- |
-| Movies                            | dinsdag 18 januari 17:59      |
-| Fiftyville                        | vrijdag 21 januari 17:59      |
+| Movies [deadline]                 | dinsdag 18 januari 17:59      |
+| Fiftyville [deadline]             | vrijdag 21 januari 17:59      |
 | Mentorgesprek                     | woensdag of donderdag         |
 
 ##### Bespreking week 2
@@ -197,9 +197,9 @@ Deze week gaan jullie als groep **afronden**. Maandag worden alle individuele bi
 | Belangrijke momenten week 4       |                               |
 | --------------------------------- | ----------------------------- |
 | Samenvoeging                      | maandag 31 januari 17:59      |
-| Definitieve versie                | dinsdag 2 februari 17:59      |
+| Definitieve versie [deadline]     | dinsdag 2 februari 17:59      |
 | Mentorgesprek                     | woensdag of donderdag         |
-| Virtuele presentaties             | vrijdag 4 februari 17:59      |
+| Virtuele presentatie  [deadline]  | vrijdag 4 februari 17:59      |
 
 ##### Bespreking week 4
 
