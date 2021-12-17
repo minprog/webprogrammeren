@@ -19,17 +19,19 @@ In vier weken leer je hoe je een interactieve website maakt met behulp van het F
 
 ### Contact
 
-Stuur een mail naar <progik@mprog.nl> of spreek je mentoren of docenten aan. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen.
+Stuur een mail naar <progik@mprog.nl> of spreek je assistenten of docenten aan. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen.
 
 **docenten**  
 Jelle van Assema  
 Robin Langerak  
 Martijn Stegeman
 
+Bij dit vak worden jij en je team begeleid door twee mentoren (assistenten). Je mentoren helpen je wegwijs maken, doen voor hoe je het beste de opdrachten kunt aanpakken en kijken je werk na. Elke week zijn er **voortgangsgesprekken** met je hele team en je mentor, op woensdag of donderdag.
+
 
 ### Slack
 
-Tijdens het vak houd je contact met je teamgenoten en mentoren via Slack. Op de eerste dag krijg je een uitnodiging voor deze omgeving. Check je spam-folder en zorg dat je direct contact legt met teamgenoten die niet fysiek aanwezig zijn. Dit is jullie gezamenlijke verantwoordelijkheid.
+Tijdens het vak houd je contact met je teamgenoten en assistenten via Slack. Op de eerste dag krijg je een uitnodiging voor deze omgeving. Check je spam-folder en zorg dat je direct contact legt met teamgenoten die niet fysiek aanwezig zijn. Dit is jullie gezamenlijke verantwoordelijkheid.
 
 
 ### Project
@@ -219,11 +221,6 @@ Bij de afloop van het vak verzamelen we alle gemaakte websites. Alle studenten e
 Alle studenten houden een procesboek bij. Hierin schrijf je elke dag wat je nieuw bent tegengekomen, waar je vragen over hebt op dat moment, wie je heeft geholpen (teamgenoten en assistenten, met naam erbij), wat de oplossing voor je vraag was, welke blokkades je had bij het programmeren en hoe je daar uit bent gekomen, en je ideeën voor de komende dagen of voor de mentorgesprekken.
 
 Het procesboek is een essentieel onderdeel van de beoordeling van het groepsproject. Als één van de teamleden het niet goed bijhoudt leidt dit mogelijk tot een lager cijfer voor het groepsdeel.
-
-
-### Mentoren
-
-Bij dit vak worden jij en je team begeleid door twee **mentoren**. Je mentoren helpen je wegwijs maken, doen voor hoe je het beste de opdrachten kunt aanpakken, kijken je werk na, en kunnen jouw vragen over de organisatie van het vak beantwoorden. Je ontvangt een uitnodiging voor een chatomgeving (Slack) waar je gedurende de week contact kunt onderhouden. Elke week zijn er **voortgangsgesprekken** met je mentor, op woensdag of donderdag.
 
 
 ### Aanwezigheid
