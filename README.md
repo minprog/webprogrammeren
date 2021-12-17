@@ -166,7 +166,7 @@ Volg de instructies [voor het Bootstrappen van het project](/milestones/bootstra
 
 Deze week ga je zelf **SQL** leren met twee opdrachten Movies en Fiftyville. Hiervoor krijg je geen cijfer, maar je moet ze wel af hebben. Daarnaast ga je je verdiepen in de **technieken** die je nodig hebt om jouw aandeel in het project te volbrengen.
 
-Om te starten met de website heeft het team een **projectstarter** gekregen, die jullie gezamenlijk uitpluizen. 
+Om te starten met de website heeft het team een **projectstarter** gekregen, die jullie gezamenlijk uitpluizen. Elke student heeft een werkende versie van de projectstarter draaien waarmee ze aan de slag kunnen.
 
 | Belangrijke momenten week 2       |                               |
 | --------------------------------- | ----------------------------- |
@@ -176,12 +176,13 @@ Om te starten met de website heeft het team een **projectstarter** gekregen, die
 
 ##### Mentorgesprek week 2
 
-- Enkele teamleden presenteren hoe de projectstarter in elkaar zit, en wat er globaal moet gebeuren om jullie website te maken
-- Elke individuele student vertelt wat ze tot nu toe gedaan hebben aan hun individuele bijdrage, en hoe ze komende week aan de slag gaan
+Enkele teamleden presenteren hoe de projectstarter in elkaar zit, en wat er globaal moet gebeuren om jullie website te maken.
+
+Daarna vertelt elke individuele student wat ze tot nu toe gedaan hebben aan hun individuele bijdrage, en hoe ze komende week aan de slag gaan. Iedereen vertelt daarbij ook wat ze verwachten dat **moeilijk** zal worden en hoe ze hierbij hulp gaan krijgen (van andere teamleden, of op een andere manier).
 
 ##  Week 3
 
-Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je gaat toepassen en je bent deze week keihard aan de slag om jouw **aandeel** in het project uit te werken. Dit is de week waarin het gaat gebeuren.
+Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je gaat toepassen en je bent deze week keihard aan de slag om jouw **aandeel** in het project uit te werken. Dit is de week waarin het gaat gebeuren!
 
 | Belangrijke momenten week 3       |                               |
 | --------------------------------- | ----------------------------- |
@@ -190,6 +191,8 @@ Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je
 ##### Mentorgesprek week 3
 
 Alle teamleden geven een <u>persoonlijke</u> update waarin ook wordt doorgevraagd op details. Hiermee toetsen we al of elke student de eigen bijdrage goed onder controle heeft en voldoende leert.
+
+Er wordt een voorzichtig **plan** gemaakt voor het samenvoegen van al het werk. In sommige gevallen is dit al regelmatig gedaan en werkt iedereen in feite aan één site. In andere gevallen zal er nog flink tijd gestoken moeten worden om alles samen te voegen. De studenten met ervaring nemen hier het voortouw in.
 
 
 ## Week 4
@@ -211,7 +214,7 @@ Bij deze laatste bespreking zijn ook andere docenten aanwezig voor de beoordelin
 
 ##### Virtuele presentaties
 
-Bij de afloop van het vak verzamelen we alle gemaakte websites. Alle studenten en docenten kunnen deze sites dan bekijken. Bij de site staat optioneel een screencast met uitleg en een korte demo.
+Bij de afloop van het vak verzamelen we alle gemaakte websites. Alle studenten, docenten en familie en vrienden kunnen deze sites dan bekijken. Bij de site staat optioneel een screencast met uitleg en een korte demo. De websites blijven na afloop een tijdje beschikbaar.
 
 
 ## Meer informatie
@@ -225,17 +228,17 @@ Het procesboek is een essentieel onderdeel van de beoordeling van het groepsproj
 
 ### Aanwezigheid
 
-Je moet **dagelijks** contact hebben met één of meer groepsgenoten, op locatie of via zoom. Jouw team kan alleen een hoog cijfer halen als er goede onderlinge begeleiding en hulp is. Alle teamleden moeten altijd aanwezig zijn bij alle **mentorgesprekken** en de **eindpresentaties**. Als iemand ziek is worden de voortgangsgesprekken online gepland.
+Je moet **dagelijks** contact hebben met één of meer groepsgenoten, op locatie of via zoom. Jouw team kan alleen een hoog cijfer halen als er goede onderlinge begeleiding en hulp is. Alle teamleden moeten **altijd** aanwezig zijn bij alle mentorgesprekken. Als iemand ziek is worden de voortgangsgesprekken online gepland.
 
 
 ### Groepsdynamiek
 
-Voor het groepcijfer is het essentieel dat teamgenoten elkaar aantoonbaar helpen om een uitdagende bijdrage aan het project te doen. Hiervoor is afstemming en vorming van subgroepen noodzakelijk. Mocht je in goed overleg uit de groep moeten stappen, dan kun je geen punten krijgen voor het groepsdeel van het project. Als er *vooraf* geen goed overleg is met de vakcoördinator kun je niet uit de groep stappen of gezet worden.
+Voor het groepcijfer is het essentieel dat teamgenoten elkaar aantoonbaar helpen om een uitdagende bijdrage aan het project te doen. Hiervoor is afstemming en vorming van subgroepen noodzakelijk. Mocht je in goed overleg uit de groep moeten stappen, dan kun je geen punten krijgen voor het groepsdeel van het project. Als er *vooraf* geen goed overleg is met de vakcoördinator kun je niet uit de groep stappen of gezet worden. Zorg dus dat je contact opneemt.
 
 
 ### Voorkennis
 
-We verwachten dat je bekend bent met de beginselen van programmeren in Python. Als je al bij een andere opleiding een vak hebt gevolgd over webprogrammeren is dit vak niet voor jou, en moet je vrijstelling aanvragen bij de examencommissie.
+We verwachten dat je bekend bent met de beginselen van programmeren in Python. Als je al bij een andere opleiding een vak hebt gevolgd over webprogrammeren is dit vak niet voor jou, en moet je vrijstelling aanvragen bij de examencommissie. Heb je voorkennis op een andere manier, dan is dit geen probleem: je moet dan je teamgenoten helpen om goed te presteren (en zeker niet al het werk in je eentje doen want dan kan het project niet beoordeeld worden).
 
 
 ### Vragen stellen
@@ -273,4 +276,4 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 
 ### Herkansingen
 
-Een projectvak als dit kent geen herkansingsmogelijkheden. Mocht je onverhoopt langdurig ziek worden dan ligt het voor de hand om het vak in het volgende jaar nogmaals te volgen. Mocht je je zorgen maken over de consequenties, bespreek het dan zeker! Afhankelijk van de situatie is het misschien toch mogelijk het vak af te ronden vóór 5 februari. Als je te laat contact opneemt kan er helaas niets meer geregeld worden.
+Een projectvak als dit kent geen herkansingsmogelijkheden. Mocht je onverhoopt langdurig ziek worden dan ligt het voor de hand om het vak in het volgende jaar nogmaals te volgen. Mocht je je zorgen maken over de consequenties, bespreek het dan zeker! Afhankelijk van de situatie is het misschien toch mogelijk het vak af te ronden vóór 5 februari. Als je te laat contact opneemt kan er helaas niets meer geregeld worden, omdat de volgende vakken dan gaan beginnen.
