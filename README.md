@@ -14,7 +14,10 @@ Jelle van Assema
 Robin Langerak  
 Martijn Stegeman
 
-Tijdens het vak houd je contact met je teamgenoten en mentoren via Slack. Zie hieronder voor meer informatie.
+
+## Slack
+
+Tijdens het vak houd je contact met je teamgenoten en mentoren via Slack. Op de eerste dag krijg je een uitnodiging voor deze omgeving. Check je spam-folder en zorg dat je direct contact legt met teamgenoten die niet fysiek aanwezig zijn. Dit is jullie gezamenlijke verantwoordelijkheid.
 
 
 ## Project
@@ -61,7 +64,7 @@ Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een tea
         0. Alleen wat is gecopy-paste is netjes, indentatie niet netjes
         1. Indentatie bijna overal consistent doorgevoerd
         2. Consistente indentatie, alle files op zelfde manier, opdeling in blokjes, visuele afscheiding grote delen
-        3. Superconsistent, opdelen in meerdere files, her en der zinvolle comments
+        3. Superconsistent, opdelen in meerdere files waar mogelijk en nodig, her en der zinvolle comments
         {: start="0"}
 
     - Kwaliteit Python-code
@@ -105,12 +108,12 @@ De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke de
 
 Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, en maak je **plannen** met je projectgroep om aan de gezamenlijke website te werken.
 
-| Belangrijke data week 1           |                               |
+| Belangrijke momenten week 1       |                               |
 | --------------------------------- | ----------------------------- |
 | Registratie Slack                 | maandag 10 januari 13:59      |
 | Projectvoorstel                   | dinsdag 11 januari 17:59      |
 | Profile                           | vrijdag 14 januari 17:59      |
-| mentorgesprek                     | woensdag of donderdag         |
+| Mentorgesprek                     | woensdag of donderdag         |
 
 ##### Projectvoorstel
 
@@ -138,6 +141,8 @@ Elke woensdag of donderdag spreekt het team uitgebreid met minstens 2 **mentoren
 - Op basis van de bespreking stellen jullie gezamenlijk de plannen bij. Dan lever je je formele plan in.
 - Daarna kun je aan de slag met je team.
 
+Ook na bijstellen is je plan niet *automatisch* goedgekeurd. Jullie kunnen nog punten krijgen om te verwerken. Maar je kunt gewoon beginnen!
+
 ##### Opstarten projecten
 
 Volg de instructies [voor het Bootstrappen van het project](/milestones/bootstrap).
@@ -149,11 +154,11 @@ Deze week ga je zelf **SQL** leren met twee opdrachten Movies en Fiftyville. Hie
 
 Om te starten met de website heeft het team een **projectstarter** gekregen, die jullie gezamenlijk uitpluizen. 
 
-| Belangrijke data week 2           |                               |
+| Belangrijke momenten week 2       |                               |
 | --------------------------------- | ----------------------------- |
 | Movies                            | dinsdag 18 januari 17:59      |
 | Fiftyville                        | vrijdag 21 januari 17:59      |
-| mentorgesprek                     | woensdag of donderdag         |
+| Mentorgesprek                     | woensdag of donderdag         |
 
 ##### Bespreking week 2
 
@@ -164,32 +169,35 @@ Om te starten met de website heeft het team een **projectstarter** gekregen, die
 
 Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je gaat toepassen en je bent deze week keihard aan de slag om jouw **aandeel** in het project uit te werken. Dit is de week waarin het gaat gebeuren.
 
-| Belangrijke data week 3           |                               |
+| Belangrijke momenten week 3       |                               |
 | --------------------------------- | ----------------------------- |
-| mentorgesprek                     | woensdag of donderdag         |
+| Mentorgesprek                     | woensdag of donderdag         |
 
 ##### Bespreking week 3
 
-Alle teamleden geven een persoonlijke update waarin ook wordt doorgevraagd op details. Hiermee toetsen we al of elke student de eigen bijdrage goed onder controle heeft en voldoende leert.
+Alle teamleden geven een <u>persoonlijke</u> update waarin ook wordt doorgevraagd op details. Hiermee toetsen we al of elke student de eigen bijdrage goed onder controle heeft en voldoende leert.
 
 
 ## Week 4
 
-Deze week gaan jullie als groep **afronden**. Maandag worden alle individuele bijdragen definitief samengevoegd. Dan maakt de groep een plan om nog kleine verbeteringen te doen. Deze verbeteringen zijn uiterlijk woensdag verwerkt in het eindproject, dat dan definitief ingeleverd wordt.
+Deze week gaan jullie als groep **afronden**. Maandag worden alle individuele bijdragen definitief samengevoegd. Dan maakt de groep een plan om nog kleine verbeteringen te doen. Deze verbeteringen zijn uiterlijk dinsdag verwerkt in het eindproject, dat dan definitief ingeleverd wordt.
 
-| Belangrijke data week 4           |                               |
+| Belangrijke momenten week 4       |                               |
 | --------------------------------- | ----------------------------- |
 | Samenvoeging                      | maandag 31 januari 17:59      |
-| Definitieve versie                | woensdag 2 februari 17:59     |
-| Eindpresentaties                  | vrijdag 4 februari 17:59      |
+| Definitieve versie                | dinsdag 2 februari 17:59      |
+| Mentorgesprek                     | woensdag of donderdag         |
+| Virtuele presentaties             | vrijdag 4 februari 17:59      |
 
 ##### Bespreking week 4
 
-Tijdens de laatste dagen werk je aan een **individuele presentatie** van jouw bijdrage en hoe deze technisch in elkaar zit. Je beschrijft ook wat de belangrijkste dingen zijn die je geleerd hebt. Hiermee vindt de definitieve toetsing plaats of je persoonlijk voldoende hebt geleerd.
+Tijdens de laatste bespreking presenteer je jouw bijdrage en hoe deze technisch in elkaar zit. Je beschrijft ook wat de belangrijkste dingen zijn die je geleerd hebt. Hiermee vindt de definitieve toetsing plaats of je persoonlijk voldoende hebt geleerd.
 
-##### Virtuele presentatie
+Bij de bespreking zijn ook andere docenten aanwezig voor de beoordeling van de projecten.
 
-[Oplevering](/milestones/oplevering)
+##### Virtuele presentaties
+
+Bij de afloop van het vak verzamelen we alle gemaakte websites. Alle studenten en docenten kunnen deze sites dan bekijken. Bij de site staat optioneel een screencast met uitleg en een korte demo.
 
 
 ## Procesboek
