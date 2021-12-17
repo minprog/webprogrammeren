@@ -67,8 +67,8 @@ Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een tea
     - Kwaliteit Python-code
         0. Grote delen zijn slordig
         1. Aardige basisstijl, maar functies zijn erg lang en niet opgesplitst, duplicatie van code
-        2. Duidelijke onderdelen, prima stijl
-        3. Consistent opgemaakt, duidelijk afgescheiden onderdelen, onderdelen zijn kort en eenvoudig
+        2. Duidelijke onderdelen, prima stijl, redelijk wat comments
+        3. Consistent opgemaakt, duidelijk afgescheiden onderdelen, onderdelen zijn kort en eenvoudig en hebben comments die overzicht helpen houden
         {: start="0"}
 
     - Diepgang persoonlijk verslag
@@ -96,7 +96,7 @@ Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een tea
 
 Voor het laatste onderdeel is het essentieel dat teamgenoten elkaar uitgebreid helpen tijdens de projectfase, zelfs al doet iedereen een individuele bijdrage aan het project. Dit wordt onder andere gecontroleerd tijdens de voortgangsgesprekken, en via het procesboek dat elke student moet bijhouden.
 
-Let op dat bovenstaande beschrijving een indicatie zijn. Gebruik ze om te begrijpen wat de bedoeling is, maar onthou dat als je specifiek op het randje gaat mikken, je kunt verwachten dat naar beneden wordt afgerond.
+Let op dat bovenstaande beschrijvingen indicaties zijn. Gebruik ze om te begrijpen wat de bedoeling is, maar onthou dat als je specifiek op het randje gaat mikken, je kunt verwachten dat naar beneden wordt afgerond.
 
 De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke deadlines afgerond en ingeleverd worden om het vak te kunnen halen. Ze mogen niet blijven hangen.
 
