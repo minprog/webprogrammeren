@@ -271,6 +271,6 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - administratie na afloop van het vak
 
 
-## Herkansingen
+### Herkansingen
 
 Een projectvak als dit kent geen herkansingsmogelijkheden. Mocht je onverhoopt langdurig ziek worden dan ligt het voor de hand om het vak in het volgende jaar nogmaals te volgen. Mocht je je zorgen maken over de consequenties, bespreek het dan zeker! Afhankelijk van de situatie is het misschien toch mogelijk het vak af te ronden vóór 5 februari. Als je te laat contact opneemt kan er helaas niets meer geregeld worden.
