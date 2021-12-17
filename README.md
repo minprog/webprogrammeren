@@ -48,7 +48,7 @@ De examinator moet altijd goedkeuring geven voor invulling van de eisen.
 
 ### Verantwoordelijkheden
 
-Tijdens het project nemen de studenten die enige ervaring hebben het voortouw met het gebruiken van Git en het afstemmen van de projecten. Ook hebben zij expliciet de taak om medestudenten te helpen om verder te komen en (voor hun niveau) uitdagende projecten aan te pakken.
+Tijdens het project nemen de studenten die enige ervaring hebben het voortouw met het gebruiken van Git en het afstemmen van het werk van de teamleden. Ook hebben zij expliciet de taak om medestudenten te helpen om verder te komen en (voor hun niveau) uitdagende projecten aan te pakken.
 
 
 ## Eindcijfer
@@ -216,7 +216,7 @@ Deze week gaan jullie als groep **afronden**. Maandag worden alle individuele bi
 | Belangrijke momenten week 4       |                               |
 | --------------------------------- | ----------------------------- |
 | Samenvoeging                      | maandag 31 januari 17:59      |
-| Definitieve versie [deadline]     | dinsdag 2 februari 17:59      |
+| Definitieve versie [deadline]     | dinsdag 1 februari 17:59      |
 | Mentorgesprek                     | woensdag of donderdag         |
 | Virtuele presentatie  [deadline]  | vrijdag 4 februari 17:59      |
 
