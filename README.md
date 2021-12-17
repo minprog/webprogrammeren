@@ -131,25 +131,35 @@ Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, 
 | Belangrijke momenten week 1       |                               |
 | --------------------------------- | ----------------------------- |
 | Registratie Slack                 | maandag 10 januari 13:59      |
+| Aanmelding projectidee            | maandag 10 januari 19:59      |
+| Projectmeeting                    | dinsdag 10 januari 10:59      |
 | Projectvoorstel [deadline]        | dinsdag 11 januari 17:59      |
 | Opdracht: Profile [deadline]      | vrijdag 14 januari 17:59      |
 | Mentorgesprek                     | woensdag of donderdag         |
 
+##### Aanmelding Projectidee
+
+Op maandag ga je als team definitief beslissen welke richting jullie project op gaat. Check voor de vaste projecten de pagina over het [Idee](/milestones/idee). Elke student gaat vervolgens in een paar punten opsommen wat ze zouden willen maken voor het project. Iedereen neemt dit mee naar de meeting op dinsdag
+
+##### Projectmeeting
+
+Op dinsdag hebben jullie als compleet team een meeting waarin je de basis voor het projectplan gaat leggen. Je doet een rondje ideeën langs alle teamleden. Jullie komen tot een mondelinge afspraak voor een website waar je gezamenlijk naartoe wil werken. Op basis van deze afspraak werkt iedereen nogmaals de individuele bijdrage uit. Dit gaat als input naar het schriftelijke projectvoorstel.
+
 ##### Projectvoorstel
 
-Uiterlijk dinsdag hebben jullie een projectvoorstel gemaakt waarin jullie de website beschrijven die je gaat maken.
+Uiterlijk dinsdagmiddag hebben jullie een schriftelijk projectvoorstel gemaakt waarin jullie gezamenlijk de website beschrijven die je gaat maken.
 
 - Jullie geven de globale richting aan van wat je gaat maken
 - Per teamlid:
     - Welke individuele onderdelen ze gaan maken
-    - Hoe dit past bij de voorkennis 
+    - Hoe dit past bij de voorkennis van de student
     - Wat er geleerd gaat worden
 - Alle teamleden worden geacht iets aan te pakken dat voor hen leerzaam is, afgestemd op hun voorkennis en comfort met programmeren
-- Individuele plannen moeten bijna niet overlappen, óf elkaar juist zorgvuldig aanvullen
+- Individuele plannen moeten bijna niet overlappen, óf elkaar juist zorgvuldig aanvullen (dan kan er op een zinvolle manier samengewerkt worden)
 - Geef aan wie met wie (eventueel) gaat samenwerken en waaraan precies
-- Geef aan welke studenten voortouw gaan nemen met Git en consistent maken project
+- De ervaren studenten hebben een extra rol: geef aan welke studenten voortouw gaan nemen met gebruik van Git en consistent maken project
 
-Check voor de vaste projecten [Idee](/milestones/idee). Volg verder de instructies voor het [Projectvoorstel](/milestones/voorstel).
+Volg verder de instructies voor het [Projectvoorstel](/milestones/voorstel).
 
 ##### Mentorgesprek week 1
 
