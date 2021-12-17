@@ -159,8 +159,6 @@ Uiterlijk dinsdagmiddag hebben jullie een schriftelijk projectvoorstel gemaakt w
 - Geef aan wie met wie (eventueel) gaat samenwerken en waaraan precies
 - De ervaren studenten hebben een extra rol: geef aan welke studenten voortouw gaan nemen met gebruik van Git en consistent maken project
 
-Volg verder de instructies voor het [Projectvoorstel](/milestones/voorstel).
-
 ##### Mentorgesprek week 1
 
 Elke woensdag of donderdag spreekt het team uitgebreid met minstens 2 **mentoren**. Deze week ga je het plan finetunen.
@@ -175,7 +173,7 @@ Ook na bijstellen is je plan niet *automatisch* goedgekeurd. Jullie kunnen nog p
 
 ##### Opstarten projecten
 
-Volg de instructies [voor het Bootstrappen van het project](/milestones/bootstrap).
+Volg de instructies voor het Bootstrappen van het project.
 
 
 ## Week 2
@@ -226,7 +224,7 @@ Deze week gaan jullie als groep **afronden**. Maandag worden alle individuele bi
 
 Tijdens de laatste bespreking presenteren enkele studenten het globale idee van de website. Daarna presenteren alle groepsleden hun eigen bijdrage: eerst demo'en wat je hebt gemaakt en daarbij kort uitleggen hoe het technisch in elkaar zit (met een blik op de code). Je beschrijft ook wat de belangrijkste dingen zijn die je geleerd hebt. Hiermee vindt de definitieve toetsing plaats of je persoonlijk voldoende hebt geleerd.
 
-Bij deze laatste bespreking zijn ook andere docenten aanwezig voor de beoordeling van de projecten.
+Bij deze laatste bespreking zijn ook andere docenten aanwezig voor de eindbeoordeling van de projecten. Na de presentaties gaan zij ook naar de ingeleverde code kijken.
 
 ##### Virtuele presentaties
 
@@ -244,7 +242,7 @@ Het procesboek is een essentieel onderdeel van de beoordeling van het groepsproj
 
 ### Aanwezigheid
 
-Je moet **dagelijks** contact hebben met één of meer groepsgenoten, op locatie of via zoom. Jouw team kan alleen een hoog cijfer halen als er goede onderlinge begeleiding en hulp is. Alle teamleden moeten **altijd** aanwezig zijn bij alle mentorgesprekken. Als iemand ziek is worden de voortgangsgesprekken online gepland.
+Je moet **dagelijks** contact hebben met meerdere groepsgenoten, op locatie of via zoom. Jouw team kan alleen een hoog cijfer halen als er goede onderlinge begeleiding en hulp is. Alle teamleden moeten **altijd** aanwezig zijn bij alle mentorgesprekken. Als iemand ziek is worden de voortgangsgesprekken online gepland.
 
 
 ### Groepsdynamiek
