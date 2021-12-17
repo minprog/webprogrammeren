@@ -6,7 +6,7 @@ In vier weken leer je hoe je een interactieve website maakt met behulp van het F
 
 **Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars.** Overweeg je je uit te schrijven, dan mag je gewoon starten met het vak, maar zorg dat je je teamgenoten én de docenten vooraf op de hoogte brengt. Je kunt het vak gewoon volgen maar als je je uitschrijft krijg je geen studiepunten meer. Toch kan het vak een hele leuke ervaring zijn!
 
-## Contact
+### Contact
 
 Stuur een mail naar <progik@mprog.nl> of spreek je mentoren of docenten aan. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen.
 
@@ -16,12 +16,12 @@ Robin Langerak
 Martijn Stegeman
 
 
-## Slack
+### Slack
 
 Tijdens het vak houd je contact met je teamgenoten en mentoren via Slack. Op de eerste dag krijg je een uitnodiging voor deze omgeving. Check je spam-folder en zorg dat je direct contact legt met teamgenoten die niet fysiek aanwezig zijn. Dit is jullie gezamenlijke verantwoordelijkheid.
 
 
-## Project
+### Project
 
 Je gaat, naast enkele individuele opdrachten, een project doen aan de hand van de volgende eisen:
 
@@ -201,29 +201,31 @@ Bij de bespreking zijn ook andere docenten aanwezig voor de beoordeling van de p
 Bij de afloop van het vak verzamelen we alle gemaakte websites. Alle studenten en docenten kunnen deze sites dan bekijken. Bij de site staat optioneel een screencast met uitleg en een korte demo.
 
 
-## Procesboek
+## Meer informatie
+
+### Procesboek
 
 Alle studenten houden een procesboek bij. Hierin schrijf je elke dag wat je nieuw bent tegengekomen, waar je vragen over hebt op dat moment, wie je heeft geholpen (teamgenoten en assistenten, met naam erbij), wat de oplossing voor je vraag was, welke blokkades je had bij het programmeren en hoe je daar uit bent gekomen, en je ideeën voor de komende dagen of voor de mentorgesprekken.
 
 Het procesboek is een essentieel onderdeel van de beoordeling van het groepsproject. Als één van de teamleden het niet goed bijhoudt leidt dit mogelijk tot een lager cijfer voor het groepsdeel.
 
 
-## Mentoren
+### Mentoren
 
 Bij dit vak worden jij en je team begeleid door twee **mentoren**. Je mentoren helpen je wegwijs maken, doen voor hoe je het beste de opdrachten kunt aanpakken, kijken je werk na, en kunnen jouw vragen over de organisatie van het vak beantwoorden. Je ontvangt een uitnodiging voor een chatomgeving (Slack) waar je gedurende de week contact kunt onderhouden. Elke week zijn er **voortgangsgesprekken** met je mentor, op woensdag of donderdag.
 
 
-## Aanwezigheid
+### Aanwezigheid
 
 Je moet **dagelijks** contact hebben met één of meer groepsgenoten, op locatie of via zoom. Jouw team kan alleen een hoog cijfer halen als er goede onderlinge begeleiding en hulp is. Alle teamleden moeten altijd aanwezig zijn bij alle **mentorgesprekken** en de **eindpresentaties**. Als iemand ziek is worden de voortgangsgesprekken online gepland.
 
 
-## Groepsdynamiek
+### Groepsdynamiek
 
 Voor het groepcijfer is het essentieel dat teamgenoten elkaar aantoonbaar helpen om een uitdagende bijdrage aan het project te doen. Hiervoor is afstemming en vorming van subgroepen noodzakelijk. Mocht je in goed overleg uit de groep moeten stappen, dan kun je geen punten krijgen voor het groepsdeel van het project. Als er *vooraf* geen goed overleg is met de vakcoördinator kun je niet uit de groep stappen of gezet worden.
 
 
-## Voorkennis
+### Voorkennis
 
 We verwachten dat je bekend bent met de beginselen van programmeren in Python. Als je al bij een andere opleiding een vak hebt gevolgd over webprogrammeren is dit vak niet voor jou, en moet je vrijstelling aanvragen bij de examencommissie.
 
