@@ -4,7 +4,7 @@
 
 In vier weken leer je hoe je een interactieve website maakt met behulp van het Flask-framework. We focussen op het maken van websites met een database-backend waarin gebruikersgegevens worden opgeslagen. Zo kun je in je verdere studie prototypes bouwen van applicaties en snel data verzamelen voor onderzoek. Er wordt gewerkt in vrij grote teams.
 
-**Let op!** Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars. Overweeg je je uit te schrijven, dan mag je gewoon starten met het vak, maar zorg dat je je teamgenoten én de docenten vooraf op de hoogte brengt. Je kunt het vak gewoon volgen maar als je je uitschrijft krijg je geen studiepunten meer.
+**Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars.** Overweeg je je uit te schrijven, dan mag je gewoon starten met het vak, maar zorg dat je je teamgenoten én de docenten vooraf op de hoogte brengt. Je kunt het vak gewoon volgen maar als je je uitschrijft krijg je geen studiepunten meer. Toch kan het vak een hele leuke ervaring zijn!
 
 ## Contact
 
