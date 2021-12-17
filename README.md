@@ -113,7 +113,7 @@ Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een tea
 
 Voor het groepscijfer is het essentieel dat teamgenoten elkaar uitgebreid helpen tijdens de projectfase, zelfs al doet iedereen een individuele bijdrage aan het project. Dit wordt onder andere gecontroleerd tijdens de voortgangsgesprekken, en via het procesboek dat elke student moet bijhouden.
 
-Let op dat bovenstaande beschrijvingen indicaties zijn. Uiteindelijk vind er een professioneel oordeel plaats in samenspraak tussen mentoren, docenten en examinator op basis van het ingeleverde werk. Gebruik de indicaties om te begrijpen wat de bedoeling is, maar onthou dat als je specifiek op het randje gaat mikken, je kunt verwachten dat naar beneden wordt afgerond.
+Let op dat bovenstaande beschrijvingen indicaties zijn. Uiteindelijk vind er een weloverwogen oordeel plaats in samenspraak tussen mentoren, docenten en examinator op basis van het ingeleverde werk. Gebruik de indicaties om te begrijpen wat de bedoeling is, maar onthou dat als je specifiek op het randje gaat mikken, je kunt verwachten dat naar beneden wordt afgerond.
 
 De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke deadlines afgerond en ingeleverd worden om het vak te kunnen halen. Ze mogen niet blijven hangen.
 
@@ -205,9 +205,9 @@ Deze week gaan jullie als groep **afronden**. Maandag worden alle individuele bi
 
 ##### Mentorgesprek week 4
 
-Tijdens de laatste bespreking presenteer je jouw bijdrage en hoe deze technisch in elkaar zit. Je beschrijft ook wat de belangrijkste dingen zijn die je geleerd hebt. Hiermee vindt de definitieve toetsing plaats of je persoonlijk voldoende hebt geleerd.
+Tijdens de laatste bespreking presenteren enkele studenten het globale idee van de website. Daarna presenteren alle groepsleden hun eigen bijdrage: eerst demo'en wat je hebt gemaakt en daarbij kort uitleggen hoe het technisch in elkaar zit (met een blik op de code). Je beschrijft ook wat de belangrijkste dingen zijn die je geleerd hebt. Hiermee vindt de definitieve toetsing plaats of je persoonlijk voldoende hebt geleerd.
 
-Bij de bespreking zijn ook andere docenten aanwezig voor de beoordeling van de projecten.
+Bij deze laatste bespreking zijn ook andere docenten aanwezig voor de beoordeling van de projecten.
 
 ##### Virtuele presentaties
 
@@ -247,21 +247,21 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - onderlinge support
 - snelle vragen over deadlines, contact met samenwerkpartner
 - mentor is niet doorlopend beschikbaar!
+- voor alle uitzonderingen of bijzondere situaties een mailtje sturen
 
 **Programmeerbalie:** direct contact met een assistent, voor moeilijk te formuleren vragen.
 
 - hulp op locatie, of via een videogesprek waar je je scherm kunt delen
 - je weet niet waar te beginnen of een onvindbare bug
-- moeite met verzinnen oplossing (met partner)
 - dagelijks 13-17 uur, wachttijd kan oplopen
-- aanmelden via de [Balie](https://balie.mprog.nl/planner/1-programmeerbalie)
+- vooraf een afspraak maken via de website
 
 **Helpdesk:** direct contact met een assistent, voor technische problemen.
 
 - problemen met je computer
 - problemen met de werking van je online IDE of git
 - hele nare bugs
-- aanmelden via de [Balie](https://balie.mprog.nl/planner/1-programmeerbalie)
+- vooraf een afspraak maken via de website
 
 **Mail:** contact met de vakcoördinatoren via <progik@mprog.nl>.
 
@@ -269,3 +269,8 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 - meedenken over grote problemen met het vak
 - andere officiële zaken
 - administratie na afloop van het vak
+
+
+## Herkansingen
+
+Een projectvak als dit kent geen herkansingsmogelijkheden. Mocht je onverhoopt langdurig ziek worden dan ligt het voor de hand om het vak in het volgende jaar nogmaals te volgen. Mocht je je zorgen maken over de consequenties, bespreek het dan zeker! Afhankelijk van de situatie is het misschien toch mogelijk het vak af te ronden vóór 5 februari. Als je te laat contact opneemt kan er helaas niets meer geregeld worden.
