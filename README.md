@@ -33,7 +33,7 @@ Bij dit vak worden jij en je team begeleid door twee mentoren (assistenten). Je 
 
 Tijdens het vak houd je contact met je teamgenoten en assistenten via Zulip. Op de eerste dag krijg je een uitnodiging voor deze omgeving. Check je spam-folder en zorg dat je direct contact legt met teamgenoten die niet fysiek aanwezig zijn. Dit is jullie gezamenlijke verantwoordelijkheid.
 
-Als je geen contact krijgt met een teamlid moet je dit tijdens de dag nog laten weten. Als een teamlid voor het eind van de dag geen contact heeft met de groep en/of met de docenten kan deze persoon worden uitgesloten van het vak.
+Als je geen contact krijgt met een teamlid moet je dit tijdens deze eerste dag nog laten weten. Als een teamlid voor het eind van de dag geen contact heeft met de groep en/of met de docenten kan deze persoon worden uitgesloten van het vak.
 
 
 ### Project
@@ -280,7 +280,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 
 **Programmeerbalie:** direct contact met een assistent, voor moeilijk te formuleren vragen.
 
-- hulp op locatie, of via een videogesprek waar je je scherm kunt delen
+- hulp <u>alleen</u> via een videogesprek waar je je scherm kunt delen
 - je weet niet waar te beginnen of een onvindbare bug
 - dagelijks 13-17 uur, wachttijd kan oplopen
 - vooraf een afspraak maken via de website
