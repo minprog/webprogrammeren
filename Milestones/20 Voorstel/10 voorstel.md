@@ -71,4 +71,4 @@ Check, voordat je verder gaat, of je voorgestelde applicatie klopt met de projec
 
 ## Submit
 
-Je kunt Markdown-documenten ook in Slack posten. Zet het definitieve document dus in het kanaal van je groep zodat de mentoren dit kunnen bekijken. We bespreken het bij het eerste voortgangsgesprek. Vergeet niet om de schetsen er ook bij te zetten!
+Zet je Markdown-document op Github. Link het document in Zulip zodat de mentoren dit kunnen bekijken. We bespreken het bij het eerste voortgangsgesprek. Vergeet niet om de schetsen er ook bij te zetten!

@@ -29,9 +29,9 @@ Martijn Stegeman
 Bij dit vak worden jij en je team begeleid door twee mentoren (assistenten). Je mentoren helpen je wegwijs maken, doen voor hoe je het beste de opdrachten kunt aanpakken en kijken je werk na. Elke week zijn er **voortgangsgesprekken** met je hele team en je mentor, op woensdag of donderdag.
 
 
-### Team en Slack
+### Team en Zulip
 
-Tijdens het vak houd je contact met je teamgenoten en assistenten via Slack. Op de eerste dag krijg je een uitnodiging voor deze omgeving. Check je spam-folder en zorg dat je direct contact legt met teamgenoten die niet fysiek aanwezig zijn. Dit is jullie gezamenlijke verantwoordelijkheid.
+Tijdens het vak houd je contact met je teamgenoten en assistenten via Zulip. Op de eerste dag krijg je een uitnodiging voor deze omgeving. Check je spam-folder en zorg dat je direct contact legt met teamgenoten die niet fysiek aanwezig zijn. Dit is jullie gezamenlijke verantwoordelijkheid.
 
 Als je geen contact krijgt met een teamlid moet je dit tijdens de dag nog laten weten. Als een teamlid voor het eind van de dag geen contact heeft met de groep en/of met de docenten kan deze persoon worden uitgesloten van het vak.
 
@@ -129,7 +129,7 @@ Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, 
 
 | Belangrijke momenten week 1       |                               |
 | --------------------------------- | ----------------------------- |
-| Registratie Slack                 | maandag 10 januari 13:59      |
+| Registratie Zulip                 | maandag 10 januari 13:59      |
 | Aanmelding projectidee [deadline] | maandag 10 januari 19:59      |
 | Projectmeeting                    | dinsdag 10 januari ochtend    |
 | Projectvoorstel [deadline]        | dinsdag 11 januari 17:59      |
@@ -190,9 +190,9 @@ Om te starten met de website heeft het team een **projectstarter** gekregen, die
 
 ##### Mentorgesprek week 2
 
-Enkele teamleden presenteren hoe de projectstarter in elkaar zit, en wat er globaal moet gebeuren om jullie website te maken.
+Enkele teamleden **presenteren** hoe de projectstarter in elkaar zit, en wat er globaal moet gebeuren om jullie website te maken.
 
-Daarna vertelt elke individuele student wat ze tot nu toe gedaan hebben aan hun individuele bijdrage, en hoe ze komende week aan de slag gaan. Iedereen vertelt daarbij ook wat ze verwachten dat **moeilijk** zal worden en hoe ze hierbij hulp gaan krijgen (van andere teamleden, of op een andere manier).
+Daarna vertelt elke individuele student wat ze tot nu toe gedaan hebben aan hun **individuele bijdrage**, en hoe ze komende week aan de slag gaan. Iedereen vertelt daarbij ook wat ze verwachten dat moeilijk zal worden en hoe ze hierbij hulp gaan krijgen (van andere teamleden, of op een andere manier).
 
 ##### Prototype
 
@@ -210,7 +210,7 @@ Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je
 
 ##### Mentorgesprek week 3
 
-Alle teamleden geven een <u>persoonlijke</u> update waarin ook wordt doorgevraagd op details. Hiermee toetsen we al of elke student de eigen bijdrage goed onder controle heeft en voldoende leert.
+Alle teamleden geven een **persoonlijke update** waarin ook wordt doorgevraagd op details. Hiermee toetsen we al of elke student de eigen bijdrage goed onder controle heeft en voldoende leert.
 
 Er wordt een voorzichtig **plan** gemaakt voor het samenvoegen van al het werk. In sommige gevallen is dit al regelmatig gedaan en werkt iedereen in feite aan één site. In andere gevallen zal er nog flink tijd gestoken moeten worden om alles samen te voegen. De studenten met ervaring nemen hier het voortouw in.
 
@@ -232,7 +232,7 @@ Deze week gaan jullie als groep **afronden**. Maandag worden alle individuele bi
 
 ##### Mentorgesprek week 4
 
-Tijdens de laatste bespreking presenteren enkele studenten het globale idee van de website. Daarna presenteren alle groepsleden hun eigen bijdrage: eerst demo'en wat je hebt gemaakt en daarbij kort uitleggen hoe het technisch in elkaar zit (met een blik op de code). Je beschrijft ook wat de belangrijkste dingen zijn die je geleerd hebt. Hiermee vindt de definitieve toetsing plaats of je persoonlijk voldoende hebt geleerd.
+Tijdens de laatste bespreking presenteren enkele studenten eerst het **globale idee** van de website. Daarna presenteren alle groepsleden hun eigen bijdrage: eerst demo'en wat je hebt gemaakt en daarbij kort uitleggen hoe het technisch in elkaar zit (met een blik op de code). Je beschrijft ook wat de belangrijkste dingen zijn die je geleerd hebt. Hiermee vindt de definitieve toetsing plaats of je persoonlijk voldoende hebt geleerd.
 
 Bij deze laatste bespreking zijn ook andere docenten aanwezig voor de eindbeoordeling van de projecten. Na de presentaties gaan zij ook naar de ingeleverde code kijken.
 
@@ -269,7 +269,7 @@ We verwachten dat je bekend bent met de beginselen van programmeren in Python. A
 
 Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
-**Slack:** direct contact met je team en studenten.
+**Zulip:** direct contact met je team en studenten.
 
 - onderlinge support
 - snelle vragen over deadlines, contact met samenwerkpartner

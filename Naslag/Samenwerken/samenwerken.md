@@ -5,7 +5,7 @@ Bij alle opdrachten van dit vak mag je samenwerken met één andere student. Daa
 
 ## Opdrachten
 
-Tijdens de opdrachten mag je altijd samenwerken met één andere student. Wie dat is mag je zelf bepalen per opdracht. Ken je de andere studenten nog niet zo goed of wil je juist nieuwe mensen leren kennen, dan kan je via het algemene Slack kanaal rondvragen.
+Tijdens de opdrachten mag je altijd samenwerken met één andere student. Wie dat is mag je zelf bepalen per opdracht. Ken je de andere studenten nog niet zo goed of wil je juist nieuwe mensen leren kennen, dan kan je via het algemene Zulip-kanaal rondvragen.
 
 Voor deze opdrachten raden we je aan samen te werken via Zoom voor de communicatie en via de CS50 IDE voor de code. De laatste heeft een ingebouwde mogelijkheid om een zogenaamde "workspace" te delen. Daardoor kunnen jullie beiden in dezelfde IDE werken. Je ziet elkaar zo echt typen, een beetje zoals je misschien wel gewend bent van bijvoorbeeld Google Docs. De instructies om jouw workspace te delen vind je hier: [https://cs50.readthedocs.io/ide/online/#sharing-your-workspace](https://cs50.readthedocs.io/ide/online/#sharing-your-workspace)
 
