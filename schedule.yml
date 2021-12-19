@@ -1,11 +1,9 @@
 Project:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
     Week 1:
-        "HTML, CSS & JavaScript":
-            "Lecture": /lectures/html
-            "Problem: Profile (vrijdag 18:00)": /problems/profile
-        Flask:
-            "Lecture": /lectures/flask
+        "HTML Lecture": /lectures/html
+        "Problem: Profile (vrijdag 18:00)": /problems/profile
+        "Flask Lecture": /lectures/flask
     Week 2:
         "SQL Lecture": /lectures/sql
         "Problem: Movies (dinsdag 18:00)":  /problems/movies

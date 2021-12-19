@@ -3,7 +3,7 @@ short_name: WebIK2021
 language: nl
 
 links:
-    '[terminal] IDE': https://ide.cs50.io/
+    '[terminal] CS50 Code': https://code.cs50.io/
     '[chat-text] Zulip': http://webik2021.slack.com/
 
 acknowledgements:
