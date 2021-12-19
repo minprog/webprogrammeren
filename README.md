@@ -42,9 +42,8 @@ Je gaat, naast enkele individuele opdrachten, een project doen aan de hand van d
 
 - Het project wordt gedaan in een team van 6-8 personen. Studenten werken afwisselend samen binnen dit team.
 - Alle teamleden programmeren een individuele bijdrage die afgestemd is op hun voorkennis en comfort met programmeren.
-- De website van je team is gebaseerd op één van de vaste [ideeën die je kunt vinden op deze pagina](/milestones/idee).
+- De website van je team is gebaseerd op één van de vaste [ideeën die je kunt vinden op deze pagina](/milestones/idee) en de invulling vooraf goedgekeurd door de examinator.
 
-De examinator moet altijd goedkeuring geven voor invulling van de eisen.
 
 ### Verantwoordelijkheden
 
@@ -55,20 +54,20 @@ Tijdens het project nemen de studenten die enige ervaring hebben het voortouw me
 
 Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een team aan een project. De cijfers worden als volgt samengesteld. **Deze beschrijvingen liggen op dit moment nog niet vast.**
 
-- **Persoonlijke website** (25%)---jouw eigen kleine website bouw je in de eerste week. Deze wordt beoordeeld op uitgebreidheid en kwaliteit van de code.
+- **Persoonlijke website** (25%)---jouw eigen kleine website bouw je in de eerste week. Deze wordt beoordeeld op uitgebreidheid van de site en kwaliteit van de code.
 
     - Uitgebreidheid
         0. Nauwelijks code of geen JS/CSS
         1. Voldoet niet precies aan de minimumeisen
-        2. Voldoet aan minimumeisen
+        2. Voldoet aan minimumeisen zoals vermeld in de opgave
         3. Richting 2x de minimumeisen
         {: start="0"}
 
     - Kwaliteit
-        0. Alleen copy-paste is netjes, indentatie niet netjes
+        0. Alleen gekopieerde code is netjes, opmaak code verder niet netjes
         1. Indentatie bijna overal consistent doorgevoerd
-        2. Consistente indentatie, in alle files, opdeling code in blokjes en duidelijke afscheiding grote delen in grote files
-        3. Superconsistent, opdelen in meerdere files, her en der zinvolle comments
+        2. Consistente indentatie, in alle files, opdeling code in blokjes door middel van witregels en duidelijke afscheiding grote onderdelen met hulp van comments
+        3. Superconsistent, opdelen in files van redelijke omvang, her en der zinvolle comments
         {: start="0"}
 
 - **Individueel aandeel project** (50%)---jouw bijdrage aan het groepsproject wordt beoordeeld op uitgebreidheid, kwaliteit van de code, en diepgang van uitleg in je persoonlijk verslag. Je hoeft niet per se JS te gebruiken.
@@ -105,9 +104,9 @@ Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een tea
 
     - Algemene consistentie
         0. Website bestaat vrijwel geheel uit losse onderdelen bovenop de template
-        1. Topnavigatie verbindt duidelijk alle onderdelen, wel flink verschillend in werking/opmaak
-        2. De consistentie is redelijk en/of de onderdelen vullen elkaar niet helemaal aan
-        3. Navigatie en werking zijn consistent, wel altijd ruimte voor "eigenheid" individuele bijdragen
+        1. Topnavigatie verbindt duidelijk alle onderdelen, wel aardig verschillend in werking/opmaak
+        2. Navigatie is consistent, functionaliteit is wat losjes verbonden
+        3. Navigatie is consistent, functionaliteit coherent, wel altijd ruimte voor "eigenheid" individuele bijdragen
         {: start="0"}
 
     - Samenwerking en bijdrage
@@ -185,14 +184,20 @@ Om te starten met de website heeft het team een **projectstarter** gekregen, die
 | Belangrijke momenten week 2       |                               |
 | --------------------------------- | ----------------------------- |
 | Movies [deadline]                 | dinsdag 18 januari 17:59      |
-| Fiftyville [deadline]             | vrijdag 21 januari 17:59      |
+| Fiftyville [deadline]             | donderdag 20 januari 17:59    |
 | Mentorgesprek                     | woensdag of donderdag         |
+| Hele week: Prototype [deadline]   | vrijdag 21 januari 17:59      |
 
 ##### Mentorgesprek week 2
 
 Enkele teamleden presenteren hoe de projectstarter in elkaar zit, en wat er globaal moet gebeuren om jullie website te maken.
 
 Daarna vertelt elke individuele student wat ze tot nu toe gedaan hebben aan hun individuele bijdrage, en hoe ze komende week aan de slag gaan. Iedereen vertelt daarbij ook wat ze verwachten dat **moeilijk** zal worden en hoe ze hierbij hulp gaan krijgen (van andere teamleden, of op een andere manier).
+
+##### Prototype
+
+Elke student zorg dat vrijdag een prototype klaarstaat van de functionaliteit van hun deel van de site. Dat betekent een licht opgemaakte pagina met de juiste knoppen, invoervelden en dummy-content zoals teksten en plaatjes. Waarschijnlijk nog niet automatisch gegenereerd maar de HTML en inhoud heeft hiermee een "vorm" gekregen.
+
 
 ##  Week 3
 
@@ -201,12 +206,17 @@ Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je
 | Belangrijke momenten week 3       |                               |
 | --------------------------------- | ----------------------------- |
 | Mentorgesprek                     | woensdag of donderdag         |
+| Betaversie [deadline]             | vrijdag 28 januari 17:59      |
 
 ##### Mentorgesprek week 3
 
 Alle teamleden geven een <u>persoonlijke</u> update waarin ook wordt doorgevraagd op details. Hiermee toetsen we al of elke student de eigen bijdrage goed onder controle heeft en voldoende leert.
 
 Er wordt een voorzichtig **plan** gemaakt voor het samenvoegen van al het werk. In sommige gevallen is dit al regelmatig gedaan en werkt iedereen in feite aan één site. In andere gevallen zal er nog flink tijd gestoken moeten worden om alles samen te voegen. De studenten met ervaring nemen hier het voortouw in.
+
+##### Betaversie
+
+Elke student heeft individueel of in samenwerking met anderen een voorlopige versie klaar van de afgesproken functionaliteit: een onderdeel van de functionaliteit die <u>werkt</u>. De studenten die "pech" hebben gehad en nog niet klaar zijn worden verder geholpen door alle teamleden en de ervaren teamleden in het bijzonder. Dit gaat boven het perfectioneren van de eigen bijdrage. Hulp moet worden vastgelegd in de procesboeken van alle betrokkenen.
 
 
 ## Week 4
