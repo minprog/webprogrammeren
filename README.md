@@ -252,12 +252,14 @@ Het procesboek is een essentieel onderdeel van de beoordeling van het groepsproj
 
 ### Aanwezigheid
 
-Je moet **dagelijks** contact hebben met meerdere groepsgenoten, op locatie of via zoom. Jouw team kan alleen een hoog cijfer halen als er goede onderlinge begeleiding en hulp is. Alle teamleden moeten **altijd** aanwezig zijn bij alle mentorgesprekken. Als iemand ziek is worden de voortgangsgesprekken online gepland.
+Je moet **dagelijks** contact hebben met meerdere groepsgenoten, op locatie of via zoom. Maar: als de universiteit gesloten is voor bijeenkomsten dan mag je ook niet ergens anders fysiek afspreken. Is de universiteit open dan verwachten we dat je daar afspreekt en niet op een andere locatie.
+
+Jouw team kan alleen een hoog cijfer halen als er goede onderlinge begeleiding en hulp is. Alle teamleden moeten **altijd** aanwezig zijn bij alle mentorgesprekken. Als iemand ziek is worden de voortgangsgesprekken online gepland.
 
 
 ### Groepsdynamiek
 
-Voor het groepcijfer is het essentieel dat teamgenoten elkaar aantoonbaar helpen om een uitdagende bijdrage aan het project te doen. Hiervoor is afstemming en vorming van subgroepen noodzakelijk. Mocht je in goed overleg uit de groep moeten stappen, dan kun je geen punten krijgen voor het groepsdeel van het project. Als er *vooraf* geen goed overleg is met de vakcoördinator kun je niet uit de groep stappen of gezet worden. Zorg dus dat je contact opneemt.
+Voor het groepcijfer is het essentieel dat teamgenoten elkaar <u>aantoonbaar</u> helpen om een uitdagende bijdrage aan het project te doen. Hiervoor is afstemming en vorming van subgroepen noodzakelijk. Mocht je in goed overleg uit de groep moeten stappen, dan kun je geen punten krijgen voor het groepsdeel van het project. Als er *vooraf* geen goed overleg is met de vakcoördinator kun je niet uit de groep stappen of gezet worden. Zorg dus dat je contact opneemt bij problemen.
 
 
 ### Voorkennis
@@ -300,4 +302,4 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 
 ### Herkansingen
 
-Een projectvak als dit kent geen herkansingsmogelijkheden. Mocht je onverhoopt langdurig ziek worden dan ligt het voor de hand om het vak in het volgende jaar nogmaals te volgen. Mocht je je zorgen maken over de consequenties, bespreek het dan zeker! Afhankelijk van de situatie is het misschien toch mogelijk het vak af te ronden vóór 5 februari. Als je te laat contact opneemt kan er helaas niets meer geregeld worden, omdat de volgende vakken dan gaan beginnen.
+Een projectvak als dit kent geen herkansingsmogelijkheden. Mocht je onverhoopt langdurig ziek worden dan ligt het voor de hand om het vak in het volgende jaar nogmaals te doen. Mocht je je zorgen maken over de consequenties, bespreek het dan zeker! Afhankelijk van de situatie is het misschien toch mogelijk het vak af te ronden vóór 5 februari. Als je te laat contact opneemt kan er helaas niets meer geregeld worden, omdat de volgende vakken snel gaan beginnen en er geen inhaalmogelijkheid is.
