@@ -67,10 +67,8 @@ Check, voordat je verder gaat, of je voorgestelde applicatie klopt met de projec
 
 ## Presentatie
 
-Maak een korte maar **overzichtelijke** presentatie waarin iemand eerst het globale idee uitlegt en waarna elke student zelf kan toelichten wat hun eigen deel van het project is. Deze geef je tijdens het mentorgesprek.
+Maak een korte maar **overzichtelijke** presentatie waarin iemand eerst het globale idee uitlegt en waarna elke student zelf kan toelichten wat hun eigen deel van het project is. Deze presentatie geef je tijdens het mentorgesprek.
 
 ## Submit
 
-Post je complete document in Zulip zodat de mentoren dit kunnen bekijken. We bespreken het bij het eerste voortgangsgesprek.
-
-Het document moet als PDF worden gepost en niet als Word-document of in een ander formaat.
+Post je complete document in Zulip zodat de mentoren dit kunnen bekijken. We bespreken het bij het eerste voortgangsgesprek nadat jullie de presentatie hebben gegeven. Het document moet als PDF worden gepost en niet als Word-document of in een ander formaat.
