@@ -38,7 +38,7 @@ Voorbeelden van functionaliteit:
 4. Een **eigen-vraag-pagina** waarmee er een vraag kan worden toegevoegd aan de database.
 5. Een **competitie-pagina** dezelfde quiz kunnen maken met een eigen highscore-pagina.
 
-## Taakverdeling
+## Idee en taakverdeling
 
 De templates zijn een grove invulling van een project. Het is aan je team om dit concreet uit te werken tot een duidelijk concept. Je hebt daar twee belangen die je in de gaten moet houden.
 
@@ -46,10 +46,10 @@ Je bent aan de ene kant op zoek naar een goede taakverdeling: wie wil graag wat 
 
 Eén truc is om een bepaald thema te verzinnen (zoals "lockdown") en dit te combineren met de projecttemplate. Met de groep kom je dan snel tot een aantal goede ideeën. Je gaat vervolgens kijken hoe je de ideeën zou kunnen uitwerken en op basis van de haalbaarheid of interesse maak je vervolgens als groep een definitieve keuze.
 
-## Wat te doen
+## Neem een pitch op
 
 Plan een meeting en overleg jullie idee voor een project. Werk dit idee uit tot een "elevator-pitch" van 60 seconden. In die 60 seconden moet je een ander (lees je mentor, je studiegenoot, je beste vriendin en je ouders) kunnen overtuigen van je idee. Het moet daaruit duidelijk worden voor wie je applicatie is bedoeld (de doelgroep) en welk probleem er wordt opgelost.
 
-Druk nu op de recordknop in Zoom en neem in maximaal (harde grens) 60 seconden je elevator-pitch op. Misschien dat je het een keertje opnieuw wilt doen, maar overdrijf het niet. Het gaat er om dat de boodschap overkomt bij je mentor. Upload je video hier: https://video.uva.nl/ en deel de video-url samen met de naam van je project in het slack kanaal van jouw groep op [webik.slack.com](https://webik.slack.com).
+Druk nu op de recordknop in Zoom en neem in maximaal (harde grens) 60 seconden je elevator-pitch op. Misschien dat je het een keertje opnieuw wilt doen, maar overdrijf het niet. Het gaat er om dat de boodschap overkomt bij je mentor. Upload je video hier: <https://video.uva.nl/> en deel de video-url samen met de naam van je project in Zulip.
 
-Vervolgens wordt je pitch bekeken en krijg je van ons feedback en vragen naar aanleiding van je idee. Tijdens het eerste voortgangsgesprek wordt dit in detail besproken.
+Daarna wordt je pitch bekeken en krijg je van ons feedback en vragen naar aanleiding van je idee. Tijdens het eerste voortgangsgesprek wordt dit in detail besproken.
