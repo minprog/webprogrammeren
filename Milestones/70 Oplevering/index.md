@@ -33,4 +33,4 @@ Naast de screencast, readme en licentie, is dit het aangewezen moment om de kwal
 
 > Het is heel verleidelijk om in deze fase van het project toch nog die ene feature af te maken of toe te voegen. Doe dit **niet** en steek je energie nu in het goed afronden van project. Dat heeft een groter effect op de beoordeling, en een veel kleiner risico op nachten doorhalen omdat het programmeren toch net iets langer duurde dan gedacht.
 
-Wanneer alles afgerond is, lever je hieronder de URL van je **screencast** in.
+Zodra alles afgerond is, lever je hieronder de URL van je **screencast** in.

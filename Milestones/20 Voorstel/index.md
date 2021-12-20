@@ -72,3 +72,7 @@ Maak een korte maar **overzichtelijke** presentatie waarin iemand eerst het glob
 ## Submit
 
 Post je complete document in Zulip zodat de mentoren dit kunnen bekijken. We bespreken het bij het eerste voortgangsgesprek nadat jullie de presentatie hebben gegeven. Het document moet als PDF worden gepost en niet als Word-document of in een ander formaat.
+
+## Feedback
+
+Tijdens en na het mentorgesprek krijg je feedback. Je team is verplicht deze feedback te verwerken in het formele document en een update hiervan te posten. Zorg dat je dit zo snel mogelijk na de meeting doet.

@@ -1,4 +1,4 @@
-## Samenwerken
+# Samenwerken
 
 Bij alle opdrachten van dit vak mag je samenwerken met één andere student. Daarna ga je ook met een team van vijf een eigen project opzetten. Dat betekent dat er bij dit vak veel samen wordt geprogrammeerd. Zoals je misschien al verwacht, brengt dit zijn eigen problemen met zich mee. Want één haakje te veel of te weinig en het programma draait niet. Om deze reden ga je tijdens dit vak kennis maken met verschillende manieren om toch samen te kunnen programmeren.
 

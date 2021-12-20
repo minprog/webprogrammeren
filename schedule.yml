@@ -4,7 +4,7 @@ Project:
         Project:
             "Registratie Zulip (maandag 12:00)": "/milestones/chat"
             "Meeting en Pitch (dinsdag 13:00)": "/milestones/idee"
-            "Presentatie (woensdag of donderdag)": "/milestones/voorstel"
+            "Projectvoorstel (woensdag of donderdag)": "/milestones/voorstel"
         Invididueel:
             "HTML Lecture": /lectures/html
             "Problem: Profile (vrijdag 18:00)": /problems/profile
