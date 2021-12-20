@@ -22,6 +22,7 @@ Project:
     Week 3:
         "Beta (maandag 18:00)": "/milestones/beta"
     Week 4:
-        "Final (woensdag 23:59)": "/milestones/final"
-        "Oplevering (vrijdag 23:59)": "/milestones/oplevering"
-        "Heroku": "/naslag/heroku"
+        "Samenvoegen (maandag 18:00)": "/milestones/oplevering"
+        "Final (dinsdag 22:00)": "/milestones/final"
+    Optioneel:
+        "Online met Heroku": "/naslag/heroku"

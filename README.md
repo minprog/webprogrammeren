@@ -182,10 +182,10 @@ Om te starten met de website heeft het team een **projectstarter** gekregen, die
 
 | Belangrijke momenten week 2       |                               |
 | --------------------------------- | ----------------------------- |
-| Movies [deadline]                 | dinsdag 18 januari 17:59      |
-| Fiftyville [deadline]             | donderdag 20 januari 17:59    |
+| Movies [deadline]                 | dinsdag 18 januari 18:00      |
+| Fiftyville [deadline]             | donderdag 20 januari 18:00    |
 | Mentorgesprek                     | woensdag of donderdag         |
-| Hele week: Prototype [deadline]   | vrijdag 21 januari 17:59      |
+| Hele week: Prototype [deadline]   | vrijdag 21 januari 18:00      |
 
 ##### Mentorgesprek week 2
 
@@ -205,7 +205,7 @@ Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je
 | Belangrijke momenten week 3       |                               |
 | --------------------------------- | ----------------------------- |
 | Mentorgesprek                     | woensdag of donderdag         |
-| Betaversie [deadline]             | vrijdag 28 januari 17:59      |
+| Betaversie [deadline]             | vrijdag 28 januari 18:00      |
 
 ##### Mentorgesprek week 3
 
@@ -224,10 +224,10 @@ Deze week gaan jullie als groep **afronden**. Maandag worden alle individuele bi
 
 | Belangrijke momenten week 4       |                               |
 | --------------------------------- | ----------------------------- |
-| Samenvoeging                      | maandag 31 januari 17:59      |
-| Definitieve versie [deadline]     | dinsdag 1 februari 17:59      |
+| Samenvoegen                       | maandag 31 januari 18:00      |
+| Definitieve versie [deadline]     | dinsdag 1 februari 18:00      |
 | Mentorgesprek                     | woensdag of donderdag         |
-| Virtuele presentatie  [deadline]  | vrijdag 4 februari 17:59      |
+| Virtuele presentatie  [deadline]  | vrijdag 4 februari 18:00      |
 
 ##### Mentorgesprek week 4
 

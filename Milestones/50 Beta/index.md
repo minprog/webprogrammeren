@@ -7,5 +7,3 @@ Vanaf deze milestone verschuift de focus naar het afleveren van een eindproduct.
 ## Deliverable
 
 Lever onder deze pagina de GitHub URL in voor jullie project. Zorg ervoor dat op het moment van inleveren alle code naar GitHub is gepusht. Geen zorgen, we gaan niet proberen deze code daadwerkelijk te draaien op onze machines. Je hoeft je dus niet in te spannen om een goede readme.md te schrijven, dat komt bij een latere milestone.
-
-Maar één lid van het team hoeft de GitHub URL in te leveren.
