@@ -5,6 +5,7 @@ language: nl
 links:
     '[terminal] CS50 Code': https://code.cs50.io/
     '[chat-text] Zulip': https://webik.zulipchat.com/
+    '[people-fill] Assistentie': 'https://balie.mprog.nl/planner/1-programmeerbalie'
 
 acknowledgements:
     - 'Based on CS50 from https://cs50.harvard.edu/college/2020/fall/ -- Copyright 2011--2020, David J. Malan.'
