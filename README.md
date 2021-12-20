@@ -125,16 +125,15 @@ De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke de
 
 ## Week 1
 
-Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, en maak je **plannen** met je projectgroep om aan de gezamenlijke website te werken.
+Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, en maak je **plannen** met je projectgroep om aan de gezamenlijke website te werken. Het is aan jou om het groepswerk en individueel werk goed te plannen.
 
-| Belangrijke momenten week 1       |                               |
-| --------------------------------- | ----------------------------- |
-| Registratie Zulip                 | maandag 10 januari 13:59      |
-| Aanmelding projectidee [deadline] | maandag 10 januari 19:59      |
-| Projectmeeting                    | dinsdag 10 januari ochtend    |
-| Projectvoorstel [deadline]        | dinsdag 11 januari 17:59      |
-| Opdracht: Profile [deadline]      | vrijdag 14 januari 17:59      |
-| Mentorgesprek                     | woensdag of donderdag         |
+| Belangrijke momenten week 1        |                               |
+| ---------------------------------- | ----------------------------- |
+| Opdracht: Profile [deadline]       | vrijdag 14 januari 18:00      |
+| Registratie Zulip                  | maandag 10 januari 14:00      |
+| Projectmeeting                     | dinsdag 11 januari ochtend    |
+| Pitch op video in Zulip [deadline] | dinsdag 11 januari 13:00      |
+| Mentorgesprek                      | woensdag of donderdag         |
 
 ##### Aanmelding Projectidee
 

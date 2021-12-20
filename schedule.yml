@@ -2,9 +2,9 @@ Project:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
     Week 1:
         Project:
-            "Leesmij": "/project/readme"
-            "Idee (maandag 20:00)": "/milestones/idee"
-            "Voorstel (dinsdag 18:00)": "/milestones/voorstel"
+            "Registratie Zulip (maandag 12:00)": "/milestones/chat"
+            "Meeting en Pitch (dinsdag 13:00)": "/milestones/idee"
+            "Presentatie (woensdag of donderdag)": "/milestones/voorstel"
         Invididueel:
             "HTML Lecture": /lectures/html
             "Problem: Profile (vrijdag 18:00)": /problems/profile
