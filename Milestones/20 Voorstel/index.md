@@ -45,7 +45,7 @@ Producten zijn altijd een combinatie van allerlei *features*. die beschrijven wa
 
 In je document neem je een lijst features op. De meeste features moeten ook zichbaar zijn in de schetsen. Waarschijnlijk moet je (terwijl je met je team discussieert) een beetje heen en weer springen tussen schetsen maken en features verzinnen.
 
-### Taakverdeling
+## Taakverdeling
 
 Som nu per teamlid op welk deel van het werk zij precies gaan maken.
 
