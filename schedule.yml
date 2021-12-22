@@ -1,26 +1,26 @@
 Project:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
     Week 1:
-        Lesstof:
-            "Videocollege: HTML": /lectures/html
-            "Opdracht: Profile (vrijdag 18:00)": /problems/profile
         Project:
             "Registratie Zulip (maandag 12:00)": "/milestones/chat"
             "Meeting en Pitch (dinsdag 13:00)": "/milestones/idee"
+            "Projectvoorstel (dinsdag 20:00)": "/milestones/voorstel"
             "Videocollege: Flask": /lectures/flask
-            "Projectvoorstel (woensdag of donderdag)": "/milestones/voorstel"
+        Lesstof:
+            "Videocollege: HTML": /lectures/html
+            "Opdracht: Profile (vrijdag 18:00)": /problems/profile
     Week 2:
         Lesstof:
             "Videocollege: SQL": /lectures/sql
-            "Opdracht: Movies (dinsdag 18:00)":  /problems/movies
-            "Opdracht: Fiftyville (woensdag 18:00)": /problems/fiftyville
+            "Opdracht: Movies (maandag 18:00)":  /problems/movies
+            "Opdracht: Fiftyville (dinsdag 18:00)": /problems/fiftyville
         Project:
             "Videocollege: Git": "/lectures/git"
             "Bootstrap (dinsdag 13:00)": "/milestones/bootstrap"
             "Prototype (vrijdag 18:00)": "/milestones/prototype"
             "Naslag: Git": "/naslag/git"
     Week 3:
-        "Beta (maandag 18:00)": "/milestones/beta"
+        "Betaversie (vrijdag 18:00)": "/milestones/beta"
     Week 4:
         "Samenvoegen (maandag 18:00)": "/milestones/samenvoegen"
         "Final (dinsdag 22:00)": "/milestones/final"
