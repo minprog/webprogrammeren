@@ -171,16 +171,14 @@ Op basis van het voorstel maken jullie een projectpresentatie voor het mentorges
 
 ##### Mentorgesprek week 1
 
-Elke woensdag of donderdag spreekt het team uitgebreid met minstens 2 **mentoren**. Deze week ga je het plan presenteren. Je krijgt dan mondelinge feedback van je mentoren, op basis waarvan je het plan kunt finetunen. 
+Elke woensdag of donderdag spreekt het team uitgebreid met minstens 2 **mentoren**. Deze week ga je het plan presenteren.
 
-Ook na bijstellen is je plan niet *automatisch* goedgekeurd. Jullie kunnen nog punten krijgen om te verwerken. Maar je kunt gewoon beginnen!
+Je krijgt dan mondelinge feedback van je mentoren, op basis waarvan je het plan kunt finetunen. Ook na bijstellen is je plan niet *automatisch* goedgekeurd. Jullie kunnen nog punten krijgen om te verwerken. Maar je kunt gewoon beginnen!
 
 
 ## Week 2
 
-Om te starten met de website heeft het team een **projectstarter** gekregen, die jullie gezamenlijk uitpluizen. Elke student heeft een werkende versie van de projectstarter draaien waarmee ze aan de slag kunnen.
-
-Je gaat je daarnaast verdiepen in de **technieken** die je nodig hebt om jouw aandeel in het project te volbrengen.
+Om te starten met de website heeft het team een **projectstarter** gekregen, die jullie gezamenlijk uitpluizen. Elke student heeft een werkende versie van de projectstarter draaien waarmee ze aan de slag kunnen. Je gaat je daarnaast verdiepen in de **technieken** die je nodig hebt om jouw aandeel in het project te volbrengen.
 
 | Belangrijke momenten week 2       |                               |
 | --------------------------------- | ----------------------------- |
@@ -190,18 +188,19 @@ Je gaat je daarnaast verdiepen in de **technieken** die je nodig hebt om jouw aa
 
 ##### Opstarten projecten
 
-Volg de instructies voor het Bootstrappen van het project.
-
-
-##### Mentorgesprek week 2
-
-Enkele teamleden **presenteren** hoe de projectstarter in elkaar zit, en wat er globaal moet gebeuren om jullie website te maken.
-
-Daarna vertelt elke individuele student wat ze tot nu toe gedaan hebben aan hun **individuele bijdrage**, en hoe ze komende week aan de slag gaan. Iedereen vertelt daarbij ook wat ze verwachten dat moeilijk zal worden en hoe ze hierbij hulp gaan krijgen (van andere teamleden, of op een andere manier).
+Volg de instructies voor het Bootstrappen van het project op de website. Eén teamlid maakt een groep aan op Github en de andere studenten komen erbij. Zorg dat je dit niet doet vóór de start van week 2. Je project moet namelijk aan onze cursus gekoppeld worden. Instructies worden rondgestuurd.
 
 ##### Prototype
 
-Elke student zorg dat vrijdag een prototype klaarstaat van de functionaliteit van hun deel van de site. Dat betekent een licht opgemaakte pagina met de juiste knoppen, invoervelden en dummy-content zoals teksten en plaatjes. Waarschijnlijk zijn de pagina's niet automatisch gegenereerd maar de HTML en inhoud heeft hiermee een "vorm" gekregen.
+Elke student zorg dat vrijdag een prototype klaarstaat van de functionaliteit van hun deelproject. Dat betekent licht opgemaakte pagina's met de juiste knoppen, invoervelden en dummy-content zoals teksten en plaatjes. Waarschijnlijk zijn de pagina's niet automatisch gegenereerd, maar de HTML en inhoud heeft hiermee een "vorm" gekregen.
+
+##### Mentorgesprek week 2
+
+Deze week draait het om het begrijpen van je projectstarter en opstarten van de individuele deelprojecten.
+
+- Enkele teamleden **presenteren** hoe de projectstarter in elkaar zit, en wat er globaal moet gebeuren om jullie website te maken.
+- Daarna vertelt elke individuele student wat ze tot nu toe gedaan hebben aan hun **individuele bijdrage**, en hoe ze aan de slag gaan.
+- Iedereen vertelt daarbij ook wat ze verwachten dat moeilijk zal worden en hoe ze hierbij hulp gaan krijgen (van andere teamleden, of op een andere manier).
 
 
 ##  Week 3
@@ -213,15 +212,17 @@ Je kent nu de basis van de technieken die je gaat toepassen en je bent deze week
 | Mentorgesprek                     | woensdag of donderdag         |
 | Project: Betaversie [deadline]    | vrijdag 28 januari 18:00      |
 
-##### Mentorgesprek week 3
-
-Alle teamleden geven een **persoonlijke update** waarin ook wordt doorgevraagd op details. Hiermee toetsen we al of elke student de eigen bijdrage goed onder controle heeft en voldoende leert.
-
-Er wordt een voorzichtig **plan** gemaakt voor het samenvoegen van al het werk. In sommige gevallen is dit al regelmatig gedaan en werkt iedereen in feite aan één site. In andere gevallen zal er nog flink tijd gestoken moeten worden om alles samen te voegen. De studenten met ervaring nemen hier het voortouw in.
-
 ##### Betaversie
 
 Elke student heeft individueel of in samenwerking met anderen een voorlopige versie klaar van de afgesproken functionaliteit: een onderdeel van de functionaliteit die <u>werkt</u>. De studenten die "pech" hebben gehad en nog niet klaar zijn worden verder geholpen door alle teamleden en de ervaren teamleden in het bijzonder. Dit gaat boven het perfectioneren van de eigen bijdrage. Hulp moet worden vastgelegd in de procesboeken van alle betrokkenen.
+
+##### Mentorgesprek week 3
+
+Bij deze bijeenkomst maak je met je mentoren plannen voor de afronding van het project.
+
+- Alle teamleden geven een **persoonlijke update** waarin ook wordt doorgevraagd op details. Hiermee toetsen we al of elke student de eigen bijdrage goed onder controle heeft en voldoende leert.
+
+- Er wordt een voorzichtig **plan** gemaakt voor het samenvoegen van al het werk. In sommige gevallen is dit al regelmatig gedaan en werkt iedereen in feite aan één site. In andere gevallen zal er nog flink tijd gestoken moeten worden om alles samen te voegen. De studenten met ervaring nemen hier het voortouw in.
 
 
 ## Week 4
@@ -235,15 +236,21 @@ Deze week gaan jullie als groep **afronden**. Maandag worden alle individuele bi
 | Mentorgesprek                     | woensdag of donderdag         |
 | Virtuele presentatie [deadline]   | donderdag 3 februari 18:00    |
 
-##### Mentorgesprek week 4
+##### Definitieve versie
 
-Tijdens de laatste bespreking presenteren enkele studenten eerst het **globale idee** van de website. Daarna presenteren alle groepsleden hun eigen bijdrage: eerst demo'en wat je hebt gemaakt en daarbij kort uitleggen hoe het technisch in elkaar zit (met een blik op de code). Je beschrijft ook wat de belangrijkste dingen zijn die je geleerd hebt. Hiermee vindt de definitieve toetsing plaats of je persoonlijk voldoende hebt geleerd.
-
-Bij deze laatste bespreking zijn ook andere docenten aanwezig voor de eindbeoordeling van de projecten. Na de presentaties gaan zij ook naar de ingeleverde code kijken.
+Voor de definitieve versie zijn alle individuele bijdragen goed samengevoegd tot één enkele Flask-applicatie. De ervaren studenten helpen bij technische problemen op dit vlak (en de assistenten natuurlijk ook!). Daarna is het een kwestie van zorgen dat alles nog netjes werkt, straktrekken van inconsistenties, en elkaar helpen de code zo netjes mogelijk te maken.
 
 ##### Virtuele presentaties
 
 Bij de afloop van het vak verzamelen we alle gemaakte websites. Alle studenten, docenten en familie en vrienden kunnen deze sites dan bekijken. Bij de site staat optioneel een screencast met uitleg en een korte demo. De websites blijven na afloop een tijdje beschikbaar.
+
+##### Mentorgesprek week 4
+
+Bij deze laatste bespreking zijn mentoren en docenten aanwezig voor de eindbeoordeling van de projecten. Na de presentaties gaan zij ook naar de ingeleverde code kijken.
+
+- Enkele studenten presenteren eerst het **globale idee** van de website.
+
+- Daarna presenteren alle groepsleden hun eigen bijdrage: eerst demo'en wat je hebt gemaakt en daarbij kort uitleggen hoe het technisch in elkaar zit (met een blik op de code). Je beschrijft ook wat de belangrijkste dingen zijn die je geleerd hebt. Hiermee vindt de definitieve toetsing plaats of je persoonlijk voldoende hebt geleerd.
 
 
 ## Meer informatie
