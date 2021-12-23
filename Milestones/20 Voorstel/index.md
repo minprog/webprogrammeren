@@ -16,7 +16,7 @@ Beschrijf in 4--5 zinnen wat het doel van je webapplicatie is, waarom het een un
 
 ## Schetsen
 
-Om een concreet beeld te vormen van de applicatie, moeten er schetsen bijgevoegd zijn van de verschillende *schermen* die een rol spelen in de applicatie. Als je bijvoorbeeld naar Twitter kijkt, dan zie je deze belangrijke schermen:
+Om een concreet beeld te vormen van de applicatie, moeten er <u>uitgebreide</u> schetsen bijgevoegd zijn van de verschillende *schermen* die een rol spelen in de applicatie. Als je bijvoorbeeld naar Twitter kijkt, dan zie je deze belangrijke schermen:
 
 1. ontvangstpagina voor niet-ingelogde gebruikers (homepage)
 2. timeline voor ingelogde gebruikers (dat is hun homepage)
@@ -47,10 +47,6 @@ Producten zijn altijd een combinatie van allerlei *features*. die beschrijven wa
 
 In je document neem je een lijst features op. De meeste features moeten ook zichbaar zijn in de schetsen. Waarschijnlijk moet je (terwijl je met je team discussieert) een beetje heen en weer springen tussen schetsen maken en features verzinnen.
 
-## Taakverdeling
-
-Som nu per teamlid op welk deel van het werk zij precies gaan maken.
-
 ## Afhankelijkheden
 
 Nu je de features op een rijtje hebt, en je hebt inmiddels ook een beetje een beeld van hoe webapplicaties in elkaar zitten, kun je een eerste lijst van afhankelijkheden maken: dingen die je niet zelf programmeert maar wel moet gebruiken, begrijpen of regelen.
@@ -63,15 +59,21 @@ Nu je de features op een rijtje hebt, en je hebt inmiddels ook een beetje een be
 
 - Maak een lijst van de **moeilijkste delen** van de applicatie. Wat wordt veel uitzoekwerk? Wat is gewoon echt moeilijk? Wat heb je nodig om het makkelijker te maken? Deze lijst is waarschijnlijk makkelijker te maken als je al weer wat meer weet van webapplicaties maken, maar als je nu al iets hebt, noteer het in je document.
 
+## Taakverdeling
+
+Som nu per teamlid op welk deel van het werk zij precies gaan maken. Geef daar ook weer aan wat elk teamlid hiervoor gaat leren, afgestemd op hun voorkennis.
+
+Geef ook aan wie elkaar gaat helpen. Meer ervaren studenten zullen beschikbaar zijn om de onervaren studenten te helpen binnen het team.
+
 ## Sanity check
 
-Check, voordat je verder gaat, of je voorgestelde applicatie klopt met de projecteisen zoals ze in de [studiewijzer](/syllabus) staan. En laat iemand van buiten je groep nog een keer je voorstel bekijken, dan kun je onduidelijkheden en spelfouten nog verbeteren. Vergeet ten slotte niet om in het document netjes de naam van de applicatie en de namen van de groepsleden op te nemen!
+Check, voordat je verder gaat, of je voorgestelde applicatie klopt met de projecteisen zoals ze op de [Idee-pagina](/milestones/idee) staan. En laat iemand van buiten je groep nog een keer je voorstel bekijken, dan kun je onduidelijkheden en spelfouten nog verbeteren. Vergeet ten slotte niet om bovenaan het document netjes de naam van de applicatie en de namen van alle groepsleden op te nemen!
 
 ## Presentatie
 
-Maak een korte maar **overzichtelijke** presentatie waarin iemand eerst het globale idee uitlegt en waarna elke student zelf kan toelichten wat hun eigen deel van het project is. Deze presentatie geef je tijdens het mentorgesprek.
+Maak vervolgens een korte maar **overzichtelijke** presentatie waarin iemand eerst het globale idee uitlegt en waarna elke student zelf kan toelichten wat hun eigen deel van het project is. Deze presentatie geef je tijdens het eerste mentorgesprek.
 
-## Submit
+## Insturen
 
 Post je complete document in Zulip zodat de mentoren dit kunnen bekijken. We bespreken het bij het eerste voortgangsgesprek nadat jullie de presentatie hebben gegeven. Het document moet als PDF worden gepost en niet als Word-document of in een ander formaat.
 
