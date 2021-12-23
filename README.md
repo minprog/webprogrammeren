@@ -42,7 +42,7 @@ Je gaat, naast enkele individuele opdrachten, een project doen aan de hand van d
 
 - Het project wordt gedaan in een team van 6-8 personen. Studenten werken afwisselend samen binnen dit team.
 - Alle teamleden programmeren een individuele bijdrage die afgestemd is op hun voorkennis en comfort met programmeren.
-- De website van je team is gebaseerd op één van de vaste [ideeën die je kunt vinden op deze pagina](/milestones/idee) en de invulling van het project is voor de start goedgekeurd door de examinator.
+- De website van je team is gebaseerd op één van de vaste projectstarters (zie onder) en de invulling van het project is voor de start goedgekeurd door de examinator.
 
 
 ### Verantwoordelijkheden
@@ -189,7 +189,7 @@ Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, 
 
 ##### Projectidee
 
-Op maandag ga je als team meteen beslissen welke richting jullie project op gaat. Check voor de vaste projecten de pagina over het [Idee](/milestones/idee). Jullie spreken in de middag met z'n allen af om richting te bepalen. Elke student gaat vervolgens in een paar punten opsommen wat ze zouden willen maken voor het project. Jullie maken hier een document van dat jullie aan het eind van de middag inleveren.
+Op maandag ga je als team meteen beslissen welke richting jullie project op gaat. Jullie spreken in de middag met z'n allen af om richting te bepalen. Elke student gaat vervolgens in een paar punten opsommen wat ze zouden willen maken voor het project. Jullie maken hier een document van dat jullie aan het eind van de middag inleveren.
 
 ##### Projectmeeting
 
