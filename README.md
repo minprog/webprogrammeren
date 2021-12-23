@@ -306,9 +306,7 @@ Alle studenten houden een procesboek bij. Hierin schrijf je elke dag wat je nieu
 
 ### Aanwezigheid
 
-Je moet **dagelijks** contact hebben met meerdere groepsgenoten, op locatie of via Zoom. Maar: als de universiteit gesloten is voor bijeenkomsten dan mag je ook niet ergens anders fysiek afspreken. Is de universiteit "normaal" open dan verwachten we je daar aanwezig voor de wekelijkse voortgangsgesprekken, maar niet per se voor de andere activiteiten. Hou er rekening mee dat sommige teamleden niet zo comfy zullen zijn met naar de universiteit komen. Dat is prima. Als er maar goed contact onderhouden wordt via Zulip, Zoom of Wonder.
-
-Jouw team kan alleen een hoog cijfer halen als er goede onderlinge begeleiding en hulp is. Alle teamleden moeten **altijd** aanwezig zijn bij alle mentorgesprekken. Als iemand ziek is worden de voortgangsgesprekken online gepland.
+Je moet **dagelijks** contact hebben met meerdere groepsgenoten, op locatie of via Zoom. Maar: als de universiteit gesloten is voor bijeenkomsten dan mag je ook niet ergens anders fysiek afspreken. Is de universiteit "normaal" open dan verwachten we je daar aanwezig voor de wekelijkse voortgangsgesprekken, maar niet per se voor de andere activiteiten. Hou er rekening mee dat sommige teamleden niet zo comfy zullen zijn met naar de universiteit komen. Dat is prima. Als er maar goed contact onderhouden wordt via Zulip, Zoom en Wonder. Jouw team kan alleen een hoog cijfer halen als er goede onderlinge begeleiding en hulp is. Alle teamleden moeten **altijd** aanwezig zijn bij alle mentorgesprekken.
 
 
 ### Groepsdynamiek
