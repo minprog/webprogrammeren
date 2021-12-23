@@ -132,9 +132,7 @@ De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke de
 
 ## Projectidee
 
-Tijdens het project kun je een geheel eigen idee kan uitwerken. Het is wel een kort vak met veel nieuwe stof, en dat maakt het lastig in te schatten wat er zoal kan in twee weken. Daarom zijn projecten gebaseerd op één van onderstaande projectstarters. Deze starters zijn uitdagend, maar tegelijk weten we dat ze haalbaar zijn in korte tijd.
-
-Het is toegestaan om af te wijken van de projectstarters als daar een goede reden voor is. Maar veel websites zijn simpelweg een variatie van één van onderstaande ideeën!
+Tijdens het project kun je een geheel eigen idee kan uitwerken. Het is wel een kort vak met veel nieuwe stof, en dat maakt het lastig in te schatten wat er zoal kan in twee weken. Daarom zijn projecten gebaseerd op één van onderstaande projectstarters. Deze starters zijn uitdagend, maar tegelijk weten we dat ze haalbaar zijn in korte tijd. Het is, in goed overleg met het hele team en de mentoren, toegestaan om af te wijken van de projectstarters, als daar een goede reden voor is. Maar veel websites zijn simpelweg een variatie van één van onderstaande ideeën!
 
 ##### Keuze 1. Photo Sharing
 
