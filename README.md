@@ -7,7 +7,7 @@
     }
     h1, h2, h3, h4
     {
-        break-after: avoid;
+        break-after: avoid-page;
     }
 </style>
 
