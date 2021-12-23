@@ -4,7 +4,9 @@ Nu is het tijd om een voorstel te maken. Enerzijds als formeel **document** en a
 
 Het document dient ervoor om te zorgen dat de groep hetzelfde doel nastreeft, en om te zorgen dat je mentoren een goede inschatting kunnen maken over de complexiteit van het project: is het te veel of misschien juist te weinig werk?
 
-De presentatie dient ervoor om te zorgen dat je mentoren een goed beeld van het groepsidee hebben en de manier waarop je het gaat uitwerken. Zo zijn ze ook snel wegwijs in jullie ideeën en het formele document.
+De presentatie geef je tijdens de bijeenkomst met jullie mentoren. Deze dient ervoor om te zorgen dat zij een goed beeld van het groepsidee hebben en de manier waarop jullie het gaan uitwerken. Ook kunnen ze zo sneller jullie document begrijpen en nog feedback geven.
+
+> Eigenlijk is dit gewoon een uitgebreidere versie van het document van jullie Projectidee. Dit is expres zo gedaan. De bedoeling is dat iedereen er een nachtje over heeft geslapen en nieuwe ideeën meeneemt. Zo kunnen jullie nog een keer kritisch kijken naar wat je gaat maken en het dan formeel uitwerken.
 
 ## Samenvatting
 
@@ -23,7 +25,7 @@ Om een concreet beeld te vormen van de applicatie, moeten er schetsen bijgevoegd
 5. persoonlijke instellingen
 6. schrijf een nieuwe tweet (popup)
 
-De schetsen van deze pagina's moeten goed leesbaar en redelijk netjes zijn. Dat betekent niet dat je ze op de computer hoeft te maken: je mag ze ook met pen en papier maken en dan fotograferen (gebruik liefst een speciaal programma om er nette PDF's van te maken). Maar je kunt bijvoorbeeld ook Powerpoint of Keynote gebruiken om snel diagrammen te maken.
+De schetsen van deze pagina's moeten goed leesbaar en netjes zijn. Je kunt bijvoorbeeld Powerpoint of Keynote gebruiken om snel blokken-tekeningen te maken.
 
 Hier een voorbeeld van een zeer nette en complete schets voor een mobiele app, waar met pijlen ook is aangegeven wat de navigatiemogelijkheden zijn. Dat is ook belangrijk bij een website.
 
