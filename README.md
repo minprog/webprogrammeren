@@ -47,8 +47,9 @@ Je gaat, naast enkele individuele opdrachten, een project doen aan de hand van d
 
 ### Verantwoordelijkheden
 
-Bij dit vak ligt er een speciale verantwoordelijkheid voor alle teamleden, ervaren en minder ervaren, om elkaar te helpen het vak tot een goed einde te brengen.
+Bij dit vak ligt er een speciale verantwoordelijkheid voor alle teamleden, ervaren en minder ervaren, om elkaar te helpen het vak tot een goed einde te brengen. Dit komt ook terug in de beoordeling.
 
+- Onervaren studenten moeten een programmeertaak oppakken die uitdagend is voor hun niveau. Ervaren studenten helpen inschatten wat haalbaar is en wat leuk en goed is om te leren.
 - Tijdens het project nemen de studenten die enige ervaring hebben het voortouw met het gebruiken van Git en het afstemmen van het werk van de teamleden.
 - Ook hebben zij expliciet de taak om medestudenten te helpen om verder te komen en (voor hun niveau) uitdagende projecten aan te pakken.
 
