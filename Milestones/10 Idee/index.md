@@ -42,14 +42,27 @@ Voorbeelden van functionaliteit:
 
 De templates zijn een grove invulling van een project. Het is aan je team om dit concreet uit te werken tot een duidelijk concept. Je hebt daar twee belangen die je in de gaten moet houden.
 
-Je bent aan de ene kant op zoek naar een goede taakverdeling: wie wil graag wat maken? Wie werkt met wie samen? Wat zijn de individuele taken? Het is daarnaast ook belangrijk dat je goed nadenkt over een leuke invulling van de website als geheel en wie precies de doelgroep vormt.
+- Je bent aan de ene kant op zoek naar een goede **taakverdeling**: wie wil graag wat maken? Wie werkt met wie samen? Wat zijn de individuele taken?
+
+- Het is daarnaast ook belangrijk dat je goed nadenkt over een **coherente** invulling van de website. Je wil dat de site één geheel is met een duidelijke doelgroep.
 
 Eén truc is om een bepaald thema te verzinnen (zoals "lockdown") en dit te combineren met de projecttemplate. Met de groep kom je dan snel tot een aantal goede ideeën. Je gaat vervolgens kijken hoe je de ideeën zou kunnen uitwerken en op basis van de haalbaarheid of interesse maak je vervolgens als groep een definitieve keuze.
 
-## Neem een pitch op
+## Missie
 
-Plan een meeting en overleg jullie idee voor een project. Werk dit idee uit tot een "elevator-pitch" van 60 seconden. In die 60 seconden moet je een ander (lees je mentor, je studiegenoot, je beste vriendin en je ouders) kunnen overtuigen van je idee. Het moet daaruit duidelijk worden voor wie je applicatie is bedoeld (de doelgroep) en welk probleem er wordt opgelost.
+Maak nu met z'n allen een document waarin je kort beschrijft:
 
-Druk nu op de recordknop in Zoom en neem in maximaal (harde grens) 60 seconden je elevator-pitch op. Misschien dat je het een keertje opnieuw wilt doen, maar overdrijf het niet. Het gaat er om dat de boodschap overkomt bij je mentor. Upload je video hier: <https://video.uva.nl/> en deel de video-url samen met de naam van je project in Zulip.
+- Wat doelgroep en doel van de website zijn, welk nut deze gaat vervullen
+- Heel globaal geschetst overzicht van de pagina's die in de website een belangrijke rol spelen (zie voorbeelden hierboven).
+- Wie gaat meebouwen aan de website:
+    - Welk deel van de website
+    - Wat hun voorkennis is, wat ze kunnen leren
+    - Wie eventueel met wie gaat samenwerken
 
-Daarna wordt je pitch bekeken en krijg je van ons feedback en vragen naar aanleiding van je idee. Tijdens het eerste voortgangsgesprek wordt dit in detail besproken.
+Het samenwerken kan een beetje losvast zijn. Het gaat erom dat je kijkt of sommige teamleden samen een wat groter deelproject willen aanpakken. Dit zou in principe mogelijk moeten zijn. *Daarnaast* is het sowieso noodzakelijk dat teamleden elkaar helpen, coachen, feedback geven. In die zin werkt natuurlijk iedereen samen, maar dit hoeft nu niet vermeld te worden.
+
+## Inleveren
+
+Dit document levert je groep als PDF in door het te posten in jullie kanaal op Zulip.
+
+Daarna gaan jullie allemaal aan de slag met het uitwerken van jullie ideeën voor het formele voorstel. Het idee-document moet daar een goede kickstart voor zijn.
