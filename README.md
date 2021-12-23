@@ -130,13 +130,13 @@ Let op dat bovenstaande beschrijvingen indicaties zijn. Uiteindelijk vind er een
 
 De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke deadlines afgerond en ingeleverd worden om het vak te kunnen halen. Ze mogen niet blijven hangen.
 
-# Projectidee
+## Projectidee
 
 Tijdens het project kun je een geheel eigen idee kan uitwerken. Het is wel een kort vak met veel nieuwe stof, en dat maakt het lastig in te schatten wat er zoal kan in twee weken. Daarom zijn projecten gebaseerd op één van onderstaande projectstarters. Deze starters zijn uitdagend, maar tegelijk weten we dat ze haalbaar zijn in korte tijd.
 
 Het is toegestaan om af te wijken van de projectstarters als daar een goede reden voor is. Maar veel websites zijn simpelweg een variatie van één van onderstaande ideeën!
 
-## Keuze 1. Photo Sharing
+##### Keuze 1. Photo Sharing
 
 Gebruikers kunnen publiekelijk foto's posten met of zonder begeleidende tekst. Alle gebruikers kunnen elkaar "volgen" en zo de foto's bekijken en liken 💕. Gebruikers kunnen in plaats van een eigen foto ook een gif zoeken uit een online API zoals die van <http://api.giphy.com>
 
@@ -148,9 +148,7 @@ Voorbeelden van functionaliteit:
 4. Een **comments-systeem** waarmee ingelogde gebruikers d.m.v. tekst en gif-jes vanuit een online API kunnen reageren op elkaars foto's.
 5. Een **like-systeem en/of volg-systeem** waarbij gebruikers de mogelijkheid hebben foto's en andere gebruikers te "liken".
 
-[Download Starter](https://github.com/minprog/webprogrammeren/raw/2021/templates/photo_sharing.zip)
-
-## Keuze 2. Collectioneur
+##### Keuze 2. Collectioneur
 
 Gebruikers kunnen op basis van diverse eigenschappen zoeken naar items die afkomstig zijn uit een online database van *fijne dingen* zoals [recepten](http://developer.edamam.com) of [kunstwerken](http://rijksmuseum.github.io). Ze kunnen favorites opslaan op een publieke pagina en ze kunnen andere gebruikers tippen.
 
@@ -162,9 +160,7 @@ Voorbeelden van functionaliteit:
 4. Een **tip-functie** waarmee gebruikers elkaar kunnen tippen van zowel items als verzamelingen.
 5. Een **upload-mogelijkheid** waarmee gebruikers hun eigen items kunnen toevoegen aan de verzameling.
 
-[Download Starter](https://github.com/minprog/webprogrammeren/raw/2021/templates/collectioneur.zip)
-
-## Keuze 3. Trivia
+##### Keuze 3. Trivia
 
 Gebruikers kunnen triviavragen beantwoorden en op die manier punten scoren. Er is een interessant systeem om van andere gebruikers te winnen. De vragen komen uit een online triviadatabase zoals <http://jservice.io>.
 
@@ -175,9 +171,6 @@ Voorbeelden van functionaliteit:
 3. Een **highscore-pagina** waarop de scores zowel per quiz als per gebruiker zichtbaar zijn.
 4. Een **eigen-vraag-pagina** waarmee er een vraag kan worden toegevoegd aan de database.
 5. Een **competitie-pagina** dezelfde quiz kunnen maken met een eigen highscore-pagina.
-
-[Download Starter](https://github.com/minprog/webprogrammeren/raw/2021/templates/trivia.zip)
-
 
 
 ## Week 1
