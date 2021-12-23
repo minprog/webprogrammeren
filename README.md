@@ -264,7 +264,7 @@ Het procesboek is een essentieel onderdeel van de beoordeling van het groepsproj
 
 ### Aanwezigheid
 
-Je moet **dagelijks** contact hebben met meerdere groepsgenoten, op locatie of via zoom. Maar: als de universiteit gesloten is voor bijeenkomsten dan mag je ook niet ergens anders fysiek afspreken. Is de universiteit open dan verwachten we dat je daar afspreekt en niet op een andere locatie.
+Je moet **dagelijks** contact hebben met meerdere groepsgenoten, op locatie of via Zoom. Maar: als de universiteit gesloten is voor bijeenkomsten dan mag je ook niet ergens anders fysiek afspreken. Is de universiteit "normaal" open dan verwachten we je daar aanwezig voor de wekelijkse voortgangsgesprekken, maar niet per se voor de andere activiteiten. Hou er rekening mee dat sommige teamleden niet zo comfy zullen zijn met naar de universiteit komen. Dat is prima. Als er maar goed contact onderhouden wordt via Zulip, Zoom of Wonder.
 
 Jouw team kan alleen een hoog cijfer halen als er goede onderlinge begeleiding en hulp is. Alle teamleden moeten **altijd** aanwezig zijn bij alle mentorgesprekken. Als iemand ziek is worden de voortgangsgesprekken online gepland.
 
