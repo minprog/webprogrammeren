@@ -5,7 +5,7 @@ Niet te verwarren met [de gelijknamige library](https://getbootstrap.com/), is b
 
 ## Finance
 
-Vorige week hebben jullie allemaal een versie van Finance geïmplementeerd. Dit wordt het beginpunt van de website, het eerste raamwerk waar je vanaf gaat bouwen. Zo heb je meteen een initiële database, een homepagina en een loginscherm. Dat maakt het mogelijk dat je samen kan werken, zonder elkaar op elk punt in de weg te zitten. Allereerst zul je moeten kiezen welke Finance project de basis gaat vormen. Kijk even naar elkaars code en maak die keuze.
+Voor je project heb je een template gekregen. Deze template wordt het beginpunt van de website, het eerste raamwerk waar je vanaf gaat bouwen. Zo heb je meteen een initiële database, een homepagina en een loginscherm. Dat maakt het mogelijk dat je samen kan werken, zonder elkaar op elk punt in de weg te zitten.
 
 
 ## Git
@@ -25,7 +25,7 @@ Onder Linux vertrouwen we erop dat je zelf de beste weg vindt. Het hangt nou een
 
 ## GitHub
 
-De volgende stap is om de code op een locatie te zetten waardoor je teamgenoten (en wij) er ook bij kunnen. Hiervoor gebruiken we bij dit vak GitHub (Classroom), door op [deze](https://classroom.github.com/g/CLqDDtqT) link te klikken maakt één persoon een groep aan. Vervolgens kunnen je groepsgenoten via dezelfde link de groep selecteren.
+De volgende stap is om de code op een locatie te zetten waardoor je teamgenoten (en wij) er ook bij kunnen. Hiervoor gebruiken we bij dit vak GitHub (Classroom), door op [deze](https://classroom.github.com/a/kRfL7brk) link te klikken maakt één persoon een groep aan. Vervolgens kunnen je groepsgenoten via dezelfde link de groep selecteren.
 
 
 ## Eerste commit & push
@@ -40,7 +40,7 @@ Onze situatie is iets anders dan die hierboven, want je hebt al een project (Fin
     git add .
     git commit -m "first commit"
     git branch -M main
-    git remote add origin https://github.com/uva-webapps/WebIK-<TEAMNAAM>.git
+    git remote add origin https://github.com/webik2022/project-<TEAMNAAM>.git
     git push -u origin main
 
 > Vergeet niet `<TEAMNAAM>` te vervangen met jouw teamnaam naam.
@@ -90,4 +90,4 @@ Vervolgens kan je Finance draaien met:
 
 ## Inleveren
 
-Staat alle Finance code op GitHub, deel dan hieronder de GitHub-url van jullie repo.
+Staat alle code op GitHub, post dan de Github-link van je repo in jullie Zulip-kanaal.
