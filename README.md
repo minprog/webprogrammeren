@@ -55,7 +55,7 @@ Bij dit vak ligt er een speciale verantwoordelijkheid voor alle teamleden, ervar
 
 ### Kickoff
 
-Maandag 10 januari ontvang je een eerste mail met meer informatie over wat je die dag moet doen. Zorg met absolute prioriteit dat je die hele dag beschikbaar bent (in principe online).
+Maandag 10 januari ontvang je een eerste mail met meer informatie over wat je die dag moet doen. Zorg met absolute prioriteit dat je die hele dag beschikbaar bent (in principe online). Overigens is het essentieel dat je elke werkdag beschikbaar bent voor dit vak!
 
 
 ## Eindcijfer
