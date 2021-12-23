@@ -4,9 +4,9 @@ Niet te verwarren met [de gelijknamige library](https://getbootstrap.com/), is b
 
 > De ervaren studenten uit het team nemen hier de leiding. Zorg dat je elkaar helpt en dat uiteindelijk alle stappen voor alle teamleden goed doorlopen zijn. 
 
-## Template
+## Projectstarter
 
-Voor je project heb je een template gekregen. Deze template wordt het beginpunt van de website, het eerste raamwerk waar je vanaf gaat bouwen. Zo heb je meteen een initiële database, een homepagina en een loginscherm. Dat maakt het mogelijk dat je samen kan werken, zonder elkaar op elk punt in de weg te zitten.
+Voor je project heb je een starter gekregen. Die wordt het beginpunt van de website, het eerste raamwerk waar je vanaf gaat bouwen. Zo heb je meteen een initiële database, een homepagina en een loginscherm. Dat maakt het mogelijk dat je samen kan werken, zonder elkaar op elk punt in de weg te zitten.
 
 
 ## Git
@@ -31,12 +31,12 @@ De volgende stap is om de code op een locatie te zetten waardoor je teamgenoten 
 
 ## Eerste commit & push
 
-Eén van de teamleden gaat nu de repository "Clonen" en de startertemplate hierin kopiëren. Het teamlid pusht dan deze versie naar Github.
+Eén van de teamleden gaat nu de repository "Clonen" en de projectstarter hierin kopiëren. Het teamlid pusht dan deze versie naar Github.
 
-Alle andere teamleden kunnen het project nu ook clonen en aan de slag met de template. **Het is essentieel dat je voortaan vanuit deze git-versie blijft werken en dat je altijd professionele hulp inschakelt op het moment dat het misgaat met pushen en pullen.** 
+Alle andere teamleden kunnen het project nu ook clonen en aan de slag met de projectstarter. **Het is essentieel dat je voortaan vanuit deze git-versie blijft werken en dat je altijd professionele hulp inschakelt op het moment dat het misgaat met pushen en pullen.** 
 
 
-## Template uittesten
+## Projectstarter uittesten
 
 Om Finance lokaal te kunnen draaien moet je eerst de benodigde packages installeren installeren, dit gaat via `pip`. Dit is even afhankelijk van hoe Python geïnstalleerd staat op jouw machine. Check allereerst even je Pythonversie met
 

@@ -42,12 +42,15 @@ Je gaat, naast enkele individuele opdrachten, een project doen aan de hand van d
 
 - Het project wordt gedaan in een team van 6-8 personen. Studenten werken afwisselend samen binnen dit team.
 - Alle teamleden programmeren een individuele bijdrage die afgestemd is op hun voorkennis en comfort met programmeren.
-- De website van je team is gebaseerd op één van de vaste [ideeën die je kunt vinden op deze pagina](/milestones/idee) en de invulling vooraf goedgekeurd door de examinator.
+- De website van je team is gebaseerd op één van de vaste [ideeën die je kunt vinden op deze pagina](/milestones/idee) en de invulling van het project is voor de start goedgekeurd door de examinator.
 
 
 ### Verantwoordelijkheden
 
-Tijdens het project nemen de studenten die enige ervaring hebben het voortouw met het gebruiken van Git en het afstemmen van het werk van de teamleden. Ook hebben zij expliciet de taak om medestudenten te helpen om verder te komen en (voor hun niveau) uitdagende projecten aan te pakken.
+Bij dit vak ligt er een speciale verantwoordelijkheid voor alle teamleden, ervaren en minder ervaren, om elkaar te helpen het vak tot een goed einde te brengen.
+
+- Tijdens het project nemen de studenten die enige ervaring hebben het voortouw met het gebruiken van Git en het afstemmen van het werk van de teamleden.
+- Ook hebben zij expliciet de taak om medestudenten te helpen om verder te komen en (voor hun niveau) uitdagende projecten aan te pakken.
 
 
 ## Eindcijfer
@@ -139,17 +142,17 @@ Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, 
 | Opdracht: Fiftyville [deadline]    | woensdag 12 januari 18:00     |
 | Opdracht: Profile [deadline]       | vrijdag 14 januari 18:00      |
 
-##### Aanmelding Projectidee
+##### Projectidee
 
-Op maandag ga je als team definitief beslissen welke richting jullie project op gaat. Check voor de vaste projecten de pagina over het [Idee](/milestones/idee). Elke student gaat vervolgens in een paar punten opsommen wat ze zouden willen maken voor het project. Iedereen neemt dit mee naar de meeting op dinsdag
+Op maandag ga je als team meteen beslissen welke richting jullie project op gaat. Check voor de vaste projecten de pagina over het [Idee](/milestones/idee). Jullie spreken in de middag met z'n allen af om richting te bepalen. Elke student gaat vervolgens in een paar punten opsommen wat ze zouden willen maken voor het project. Jullie maken hier een document van dat jullie aan het eind van de middag inleveren.
 
 ##### Projectmeeting
 
-Op dinsdag hebben jullie als compleet team een meeting waarin je de basis voor het projectplan gaat leggen. Je doet een rondje ideeën langs alle teamleden. Jullie komen tot een mondelinge afspraak voor een website waar je gezamenlijk naartoe wil werken. Op basis van deze afspraak werkt iedereen nogmaals de individuele bijdrage uit. Dit gaat als input naar het schriftelijke projectvoorstel.
+Op dinsdagochtend hebben jullie als compleet team een meeting waarin je de basis voor het officiële projectplan gaat leggen. Je doet nog een keer een rondje ideeën langs alle teamleden. Jullie komen tot een mondelinge afspraak voor een website waar je gezamenlijk naartoe wil werken. Op basis van deze afspraak werkt iedereen nogmaals de individuele bijdrage uit. Dit gaat als input naar het schriftelijke projectvoorstel.
 
 ##### Projectvoorstel
 
-Uiterlijk dinsdagmiddag hebben jullie een schriftelijk projectvoorstel gemaakt waarin jullie gezamenlijk de website beschrijven die je gaat maken.
+Dinsdagmiddag maken jullie een schriftelijk projectvoorstel waarin jullie gezamenlijk de website beschrijven die je gaat maken.
 
 - Jullie geven de globale richting aan van wat je gaat maken
 - Per teamlid:
@@ -161,21 +164,15 @@ Uiterlijk dinsdagmiddag hebben jullie een schriftelijk projectvoorstel gemaakt w
 - Geef aan wie met wie (eventueel) gaat samenwerken en waaraan precies
 - De ervaren studenten hebben een extra rol: geef aan welke studenten voortouw gaan nemen met gebruik van Git en consistent maken project
 
+##### Projectpresentatie
+
+Op basis van het voorstel maken jullie een projectpresentatie voor het mentorgesprek. Zie hieronder welke punten je daar moet benoemen.
+
 ##### Mentorgesprek week 1
 
-Elke woensdag of donderdag spreekt het team uitgebreid met minstens 2 **mentoren**. Deze week ga je het plan finetunen.
-
-- Enkele studenten lichten het globale idee voor de website toe.
-- Alle individuele studenten leggen uit wat ze gaan doen binnen het project.
-- Alle individuele plannen moeten ófwel bijna niet overlappen, ófwel elkaar duidelijk aanvullen. Dit wordt zorgvuldig doorgenomen tijdens het gesprek.
-- Op basis van de bespreking stellen jullie gezamenlijk de plannen bij. Dan lever je je formele plan in.
-- Daarna kun je aan de slag met je team.
+Elke woensdag of donderdag spreekt het team uitgebreid met minstens 2 **mentoren**. Deze week ga je het plan presenteren. Je krijgt dan mondelinge feedback van je mentoren, op basis waarvan je het plan kunt finetunen. 
 
 Ook na bijstellen is je plan niet *automatisch* goedgekeurd. Jullie kunnen nog punten krijgen om te verwerken. Maar je kunt gewoon beginnen!
-
-##### Opstarten projecten
-
-Volg de instructies voor het Bootstrappen van het project.
 
 
 ## Week 2
@@ -189,6 +186,11 @@ Je gaat je daarnaast verdiepen in de **technieken** die je nodig hebt om jouw aa
 | Project: Bootstrap [deadline]     | dinsdag 18 januari 18:00      |
 | Project: Prototype [deadline]     | vrijdag 21 januari 18:00      |
 | Mentorgesprek                     | woensdag of donderdag         |
+
+##### Opstarten projecten
+
+Volg de instructies voor het Bootstrappen van het project.
+
 
 ##### Mentorgesprek week 2
 
