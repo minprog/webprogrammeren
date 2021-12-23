@@ -52,7 +52,7 @@ De templates zijn een grove invulling van een project. Het is aan je team om dit
 
 Eén truc is om een bepaald thema te verzinnen (zoals "lockdown") en dit te combineren met de projecttemplate. Met de groep kom je dan snel tot een aantal goede ideeën. Je gaat vervolgens kijken hoe je de ideeën zou kunnen uitwerken en op basis van de haalbaarheid of interesse maak je vervolgens als groep een definitieve keuze.
 
-## Missie
+## Document
 
 Maak nu met z'n allen een document waarin je kort beschrijft:
 
