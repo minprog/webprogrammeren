@@ -3,12 +3,13 @@ Project:
     Week 1:
         Project:
             "Aanmelden Zulip (maandag 11:00)": "/milestones/chat"
-            "Meeting en idee (maandagmiddag)": "/milestones/idee"
+            "Meeting en idee (maandag 18:00)": "/milestones/idee"
             "Projectvoorstel (dinsdag 18:00)": "/milestones/voorstel"
-        Lesstof:
+        Lesstof SQL:
             "Videocollege: SQL": /lectures/sql
             "Opdracht: Movies (woensdag 18:00)":  /problems/movies
-            "Opdracht: Fiftyville (donderdag 18:00)": /problems/fiftyville
+            "Opdracht: Fiftyville (woensdag 18:00)": /problems/fiftyville
+        Lesstof HTML:
             "Videocollege: HTML": /lectures/html
             "Opdracht: Profile (vrijdag 18:00)": /problems/profile
     Week 2:

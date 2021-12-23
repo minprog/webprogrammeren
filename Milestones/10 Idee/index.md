@@ -59,10 +59,10 @@ Maak nu met z'n allen een document waarin je kort beschrijft:
     - Wat hun voorkennis is, wat ze kunnen leren
     - Wie eventueel met wie gaat samenwerken
 
-Het samenwerken kan een beetje losvast zijn. Het gaat erom dat je kijkt of sommige teamleden samen een wat groter deelproject willen aanpakken. Dit zou in principe mogelijk moeten zijn. *Daarnaast* is het sowieso noodzakelijk dat teamleden elkaar helpen, coachen, feedback geven. In die zin werkt natuurlijk iedereen samen, maar dit hoeft nu niet vermeld te worden.
+Het samenwerken kan een beetje losvast zijn. Het gaat erom dat je kijkt of sommige teamleden samen een wat groter deelproject willen aanpakken. Dit zou in principe mogelijk moeten zijn. *Daarnaast* is het sowieso noodzakelijk dat teamleden elkaar helpen, coachen, feedback geven. In die zin werkt natuurlijk iedereen samen, maar dit hoeft nu niet in het document vermeld te worden.
 
 ## Inleveren
 
-Dit document levert je groep als PDF in door het te posten in jullie kanaal op Zulip.
+Dit document levert de groep in als PDF (géén word-doc) door het te posten in jullie kanaal op Zulip.
 
 Daarna gaan jullie allemaal aan de slag met het uitwerken van jullie ideeën voor het formele voorstel. Het idee-document moet daar een goede kickstart voor zijn.
