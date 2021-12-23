@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Homepage
+{% endblock %}
+
+{% block main %}
+
+    <div>
+       <b>Question:</b> {{ question }}
+    </div>
+
+    {% if session.user_id %}
+    <div>
+        <form action="/answer/{{ question_id }}" method="post">
+            <div><input class="form-control" autofocus type="text" name="answer" placeholder="Your answer"></div>
+            <div><input type="submit", value="Send", class="searchButton"></div>
+        </form>
+    </div>
+
+    {% else %}
+    <a class="nav-link" href="/login">Log in to answer</a>
+    {% endif %}
+
+{% endblock %}

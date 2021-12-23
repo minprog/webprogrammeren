@@ -18,6 +18,8 @@ Voorbeelden van functionaliteit:
 4. Een **comments-systeem** waarmee ingelogde gebruikers d.m.v. tekst en gif-jes vanuit een online API kunnen reageren op elkaars foto's.
 5. Een **like-systeem en/of volg-systeem** waarbij gebruikers de mogelijkheid hebben foto's en andere gebruikers te "liken".
 
+[Download Starter](https://github.com/minprog/webprogrammeren/raw/2021/templates/photo_sharing.zip)
+
 ## Keuze 2. Collectioneur
 
 Gebruikers kunnen op basis van diverse eigenschappen zoeken naar items die afkomstig zijn uit een online database van *fijne dingen* zoals [recepten](http://developer.edamam.com) of [kunstwerken](http://rijksmuseum.github.io). Ze kunnen favorites opslaan op een publieke pagina en ze kunnen andere gebruikers tippen.
@@ -30,6 +32,8 @@ Voorbeelden van functionaliteit:
 4. Een **tip-functie** waarmee gebruikers elkaar kunnen tippen van zowel items als verzamelingen.
 5. Een **upload-mogelijkheid** waarmee gebruikers hun eigen items kunnen toevoegen aan de verzameling.
 
+[Download Starter](https://github.com/minprog/webprogrammeren/raw/2021/templates/collectioneur.zip)
+
 ## Keuze 3. Trivia
 
 Gebruikers kunnen triviavragen beantwoorden en op die manier punten scoren. Er is een interessant systeem om van andere gebruikers te winnen. De vragen komen uit een online triviadatabase zoals <http://jservice.io>.
@@ -41,6 +45,8 @@ Voorbeelden van functionaliteit:
 3. Een **highscore-pagina** waarop de scores zowel per quiz als per gebruiker zichtbaar zijn.
 4. Een **eigen-vraag-pagina** waarmee er een vraag kan worden toegevoegd aan de database.
 5. Een **competitie-pagina** dezelfde quiz kunnen maken met een eigen highscore-pagina.
+
+[Download Starter](https://github.com/minprog/webprogrammeren/raw/2021/templates/trivia.zip)
 
 ## Idee en taakverdeling
 

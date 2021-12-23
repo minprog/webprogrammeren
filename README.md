@@ -53,6 +53,10 @@ Bij dit vak ligt er een speciale verantwoordelijkheid voor alle teamleden, ervar
 - Tijdens het project nemen de studenten die enige ervaring hebben het voortouw met het gebruiken van Git en het afstemmen van het werk van de teamleden.
 - Ook hebben zij expliciet de taak om medestudenten te helpen om verder te komen en (voor hun niveau) uitdagende projecten aan te pakken.
 
+### Kickoff
+
+Maandag 10 januari ontvang je een eerste mail met meer informatie over wat je die dag moet doen. Zorg met absolute prioriteit dat je die hele dag beschikbaar bent (in principe online).
+
 
 ## Eindcijfer
 

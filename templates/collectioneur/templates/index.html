@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Homepage
+{% endblock %}
+
+{% block main %}
+
+    <ul>
+        <div>
+            <div><img src={{ image_url }} width="500"></div>
+            <div>{{ title }}</div>
+            <div>{{ artist }}</div>
+        </div>
+    </ul>
+
+{% endblock %}
