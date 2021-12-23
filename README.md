@@ -125,15 +125,19 @@ De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke de
 
 ## Week 1
 
-Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, en maak je **plannen** met je projectgroep om aan de gezamenlijke website te werken. Het is aan jou om het groepswerk en individueel werk goed te plannen.
+Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, leer je over databases en **SQL**, en maak je **plannen** met je projectgroep om aan de gezamenlijke website te werken. Het is aan jou om het groepswerk en individueel werk goed te plannen.
 
 | Belangrijke momenten week 1        |                               |
 | ---------------------------------- | ----------------------------- |
-| Opdracht: Profile [deadline]       | vrijdag 14 januari 18:00      |
 | Registratie Zulip                  | maandag 10 januari 14:00      |
-| Projectmeeting                     | dinsdag 11 januari ochtend    |
-| Pitch op video in Zulip [deadline] | dinsdag 11 januari 13:00      |
+| Groepsmeeting                      | maandag 10 januari middag     |
+| Projectidee [deadline]             | maandag 10 januari 18:00      |
+| Groepsmeeting                      | dinsdag 11 januari ochtend    |
+| Projectvoorstel [deadline]         | dinsdag 11 januari 18:00      |
 | Mentorgesprek                      | woensdag of donderdag         |
+| Opdracht: Movies [deadline]        | woensdag 12 januari 18:00     |
+| Opdracht: Fiftyville [deadline]    | woensdag 12 januari 18:00     |
+| Opdracht: Profile [deadline]       | vrijdag 14 januari 18:00      |
 
 ##### Aanmelding Projectidee
 
@@ -176,16 +180,15 @@ Volg de instructies voor het Bootstrappen van het project.
 
 ## Week 2
 
-Deze week ga je zelf **SQL** leren met twee opdrachten Movies en Fiftyville. Hiervoor krijg je geen cijfer, maar je moet ze wel af hebben. Daarnaast ga je je verdiepen in de **technieken** die je nodig hebt om jouw aandeel in het project te volbrengen.
-
 Om te starten met de website heeft het team een **projectstarter** gekregen, die jullie gezamenlijk uitpluizen. Elke student heeft een werkende versie van de projectstarter draaien waarmee ze aan de slag kunnen.
+
+Je gaat je daarnaast verdiepen in de **technieken** die je nodig hebt om jouw aandeel in het project te volbrengen.
 
 | Belangrijke momenten week 2       |                               |
 | --------------------------------- | ----------------------------- |
-| Movies [deadline]                 | dinsdag 18 januari 18:00      |
-| Fiftyville [deadline]             | donderdag 20 januari 18:00    |
+| Project: Bootstrap [deadline]     | dinsdag 18 januari 18:00      |
+| Project: Prototype [deadline]     | vrijdag 21 januari 18:00      |
 | Mentorgesprek                     | woensdag of donderdag         |
-| Hele week: Prototype [deadline]   | vrijdag 21 januari 18:00      |
 
 ##### Mentorgesprek week 2
 
@@ -195,17 +198,17 @@ Daarna vertelt elke individuele student wat ze tot nu toe gedaan hebben aan hun 
 
 ##### Prototype
 
-Elke student zorg dat vrijdag een prototype klaarstaat van de functionaliteit van hun deel van de site. Dat betekent een licht opgemaakte pagina met de juiste knoppen, invoervelden en dummy-content zoals teksten en plaatjes. Waarschijnlijk nog niet automatisch gegenereerd maar de HTML en inhoud heeft hiermee een "vorm" gekregen.
+Elke student zorg dat vrijdag een prototype klaarstaat van de functionaliteit van hun deel van de site. Dat betekent een licht opgemaakte pagina met de juiste knoppen, invoervelden en dummy-content zoals teksten en plaatjes. Waarschijnlijk zijn de pagina's niet automatisch gegenereerd maar de HTML en inhoud heeft hiermee een "vorm" gekregen.
 
 
 ##  Week 3
 
-Er zijn nu geen losse opdrachten meer. Je kent de basis van de technieken die je gaat toepassen en je bent deze week keihard aan de slag om jouw **aandeel** in het project uit te werken. Dit is de week waarin het gaat gebeuren!
+Je kent nu de basis van de technieken die je gaat toepassen en je bent deze week keihard aan de slag om jouw **aandeel** in het project uit te werken. Dit is de week waarin het gaat gebeuren!
 
 | Belangrijke momenten week 3       |                               |
 | --------------------------------- | ----------------------------- |
 | Mentorgesprek                     | woensdag of donderdag         |
-| Betaversie [deadline]             | vrijdag 28 januari 18:00      |
+| Project: Betaversie [deadline]    | vrijdag 28 januari 18:00      |
 
 ##### Mentorgesprek week 3
 
@@ -224,10 +227,10 @@ Deze week gaan jullie als groep **afronden**. Maandag worden alle individuele bi
 
 | Belangrijke momenten week 4       |                               |
 | --------------------------------- | ----------------------------- |
-| Samenvoegen                       | maandag 31 januari 18:00      |
+| Project: Samenvoegen [deadline]   | maandag 31 januari 18:00      |
 | Definitieve versie [deadline]     | dinsdag 1 februari 18:00      |
 | Mentorgesprek                     | woensdag of donderdag         |
-| Virtuele presentatie  [deadline]  | vrijdag 4 februari 18:00      |
+| Virtuele presentatie [deadline]   | donderdag 3 februari 18:00    |
 
 ##### Mentorgesprek week 4
 
