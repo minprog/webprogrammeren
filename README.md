@@ -301,9 +301,7 @@ Bij deze laatste bespreking zijn mentoren en docenten aanwezig voor de eindbeoor
 
 ### Procesboek
 
-Alle studenten houden een procesboek bij. Hierin schrijf je elke dag wat je nieuw bent tegengekomen, waar je vragen over hebt op dat moment, wie je heeft geholpen (teamgenoten en assistenten, met naam erbij), wat de oplossing voor je vraag was, welke blokkades je had bij het programmeren en hoe je daar uit bent gekomen, en je ideeën voor de komende dagen of voor de mentorgesprekken.
-
-Het procesboek is een essentieel onderdeel van de beoordeling van het groepsproject. Als één van de teamleden het niet goed bijhoudt leidt dit mogelijk tot een lager cijfer voor het groepsdeel.
+Alle studenten houden een procesboek bij. Hierin schrijf je elke dag wat je nieuw bent tegengekomen, waar je vragen over hebt op dat moment, wie je heeft geholpen (teamgenoten en assistenten, met naam erbij), wat de oplossing voor je vraag was, welke blokkades je had bij het programmeren en hoe je daar uit bent gekomen, en je ideeën voor de komende dagen of voor de mentorgesprekken. Het procesboek is een essentieel onderdeel van de beoordeling van het groepsproject. Als één van de teamleden het niet goed bijhoudt leidt dit mogelijk tot een lager cijfer voor het groepsdeel.
 
 
 ### Aanwezigheid
