@@ -2,6 +2,10 @@
 
 Tijdens het project kun je een geheel eigen idee kan uitwerken. Het is wel een kort vak met veel nieuwe stof, en dat maakt het lastig in te schatten wat er zoal kan in twee weken. Daarom vind je hieronder drie templates om je inspiratie te geven voor je eigen project. Deze templates zijn uitdagend, maar ook haalbaar in korte tijd.
 
+Het is toegestaan om af te wijken van de templates als daar een goede reden voor is. Maar veel websites zijn simpelweg een variatie van één van onderstaande ideeën!
+
+> Doel voor vandaag is om samen vast te leggen wat voor site je gaat maken en wie welk onderdeel zou kunnen gaan aanpakken. Je moet hiervoor een online meeting houden en in de loop van de middag alles uitwerken in een kort document. Zie hieronder voor de instructies.
+
 ## Keuze 1. Photo Sharing
 
 Gebruikers kunnen publiekelijk foto's posten met of zonder begeleidende tekst. Alle gebruikers kunnen elkaar "volgen" en zo de foto's bekijken en liken 💕. Gebruikers kunnen in plaats van een eigen foto ook een gif zoeken uit een online API zoals die van <http://api.giphy.com>
