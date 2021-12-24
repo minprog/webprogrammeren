@@ -4,18 +4,7 @@ Je gaat nu werken aan een "eerste versie" van je project. Aan het eind van de we
 
 ## Procesboek
 
-Tijdens deze en volgende week is het **verplicht** om dagelijks een procesboek bij te houden. Dit kan niet serieus achteraf gefaket worden. 
-
-In het procesboek schrijf je elke dag:
-
-- wat je nieuw bent tegengekomen,
-- waar je vragen over hebt op dat moment,
-- wie je heeft geholpen (teamgenoten en assistenten, met naam erbij),
-- wat de oplossing voor je vraag was,
-- welke blokkades je had bij het programmeren en hoe je daar uit bent gekomen, en
-- je ideeën voor de komende dagen of voor de mentorgesprekken.
-
-Het procesboek is een essentieel onderdeel van de beoordeling van het groepsproject. Als één van de teamleden het niet goed bijhoudt leidt dit mogelijk tot een lager cijfer voor het groepsdeel.
+Tijdens deze en volgende week is het **verplicht** om dagelijks een procesboek bij te houden. Dit kan niet achteraf geschreven worden. Zie [procesboek](/milestones/process) voor de instructies.
 
 ## Voorbereiding voortgangsgesprek
 
