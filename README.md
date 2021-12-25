@@ -78,13 +78,13 @@ Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een tea
         3. Superconsistent, opdelen in files van redelijke omvang, her en der zinvolle comments
         {: start="0"}
 
-- **Individueel aandeel project** (50%)---jouw bijdrage aan het groepsproject wordt beoordeeld op uitgebreidheid, kwaliteit van de code, en diepgang van uitleg in je persoonlijk verslag. Je hoeft niet per se JS te gebruiken.
+- **Individueel aandeel project** (50%)---jouw bijdrage aan het groepsproject wordt beoordeeld op uitgebreidheid, kwaliteit van de code, en diepgang van uitleg in je persoonlijk verslag. Hier heb je minimaal een redelijke hoeveelheid HTML, CSS en Flask geschreven. Je hoeft niet per se JS te gebruiken.
 
-    - Uitgebreidheid
-        0. Weinig code of geen JS/CSS of geen Python (dan verder geen punten voor individueel)
-        1. Voldoende HTML/JS/CSS zelf geschreven en wat Python en SQL-queries
-        2. Meerdere HTML/JS/CSS-onderdelen gemaakt, met Python en SQL-queries erbij
-        3. Meerdere pagina's gemaakt met substantiële HTML/JS/CSS, met de backend erbij
+    - Hoeveelheid: hoeveel dagen je flink gewerkt hebt, *aangetoond* met hulp van procesboek. Je hoeft niet elke dag *voortgang* te maken, uitzoeken, puzzelen en ontwerpen is ook werk!
+        0. Vanaf 15 januari minimaal 7 dagen aantoonbaar siginificant werk gedaan
+        1. Vanaf 15 januari minimaal 8 dagen aantoonbaar siginificant werk gedaan
+        2. Vanaf 15 januari minimaal 9 dagen aantoonbaar siginificant werk gedaan
+        3. Vanaf 15 januari minimaal 10 dagen aantoonbaar siginificant werk gedaan
         {: start="0"}
 
     - Kwaliteit HTML, CSS, JS
