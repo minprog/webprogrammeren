@@ -60,69 +60,77 @@ Maandag 10 januari ontvang je een eerste mail met meer informatie over wat je di
 
 ## Eindcijfer
 
-Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een team aan een project. De cijfers worden als volgt samengesteld. **Deze beschrijvingen liggen op dit moment nog niet vast.**
+**Deze beschrijvingen liggen op dit moment nog niet vast.**
 
-- **Persoonlijke website** (25%)---jouw eigen kleine website bouw je in de eerste week. Deze wordt beoordeeld op uitgebreidheid van de site en kwaliteit van de code.
+Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een team aan een project. De cijfers worden als volgt samengesteld.
 
-    - Uitgebreidheid
-        0. Nauwelijks code of geen JS/CSS
-        1. Voldoet niet precies aan de minimumeisen
-        2. Voldoet aan minimumeisen zoals vermeld in de opgave
-        3. Richting 2x de minimumeisen
-        {: start="0"}
+**Persoonlijke website** (25%)---jouw eigen kleine website bouw je in de eerste week. Deze wordt beoordeeld op uitgebreidheid van de site en kwaliteit van de code.
 
-    - Kwaliteit
-        0. Alleen gekopieerde code is netjes, opmaak code verder niet netjes
-        1. Indentatie bijna overal consistent doorgevoerd
-        2. Consistente indentatie, in alle files, opdeling code in blokjes door middel van witregels en duidelijke afscheiding grote onderdelen met hulp van comments
-        3. Superconsistent, opdelen in files van redelijke omvang, her en der zinvolle comments
-        {: start="0"}
+Om voor dit onderdeel punten te kunnen krijgen moet er genoeg code zijn om te kunnen beoordelen. Het is de bedoeling dat je mikt op de mimimumeisen zoals in de opdracht vermeld staan.
 
-- **Individueel aandeel project** (50%)---jouw bijdrage aan het groepsproject wordt beoordeeld op uitgebreidheid, kwaliteit van de code, en diepgang van uitleg in je persoonlijk verslag. Hier heb je minimaal een redelijke hoeveelheid HTML, CSS en Flask geschreven. Je hoeft niet per se JS te gebruiken.
+- Uitgebreidheid
+    0. Weinig code of geen JS/CSS
+    1. Voldoet niet helemaal precies aan de minimumeisen
+    2. Voldoet volledig aan minimumeisen zoals vermeld in de opgave
+    3. Richting 2x de minimumeisen
+    {: start="0"}
 
-    - Hoeveelheid: hoeveel dagen je flink gewerkt hebt, *aangetoond* met hulp van procesboek. Je hoeft niet elke dag *voortgang* te maken, uitzoeken, puzzelen en ontwerpen is ook werk!
-        0. Vanaf 15 januari minimaal 7 dagen aantoonbaar siginificant werk gedaan
-        1. Vanaf 15 januari minimaal 8 dagen aantoonbaar siginificant werk gedaan
-        2. Vanaf 15 januari minimaal 9 dagen aantoonbaar siginificant werk gedaan
-        3. Vanaf 15 januari minimaal 10 dagen aantoonbaar siginificant werk gedaan
-        {: start="0"}
+- Kwaliteit
+    0. Alleen gekopieerde code is netjes, opmaak code verder niet netjes
+    1. Indentatie bijna overal consistent doorgevoerd
+    2. Consistente indentatie, in alle files, opdeling code in blokjes door middel van witregels en duidelijke afscheiding grote onderdelen met hulp van comments
+    3. Superconsistent, opdelen in files van redelijke omvang, her en der zinvolle comments
+    {: start="0"}
 
-    - Kwaliteit HTML, CSS, JS
-        0. Alleen wat is gecopy-paste is netjes, indentatie niet netjes
-        1. Indentatie bijna overal consistent doorgevoerd
-        2. Consistente indentatie, alle files op zelfde manier, opdeling in blokjes, visuele afscheiding grote delen
-        3. Superconsistent, opdelen in meerdere files waar mogelijk en nodig, her en der zinvolle comments
-        {: start="0"}
+**Individueel aandeel project** (50%)---jouw bijdrage aan het groepsproject wordt beoordeeld op uitgebreidheid, kwaliteit van de code, en diepgang van uitleg in je persoonlijk verslag.
 
-    - Kwaliteit Python-code
-        0. Grote delen zijn slordig
-        1. Aardige basisstijl, maar functies zijn erg lang en niet opgesplitst, duplicatie van code
-        2. Duidelijke onderdelen, prima stijl, redelijk wat comments
-        3. Consistent opgemaakt, duidelijk afgescheiden onderdelen, onderdelen zijn kort en eenvoudig en hebben comments die overzicht helpen houden
-        {: start="0"}
+Om voor dit onderdeel punten te kunnen krijgen moet je minimaal een redelijke hoeveelheid HTML, CSS en Flask hebben geschreven. Je hoeft niet per se JS te gebruiken.
 
-    - Diepgang persoonlijk verslag
-        0. Alleen opsommingen van wat gedaan is per dag of per week, geen uitleg van leerproces
-        1. Plausibele connectie tussen bronnen en wat per dag gedaan is, maar weinig uitleg
-        2. Per gemaakt onderdeel overzichtelijk wat gedaan is en welke bronnen en analyse van wat je hiervan geleerd hebt
-        3. Voor enkele gemaakte onderdelen een duidelijke beschrijving van hoe het in elkaar zit, welke bronnen zijn gebruikt en <u>hoe</u> die bronnen hebben geholpen te leren; uitgebreide beschouwing op algemeen leren tijdens het vak.
-        {: start="0"}
+Vanaf 17 januari minimaal 7 dagen aantoonbaar significant werk hebben gedaan voor het project. Uitzoeken, puzzelen en ontwerpen is ook werk! Als je het maar aantoont via het procesboek met screenshots, overwegingen, foto's. Voldoe je hier niet aan dan kun je geen punten krijgen voor het project.
 
-- **Groepscijfer** (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre <u>alle</u> studenten een passende, uitdagende bijdrage hebben gedaan en aantoonbaar van elkaar geleerd hebben. Aantonen kan met hulp van het procesboek dat elk teamlid bijhoudt.
+- Hoeveelheid werk vanaf 17 januari:
+    0. Minimaal 7 dagen aantoonbaar siginificant werk gedaan
+    1. Minimaal 8 dagen aantoonbaar siginificant werk gedaan
+    2. Minimaal 9 dagen aantoonbaar siginificant werk gedaan
+    3. Minimaal 10 dagen aantoonbaar siginificant werk gedaan
+    {: start="0"}
 
-    - Algemene consistentie
-        0. Website bestaat vrijwel geheel uit losse onderdelen bovenop de template
-        1. Topnavigatie verbindt duidelijk alle onderdelen, wel aardig verschillend in werking/opmaak
-        2. Navigatie is consistent, functionaliteit is wat losjes verbonden
-        3. Navigatie is consistent, functionaliteit coherent, wel altijd ruimte voor "eigenheid" individuele bijdragen
-        {: start="0"}
+- Kwaliteit HTML, CSS, JS
+    0. Alleen wat is gecopy-paste is netjes, indentatie niet netjes
+    1. Indentatie bijna overal consistent doorgevoerd
+    2. Consistente indentatie, alle files op zelfde manier, opdeling in blokjes, visuele afscheiding grote delen
+    3. Superconsistent, opdelen in meerdere files waar mogelijk en nodig, her en der zinvolle comments
+    {: start="0"}
 
-    - Samenwerking en bijdrage
-        0. Er zijn niet veel tekenen van samenwerken gevonden en/of diverse teamleden hebben niet genoeg uitdagend werk gedaan met hulp van anderen
-        1. Voor sommige onderdelen is duidelijk op een zinvolle manier samengewerkt tussen teamleden maar enkele teamleden hebben vooral individueel gewerkt en/of niet uitdagend werk gedaan
-        2. Vrijwel alle teamleden hebben aantoonbaar werk op hun niveau gedaan, samenwerking tussen verschillende leden is ook duidelijk uit dagelijks bijgehouden procesboek
-        3. Alle teamleden hebben aantoonbaar werk op hun niveau gedaan, zijn gecoacht door ervaren medestudenten en groep heeft als geheel iedereen erbij gehouden
-        {: start="0"}
+- Kwaliteit Python-code
+    0. Grote delen zijn slordig
+    1. Aardige basisstijl, maar functies zijn erg lang en niet opgesplitst, duplicatie van code
+    2. Duidelijke onderdelen, prima stijl, redelijk wat comments
+    3. Consistent opgemaakt, duidelijk afgescheiden onderdelen, onderdelen zijn kort en eenvoudig en hebben comments die overzicht helpen houden
+    {: start="0"}
+
+- Diepgang persoonlijk verslag
+    0. Alleen opsommingen van wat gedaan is per dag of per week, geen uitleg van leerproces
+    1. Plausibele connectie tussen bronnen en wat per dag gedaan is, maar weinig uitleg
+    2. Per gemaakt onderdeel overzichtelijk wat gedaan is en welke bronnen en analyse van wat je hiervan geleerd hebt
+    3. Voor enkele gemaakte onderdelen een duidelijke beschrijving van hoe het in elkaar zit, welke bronnen zijn gebruikt en <u>hoe</u> die bronnen hebben geholpen te leren; uitgebreide beschouwing op algemeen leren tijdens het vak.
+    {: start="0"}
+
+**Groepscijfer** (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre <u>alle</u> studenten een passende, uitdagende bijdrage hebben gedaan en aantoonbaar van elkaar geleerd hebben. Aantonen kan met hulp van het procesboek dat elk teamlid bijhoudt.
+
+- Algemene consistentie
+    0. Website bestaat vrijwel geheel uit losse onderdelen bovenop de template
+    1. Topnavigatie verbindt duidelijk alle onderdelen, wel aardig verschillend in werking/opmaak
+    2. Navigatie is consistent, functionaliteit is wat losjes verbonden
+    3. Navigatie is consistent, functionaliteit coherent, wel altijd ruimte voor "eigenheid" individuele bijdragen
+    {: start="0"}
+
+- Samenwerking en bijdrage
+    0. Er zijn niet veel tekenen van samenwerken gevonden en/of diverse teamleden hebben niet genoeg uitdagend werk gedaan met hulp van anderen
+    1. Voor sommige onderdelen is duidelijk op een zinvolle manier samengewerkt tussen teamleden maar enkele teamleden hebben vooral individueel gewerkt en/of niet uitdagend werk gedaan
+    2. Vrijwel alle teamleden hebben aantoonbaar werk op hun niveau gedaan, samenwerking tussen verschillende leden is ook duidelijk uit dagelijks bijgehouden procesboek
+    3. Alle teamleden hebben aantoonbaar werk op hun niveau gedaan, zijn gecoacht door ervaren medestudenten en groep heeft als geheel iedereen erbij gehouden
+    {: start="0"}
 
 Voor het groepscijfer is het essentieel dat teamgenoten elkaar uitgebreid helpen tijdens de projectfase, zelfs al doet iedereen een individuele bijdrage aan het project. Dit wordt onder andere gecontroleerd tijdens de voortgangsgesprekken, en via het procesboek dat elke student moet bijhouden.
 
