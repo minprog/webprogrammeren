@@ -86,9 +86,9 @@ Om voor dit onderdeel punten te kunnen krijgen moet er genoeg code zijn om te ku
 
 Om voor dit onderdeel punten te kunnen krijgen moet je minimaal een redelijke hoeveelheid HTML, CSS en Flask hebben geschreven. Je hoeft niet per se JS te gebruiken.
 
-Vanaf 17 januari minimaal 7 dagen aantoonbaar significant werk hebben gedaan voor het project. Uitzoeken, puzzelen en ontwerpen is ook werk! Als je het maar aantoont via het procesboek met screenshots, overwegingen, foto's. Voldoe je hier niet aan dan kun je geen punten krijgen voor het project.
+Je moet tijdens het projectdeel (17--30 januari) minimaal 7 dagen aantoonbaar significant werk hebben gedaan. Uitzoeken, puzzelen en ontwerpen is ook werk! Als je het maar aantoont via het procesboek met screenshots, overwegingen, foto's. Voldoe je hier niet aan dan kun je geen punten krijgen voor het project.
 
-- Hoeveelheid werk vanaf 17 januari:
+- Hoeveelheid werk tussen 17 januari en 30 januari:
     0. Minimaal 7 dagen aantoonbaar siginificant werk gedaan
     1. Minimaal 8 dagen aantoonbaar siginificant werk gedaan
     2. Minimaal 9 dagen aantoonbaar siginificant werk gedaan
@@ -136,7 +136,7 @@ Voor het groepscijfer is het essentieel dat teamgenoten elkaar uitgebreid helpen
 
 Let op dat bovenstaande beschrijvingen indicaties zijn. Uiteindelijk vind er een weloverwogen oordeel plaats in samenspraak tussen mentoren, docenten en examinator op basis van het ingeleverde werk. Gebruik de indicaties om te begrijpen wat de bedoeling is, maar onthou dat als je specifiek op het randje gaat mikken, je kunt verwachten dat naar beneden wordt afgerond.
 
-De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke deadlines afgerond en ingeleverd worden om het vak te kunnen halen. Ze mogen niet blijven hangen.
+De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke deadlines perfect klaar zijn en ingeleverd worden om het vak te kunnen halen. Ze mogen niet blijven hangen.
 
 ## Projectidee
 
