@@ -11,7 +11,7 @@
     }
 </style>
 
-*Versie: Januari 2022*
+*Versie: Januari 2022 (nog aan te passen)*
 
 In vier weken leer je hoe je een interactieve website maakt met behulp van het Flask-framework. We focussen op het maken van websites met een database-backend waarin gebruikersgegevens worden opgeslagen. Zo kun je in je verdere studie prototypes bouwen van applicaties en snel data verzamelen voor onderzoek. Er wordt gewerkt in vrij grote teams.
 
