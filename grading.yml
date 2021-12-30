@@ -20,7 +20,7 @@ grades:
             kwaliteit: integer
         calculation: ((kwantiteit + kwaliteit) / 6).round(1)
         hide_calculated: true
-    oplevering:
+    bijdrage:
         type: float
         subgrades:
             gewerkt: integer
@@ -46,21 +46,26 @@ grades:
 
 calculation:
     eindcijfer:
-        opdrachten: 25
+        aftekenen: 0
+        website: 25
         project: 50
         groepswerk: 25
 
-opdrachten:
+aftekenen:
     show_progress: true
     submits:
-        movies: 1
-        fiftyville: 1
+        movies: 0
+        fiftyville: 0
+
+website:
+    show_progress: true
+    submits:
         profile: 1
 
 project:
     show_progress: true
     submits:
-        oplevering: 1
+        bijdrage: 1
 
 groepswerk:
     show_progress: true
