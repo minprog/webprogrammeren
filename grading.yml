@@ -54,8 +54,8 @@ calculation:
 aftekenen:
     show_progress: true
     submits:
-        movies: 0
-        fiftyville: 0
+        movies: 1
+        fiftyville: 1
 
 website:
     show_progress: true
