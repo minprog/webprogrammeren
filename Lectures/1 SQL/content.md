@@ -1,4 +1,4 @@
-# SQL lecture
+# Data and SQL
 
 Watch the lecture by clicking the image below. Do just take a moment to familiarize yourself with the video player. Perhaps of special interest is the ability to jump to and search for specific instructions, and the feature to quickly jump between chapters. 
 

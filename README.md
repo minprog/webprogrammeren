@@ -11,7 +11,7 @@
     }
 </style>
 
-*Versie: Januari 2022 (nog aan te passen)*
+*Versie: Januari 2022 (versie 1)*
 
 In vier weken leer je hoe je een interactieve website maakt met behulp van het Flask-framework. We focussen op het maken van websites met een database-backend waarin gebruikersgegevens worden opgeslagen. Zo kun je in je verdere studie prototypes bouwen van applicaties en snel data verzamelen voor onderzoek. Er wordt gewerkt in vrij grote teams.
 
@@ -33,7 +33,7 @@ Bij dit vak worden jij en je team begeleid door twee mentoren (assistenten). Je 
 
 Tijdens het vak houd je contact met je teamgenoten en assistenten via Zulip. Op de eerste dag krijg je een uitnodiging voor deze omgeving. Check je spam-folder en zorg dat je direct contact legt met teamgenoten die niet fysiek aanwezig zijn. Dit is jullie gezamenlijke verantwoordelijkheid.
 
-Als je geen contact krijgt met een teamlid moet je dit tijdens deze eerste dag nog laten weten. Als een teamlid voor het eind van de dag geen contact heeft met de groep en/of met de docenten kan deze persoon worden uitgesloten van het vak.
+Als je geen contact krijgt met een teamlid moet je dit tijdens deze eerste dag nog laten weten aan de docenten (voor 14:00 uur via Zulip). Als een teamlid voor het eind van de dag geen contact heeft met de groep en/of met de docenten kan deze persoon worden uitgesloten van het vak.
 
 
 ### Project
@@ -55,12 +55,10 @@ Bij dit vak ligt er een speciale verantwoordelijkheid voor alle teamleden, ervar
 
 ### Kickoff
 
-Maandag 10 januari ontvang je een eerste mail met meer informatie over wat je die dag moet doen. Zorg met absolute prioriteit dat je die hele dag beschikbaar bent (in principe online). Overigens is het essentieel dat je elke werkdag beschikbaar bent voor dit vak!
+Maandag 10 januari ontvang je een eerste mail met meer informatie over wat je die dag moet doen. Zorg met absolute prioriteit dat je die hele dag online beschikbaar bent. Overigens is het essentieel dat je elke werkdag beschikbaar bent voor dit vak!
 
 
 ## Eindcijfer
-
-**Deze beschrijvingen liggen op dit moment nog niet vast.**
 
 Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een team aan een project. De cijfers worden als volgt samengesteld.
 
@@ -134,9 +132,9 @@ Je moet tijdens het projectdeel (17--30 januari) minimaal 7 dagen aantoonbaar si
 
 Voor het groepscijfer is het essentieel dat teamgenoten elkaar uitgebreid helpen tijdens de projectfase, zelfs al doet iedereen een individuele bijdrage aan het project. Dit wordt onder andere gecontroleerd tijdens de voortgangsgesprekken, en via het procesboek dat elke student moet bijhouden.
 
-Let op dat bovenstaande beschrijvingen indicaties zijn. Uiteindelijk vind er een weloverwogen oordeel plaats in samenspraak tussen mentoren, docenten en examinator op basis van het ingeleverde werk. Gebruik de indicaties om te begrijpen wat de bedoeling is, maar onthou dat als je specifiek op het randje gaat mikken, je kunt verwachten dat naar beneden wordt afgerond.
+Let op dat bovenstaande beschrijvingen **indicaties** zijn. Uiteindelijk vind er een weloverwogen oordeel plaats in samenspraak tussen mentoren, docenten en examinator op basis van het ingeleverde werk. Gebruik de indicaties om te begrijpen wat de bedoeling is, maar onthou dat als je specifiek op het randje gaat mikken, je kunt verwachten dat naar beneden wordt afgerond.
 
-De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke deadlines perfect klaar zijn en ingeleverd worden om het vak te kunnen halen. Ze mogen niet blijven hangen.
+De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke deadlines (zie onder) perfect klaar zijn en ingeleverd worden om het vak te kunnen halen. Ze mogen niet blijven hangen.
 
 ## Projectidee
 
@@ -185,7 +183,7 @@ Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, 
 
 | Belangrijke momenten week 1        |                               |
 | ---------------------------------- | ----------------------------- |
-| Registratie Zulip                  | maandag 10 januari 14:00      |
+| Registratie Zulip                  | maandag 10 januari 11:00      |
 | Groepsmeeting                      | maandag 10 januari middag     |
 | Projectidee [deadline]             | maandag 10 januari 18:00      |
 | Groepsmeeting                      | dinsdag 11 januari ochtend    |
@@ -226,6 +224,10 @@ Op basis van het voorstel maken jullie een projectpresentatie voor het mentorges
 Elke woensdag of donderdag spreekt het team uitgebreid met minstens 2 **mentoren**. Deze week ga je het plan presenteren.
 
 Je krijgt dan mondelinge feedback van je mentoren, op basis waarvan je het plan kunt finetunen. Ook na bijstellen is je plan niet *automatisch* goedgekeurd. Jullie kunnen nog punten krijgen om te verwerken. Maar je kunt gewoon beginnen!
+
+##### Individuele opdrachten
+
+Let op de individuele opdrachten die je moet doen om SQL en HTML, CSS en Javascript onder de knie te krijgen.
 
 
 ## Week 2
@@ -331,21 +333,21 @@ We verwachten dat je bekend bent met de beginselen van programmeren in Python. A
 
 Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
-**Zulip:** direct contact met je team en studenten.
+**Zulip en Wonder:** direct contact met je team en studenten.
 
 - onderlinge support
 - snelle vragen over deadlines, contact met samenwerkpartner
 - mentor is niet doorlopend beschikbaar!
 - voor alle uitzonderingen of bijzondere situaties een mailtje sturen
 
-**Programmeerbalie:** direct contact met een assistent, voor moeilijk te formuleren vragen.
+**Programmeerbalie via Wonder:** direct contact met een assistent.
 
 - hulp <u>alleen</u> via een videogesprek waar je je scherm kunt delen
 - je weet niet waar te beginnen of een onvindbare bug
 - dagelijks 13-17 uur, wachttijd kan oplopen
 - vooraf een afspraak maken via de website
 
-**Helpdesk:** direct contact met een assistent, voor technische problemen.
+**Helpdesk:** voor technische problemen.
 
 - problemen met je computer
 - problemen met de werking van je online IDE of git
@@ -362,4 +364,8 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 
 ### Herkansingen
 
-Een projectvak als dit kent geen herkansingsmogelijkheden. Mocht je onverhoopt langdurig ziek worden dan ligt het voor de hand om het vak in het volgende jaar nogmaals te doen. Mocht je je zorgen maken over de consequenties, bespreek het dan zeker! Afhankelijk van de situatie is het misschien toch mogelijk het vak af te ronden vóór 5 februari. Als je te laat contact opneemt kan er helaas niets meer geregeld worden, omdat de volgende vakken snel gaan beginnen en er geen inhaalmogelijkheid is.
+Een projectvak als dit kent geen herkansingsmogelijkheden. Mocht je onverhoopt langdurig ziek worden (>4 werkdagen) dan ligt het voor de hand om het vak in het volgende jaar nogmaals te doen. Mocht je je zorgen maken over de consequenties, bespreek het dan zeker!
+
+Afhankelijk van de situatie is het misschien toch mogelijk het vak af te ronden vóór 5 februari, bijvoorbeeld door in het weekend in te halen. Maar dit is natuurlijk niet altijd de gezondste keuze. Overleg dus goed met de studieadviseur over je opties.
+
+Als je te laat contact opneemt met de docenten kan er helaas niets meer geregeld worden, omdat de volgende vakken snel gaan beginnen en er geen inhaalmogelijkheid is.
