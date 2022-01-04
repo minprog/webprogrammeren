@@ -87,10 +87,10 @@ Om voor dit onderdeel punten te kunnen krijgen moet je minimaal een redelijke ho
 Je moet tijdens het projectdeel (17--30 januari) minimaal 7 dagen aantoonbaar significant werk hebben gedaan. Uitzoeken, puzzelen en ontwerpen is ook werk! Als je het maar aantoont via het procesboek met screenshots, overwegingen, foto's. Voldoe je hier niet aan dan kun je geen punten krijgen voor het project.
 
 - Hoeveelheid werk tussen 17 januari en 30 januari:
-    0. Minimaal 7 dagen aantoonbaar siginificant werk gedaan
-    1. Minimaal 8 dagen aantoonbaar siginificant werk gedaan
-    2. Minimaal 9 dagen aantoonbaar siginificant werk gedaan
-    3. Minimaal 10 dagen aantoonbaar siginificant werk gedaan
+    0. Minimaal 7 dagen aantoonbaar siginificant en leerzaam werk gedaan
+    1. Minimaal 8 dagen aantoonbaar siginificant en leerzaam werk gedaan
+    2. Minimaal 9 dagen aantoonbaar siginificant en leerzaam werk gedaan
+    3. Minimaal 10 dagen aantoonbaar siginificant en leerzaam werk gedaan
     {: start="0"}
 
 - Kwaliteit HTML, CSS, JS
