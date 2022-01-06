@@ -17,17 +17,13 @@ In vier weken leer je hoe je een interactieve website maakt met behulp van het F
 
 **Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars.** Overweeg je je uit te schrijven, dan mag je gewoon starten met het vak, maar zorg dat je je teamgenoten én de docenten vooraf op de hoogte brengt. Je kunt het vak gewoon volgen maar als je je uitschrijft krijg je geen studiepunten meer. Toch kan het vak een hele leuke ervaring zijn!
 
-### Contact
+### Begeleiding
 
-Stuur een mail naar <progik@mprog.nl> of spreek je assistenten of docenten aan. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen.
+Dit vak is een projectvak. Voor het grootste deel ligt de verantwoordelijkheid bij de teams en de studenten om zelfstandig voortgang te maken. Zelfstandig betekent niet dat er geen hulp is! Begeleiding is er in de vorm van coaching, kritische vragen en simpelweg hulp op aanvraag.
 
-**docenten**  
-Jelle van Assema  
-Robin Langerak  
-Martijn Stegeman
+De docenten zijn Robin Langerak en Martijn Stegeman, en je team wordt begeleid door twee mentoren (assistenten). Zij helpen je wegwijs maken, doen voor hoe je het beste de opdrachten kunt aanpakken en kijken je werk na. Elke week zijn er **voortgangsgesprekken** met je hele team en je mentor, op woensdag of donderdag.
 
-Bij dit vak worden jij en je team begeleid door twee mentoren (assistenten). Je mentoren helpen je wegwijs maken, doen voor hoe je het beste de opdrachten kunt aanpakken en kijken je werk na. Elke week zijn er **voortgangsgesprekken** met je hele team en je mentor, op woensdag of donderdag.
-
+Natuurlijk zijn er soms administratieve zaken. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen naar <progik@mprog.nl>. Alles wat niet of niet duidelijk in deze studiewijzer staat moet schriftelijk worden afgestemd met de examinator Martijn Stegeman.
 
 ### Team en Zulip
 
