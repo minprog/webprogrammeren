@@ -25,6 +25,14 @@ De docenten zijn Robin Langerak en Martijn Stegeman, en je team wordt begeleid d
 
 Natuurlijk zijn er soms administratieve zaken. Voor uitzonderingen en persoonlijke afspraken moet je altijd een mail sturen naar <progik@mprog.nl>. Alles wat niet of niet duidelijk in deze studiewijzer staat moet schriftelijk worden afgestemd met de examinator Martijn Stegeman.
 
+
+### Projecteisen
+
+- Het project wordt gedaan in een team van 6-8 personen. Studenten werken afwisselend samen binnen dit team.
+- Alle teamleden programmeren een individuele bijdrage die afgestemd is op hun voorkennis en comfort met programmeren.
+- De website van je team is gebaseerd op één van de vaste projectstarters (zie onder) en de invulling van het project is voor de start goedgekeurd door de examinator.
+
+
 ### Team en Zulip
 
 Tijdens het vak houd je contact met je teamgenoten en assistenten via Zulip. Op de eerste dag krijg je een uitnodiging voor deze omgeving. Check je spam-folder en zorg dat je direct contact legt met teamgenoten die niet fysiek aanwezig zijn. Dit is jullie gezamenlijke verantwoordelijkheid.
@@ -32,16 +40,7 @@ Tijdens het vak houd je contact met je teamgenoten en assistenten via Zulip. Op 
 Als je geen contact krijgt met een teamlid moet je dit tijdens deze eerste dag nog laten weten aan de docenten (voor 14:00 uur via Zulip). Als een teamlid voor het eind van de dag geen contact heeft met de groep en/of met de docenten kan deze persoon worden uitgesloten van het vak.
 
 
-### Project
-
-Je gaat, naast enkele individuele opdrachten, een project doen aan de hand van de volgende eisen:
-
-- Het project wordt gedaan in een team van 6-8 personen. Studenten werken afwisselend samen binnen dit team.
-- Alle teamleden programmeren een individuele bijdrage die afgestemd is op hun voorkennis en comfort met programmeren.
-- De website van je team is gebaseerd op één van de vaste projectstarters (zie onder) en de invulling van het project is voor de start goedgekeurd door de examinator.
-
-
-### Verantwoordelijkheden
+### Elkaar helpen
 
 Bij dit vak ligt er een speciale verantwoordelijkheid voor alle teamleden, ervaren en minder ervaren, om elkaar te helpen het vak tot een goed einde te brengen. Dit komt ook terug in de beoordeling.
 
