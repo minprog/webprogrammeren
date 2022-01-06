@@ -88,7 +88,7 @@ De deadline voor de Persoonlijke Website is hard. Als je op de deadline niets he
 
 **Individueel aandeel project** (50%)---jouw bijdrage aan het groepsproject wordt beoordeeld op uitgebreidheid, kwaliteit van de code, en diepgang van uitleg in je persoonlijk verslag.
 
-Om voor dit onderdeel punten te kunnen krijgen moet je minimaal een redelijke hoeveelheid HTML, CSS en Flask hebben geschreven. Je hoeft niet per se JS te gebruiken.
+Om voor dit onderdeel punten te kunnen krijgen moet je minimaal een behoorlijke hoeveelheid HTML, CSS en Flask hebben geschreven. Je hoeft niet per se JS te gebruiken.
 
 Je moet tijdens het projectdeel (17--30 januari) minimaal 7 dagen aantoonbaar significant werk hebben gedaan. Uitzoeken, puzzelen en ontwerpen is ook werk! Als je het maar aantoont via het procesboek met screenshots, overwegingen, foto's. Voldoe je hier niet aan dan kun je geen punten krijgen voor het project en het vak dus niet halen.
 
@@ -144,7 +144,7 @@ De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke de
 
 ## Projectidee
 
-Tijdens het project kun je een geheel eigen idee kan uitwerken. Het is wel een kort vak met veel nieuwe stof, en dat maakt het lastig in te schatten wat er zoal kan in twee weken. Daarom zijn projecten gebaseerd op één van onderstaande projectstarters. Deze starters zijn uitdagend, maar tegelijk weten we dat ze haalbaar zijn in korte tijd. Het is, in goed overleg met het hele team en de mentoren, toegestaan om af te wijken van de projectstarters, als daar een goede reden voor is. Maar veel websites zijn simpelweg een variatie van één van onderstaande ideeën!
+Tijdens het project kan je met je team een geheel eigen idee uitwerken. Het is wel een kort vak met veel nieuwe stof, en dat maakt het lastig in te schatten wat er zoal kan in twee weken. Daarom zijn projecten gebaseerd op één van onderstaande projectstarters. Deze starters zijn uitdagend, maar tegelijk weten we dat ze haalbaar zijn in korte tijd. Het is, in goed overleg met het hele team en de mentoren, toegestaan om af te wijken van de projectstarters, als daar een goede reden voor is. Maar veel websites zijn simpelweg een variatie van één van onderstaande ideeën!
 
 ##### Keuze 1. Photo Sharing
 
@@ -201,11 +201,11 @@ Deze week werk je aan een **persoonlijke website** tijdens de opdracht Profile, 
 
 ##### Projectidee
 
-Op maandag ga je als team meteen beslissen welke richting jullie project op gaat. Jullie spreken in de middag met z'n allen af om richting te bepalen. Elke student gaat vervolgens in een paar punten opsommen wat ze zouden willen maken voor het project. Jullie maken hier een document van dat jullie aan het eind van de middag inleveren.
+Op maandag ga je als team meteen beslissen welke richting jullie project op gaat. Jullie spreken in de middag met z'n allen af om richting te bepalen. Elke student gaat vervolgens in een paar punten opsommen wat ze zouden willen maken voor het project. Jullie maken hier een document van dat jullie aan het eind van de middag inleveren. Uitgebreide instructies hiervoor staan op de website.
 
 ##### Projectmeeting
 
-Op dinsdagochtend hebben jullie als compleet team een meeting waarin je de basis voor het officiële projectplan gaat leggen. Je doet nog een keer een rondje ideeën langs alle teamleden. Jullie komen tot een mondelinge afspraak voor een website waar je gezamenlijk naartoe wil werken. Op basis van deze afspraak werkt iedereen nogmaals de individuele bijdrage uit. Dit gaat als input naar het schriftelijke projectvoorstel.
+Op dinsdagochtend hebben jullie als compleet team een meeting waarin je de basis voor het officiële projectplan gaat leggen. Je doet nog een keer een rondje ideeën langs alle teamleden. Jullie komen tot een mondelinge afspraak voor de website waar je gezamenlijk naartoe wil werken. Op basis van deze afspraak werkt iedereen nogmaals de individuele bijdrage uit. Dit gaat als input naar het schriftelijke projectvoorstel.
 
 ##### Projectvoorstel
 
@@ -221,19 +221,19 @@ Dinsdagmiddag maken jullie een schriftelijk projectvoorstel waarin jullie gezame
 - Geef aan wie met wie (eventueel) gaat samenwerken en waaraan precies
 - De ervaren studenten hebben een extra rol: geef aan welke studenten voortouw gaan nemen met gebruik van Git en consistent maken project
 
+Uitgebreide instructies hiervoor staan wederom op de website.
+
 ##### Projectpresentatie
 
 Op basis van het voorstel maken jullie een projectpresentatie voor het mentorgesprek. Zie hieronder welke punten je daar moet benoemen.
 
 ##### Mentorgesprek week 1
 
-Elke woensdag of donderdag spreekt het team uitgebreid met minstens 2 **mentoren**. Deze week ga je het plan presenteren.
-
-Je krijgt dan mondelinge feedback van je mentoren, op basis waarvan je het plan kunt finetunen. Ook na bijstellen is je plan niet *automatisch* goedgekeurd. Jullie kunnen nog punten krijgen om te verwerken. Maar je kunt gewoon beginnen!
+Elke woensdag of donderdag spreekt het team uitgebreid met minstens 2 **mentoren**. Deze week ga je het plan presenteren. Je krijgt dan mondelinge feedback van je mentoren, op basis waarvan je het plan kunt finetunen. Ook na bijstellen is je plan niet *automatisch* goedgekeurd. Jullie kunnen nog punten krijgen om te verwerken. Maar je kunt gewoon beginnen!
 
 ##### Individuele opdrachten
 
-Let op de individuele opdrachten die je moet doen om SQL en HTML, CSS en Javascript onder de knie te krijgen.
+Let op de individuele opdrachten die je deze week moet doen om SQL en HTML, CSS en Javascript onder de knie te krijgen. Teamleden zijn verplicht elkaar te helpen bij deze opdrachten **zonder** antwoorden voor te zeggen of technieken voor te kauwen. Elkaar wegwijs maken is essentieel!
 
 
 ## Week 2
@@ -254,12 +254,14 @@ Volg de instructies voor het Bootstrappen van het project op de website. Eén te
 
 Elke student zorg dat vrijdag een prototype klaarstaat van de functionaliteit van hun deelproject. Dat betekent licht opgemaakte pagina's met de juiste knoppen, invoervelden en dummy-content zoals teksten en plaatjes. Waarschijnlijk zijn de pagina's niet automatisch gegenereerd, maar de HTML en inhoud heeft hiermee een "vorm" gekregen.
 
+Sommige studenten zullen het moeilijk te vinden om een start te maken. Zij moeten zich melden bij hun teamgenoten en alle teamleden moeten ook actief op zoek naar de studenten die het moeilijk vinden ("lukt het om goed te starten?"). Laat elkaar zien hoe je een webpagina kunt bouwen in Flask, hoe je de HTML en CSS kunt aanpassen.
+
 ##### Mentorgesprek week 2
 
 Deze week draait het om het begrijpen van je projectstarter en opstarten van de individuele deelprojecten.
 
 - Enkele teamleden **presenteren** hoe de projectstarter in elkaar zit, en wat er globaal moet gebeuren om jullie website te maken.
-- Daarna vertelt elke individuele student wat ze tot nu toe gedaan hebben aan hun **individuele bijdrage**, en hoe ze aan de slag gaan.
+- Daarna vertelt elke individuele student wat ze tot nu toe gedaan hebben aan hun **individuele bijdrage**, en hoe ze aan de slag gaan. Iedereen laat concrete code en de website zien.
 - Iedereen vertelt daarbij ook wat ze verwachten dat moeilijk zal worden en hoe ze hierbij hulp gaan krijgen (van andere teamleden, of op een andere manier).
 
 
@@ -282,7 +284,7 @@ Bij deze bijeenkomst maak je met je mentoren plannen voor de afronding van het p
 
 - Alle teamleden geven een **persoonlijke update** waarin ook wordt doorgevraagd op details. Hiermee toetsen we al of elke student de eigen bijdrage goed onder controle heeft en voldoende leert.
 
-- Er wordt een voorzichtig **plan** gemaakt voor het samenvoegen van al het werk. In sommige gevallen is dit al regelmatig gedaan en werkt iedereen in feite aan één site. In andere gevallen zal er nog flink tijd gestoken moeten worden om alles samen te voegen. De studenten met ervaring nemen hier het voortouw in.
+- Er wordt een **plan** gemaakt voor het samenvoegen van al het werk. In sommige gevallen is dit al regelmatig gedaan en werkt iedereen in feite aan één site. In andere gevallen zal er nog flink tijd gestoken moeten worden om alles samen te voegen. De studenten met ervaring nemen hier het voortouw in.
 
 
 ## Week 4
@@ -302,7 +304,7 @@ Voor de definitieve versie zijn alle individuele bijdragen goed samengevoegd tot
 
 ##### Virtuele presentaties
 
-Bij de afloop van het vak verzamelen we alle gemaakte websites. Alle studenten, docenten en familie en vrienden kunnen deze sites dan bekijken. Bij de site staat optioneel een screencast met uitleg en een korte demo. De websites blijven na afloop een tijdje beschikbaar.
+Bij de afloop van het vak verzamelen we alle gemaakte websites. Alle studenten, docenten en familie en vrienden kunnen deze sites dan bekijken. Bij de site staat een screencast met uitleg en een korte demo. De websites blijven na afloop een tijdje beschikbaar.
 
 ##### Mentorgesprek week 4
 
@@ -317,7 +319,7 @@ Bij deze laatste bespreking zijn mentoren en docenten aanwezig voor de eindbeoor
 
 ### Procesboek
 
-Alle studenten houden een procesboek bij. Hierin schrijf je elke dag wat je nieuw bent tegengekomen, waar je vragen over hebt op dat moment, wie je heeft geholpen (teamgenoten en assistenten, met naam erbij), wat de oplossing voor je vraag was, welke blokkades je had bij het programmeren en hoe je daar uit bent gekomen, en je ideeën voor de komende dagen of voor de mentorgesprekken. Het procesboek is een essentieel onderdeel van de beoordeling van het groepsproject. Als één van de teamleden het niet goed bijhoudt leidt dit mogelijk tot een lager cijfer voor het groepsdeel.
+Alle studenten houden een procesboek bij. Hierin schrijf je elke dag (vanaf maandag 17 januari) wat je nieuw bent tegengekomen, waar je vragen over hebt op dat moment, wie je heeft geholpen (teamgenoten en assistenten, met naam erbij), wat de oplossing voor je vraag was, welke blokkades je had bij het programmeren en hoe je daar uit bent gekomen, en je ideeën voor de komende dagen of voor de mentorgesprekken. Het procesboek is een essentieel onderdeel van de beoordeling van het groepsproject. Als één van de teamleden het niet goed bijhoudt leidt dit mogelijk tot een lager cijfer voor het groepsdeel.
 
 
 ### Aanwezigheid
@@ -372,6 +374,6 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 
 Een projectvak als dit kent geen herkansingsmogelijkheden. Mocht je onverhoopt langdurig ziek worden (>4 werkdagen) dan ligt het voor de hand om het vak in het volgende jaar nogmaals te doen. Mocht je je zorgen maken over de consequenties, bespreek het dan zeker!
 
-Afhankelijk van de situatie is het misschien toch mogelijk het vak af te ronden vóór 5 februari, bijvoorbeeld door in het weekend in te halen. Maar dit is natuurlijk niet altijd de gezondste keuze. Overleg dus goed met de studieadviseur over je opties.
+Afhankelijk van de situatie is het soms mogelijk het vak af te ronden vóór 5 februari, bijvoorbeeld door in het weekend in te halen. Maar dit is natuurlijk niet altijd de gezondste keuze: het is ook belangrijk om goed uit te zieken en op 7 februari het volgende vak fris te kunnen starten. Overleg dus goed met de studieadviseur over je opties.
 
-Als je te laat contact opneemt met de docenten kan er helaas niets meer geregeld worden, omdat de volgende vakken snel gaan beginnen en er geen inhaalmogelijkheid is.
+Als je te laat contact opneemt met de docenten kan er helaas niets meer geregeld worden, omdat de volgende vakken snel gaan beginnen en er na de deadline sowieso geen inhaalmogelijkheid is.
