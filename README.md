@@ -33,13 +33,6 @@ Natuurlijk zijn er soms administratieve zaken. Voor uitzonderingen en persoonlij
 - De website van je team is gebaseerd op één van de vaste projectstarters (zie onder) en de invulling van het project is voor de start goedgekeurd door de examinator.
 
 
-### Team en Zulip
-
-Tijdens het vak houd je contact met je teamgenoten en assistenten via Zulip. Op de eerste dag krijg je een uitnodiging voor deze omgeving. Check je spam-folder en zorg dat je direct contact legt met teamgenoten die niet fysiek aanwezig zijn. Dit is jullie gezamenlijke verantwoordelijkheid.
-
-Als je geen contact krijgt met een teamlid moet je dit tijdens deze eerste dag nog laten weten aan de docenten (voor 14:00 uur via Zulip). Als een teamlid voor het eind van de dag geen contact heeft met de groep en/of met de docenten kan deze persoon worden uitgesloten van het vak.
-
-
 ### Elkaar helpen
 
 Bij dit vak ligt er een speciale verantwoordelijkheid voor alle teamleden, ervaren en minder ervaren, om elkaar te helpen het vak tot een goed einde te brengen. Dit komt ook terug in de beoordeling.
@@ -48,9 +41,25 @@ Bij dit vak ligt er een speciale verantwoordelijkheid voor alle teamleden, ervar
 - Tijdens het project nemen de studenten die enige ervaring hebben het voortouw met het gebruiken van Git en het afstemmen van het werk van de teamleden.
 - Ook hebben zij expliciet de taak om medestudenten te helpen om verder te komen en (voor hun niveau) uitdagende projecten aan te pakken.
 
-### Kickoff
 
-Maandag 10 januari ontvang je een eerste mail met meer informatie over wat je die dag moet doen. Zorg met absolute prioriteit dat je die hele dag online beschikbaar bent. Overigens is het essentieel dat je elke werkdag beschikbaar bent voor dit vak!
+### De eerste dag
+
+Op **maandag 10 januari** ga je direct aan de slag met je nieuwe team om een richting te kiezen voor de website die jullie gaan bouwen. Zorg met absolute prioriteit dat je die hele dag online beschikbaar bent.
+
+**9:00** --- Je krijgt per mail een uitnodiging voor de tool Zulip om contact te leggen met je teamgenoten. Je wordt automatisch toegevoegd aan het kanaal van je team (bv "Team 01"). De namen van de teamleden worden daar ook gepost door de docenten. Krijg je geen mail om 9 uur? Mail dan zelf naar <progik@mprog.nl> voordat het te laat is.
+
+**11:00** --- Uiterlijk om deze tijd gaan jullie afspreken hoe laat jullie in de middag een meeting hebben. De details van de afspraak worden gepost in jullie Zulip-kanaal zodat de docenten kunnen zien dat het gaat lukken. Ook moet elk teamlid even laten weten dat ze aanwezig zijn op Zulip.
+
+**13:00** --- Vanaf deze tijd hebben jullie een meeting waarin alle teamleden hun ideeën pitchen op basis van de informatie in deze studiewijzer. Dan gaan jullie grofweg uittekenen wat je gaat maken en beslissen wie wat gaat doen. Jullie schrijven een document met een voorstel.
+
+**18:00** --- Uiterlijk om deze tijd leveren jullie het definitieve document in via Zulip (als PDF). De volgende dag gaan jullie het verder uitwerken, dus jullie hebben ook een nieuwe afspraak gemaakt om bijeen te komen.
+
+
+### Onderling contact krijgen
+
+Tijdens het vak houd je contact met je teamgenoten en assistenten via Zulip. Op de eerste dag krijg je een uitnodiging voor deze omgeving. Check je spam-folder en zorg dat je direct contact legt met teamgenoten die niet fysiek aanwezig zijn. Dit is jullie gezamenlijke verantwoordelijkheid.
+
+Als je geen contact krijgt met een teamlid moet je dit tijdens deze eerste dag nog laten weten aan de docenten (voor 14:00 uur via Zulip). Als een teamlid voor het eind van de dag geen contact heeft met de groep en/of met de docenten kan deze persoon worden uitgesloten van het vak.
 
 
 ## Eindcijfer
