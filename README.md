@@ -46,7 +46,7 @@ Bij dit vak ligt er een speciale verantwoordelijkheid voor alle teamleden, ervar
 
 Op **maandag 10 januari** ga je direct aan de slag met je nieuwe team om een richting te kiezen voor de website die jullie gaan bouwen. Zorg met absolute prioriteit dat je die hele dag online beschikbaar bent.
 
-**9:00** --- Je krijgt per mail een uitnodiging voor de tool Zulip om contact te leggen met je teamgenoten. Je wordt automatisch toegevoegd aan het kanaal van je team (bv "Team 01"). De namen van de teamleden worden daar ook gepost door de docenten. Krijg je geen mail om 9 uur? Mail dan zelf naar <progik@mprog.nl> voordat het te laat is.
+**9:30** --- Je krijgt per mail een uitnodiging voor de tool Zulip om contact te leggen met je teamgenoten. Je wordt automatisch toegevoegd aan het kanaal van je team (bv "Team 01"). De namen van de teamleden worden daar ook gepost door de docenten. Krijg je geen mail om 9:30 uur? Mail dan zelf naar <progik@mprog.nl> voordat het te laat is.
 
 **11:00** --- Uiterlijk om deze tijd gaan jullie afspreken hoe laat jullie in de middag een meeting hebben. De details van de afspraak worden gepost in jullie Zulip-kanaal zodat de docenten kunnen zien dat het gaat lukken. Ook moet elk teamlid even laten weten dat ze aanwezig zijn op Zulip.
 
@@ -57,9 +57,9 @@ Op **maandag 10 januari** ga je direct aan de slag met je nieuwe team om een ric
 
 ### Onderling contact krijgen
 
-Tijdens het vak houd je contact met je teamgenoten en assistenten via Zulip. Op de eerste dag krijg je een uitnodiging voor deze omgeving. Check je spam-folder en zorg dat je direct contact legt met teamgenoten die niet fysiek aanwezig zijn. Dit is jullie gezamenlijke verantwoordelijkheid.
+Tijdens het vak houd je contact met je teamgenoten en assistenten via Zulip. Op de eerste dag krijg je een uitnodiging voor deze omgeving. Check je spam-folder en zorg dat je direct contact legt met teamgenoten. Dit is jullie gezamenlijke verantwoordelijkheid. Je mag dus niet met een deel van de groep zomaar een andere tool kiezen.
 
-Als je geen contact krijgt met een teamlid moet je dit tijdens deze eerste dag nog laten weten aan de docenten (voor 14:00 uur via Zulip). Als een teamlid voor het eind van de dag geen contact heeft met de groep en/of met de docenten kan deze persoon worden uitgesloten van het vak.
+Als je geen contact krijgt met een teamlid moet je dit tijdens deze eerste dag nog laten weten aan de docenten (voor 13:00 uur, gewoon melden via Zulip in jullie kanaal). Als een teamlid voor het eind van de dag geen contact heeft met de groep en/of met de docenten kan deze persoon worden uitgesloten van het vak.
 
 
 ## Eindcijfer
