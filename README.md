@@ -84,11 +84,13 @@ Om voor dit onderdeel punten te kunnen krijgen moet er genoeg code zijn om te ku
     3. Superconsistent, opdelen in files van redelijke omvang, her en der zinvolle comments
     {: start="0"}
 
+De deadline voor de Persoonlijke Website is hard. Als je op de deadline niets heb ingeleverd krijg je sowieso 0 punten. Er is geen uitstel voor persoonlijke situaties, simpelweg omdat er geen tijd is om in te halen.
+
 **Individueel aandeel project** (50%)---jouw bijdrage aan het groepsproject wordt beoordeeld op uitgebreidheid, kwaliteit van de code, en diepgang van uitleg in je persoonlijk verslag.
 
 Om voor dit onderdeel punten te kunnen krijgen moet je minimaal een redelijke hoeveelheid HTML, CSS en Flask hebben geschreven. Je hoeft niet per se JS te gebruiken.
 
-Je moet tijdens het projectdeel (17--30 januari) minimaal 7 dagen aantoonbaar significant werk hebben gedaan. Uitzoeken, puzzelen en ontwerpen is ook werk! Als je het maar aantoont via het procesboek met screenshots, overwegingen, foto's. Voldoe je hier niet aan dan kun je geen punten krijgen voor het project.
+Je moet tijdens het projectdeel (17--30 januari) minimaal 7 dagen aantoonbaar significant werk hebben gedaan. Uitzoeken, puzzelen en ontwerpen is ook werk! Als je het maar aantoont via het procesboek met screenshots, overwegingen, foto's. Voldoe je hier niet aan dan kun je geen punten krijgen voor het project en het vak dus niet halen.
 
 - Hoeveelheid werk tussen 17 januari en 30 januari:
     0. Minimaal 7 dagen aantoonbaar siginificant en leerzaam werk gedaan
@@ -118,7 +120,7 @@ Je moet tijdens het projectdeel (17--30 januari) minimaal 7 dagen aantoonbaar si
     3. Voor enkele gemaakte onderdelen een duidelijke beschrijving van hoe het in elkaar zit, welke bronnen zijn gebruikt en <u>hoe</u> die bronnen hebben geholpen te leren; uitgebreide beschouwing op algemeen leren tijdens het vak.
     {: start="0"}
 
-**Groepscijfer** (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre <u>alle</u> studenten een passende, uitdagende bijdrage hebben gedaan en aantoonbaar van elkaar geleerd hebben. Aantonen kan met hulp van het procesboek dat elk teamlid bijhoudt.
+**Groepscijfer** (25%)---jullie groepsproject krijgt als geheel ook een cijfer voor consistentie in de werking van de site en in hoeverre <u>alle</u> studenten een passende, uitdagende bijdrage hebben gedaan en aantoonbaar van elkaar geleerd hebben. Aantonen moet met hulp van het procesboek dat elk teamlid bijhoudt.
 
 - Algemene consistentie
     0. Website bestaat vrijwel geheel uit losse onderdelen bovenop de template
@@ -138,7 +140,7 @@ Voor het groepscijfer is het essentieel dat teamgenoten elkaar uitgebreid helpen
 
 Let op dat bovenstaande beschrijvingen **indicaties** zijn. Uiteindelijk vind er een weloverwogen oordeel plaats in samenspraak tussen mentoren, docenten en examinator op basis van het ingeleverde werk. Gebruik de indicaties om te begrijpen wat de bedoeling is, maar onthou dat als je specifiek op het randje gaat mikken, je kunt verwachten dat naar beneden wordt afgerond.
 
-De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke deadlines (zie onder) perfect klaar zijn en ingeleverd worden om het vak te kunnen halen. Ze mogen niet blijven hangen.
+De opdrachten Profile, Movies en Fiftyville moeten vóór de respectievelijke deadlines (zie onder) helemaal goed zijn en ingeleverd worden om het vak te kunnen halen. Ze mogen niet blijven hangen.
 
 ## Projectidee
 
