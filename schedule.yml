@@ -1,3 +1,17 @@
+Startup:
+    "Lees allereerst even rustig de studiewijzer door": /syllabus
+    Week 1:
+        Project:
+            "Aanmelden Zulip (maandag 11:00)": "/milestones/chat"
+            "Meeting en idee (maandag 18:00)": "/milestones/idee"
+            "Projectvoorstel (dinsdag 18:00)": "/milestones/voorstel"
+        Lesstof SQL:
+            "Videocollege: Data and SQL": /lectures/sql
+            "Opdracht: Movies (woensdag 18:00)":  /problems/movies
+            "Opdracht: Fiftyville (woensdag 18:00)": /problems/fiftyville
+        Lesstof HTML:
+            "Videocollege: HTML": /lectures/html
+            "Opdracht: Profile (vrijdag 18:00)": /problems/profile
 Project:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
     Week 1:
