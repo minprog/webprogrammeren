@@ -6,7 +6,13 @@ Niet te verwarren met [de gelijknamige library](https://getbootstrap.com/), is b
 
 ## Projectstarter
 
-Voor je project heb je een starter gekregen. Die wordt het beginpunt van de website, het eerste raamwerk waar je vanaf gaat bouwen. Zo heb je meteen een initiële database, een homepagina en een loginscherm. Dat maakt het mogelijk dat je samen kan werken, zonder elkaar op elk punt in de weg te zitten.
+De projectstarter wordt het beginpunt van de website, het eerste raamwerk waar je vanaf gaat bouwen. Zo heb je meteen een initiële database, een homepagina en een loginscherm. Dat maakt het mogelijk dat je samen kan werken, zonder elkaar op elk punt in de weg te zitten.
+
+- [Download Starter voor Photo Sharing](https://github.com/minprog/webprogrammeren/raw/2021/templates/photo_sharing.zip)
+
+- [Download Starter voor Collectioneur](https://github.com/minprog/webprogrammeren/raw/2021/templates/collectioneur.zip)
+
+- [Download Starter voor Trivia](https://github.com/minprog/webprogrammeren/raw/2021/templates/trivia.zip)
 
 
 ## Git

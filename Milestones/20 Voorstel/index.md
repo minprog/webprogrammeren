@@ -1,6 +1,6 @@
 # Projectvoorstel
 
-Nu is het tijd om een voorstel te maken. Enerzijds als formeel **document** en anderzijs als **presentatie**.
+Nu is het tijd om een voorstel te maken. Enerzijds als formeel **document** en anderzijs als **presentatie**. Je bouwt voort op het document waarin je je idee globaal hebt beschreven.
 
 Het document dient ervoor om te zorgen dat de groep hetzelfde doel nastreeft, en om te zorgen dat je mentoren een goede inschatting kunnen maken over de complexiteit van het project: is het te veel of misschien juist te weinig werk?
 
@@ -47,6 +47,12 @@ Producten zijn altijd een combinatie van allerlei *features*. die beschrijven wa
 
 In je document neem je een lijst features op. De meeste features moeten ook zichbaar zijn in de schetsen. Waarschijnlijk moet je (terwijl je met je team discussieert) een beetje heen en weer springen tussen schetsen maken en features verzinnen.
 
+## Schetsen deel II
+
+- Zorg dat je bovenaan je document met schetsen van een paar schermen de crux van de applicatie overbrengt.
+
+- En zorg dan dat bij het uitleggen van de verschillende features/onderdelen schetsen staan die specifiek dat onderdeel uitleggen.
+
 ## Afhankelijkheden
 
 Nu je de features op een rijtje hebt, en je hebt inmiddels ook een beetje een beeld van hoe webapplicaties in elkaar zitten, kun je een eerste lijst van afhankelijkheden maken: dingen die je niet zelf programmeert maar wel moet gebruiken, begrijpen of regelen.
@@ -57,7 +63,7 @@ Nu je de features op een rijtje hebt, en je hebt inmiddels ook een beetje een be
 
 - Zoek een paar **concurrende bestaande** websites en beschrijf een paar punten die interessant zijn. Elke website heeft natuurlijk nét weer een andere insteek en het is goed om je bewust te zijn van de kracht van jouw website tegenover de concurrentie.
 
-- Maak een lijst van de **moeilijkste delen** van de applicatie. Wat wordt veel uitzoekwerk? Wat is gewoon echt moeilijk? Wat heb je nodig om het makkelijker te maken? Deze lijst is waarschijnlijk makkelijker te maken als je al weer wat meer weet van webapplicaties maken, maar als je nu al iets hebt, noteer het in je document.
+- Benoem de **moeilijkste delen** van de applicatie. Wat wordt veel uitzoekwerk? Wat is gewoon echt moeilijk? Wat heb je nodig om het makkelijker te maken? Deze lijst is waarschijnlijk makkelijker te maken als je al weer wat meer weet van webapplicaties maken, maar als je nu al iets hebt, noteer het in je document.
 
 ## Taakverdeling
 
