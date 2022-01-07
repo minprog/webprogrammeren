@@ -66,7 +66,7 @@ Als je geen contact krijgt met een teamlid moet je dit tijdens deze eerste dag n
 
 Tijdens het vak doe je een aantal persoonlijke opdrachten en je werkt in een team aan een project. De cijfers worden als volgt samengesteld.
 
-**Persoonlijke website** (25%)---jouw eigen kleine website bouw je in de eerste week. Deze wordt beoordeeld op uitgebreidheid van de site en kwaliteit van de code.
+**Persoonlijke website** (25%)---jouw eigen kleine website bouw je in de eerste week. Deze wordt beoordeeld op uitgebreidheid van de site en kwaliteit van de code. (Deze opdracht heet "Profile")
 
 Om voor dit onderdeel punten te kunnen krijgen moet er genoeg code zijn om te kunnen beoordelen. Het is de bedoeling dat je mikt op de mimimumeisen zoals in de opdracht vermeld staan.
 
