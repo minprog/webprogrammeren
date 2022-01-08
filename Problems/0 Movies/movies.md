@@ -1,7 +1,6 @@
 # Movies
 
-> Voor deze opdracht raden we je aan samen te werken met één andere student. Zie voor de precieze instructies de [samenwerken pagina](/naslag/samenwerken). Werk je samen aan de opdracht, dan is het belangrijk dat jullie allebei elkaars naam en studentnummer melden bij het inleveren van de opdracht. Dat doe je onderaan deze pagina. Anders kan het voorkomen dat je opdracht onterecht uit de plagiaatscan komt rollen.
-{:.bg-light}
+> Voor deze opdracht raden we je aan samen te werken met één andere student. Je maakt de opdracht wel zelf, maar overlegt intensief met een andere student. Werk je samen aan de opdracht, dan is het belangrijk dat jullie allebei elkaars naam en studentnummer melden bij het inleveren van de opdracht. Dat doe je onderaan deze pagina. Anders kan het voorkomen dat je opdracht onterecht uit de plagiaatscan komt rollen.
 
 Write SQL queries to answer questions about a database of movies.
 
