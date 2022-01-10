@@ -3,7 +3,7 @@ short_name: WebIK2021
 language: nl
 
 links:
-    # '[chat-text] Zulip': https://webik.zulipchat.com/
+    '[chat-text] Zulip': https://webik.zulipchat.com/
     '[people-fill] Wonder': 'https://app.wonder.me/?spaceId=d27c2eef-a938-4071-a8cc-9a7765ad1db0'
     '[person-badge] Assistentie': 'https://balie.mprog.nl:8080/planner/3-webprogrammeren'
     '[terminal] CS50 Code': https://code.cs50.io/
