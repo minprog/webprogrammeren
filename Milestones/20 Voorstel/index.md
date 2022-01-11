@@ -35,6 +35,15 @@ Hier een voorbeeld van een zeer nette en complete schets voor een mobiele app, w
 
 Bij schetsen is het essentieel dat je ze compact en netjes presenteert. Je kan niet af met een slordige foto van een slordig getekende app. Je kan ook niet af met een hele reeks plaatjes onder elkaar waartussen het verband niet duidelijk is. Bestudeer hoe bovenstaande voorbeeld in elkaar zit en bedenk samen hoe je dit zorgvuldig kan vertalen naar het schetsen van een website.
 
+Tools voor schetsen:
+
+- <https://bootcamp.cvn.columbia.edu/blog/ux-designer-tools/>
+- <https://webflow.com/blog/ui-ux-design-tools>
+
+Zorg dat je een tool gebruikt waarin je kunt **opslaan** en die je minstens komende week gratis kunt gebruiken. Daarna zijn de schetsen minder belangrijk omdat je alles dan in HTML en CSS gaat bouwen.
+
+Je kunt met hulp van screenshots of export de schetsen overnemen voor gebruik in documenten.
+
 ## Features
 
 Producten zijn altijd een combinatie van allerlei *features*. die beschrijven wat je er mee kunt. Bij websites heeft elke (grote) feature vaak een eigen scherm. Maar het is niet precies hetzelfde, want kleinere features zijn vaak details van een webpagina, en je hebt ook grote features die op meerdere plekken in de applicatie invloed hebben. Kijken we weer naar Twitter, dan kun je denken aan deze features:
