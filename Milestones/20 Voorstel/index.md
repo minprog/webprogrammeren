@@ -58,11 +58,11 @@ Producten zijn altijd een combinatie van allerlei *features*. die beschrijven wa
 
 In je document neem je een lijst features op. **Alle** features moeten ook zichbaar zijn in de schetsen. Waarschijnlijk moet je (terwijl je met je team discussieert) een beetje heen en weer springen tussen schetsen maken en features verzinnen.
 
-## Schetsen deel II
+## Indeling document
 
-- Zorg dat je bovenaan je document met schetsen van een paar schermen de crux van de applicatie overbrengt.
+- Zorg dat je ergens bovenaan je document met schetsen van een paar belangrijke schermen de crux van de applicatie overbrengt. Zorg dat hierin of hierbij duidelijk wordt wat precies voor **content** zichtbaar zal zijn. Geef voorbeelden van triviavragen/antwoorden, laat heel concreet zien hoe een foto-post er uit zal zien. Als je een ander soort content hebt, maak ook dan heel goed zichtbaar hoe dat er uit gaat zien.
 
-- En zorg dan dat bij het uitleggen van de verschillende features/onderdelen schetsen staan die specifiek dat onderdeel uitleggen.
+- En zorg dan dat bij het uitleggen van de verschillende features/onderdelen schetsen staan die specifiek dat onderdeel uitleggen. Hier hoef je niet zo in detail te laten zien wat voor content er zichtbaar is (tenzij relevant om functionaliteit goed zichtbaar te maken). Wel moet hier elke knop, **interactie**, schermonderdeel goed zichtbaar en te begrijpen zijn. Je vult dit natuurlijk aan met uitleg in tekst.
 
 ## Afhankelijkheden
 
