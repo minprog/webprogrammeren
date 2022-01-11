@@ -31,7 +31,9 @@ Hier een voorbeeld van een zeer nette en complete schets voor een mobiele app, w
 
 ![](screens-proposal.png)
 
-(Deze app heeft maar een paar schermen. Afhankelijk van het aantal teamleden heeft jullie website waarschijnlijk wel wat meer onderdelen.)
+(Deze app heeft maar een paar schermen. Afhankelijk van het aantal teamleden heeft jullie website **een stuk meer** onderdelen en dus ook veel meer schetsen.)
+
+Bij schetsen is het essentieel dat je ze compact en netjes presenteert. Je kan niet af met een slordige foto van een slordig getekende app. Je kan ook niet af met een hele reeks plaatjes onder elkaar waartussen het verband niet duidelijk is. Bestudeer hoe bovenstaande voorbeeld in elkaar zit en bedenk samen hoe je dit zorgvuldig kan vertalen naar het schetsen van een website.
 
 ## Features
 
@@ -45,7 +47,7 @@ Producten zijn altijd een combinatie van allerlei *features*. die beschrijven wa
 4. gebruikers kunnen kiezen of ze waarschuwingen per mail, sms, popup willen ontvangen
 5. ....
 
-In je document neem je een lijst features op. De meeste features moeten ook zichbaar zijn in de schetsen. Waarschijnlijk moet je (terwijl je met je team discussieert) een beetje heen en weer springen tussen schetsen maken en features verzinnen.
+In je document neem je een lijst features op. **Alle** features moeten ook zichbaar zijn in de schetsen. Waarschijnlijk moet je (terwijl je met je team discussieert) een beetje heen en weer springen tussen schetsen maken en features verzinnen.
 
 ## Schetsen deel II
 
@@ -69,15 +71,17 @@ Nu je de features op een rijtje hebt, en je hebt inmiddels ook een beetje een be
 
 Som nu per teamlid op welk deel van het werk zij precies gaan maken. Geef daar ook weer aan wat elk teamlid hiervoor gaat leren, afgestemd op hun voorkennis.
 
-Geef ook aan wie elkaar gaat helpen. Meer ervaren studenten zullen beschikbaar zijn om de onervaren studenten te helpen binnen het team.
+Geef ook aan wie elkaar gaat helpen. Meer ervaren studenten zullen beschikbaar zijn om de onervaren studenten te helpen binnen het team. Maar ook twee of drie studenten die niet zo ervaren zijn kunnen samen optrekken, zolang ze hun eigen deelproject hebben.
 
 ## Sanity check
 
 Check, voordat je verder gaat, of je voorgestelde applicatie klopt met de projecteisen zoals ze op de [Idee-pagina](/milestones/idee) staan. En laat iemand van buiten je groep nog een keer je voorstel bekijken, dan kun je onduidelijkheden en spelfouten nog verbeteren. Vergeet ten slotte niet om bovenaan het document netjes de naam van de applicatie en de namen van alle groepsleden op te nemen!
 
-## Presentatie
+## Document & Presentatie
 
-Maak vervolgens een korte maar **overzichtelijke** presentatie waarin iemand eerst het globale idee uitlegt en waarna elke student zelf kan toelichten wat hun eigen deel van het project is. Deze presentatie geef je tijdens het eerste mentorgesprek.
+Je hebt nu een hoop materiaal verzameld en nu is het aan jullie om hier een bijzonder **overzichtelijk document** van te maken dat perfect jullie ideeën overbrengt. Het netjes maken kost veel tijd. Je moet er ook vanuit gaan dat het niet in één keer goedgekeurd wordt.
+
+Maak vervolgens een korte maar **overzichtelijke presentatie** waarin iemand eerst het globale idee uitlegt en waarna elke student zelf kan toelichten wat hun eigen deel van het project is (wederom aan de hand van schetsen). Deze presentatie geef je tijdens het eerste mentorgesprek.
 
 ## Insturen
 
@@ -85,4 +89,4 @@ Post je complete document in Zulip zodat de mentoren dit kunnen bekijken. We bes
 
 ## Feedback
 
-Tijdens en na het mentorgesprek krijg je feedback. Je team is verplicht deze feedback te verwerken in het formele document en een update hiervan te posten. Zorg dat je dit zo snel mogelijk na de meeting doet.
+Voor, tijdens en na het mentorgesprek krijg je feedback. Je team is verplicht deze feedback te verwerken in het formele document en een update hiervan te posten. Zorg dat je dit zo snel mogelijk na de meeting doet.
