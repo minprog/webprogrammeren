@@ -10,14 +10,26 @@ Zo documenteer je elke dag diverse beslissingen en zoektochten. Hiermee wordt du
 
 ## Voorbeeld
 
-1. **14 januari 14:00** --- Ik wilde een chatfunctie bouwen in Javascript en ben gaan zoeken hoe dit in elkaar kan zitten. In de colleges van Harvard kon ik niks vinden. Samen met XX heb ik toen besproken hoe je dit kan aanpakken. We hebben bedacht dat je voor een chat wel een centrale plek nodig hebt om de berichten heen-en-weer te sturen. Dus kan het niet alleen maar in Javascript. Ik ga dus nu kijken hoe je een chat kan bouwen met Flask (hiervoor zijn wel dingen te vinden op internet). Later misschien nog kijken wat je dan met Javascript moet doen. 
+1.  **14 januari 14:00** --- Ik wilde een chatfunctie bouwen in Javascript en ben gaan zoeken hoe dit in elkaar kan zitten. In de colleges van Harvard kon ik niks vinden. Samen met XX (medestudent) heb ik toen besproken hoe je dit kan aanpakken. We hebben bedacht dat je voor een chat wel een centrale plek nodig hebt om de berichten heen-en-weer te sturen. Dus kan het niet alleen maar in Javascript. Ik ga dus nu kijken hoe je een chat kan bouwen met Flask (hiervoor zijn wel dingen te vinden op internet).
 
-2. **15 januari 9:30** --- Dit is wel een goede tutorial voor Flask chat apps: https://codeburst.io/building-your-first-chat-application-using-flask-in-7-minutes-f98de4adfa5d. Het probleem is dat het best ingewikkeld is met "SocketIO". Ik wil vandaag nog even kijken met YY hoe dit werkt. Maar ik ga nu eerst aan de slag met de zoekpagina: het opmaken van de resultaten met CSS.
+    Later misschien nog kijken wat je dan met Javascript moet doen. 
 
-Let op dat je procesboek geen dagboek wordt! Schrijven wat je gedaan hebt is prima, maar het gaat uiteindelijk om de beslissingen en de interacties.
+2.  **15 januari 9:30** --- Dit is wel een goede tutorial voor Flask chat apps: https://codeburst.io/building-your-first-chat-application-using-flask-in-7-minutes-f98de4adfa5d. Het probleem is dat het best ingewikkeld is met "SocketIO". Ik wil vandaag nog even kijken met YY (medestudent) hoe dit werkt.
+
+    Maar ik ga nu eerst aan de slag met de zoekpagina: het opmaken van de resultaten met CSS.
+
+3.  **15 januari 10:30** --- Mijn layout ziet er nu zo uit. Het probleem is dat de vragen onderaan het scherm nu achter de sidebar blijven staan. Die zouden ook gecentreerd moeten zijn (met de content). 
+
+    ![](screenshot.png)
+    
+    Ik heb de content netjes naast de sidebar gekregen met een `margin-left` die even breed is als de sidebar, dus dat moet misschien ook met de vragen.
+
+Let op dat je procesboek geen dagboek wordt! Schrijven wat je gedaan hebt is prima, maar het moet echt in detail, met screenshots en **voorbeelden**, en het moet aangevuld worden met de **beslissingen** die je neemt en de **interacties** die je hebt met medestudenten en assistenten.
 
 ## Beoordeling
 
-Je procesboek ga je aan het eind van het vak netjes maken en dit wordt dan 25% van jouw individuele cijfer voor het project. Zie verder de studiewijzer.
+1. Je procesboek ga je aan het eind van het vak netjes maken en dit wordt dan 25% van jouw individuele cijfer voor het project ("diepgang persoonlijk verslag"). Zie verder de studiewijzer.
 
-Inhoudelijk is het procesboek van alle teamleden ook de basis voor het cijfer voor samenwerking in het team.
+2. We gebruiken jouw procesboek als manier om te kijken welke dagen je aan het project gewerkt hebt, dus hoeveel je hebt gedaan. Dit is ook 25% van je projectcijfer.
+
+3. Alle procesboeken samen gebruiken 
