@@ -8,6 +8,18 @@ Tijdens het programmeren voor het groepsproject ga je continue je procesboek bij
 
 Zo documenteer je elke dag diverse beslissingen en zoektochten. Hiermee wordt duidelijk hoe jij aan het project hebt gewerkt. Ook toon je hier mee aan dat jij, net als de andere leden van je groep, goed hebt samengewerkt: hulp gevraagd als het nodig was, en hulp gegeven als het mogelijk was. Helemaal in je eentje werken is namelijk geen optie bij dit vak.
 
+## Invoeren als GitHub issue
+
+Ga naar de voor jullie team gemaakte repository (onder <https://github.com/webik2022/>). Maak een nieuwe "issue" aan:
+
+![](issue.png)
+
+Noem je issue "Procesboek naam". In principe voeg je elke dag meerdere keren informatie toe. Deze blijft netjes bewaard. Naderhand kun je alle informatie eruit copy-pasten.
+
+Het procesboek mag dus niet worden bijgehouden op je eigen computer, in Zulip of op een andere plek. Het idee is dat het procesboek dichtbij de code staat.
+
+Tip: je kunt ook links naar een COMMIT opnemen in je procesboek. Als jij jouw aanpassingen commit en pusht, dan kunt je deze commit opzoeken in github en linken. Zo laat je makkelijk zien wat jij gedaan hebt.
+
 ## Voorbeeld
 
 1.  **14 januari 14:00** --- Ik wilde een chatfunctie bouwen in Javascript en ben gaan zoeken hoe dit in elkaar kan zitten. In de colleges van Harvard kon ik niks vinden. Samen met XX (medestudent) heb ik toen besproken hoe je dit kan aanpakken. We hebben bedacht dat je voor een chat wel een centrale plek nodig hebt om de berichten heen-en-weer te sturen. Dus kan het niet alleen maar in Javascript. Ik ga dus nu kijken hoe je een chat kan bouwen met Flask (hiervoor zijn wel dingen te vinden op internet).
