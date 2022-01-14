@@ -32,7 +32,7 @@ Onder Linux vertrouwen we erop dat je zelf de beste weg vindt. Het hangt nou een
 
 ## GitHub
 
-De volgende stap is om de code op een locatie te zetten waardoor je teamgenoten (en wij) er ook bij kunnen. Hiervoor gebruiken we bij dit vak GitHub (Classroom). Eén persoon uit het team maakt een project aan via de link die is rondgemaild. Vervolgens kunnen je groepsgenoten via dezelfde link dat project selecteren.
+De volgende stap is om de code op een locatie te zetten waardoor je teamgenoten (en wij) er ook bij kunnen. Hiervoor gebruiken we bij dit vak GitHub (Classroom). Eén persoon uit het team maakt een project aan **via de link die is rondgemaild**. Vervolgens kunnen je groepsgenoten via dezelfde link dat project selecteren.
 
 
 ## Eerste commit & push
