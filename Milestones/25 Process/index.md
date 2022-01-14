@@ -24,7 +24,7 @@ Zo documenteer je elke dag diverse beslissingen en zoektochten. Hiermee wordt du
     
     Ik heb de content netjes naast de sidebar gekregen met een `margin-left` die even breed is als de sidebar, dus dat moet misschien ook met de vragen.
 
-Let op dat je procesboek geen dagboek wordt! Schrijven wat je gedaan hebt is prima, maar het moet echt in detail, met screenshots en **voorbeelden**, en het moet aangevuld worden met de **beslissingen** die je neemt en de **interacties** die je hebt met medestudenten en assistenten.
+Let op dat je procesboek geen dagboek wordt met maar een paar zinnetjes van wat je gedaan hebt! Schrijven wat je gedaan hebt is prima, maar het moet echt in detail, met screenshots en **voorbeelden**, en het moet aangevuld worden met de **beslissingen** die je neemt en de **interacties** die je hebt met medestudenten en assistenten.
 
 ## Beoordeling
 
@@ -32,4 +32,4 @@ Let op dat je procesboek geen dagboek wordt! Schrijven wat je gedaan hebt is pri
 
 2. We gebruiken jouw procesboek als manier om te kijken welke dagen je aan het project gewerkt hebt, dus hoeveel je hebt gedaan. Dit is ook 25% van je projectcijfer.
 
-3. Alle procesboeken samen gebruiken 
+3. Alle procesboeken samen gebruiken we om te zien hoe er samengewerkt is in de groep. Beschrijf dus nauwkeurig waar je je hulp haalt en wie je geholpen hebt (al is het maar meedenken!).
