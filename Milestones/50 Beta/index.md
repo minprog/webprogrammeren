@@ -10,4 +10,4 @@ Vergeet niet om dagelijks je procesboek bij te houden met alle details over je v
 
 ## Voorbereiding voortgangsgesprek
 
-Zorg dat je nadenkt of je het doel voor jou project gaat halen, welke hulp je nodig hebt en waar je nog feedback wil hebben. Breng dit allemaal in bij het voortgangsgesprek (en alle gespreken die je binnen het team hebt!).
+Zorg dat je nadenkt of je het doel voor jou project gaat halen, welke hulp je nodig hebt en waar je nog feedback wil hebben. Breng dit allemaal in bij het voortgangsgesprek (en alle gesprekken die je binnen het team hebt!).

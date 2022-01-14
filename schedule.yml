@@ -32,11 +32,10 @@ Project:
         "Procesboek (maandag 12:00)": /milestones/process
         "Bootstrap (dinsdag 18:00)": "/milestones/bootstrap"
         "Prototype (vrijdag 18:00)": "/milestones/prototype"
-        "Naslag: Git": "/naslag/git"
     Week 3:
         "Betaversie (vrijdag 18:00)": "/milestones/beta"
     Week 4:
         "Samenvoegen (maandag 18:00)": "/milestones/samenvoegen"
         "Final (dinsdag 22:00)": "/milestones/final"
-        "Online met Heroku": "/naslag/heroku"
+        "Online met Heroku (donderdag 18:00)": "/milestones/heroku"
         "Virtuele Presentaties (donderdag 18:00)": "/milestones/presentaties"
