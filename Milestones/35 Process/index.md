@@ -20,7 +20,7 @@ Het procesboek mag dus niet worden bijgehouden op je eigen computer, in Zulip of
 
 Tip: je kunt ook links naar een COMMIT opnemen in je procesboek. Als jij jouw aanpassingen commit en pusht, dan kunt je deze commit opzoeken in github en linken. Zo laat je makkelijk zien wat jij gedaan hebt.
 
-## Voorbeeld
+## Voorbeelden
 
 1.  **14 januari 14:00** --- Ik wilde een chatfunctie bouwen in Javascript en ben gaan zoeken hoe dit in elkaar kan zitten. In de colleges van Harvard kon ik niks vinden. Samen met XX (medestudent) heb ik toen besproken hoe je dit kan aanpakken. We hebben bedacht dat je voor een chat wel een centrale plek nodig hebt om de berichten heen-en-weer te sturen. Dus kan het niet alleen maar in Javascript. Ik ga dus nu kijken hoe je een chat kan bouwen met Flask (hiervoor zijn wel dingen te vinden op internet).
 
@@ -35,6 +35,8 @@ Tip: je kunt ook links naar een COMMIT opnemen in je procesboek. Als jij jouw aa
     ![](screenshot.png)
     
     Ik heb de content netjes naast de sidebar gekregen met een `margin-left` die even breed is als de sidebar, dus dat moet misschien ook met de vragen.
+
+## Geen dagboek
 
 Let op dat je procesboek geen dagboek wordt met maar een paar zinnetjes van wat je gedaan hebt! Schrijven wat je gedaan hebt is prima, maar het moet echt in detail, met screenshots en **voorbeelden**, en het moet aangevuld worden met de **beslissingen** die je neemt en de **interacties** die je hebt met medestudenten en assistenten.
 
