@@ -44,7 +44,7 @@ Alle andere teamleden kunnen het project nu ook clonen en aan de slag met de pro
 
 ## Projectstarter uittesten
 
-Om Finance lokaal te kunnen draaien moet je eerst de benodigde packages installeren installeren, dit gaat via `pip`. Dit is even afhankelijk van hoe Python geïnstalleerd staat op jouw machine. Check allereerst even je Pythonversie met
+Om de website lokaal te kunnen draaien moet je eerst de benodigde packages installeren installeren, dit gaat via `pip`. Dit is even afhankelijk van hoe Python geïnstalleerd staat op jouw machine. Check allereerst even je Pythonversie met
 
     python --version
 
@@ -62,7 +62,7 @@ Of
 
 > Mocht je al bekend zijn met pip, en nu denken: Huh, `python -m pip` i.p.v. gewoon `pip`? `python -m` is een snelle manier om een package van een Python installatie te draaien. Zo weet je zeker dat je de juiste `pip` te pakken hebt, en niet ééntje die hoort bij een andere Python installatie.
 
-Daarmee worden alle Python packages die je nodig hebt om finance te draaien geïnstalleerd. Als laatste moet je nog even een API_KEY `export`'en en moet je aan Flask aangeven welk bestand gedraaid moet worden. Dat doe je als volgt:
+Daarmee worden alle Python packages die je nodig hebt om je project te draaien geïnstalleerd. Als laatste moet je nog even een API_KEY `export`'en en moet je aan Flask aangeven welk bestand gedraaid moet worden. Dat doe je als volgt:
 
 Op een Mac/Linux:
 
@@ -79,7 +79,7 @@ In Windows Powershell:
     $env:FLASK_APP = "application.py"
     $env:API_KEY = "<jouw API key>"
 
-Vervolgens kan je Finance draaien met:
+Vervolgens kan je je website starten met:
 
     flask run
 
