@@ -29,8 +29,8 @@ Project:
     Week 2:
         "Videocollege: Flask": /lectures/flask
         "Videocollege: Git": "/lectures/git"
-        "Procesboek (maandag 12:00)": /milestones/process
-        "Bootstrap (dinsdag 18:00)": "/milestones/bootstrap"
+        "Bootstrap (maandag 12:00)": "/milestones/bootstrap"
+        "Procesboek (maandag 18:00)": /milestones/process
         "Prototype (vrijdag 18:00)": "/milestones/prototype"
     Week 3:
         "Betaversie (vrijdag 18:00)": "/milestones/beta"
