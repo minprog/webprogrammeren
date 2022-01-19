@@ -39,7 +39,7 @@ in the terminal window and clicking on the link that appears.
 Implement in your `profile` directory a website that must:
 
 *   Contain at least four different `.html` pages, at least one of which is `index.html` (the main page of your website), and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
-*   `index.html` should include a profile picture, your name, and a short description of you and your interests. During the course we'll create a face book of sorts that combines all these pages. This face book will be shared among this year's cohort of students. Do note that if you feel uncomfortable sharing personal images or details, you are welcome to use an avatar picture instead, or to opt-out all together by mailing the staff at progik@mprog.nl.
+*   `index.html` should include a profile picture, your name, and a short description of you and your interests.
 *   Use at least ten (10) distinct HTML tags besides `<html>`, `<head>`, `<body>`, and `<title>`. Using some tag (e.g., `<p>`) multiple times still counts as just one (1) of those ten!
 *   Integrate one or more features from Bootstrap into your site. Bootstrap is a popular library (that comes with lots of CSS classes and more) via which you can beautify your site. See [Bootstrap's documentation](https://getbootstrap.com/docs/4.5/) to get started. In particular, you might find some of [Bootstrap's components](https://getbootstrap.com/docs/4.5/components/) of interest. To add Bootstrap to your site, it suffices to include
 
