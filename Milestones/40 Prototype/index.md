@@ -29,3 +29,15 @@ Alle studenten moeten hun bijdrage (webpagina's) zelf hebben gecommit naar de gi
 -   Klik dan op de knop **Publish release**.
 
 Hiermee is de release genaamd Prototype gekoppeld aan de laatste commit die bekend was op moment van aanmaken.
+
+## Screenshots
+
+Je gaat nu de release "editten" en screenshots toevoegen van alle functionaliteit aan de beschrijving. Zorg dat er screenshots zijn van alle pagina's en dat er kort maar duidelijk onder elk screenshot staat wie welk deel gebouwd heeft.
+
+Je kunt de screenshots drag-and-droppen in het tekstveld. Ze worden dan automatisch geupload en er wordt een html-tag geplaatst, waarna de notes er bijvoorbeeld zo uitzien:
+
+![](edit-notes.png)
+
+En dan zien de release notes er zo uit:
+
+![](notes-in-release.png)
