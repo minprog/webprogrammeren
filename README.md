@@ -269,10 +269,11 @@ Deze week draait het om het begrijpen van je projectstarter en opstarten van de 
 
 Je kent nu de basis van de technieken die je gaat toepassen en je bent deze week keihard aan de slag om jouw **aandeel** in het project uit te werken. Dit is de week waarin het gaat gebeuren!
 
-| Belangrijke momenten week 3       |                               |
-| --------------------------------- | ----------------------------- |
-| Mentorgesprek                     | woensdag of donderdag         |
-| Project: Betaversie [deadline]    | vrijdag 28 januari 18:00      |
+| Belangrijke momenten week 3         |                               |
+| ----------------------------------- | ----------------------------- |
+| Mentorgesprek                       | woensdag of donderdag         |
+| Project: Betaversie [deadline]      | vrijdag 28 januari 18:00      |
+| Final entries procesboek [deadline] | zondag 30 januari 23:59       |
 
 ##### Betaversie
 
@@ -294,17 +295,18 @@ Deze week gaan jullie als groep **afronden**. Maandag worden alle individuele bi
 | Belangrijke momenten week 4       |                               |
 | --------------------------------- | ----------------------------- |
 | Project: Samenvoegen [deadline]   | maandag 31 januari 18:00      |
-| Definitieve versie [deadline]     | dinsdag 1 februari 18:00      |
+| Definitieve versie [deadline]     | dinsdag 1 februari 20:00      |
 | Mentorgesprek                     | woensdag of donderdag         |
-| Virtuele presentatie [deadline]   | donderdag 3 februari 18:00    |
+| Online plaatsen website [deadline]   | donderdag 3 februari 18:00    |
+| Virtuele presentatie / screencast [deadline]   | donderdag 3 februari 18:00    |
 
 ##### Definitieve versie
 
 Voor de definitieve versie zijn alle individuele bijdragen goed samengevoegd tot één enkele Flask-applicatie. De ervaren studenten helpen bij technische problemen op dit vlak (en de assistenten natuurlijk ook!). Daarna is het een kwestie van zorgen dat alles nog netjes werkt, straktrekken van inconsistenties, en elkaar helpen de code zo netjes mogelijk te maken.
 
-##### Virtuele presentaties
+##### Online zetten en virtuele presentaties
 
-Bij de afloop van het vak verzamelen we alle gemaakte websites. Alle studenten, docenten en familie en vrienden kunnen deze sites dan bekijken. Bij de site staat een screencast met uitleg en een korte demo. De websites blijven na afloop een tijdje beschikbaar.
+Bij de afloop van het vak verzamelen we alle gemaakte team-websites. Alle studenten, docenten en familie en vrienden kunnen deze sites dan bekijken. Bij de site staat een screencast met uitleg en een korte demo. De websites blijven na afloop een tijdje beschikbaar.
 
 ##### Mentorgesprek week 4
 
