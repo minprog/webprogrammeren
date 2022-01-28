@@ -18,7 +18,7 @@ grades:
         subgrades:
             kwantiteit: integer
             kwaliteit: integer
-        calculation: ((kwantiteit + kwaliteit) / 6.0).round(1)
+        calculation: ((kwantiteit + kwaliteit) / 6.0 * 9 + 1).round(1)
         hide_calculated: true
     bijdrage:
         type: float
@@ -27,14 +27,14 @@ grades:
             html: integer
             python: integer
             verslag: integer
-        calculation: ((gewerkt+html+python+verslag) / 12.0).round(1)
+        calculation: ((gewerkt+html+python+verslag * 9 + 1) / 12.0).round(1)
         hide_calculated: true
     groepswerk:
         type: float
         subgrades:
             consistentie: integer
             samenwerking: integer
-        calculation: ((consistentie + samenwerking) / 6.0).round(1)
+        calculation: ((consistentie + samenwerking * 9 + 1) / 6.0).round(1)
         hide_calculated: true
     pav-verslag:
         type: pass
