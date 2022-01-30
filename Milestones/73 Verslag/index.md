@@ -22,7 +22,7 @@ Het verslag zal met (niet te grote) plaatjes waarschijnlijk wel 3-4 pagina's zij
 
 ## Beoordeling
 
-De (eenvoudige) manier van beoordelen staat in de studiewijzer.
+De (eenvoudige) manier van beoordelen van het verslag zelf staat in de studiewijzer. Het verslag levert ook informatie voor andere delen van de beoordeling.
 
 ## Leerdoelen van het vak
 
