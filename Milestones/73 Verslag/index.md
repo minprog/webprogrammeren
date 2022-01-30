@@ -16,7 +16,7 @@ Maar: het persoonlijk verslag is **geen** chronologisch verslag van je activitei
 
     Let op: het gaat om wat jij van begin tot eind hebt gemaakt, expliciet niet om code van anderen die jij hebt verbeterd (wat ook niet echt de bedoeling was).
 
-3.  Neem een paragraaf op waarin je reflecteert op jouw leerproces tijdens het vak: op welke manieren heb je nou meestal geleerd? Tutorials, youtube, de officiële colleges, gesprekken met medestudenten, met assistenten? Wat leerde je van elk van die verschillende dingen? Misschien in het begin van het vak anders dan op het laatst? Probeer het te achterhalen bij jezelf en schrijf het op.
+3.  Neem een paragraaf op waarin je **reflecteert** op jouw leerproces tijdens het vak: op welke manieren heb je nou meestal geleerd? Tutorials, youtube, de officiële colleges, gesprekken met medestudenten, met assistenten? Wat leerde je van elk van die verschillende dingen? Misschien in het begin van het vak anders dan op het laatst? Probeer het te achterhalen bij jezelf en schrijf het op.
 
 Het verslag zal met (niet te grote) plaatjes waarschijnlijk wel 3-4 pagina's zijn, maar belangrijker dan het aantal pagina's is dat je een aardig aantal cruciale leermomenten weet te beschrijven en hoe je daar terecht kwam.
 
