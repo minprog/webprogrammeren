@@ -12,7 +12,7 @@ Maar: het persoonlijk verslag is **geen** chronologisch verslag van je activitei
 
     Plaats linkjes naar de belangrijkste bronnen die je hebt gebruikt, beschrijf de belangrijkste leermomenten die je had toen je met andere studenten sprak over je problemen. Leg heel scherp uit hoe die momenten hebben geleid tot de uiteindelijke versie van het deel van de website dat jij gemaakt hebt.
 
-2.  Neem een lijst op met exacte locaties van de code die jij hebt geschreven. In het simpelste geval gaat het om een aantal HTML-templates, CSS-files en JS-files die jij zelf hebt geschreven, met daarbij de namen van de functies in de Flask-app.py die jij hebt gemaakt. Heb je een deel gemaakt dan kun je ook de specifieke regelnummers noemen.
+2.  Neem een lijst op met exacte **locaties** van de code die jij hebt geschreven. In het simpelste geval gaat het om een aantal HTML-templates, CSS-files en JS-files die jij zelf hebt geschreven, met daarbij de namen van de functies in de Flask-app.py die jij hebt gemaakt. Geef dus filenames en/of functienamen. Heb je een (flink) deel gemaakt van iets, dan kun je ook de specifieke regelnummers noemen, bijvoorbeeld bij een CSS-file.
 
     Let op: het gaat om wat jij van begin tot eind hebt gemaakt, expliciet niet om code van anderen die jij hebt verbeterd (wat ook niet echt de bedoeling was).
 
