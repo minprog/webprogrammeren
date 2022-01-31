@@ -1,0 +1,4 @@
+name: bijdrage
+files:
+    required:
+        - verslag.pdf
