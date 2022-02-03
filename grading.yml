@@ -5,7 +5,7 @@ templates:
             done: boolean
         automatic:
             done: -(correctness_score.floor)
-        calculation: -(done * 10)
+        calculation: done
         auto_publish: false
         hide_calculated: true
 
