@@ -1,4 +1,4 @@
-# Webprogrammeren en Databases voor Informatiekunde
+# Webprogrammeren en Databases<br><small>Tools voor Data Science</small>
 
 <style>
     h2
@@ -76,6 +76,6 @@ Je mag gerust op het web zoeken naar uitleg die verder gaat dan de colleges en a
 
 ### Officiële regels
 
-Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatica. De richtlijnen kun je [hier vinden] (vraag ernaar als de link niet werkt).
+Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatica. De richtlijnen kun je [hier vinden](vraag ernaar als de link niet werkt).
 
 [hier vinden]: http://student.uva.nl/az/a-z-lijst/a-z-lijst/content/folder/fraude-plagiaat-en-bronvermelding/plagiaat-en-fraude.html

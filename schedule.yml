@@ -1,42 +1,27 @@
 Startup:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
-    Week 1:
-        Project:
-            "Aanmelden Zulip (maandag 11:00)": "/milestones/chat"
-            "Meeting en idee (maandag 18:00)": "/milestones/idee"
-            "Projectvoorstel (dinsdag 18:00)": "/milestones/voorstel"
-        Lesstof SQL:
-            "Videocollege: Data and SQL": /lectures/sql
-            "Opdracht: Movies (woensdag 18:00)":  /problems/movies
-            "Opdracht: Fiftyville (woensdag 18:00)": /problems/fiftyville
-        Lesstof HTML:
-            "Videocollege: HTML": /lectures/html
-            "Opdracht: Profile (vrijdag 18:00)": /problems/profile
-Project:
-    "Lees allereerst even rustig de studiewijzer door": /syllabus
-    Week 1:
-        Project:
-            "Aanmelden Zulip (maandag 11:00)": "/milestones/chat"
-            "Meeting en idee (maandag 18:00)": "/milestones/idee"
-            "Projectvoorstel (dinsdag 18:00)": "/milestones/voorstel"
-        Lesstof SQL:
-            "Videocollege: Data and SQL": /lectures/sql
-            "Opdracht: Movies (woensdag 18:00)":  /problems/movies
-            "Opdracht: Fiftyville (woensdag 18:00)": /problems/fiftyville
-        Lesstof HTML:
-            "Videocollege: HTML": /lectures/html
-            "Opdracht: Profile (vrijdag 18:00)": /problems/profile
-    Week 2:
-        "Videocollege: Flask": /lectures/flask
-        "Videocollege: Git": "/lectures/git"
-        "Bootstrap (maandag 12:00)": "/milestones/bootstrap"
-        "Procesboek (maandag 18:00)": /milestones/process
-        "Prototype (vrijdag 18:00)": "/milestones/prototype"
-    Week 3:
-        "Betaversie (vrijdag 18:00)": "/milestones/beta"
-    Week 4:
-        "Samenvoegen (maandag 18:00)": "/milestones/samenvoegen"
-        "Final (dinsdag 22:00)": "/milestones/final"
-        "Persoonlijk verslag (dinsdag 22:00)": "/milestones/verslag"
-        "Online met Heroku (donderdag 18:00)": "/milestones/heroku"
-        "Virtuele Presentaties (donderdag 18:00)": "/milestones/presentaties"
+    Maandplan: '#'
+    Procesboek: '#'
+
+UNIX:
+    Besturingssystemen: /unix/os
+    Bestandssystemen: /unix/fs
+    Software Carpentry UNIX: /unix/carpentry
+    Reguliere expressies: /unix/regex
+
+Databases:
+    Videocollege: /databases/lecture
+    Book: /databases/book
+    Movies: /databases/movies
+    Fiftyville: /databases/fiftyville
+
+Pandas:
+    TBD: '#'
+
+Web:
+    Videocollege HTML: /web/lecture-html
+    Homepage: /web/homepage
+    Curl: /web/curl
+    Scraping: /web/scraping
+    Videocollege Flask: /web/lecture-flask
+    Finance: /web/finance
