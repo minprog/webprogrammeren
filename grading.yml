@@ -20,29 +20,6 @@ grades:
             kwaliteit: integer
         calculation: ((kwantiteit + kwaliteit) / 6.0 * 9 + 1).round(1)
         hide_calculated: true
-    bijdrage:
-        type: float
-        subgrades:
-            gewerkt: integer
-            html: integer
-            python: integer
-            verslag: integer
-        calculation: ((gewerkt+html+python+verslag) / 12.0 * 9 + 1).round(1)
-        hide_calculated: true
-    groepswerk:
-        type: float
-        subgrades:
-            consistentie: integer
-            samenwerking: integer
-        calculation: ((consistentie + samenwerking) / 6.0 * 9 + 1).round(1)
-        hide_calculated: true
-    pav-verslag:
-        type: pass
-        subgrades:
-            done: boolean
-        calculation: done
-        is_test: true
-        hide_calculated: true
 
 calculation:
     eindcijfer:
@@ -71,8 +48,3 @@ groepswerk:
     show_progress: true
     submits:
         groepswerk: 1
-
-pav:
-    required: true
-    submits:
-        pav-verslag: 1
