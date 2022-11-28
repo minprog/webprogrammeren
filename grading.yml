@@ -25,8 +25,6 @@ calculation:
     eindcijfer:
         aftekenen: 0
         website: 25
-        project: 50
-        groepswerk: 25
 
 aftekenen:
     show_progress: true
@@ -38,13 +36,3 @@ website:
     show_progress: true
     submits:
         profile: 1
-
-project:
-    show_progress: true
-    submits:
-        bijdrage: 1
-
-groepswerk:
-    show_progress: true
-    submits:
-        groepswerk: 1
