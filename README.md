@@ -24,7 +24,7 @@ We behandelen uiteenlopende onderwerpen in modules:
 
 1. **UNIX.** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX shell. Reguliere expressies.
 2. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
-3. **Pandas.** Data modelleren in Pandas zodat je Python kunt gebruiken om grote datasets te analyseren.
+3. **Pandas.** Data modelleren in Pandas zodat je Python kunt gebruiken om grote datasets te analyseren. Je gaat oefenen met allerlei commando's die je hiervoor kunt gebruiken.
 4. **Webtechnieken.** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Oefenen met scraping van informatie van websites.
 5. **Webapplicaties (optioneel).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
 
