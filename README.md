@@ -46,11 +46,11 @@ De volgende deadlines gelden.
 
 | Onderwerp      |                     Deadline |
 |----------------|-----------------------------:|
-| UNIX           |     vrijdag 13 januari 15:00 |
-| Databases      |     vrijdag 20 januari 15:00 |
-| Pandas         |     vrijdag 27 januari 15:00 |
-| Webtechnieken  |     vrijdag 3 februari 15:00 |
-| Webapplicaties | ook vrijdag 3 februari 15:00 |
+| UNIX           |     vrijdag 13 januari 17:00 |
+| Databases      |     vrijdag 20 januari 17:00 |
+| Pandas         |     vrijdag 27 januari 17:00 |
+| Webtechnieken  |     vrijdag 3 februari 17:00 |
+| Webapplicaties | ook vrijdag 3 februari 17:00 |
 
 Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. Dit moet dan wel zin hebben, want de laatste deadline kan sowieso niet verschoven worden. Bij achterlopen moet je dus even overleggen met de docenten en advies vragen op welke modules je het beste kunt focussen.
 
