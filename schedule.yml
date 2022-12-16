@@ -9,19 +9,22 @@ UNIX:
     Software Carpentry UNIX: /unix/carpentry
     Reguliere expressies: /unix/regex
 
+Pandas:
+    TBD: '#'
+
 Databases:
     Videocollege: /databases/lecture
     Book: /databases/book
     Movies: /databases/movies
     Fiftyville: /databases/fiftyville
 
-Pandas:
-    TBD: '#'
-
 Web:
     Videocollege HTML: /web/lecture-html
     Homepage: /web/homepage
     Curl: /web/curl
     Scraping: /web/scraping
+
+Flask:
     Videocollege Flask: /web/lecture-flask
     Finance: /web/finance
+    Eigen project: /web/project
