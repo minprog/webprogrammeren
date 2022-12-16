@@ -13,9 +13,9 @@
 
 *Versie: Januari 2023 (versie 1)*
 
-In vier weken ga je aan de slag met diverse platforms voor dataverwerking en webtechnieken. Elke module staat in principe op zich, maar bouwt wel enigszins op je eerder opgedane programmeerervaring. Dat betekent niet dat je het vak Programmeren IK gehaald moet hebben om dit vak goed te kunnen doen!
+In vier weken ga je aan de slag met diverse platforms voor dataverwerking en webtechnieken. Elke module staat in principe op zich, maar bouwt wel enigszins op je eerder opgedane programmeerervaring. Dat betekent niet dat je het vak Programmeren IK gehaald moet hebben om dit vak goed te kunnen doen! Maar je moet een begin hebben gemaakt en wat handigheid gekregen.
 
-**Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars.** Overweeg je je uit te schrijven, dan mag je gewoon starten met het vak, maar zorg dat je je teamgenoten én de docenten vooraf op de hoogte brengt. Je kunt het vak gewoon volgen maar als je je uitschrijft krijg je geen studiepunten meer.
+**Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars.** Overweeg je je uit te schrijven, dan mag je gewoon starten met het vak, maar zorg dat je je teamgenoten én de docenten vooraf op de hoogte brengt. Je kunt het vak gewoon volgen maar als je je uitschrijft krijg je geen studiepunten meer, omdat de uitslag wordt vastgelegd op de laatste vrijdag van het vak.
 
 
 ## Onderwerpen
@@ -28,24 +28,29 @@ We behandelen uiteenlopende onderwerpen in modules:
 4. **Webtechnieken.** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Oefenen met scraping van informatie van websites.
 5. **Webapplicaties (optioneel).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
 
+Je gaat tijdens het werken aan de modules een procesboek bijhouden waarin je elke dag vastlegt waar je aan hebt gewerkt, wat je hebt geleerd, welke problemen je bent tegengekomen en hoe je die hebt opgelost. Ook vermeld je daar eventuele extra bronnen die je hebt geraadpleegd.
+
+Elke module ga je aftekenen bij de docenten. Je laat dan zien wat je gedaan hebt, je vertelt hoe het in elkaar zit en je laat zien dat je je procesboek goed hebt bijgehouden. Waarschijnlijk moet je ook nog een vraag beantwoorden over je werk.
+
 
 ## Docenten en assistenten
 
-De docenten bij dit vak zijn Jelle van Assema en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is.
+De docenten bij dit vak zijn Martijn Stegeman, Robin Langerak en Imane Tarrahi. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is.
 
 
 ## Deadlines
 
 De volgende deadlines gelden.
 
-| Onderwerp |                 Deadline |
-|-----------|-------------------------:|
-| UNIX      | vrijdag 13 januari 15:00 |
-| Databases | vrijdag 20 januari 15:00 |
-| Pandas    | vrijdag 27 januari 15:00 |
-| Web       | vrijdag 3 februari 15:00 |
+| Onderwerp      |                 Deadline |
+|----------------|-------------------------:|
+| UNIX           | vrijdag 13 januari 15:00 |
+| Databases      | vrijdag 20 januari 15:00 |
+| Pandas         | vrijdag 27 januari 15:00 |
+| Webtechnieken  | vrijdag  3 februari 15:00 |
+| Webapplicaties | ook vrijdag 3 februari 15:00 |
 
-Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. 
+Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. Dit moet dan wel zin hebben, want de laatste deadline kan sowieso niet verschoven worden. Bij achterlopen moet je dus even overleggen met de docenten en advies vragen op welke modules je het beste kunt focussen.
 
 
 ## Aanwezigheidsplicht
@@ -53,6 +58,8 @@ Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg
 Er geldt een aanwezigheidsplicht voor alle vak-activiteiten.
 
 [Het rooster kun je vinden op Datanose.](https://datanose.nl/#course[111981]) Het rooster is niet voor alle groepen elke week 100% gelijk.
+
+Als je heel erg goed gaat, flink vooruit loopt én je procesboek zinvol bijhoudt dan kun je bij het aftekenen ontheffing krijgen voor een groot deel van de verdere aanwezigheidsplicht. Je hoeft dan maar 1x per week aanwezig te zijn. Dit kan **niet** vooraf voor de start van het vak geregeld worden. De universiteit is een sociaal gebeuren en in de basis moet je er gewoon zijn. Alleen door de niveauverschillen is het soms niet handig. Je moet dus altijd in goed overleg met de docenten (niet de assistenten).
 
 
 ## Toetsing en eindcijfer
