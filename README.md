@@ -26,11 +26,13 @@ We behandelen uiteenlopende onderwerpen in modules:
 2. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
 3. **Pandas.** Data modelleren in Pandas zodat je Python kunt gebruiken om grote datasets te analyseren. Je gaat oefenen met allerlei commando's die je hiervoor kunt gebruiken.
 4. **Webtechnieken.** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Oefenen met scraping van informatie van websites.
-5. **Webapplicaties (optioneel).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
+5. **Webapplicaties.** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
 
 Je gaat tijdens het werken aan de modules een procesboek bijhouden waarin je elke dag vastlegt waar je aan hebt gewerkt, wat je hebt geleerd, welke problemen je bent tegengekomen en hoe je die hebt opgelost. Ook vermeld je daar eventuele extra bronnen die je hebt geraadpleegd.
 
 Elke module ga je aftekenen bij de docenten. Je laat dan zien wat je gedaan hebt, je vertelt hoe het in elkaar zit en je laat zien dat je je procesboek goed hebt bijgehouden. Waarschijnlijk moet je ook nog een vraag beantwoorden over je werk.
+
+De verwachting is dat de laatste module (Webapplicaties) niet door iedereen gehaald wordt. De module telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
 
 
 ## Docenten en assistenten
@@ -42,12 +44,12 @@ De docenten bij dit vak zijn Martijn Stegeman, Robin Langerak en Imane Tarrahi. 
 
 De volgende deadlines gelden.
 
-| Onderwerp      |                 Deadline |
-|----------------|-------------------------:|
-| UNIX           | vrijdag 13 januari 15:00 |
-| Databases      | vrijdag 20 januari 15:00 |
-| Pandas         | vrijdag 27 januari 15:00 |
-| Webtechnieken  | vrijdag  3 februari 15:00 |
+| Onderwerp      |                     Deadline |
+|----------------|-----------------------------:|
+| UNIX           |     vrijdag 13 januari 15:00 |
+| Databases      |     vrijdag 20 januari 15:00 |
+| Pandas         |     vrijdag 27 januari 15:00 |
+| Webtechnieken  |     vrijdag 3 februari 15:00 |
 | Webapplicaties | ook vrijdag 3 februari 15:00 |
 
 Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. Dit moet dan wel zin hebben, want de laatste deadline kan sowieso niet verschoven worden. Bij achterlopen moet je dus even overleggen met de docenten en advies vragen op welke modules je het beste kunt focussen.
