@@ -1,4 +1,4 @@
-# Webprogrammeren en Databases<br><small>Tools voor Data Science</small>
+# Web + Data<br><small>Tools voor Data Science</small>
 
 <style>
     h2
@@ -22,17 +22,17 @@ In vier weken ga je aan de slag met diverse platforms voor dataverwerking en web
 
 We behandelen uiteenlopende onderwerpen in modules:
 
-1. **UNIX.** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX shell. Reguliere expressies.
-2. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
-3. **Pandas.** Data modelleren in Pandas zodat je Python kunt gebruiken om grote datasets te analyseren. Je gaat oefenen met allerlei commando's die je hiervoor kunt gebruiken.
-4. **Webtechnieken.** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Oefenen met scraping van informatie van websites.
-5. **Webapplicaties.** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
+1. **UNIX (essentieel).** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX shell. Reguliere expressies.
+2. **Databases (basis).** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
+3. **Pandas (basis).** Data modelleren in Pandas zodat je Python kunt gebruiken om grote datasets te analyseren. Je gaat oefenen met allerlei commando's die je hiervoor kunt gebruiken.
+4. **Webtechnieken (basis).** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Oefenen met scraping van informatie van websites.
+5. **Webapplicaties (geavanceerd).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
 
 Je gaat tijdens het werken aan de modules een procesboek bijhouden waarin je elke dag vastlegt waar je aan hebt gewerkt, wat je hebt geleerd, welke problemen je bent tegengekomen en hoe je die hebt opgelost. Ook vermeld je daar eventuele extra bronnen die je hebt geraadpleegd.
 
 Elke module ga je aftekenen bij de docenten. Je laat dan zien wat je gedaan hebt, je vertelt hoe het in elkaar zit en je laat zien dat je je procesboek goed hebt bijgehouden. Waarschijnlijk moet je ook nog een vraag beantwoorden over je werk.
 
-De verwachting is dat de laatste module (Webapplicaties) niet door iedereen gehaald wordt. De module telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
+De verwachting is dat de laatste module (Webapplicaties) niet door iedereen gedaan wordt. De module telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
 
 
 ## Docenten en assistenten
