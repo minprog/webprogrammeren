@@ -1,7 +1,5 @@
 Startup:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
-    Maandplan: '#'
-    Procesboek: '#'
 
 UNIX:
     Besturingssystemen: /unix/os
