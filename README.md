@@ -15,12 +15,12 @@
 
 In vier weken ga je aan de slag met diverse platforms voor dataverwerking en webtechnieken. Elke module staat in principe op zich, maar bouwt wel enigszins op je eerder opgedane programmeerervaring. Dat betekent niet dat je het vak Programmeren IK gehaald moet hebben om dit vak goed te kunnen doen! Maar je moet een begin hebben gemaakt en wat handigheid gekregen.
 
-**Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars.** Overweeg je je uit te schrijven, dan mag je gewoon starten met het vak. Als je je uitschrijft krijg je geen studiepunten meer, omdat de uitslag wordt vastgelegd op de laatste vrijdag van het vak.
+**Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars.** Overweeg je je uit te schrijven, dan mag je gewoon starten met het vak. Als je je uitschrijft krijg je geen studiepunten meer, omdat de uitslag wordt vastgelegd op de laatste vrijdag van het vak (en dan is het al 3 februari).
 
 
 ## Rooster
 
-Zie [Datanose voor het rooster](https://datanose.nl/#course[111981]). Alle bijeenkomsten zijn verplicht, maar voor snelle werkers zijn er uitzonderingen mogelijk (zie onder). Het hertentamen van Programmeren IK is gepland op 31 januari in de avond.
+Zie [Datanose voor het rooster](https://datanose.nl/#course[111981]). Het rooster is niet voor alle groepen elke week 100% gelijk. Alle bijeenkomsten zijn verplicht, maar voor snelle werkers zijn er uitzonderingen mogelijk (zie onder). Het hertentamen van Programmeren IK is gepland op 31 januari in de avond.
 
 
 ## Onderwerpen
@@ -34,8 +34,6 @@ We behandelen uiteenlopende onderwerpen in modules:
 4. **Webtechnieken (basisvaardigheid).** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Oefenen met scraping van informatie van websites.
 5. **Webapplicaties (geavanceerd).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
 
-Je gaat tijdens het werken aan de modules een procesboek bijhouden waarin je elke dag vastlegt waar je aan hebt gewerkt, wat je hebt geleerd, welke problemen je bent tegengekomen en hoe je die hebt opgelost. Ook vermeld je daar eventuele extra bronnen die je hebt geraadpleegd.
-
 Elke module ga je aftekenen bij de docenten. Je laat dan zien wat je gedaan hebt, je vertelt hoe het in elkaar zit en je laat zien dat je je procesboek goed hebt bijgehouden. Waarschijnlijk moet je ook nog een vraag beantwoorden over je werk.
 
 De verwachting is dat de laatste module (Webapplicaties) niet door iedereen gedaan wordt. De module telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
@@ -43,7 +41,7 @@ De verwachting is dat de laatste module (Webapplicaties) niet door iedereen geda
 
 ## Docenten en assistenten
 
-De docenten bij dit vak zijn Martijn Stegeman, Robin Langerak en Imane Tarrahi. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is.
+De docenten bij dit vak zijn Martijn Stegeman, Robin Langerak en Imane Tarrahi. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <python@proglab.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is: Nedim Bjelić, Tim van Dijk, Mayla Kersten, Souad Laaziz, Stijn Lakeman, Kato Schmidt en Max Westerman. 
 
 
 ## Deadlines
@@ -61,14 +59,16 @@ De volgende deadlines gelden. Als je ziek wordt of veel moeite hebt met de stof 
 
 Wie op donderdag 19 januari de eerste drie onderwerpen niet helemaal perfect heeft afgetekend zal op 19 of 20 januari een gesprek hebben met één van de docenten (niet assistenten). Het doel van het gesprek is om duidelijke afspraken te maken over de afronding van het vak. Dit gesprek is verplicht.
 
+De laatste module (Webapplicaties) is veel meer dan één dag werk. Ga je lekker met de andere modules en wil je graag webapplicaties bouwen, zorg dan dat je flink vooruit loopt. De module Webapplicaties telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
+
 
 ## Aanwezigheidsplicht
 
 Er geldt een aanwezigheidsplicht voor alle vak-activiteiten.
 
-[Het rooster kun je vinden op Datanose.](https://datanose.nl/#course[111981]) Het rooster is niet voor alle groepen elke week 100% gelijk.
+Als je heel erg goed gaat, flink vooruit loopt en alle opdrachten zeer goed hebt gedaan, dan kun je bij het aftekenen ontheffing krijgen voor een groot deel van de verdere aanwezigheidsplicht. Je hoeft dan maar 1x per week aanwezig te zijn. Dit kan **niet** vooraf voor de start van het vak geregeld worden. De universiteit is een sociaal gebeuren en in de basis moet je er gewoon zijn. Alleen door de niveauverschillen is het soms niet handig. Je moet dus altijd in goed overleg met de docenten (niet de assistenten).
 
-Als je heel erg goed gaat, flink vooruit loopt én je procesboek zinvol bijhoudt dan kun je bij het aftekenen ontheffing krijgen voor een groot deel van de verdere aanwezigheidsplicht. Je hoeft dan maar 1x per week aanwezig te zijn. Dit kan **niet** vooraf voor de start van het vak geregeld worden. De universiteit is een sociaal gebeuren en in de basis moet je er gewoon zijn. Alleen door de niveauverschillen is het soms niet handig. Je moet dus altijd in goed overleg met de docenten (niet de assistenten).
+Studenten die in het tweede jaar van Informatiekunde zitten en dit vak al een keer gevolgd hebben zijn uitgezonderd van de aanwezigheidsplicht. Zij moeten wél tijdens de laptopcolleges hun opdrachten komen aftekenen en verplicht binnen de deadlines die hierboven zijn genoemd. Lukt dat niet, dan gaat de aanwezigheidsplicht gewoon gelden. Deze uitzondering geldt overigens *niet* voor studenten van andere opleidingen, of ze nu ouderejaars zijn of niet.
 
 
 ## Toetsing en eindcijfer
