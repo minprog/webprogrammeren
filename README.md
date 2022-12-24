@@ -38,6 +38,8 @@ We behandelen uiteenlopende onderwerpen in modules:
 4. **Webtechnieken (basisvaardigheid).** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Oefenen met scraping van informatie van websites.
 5. **Webapplicaties (geavanceerd).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
 
+Alle modules zijn individueel ("vroeger" was er een groepsproject in dit vak, maar gezien de grote hoeveelheid groepsprojecten en de werkdruk leek het een beter plan om nu eens individueel werk te doen).
+
 Elke module ga je aftekenen bij de docenten. Je laat dan zien wat je gedaan hebt, je vertelt hoe het in elkaar zit en je laat zien dat je je procesboek goed hebt bijgehouden. Waarschijnlijk moet je ook nog een vraag beantwoorden over je werk.
 
 De verwachting is dat de laatste module (Webapplicaties) niet door iedereen gedaan wordt. De module telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
