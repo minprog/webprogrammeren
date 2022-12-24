@@ -50,7 +50,7 @@ De volgende deadlines gelden. Als je ziek wordt of veel moeite hebt met de stof 
 | UNIX                 |   donderdag 12 januari 13:00 |
 | Reguliere expressies |     vrijdag 13 januari 17:00 |
 | Databases            |    woensdag 18 januari 17:00 |
-| Pandas               |   donderdag 26 januari 17:00 |
+| Pandas               |   donderdag 26 januari 13:00 |
 | Webtechnieken        |    woensdag 1 februari 17:00 |
 | Webapplicaties       |   donderdag 2 februari 17:00 |
 
