@@ -46,7 +46,7 @@ De docenten bij dit vak zijn Martijn Stegeman, Robin Langerak en Imane Tarrahi. 
 
 ## Deadlines
 
-De volgende deadlines gelden. Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. Dit moet dan wel zin hebben, want de laatste deadline (3 februari) kan sowieso niet verschoven worden. Bij achterlopen moet je dus overleggen met de docenten en advies vragen op welke modules je het beste kunt focussen.
+De volgende deadlines gelden. Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. Dit moet dan wel zin hebben, want de laatste deadline (2 februari) kan sowieso niet verschoven worden. Bij achterlopen moet je dus overleggen met de docenten en advies vragen op welke modules je het beste kunt focussen.
 
 | Onderwerp            | Punten |                     Deadline |
 |----------------------|-------:|-----------------------------:|
@@ -57,18 +57,18 @@ De volgende deadlines gelden. Als je ziek wordt of veel moeite hebt met de stof 
 | Webtechnieken        |     4p |    woensdag 1 februari 17:00 |
 | Webapplicaties       |     5p |   donderdag 2 februari 17:00 |
 
-Wie op donderdag 19 januari de eerste drie onderwerpen niet helemaal perfect heeft afgetekend zal op 19 of 20 januari een gesprek hebben met één van de docenten (niet assistenten). Het doel van het gesprek is om duidelijke afspraken te maken over de afronding van het vak. Dit gesprek is verplicht.
+Wie op donderdag 19 januari de eerste drie onderwerpen niet helemaal perfect heeft afgetekend zal op 19 of 20 januari een gesprek hebben met één van de docenten (niet assistenten). Het doel van het gesprek is om duidelijke afspraken te maken over de afronding van het vak, eventuele omstandigheden te bespreken en advies te krijgen. Dit gesprek is verplicht.
 
 De laatste module (Webapplicaties) is veel meer dan één dag werk. Ga je lekker met de andere modules en wil je graag webapplicaties bouwen, zorg dan dat je flink vooruit loopt. De module Webapplicaties telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
 
 
 ## Aanwezigheidsplicht
 
-Er geldt een aanwezigheidsplicht voor alle vak-activiteiten.
+Er geldt een aanwezigheidsplicht voor alle activiteiten in het vak.
 
-Als je heel erg goed gaat, flink vooruit loopt en alle opdrachten zeer goed hebt gedaan, dan kun je bij het aftekenen ontheffing krijgen voor een groot deel van de verdere aanwezigheidsplicht. Je hoeft dan maar 1x per week aanwezig te zijn. Dit kan **niet** vooraf voor de start van het vak geregeld worden. De universiteit is een sociaal gebeuren en in de basis moet je er gewoon zijn. Alleen door de niveauverschillen is het soms niet handig. Je moet dus altijd in goed overleg met de docenten (niet de assistenten).
+Als je heel erg goed gaat, flink vooruit loopt en alle opdrachten zeer goed hebt gedaan, dan kun je bij het aftekenen ontheffing krijgen voor een groot deel van de verdere aanwezigheidsplicht. Je hoeft dan maar 1x per week aanwezig te zijn. Dit kan **niet** voor de start van het vak geregeld worden. De universiteit is een sociaal gebeuren en in de basis moet je er gewoon zijn. Alleen door de niveauverschillen is het soms niet handig. Je moet dus altijd in goed overleg met de docenten (niet de assistenten) vóórdat je afwezig bent.
 
-Studenten die in het tweede jaar van Informatiekunde zitten en dit vak al een keer gevolgd hebben zijn uitgezonderd van de aanwezigheidsplicht. Zij moeten wél tijdens de laptopcolleges hun opdrachten komen aftekenen en verplicht binnen de deadlines die hierboven zijn genoemd. Lukt dat niet, dan gaat de aanwezigheidsplicht gewoon gelden. Deze uitzondering geldt overigens *niet* voor studenten van andere opleidingen, of ze nu ouderejaars zijn of niet.
+Studenten die in het tweede jaar van Informatiekunde zitten en dit vak al een keer gevolgd hebben zijn uitgezonderd van de aanwezigheidsplicht. Zij moeten wél tijdens de laptopcolleges hun opdrachten komen aftekenen, en verplicht vóór de deadlines die hierboven zijn genoemd. Lukt dat niet, dan gaat de aanwezigheidsplicht gewoon gelden. Deze uitzondering geldt overigens *niet* voor studenten van andere opleidingen, of ze nu ouderejaars zijn of niet.
 
 
 ## Toetsing en eindcijfer
@@ -76,6 +76,8 @@ Studenten die in het tweede jaar van Informatiekunde zitten en dit vak al een ke
 Elk onderwerp wordt op een eigen manier getoetst. In de meeste gevallen is er sprake van zelfstandig uitwerken van open vragen.
 
 Je moet voor de meeste opdrachten bijhouden welke dingen je hebt geleerd die jou opvielen, maar ook welke bronnen je hebt gebruikt en wat voor soort hulp je hebt gevraagd. Bij de meeste opdrachten wordt gevraagd om dit in te vullen. Deze opmerkingen zijn belangrijk om aan te tonen dat je productief aan de cursus hebt gewerkt. Je kunt dit deel van de opdrachten dus niet overslaan, anders kun je geen punten krijgen.
+
+Je eindcijfer is een optelling van de punten die je met de goede uitgewerkte opdrachten kunt halen. Daarnaast moet je een **kort** tentamen voldoende hebben gemaakt. Hierin moet je laten zien dat je de technieken uit het vak voldoende beheerst en voldoende inzicht hebt in de theorie over computers, web en dataverwerking.
 
 
 <!--
