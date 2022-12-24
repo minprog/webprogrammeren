@@ -1,2 +1,4 @@
 name: operating-systems
-form: true
+files:
+    required:
+        - operating-systems.pdf

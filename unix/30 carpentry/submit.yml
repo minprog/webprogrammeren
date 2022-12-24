@@ -1,2 +1,4 @@
 name: software-carpentry
-form: true
+files:
+    required:
+        - software-carpentry.pdf

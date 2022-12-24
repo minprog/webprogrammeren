@@ -1,2 +1,4 @@
 name: file-systems
-form: true
+files:
+    required:
+        - file-systems.pdf
