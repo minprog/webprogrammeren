@@ -1,2 +1,4 @@
-name: regex
-form: true
+name: regular-expressions
+files:
+    required:
+        - regular-expressions.pdf
