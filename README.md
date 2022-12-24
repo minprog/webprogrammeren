@@ -95,7 +95,7 @@ Je mag met je medestudenten (en anderen) communiceren in het Nederlands of Engel
 
 ### Citeren en hulpbronnen
 
-Je mag gerust op het web zoeken naar uitleg die verder gaat dan de colleges en andere materialen die in de cursus bijgeleverd zijn, en je mag op zoek naar oplossingen voor technische problemen waar je tegenaan loopt, maar je mag zeker geen oplossingen voor onderdelen van de opdrachten overnemen om aan de eisen te voldoen. Daarnaast moet je bij het geheel of gedeeltelijk overnemen van codefragmenten of werken via tutorials en dergelijke altijd een precieze bronvermelding doen.
+Je mag gerust op het web zoeken naar uitleg die verder gaat dan de colleges en andere materialen die in de cursus bijgeleverd zijn, en je mag op zoek naar oplossingen voor technische problemen waar je tegenaan loopt, maar je mag zeker geen oplossingen voor onderdelen van de opdrachten overnemen om aan de eisen te voldoen. Daarnaast moet je bij het geheel of gedeeltelijk overnemen van codefragmenten of werken via tutorials en dergelijke altijd een precieze bronvermelding doen. Voor de meeste opdrachten geldt dat je zélf een antwoord of uitwerking moet formuleren.
 
 
 ### Officiële regels
