@@ -43,17 +43,18 @@ De docenten bij dit vak zijn Martijn Stegeman, Robin Langerak en Imane Tarrahi. 
 
 ## Deadlines
 
-De volgende deadlines gelden.
+De volgende deadlines gelden. Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. Dit moet dan wel zin hebben, want de laatste deadline (3 februari) kan sowieso niet verschoven worden. Bij achterlopen moet je dus overleggen met de docenten en advies vragen op welke modules je het beste kunt focussen.
 
-| Onderwerp      |                     Deadline |
-|----------------|-----------------------------:|
-| UNIX           |     vrijdag 13 januari 17:00 |
-| Databases      |     vrijdag 20 januari 17:00 |
-| Pandas         |     vrijdag 27 januari 17:00 |
-| Webtechnieken  |     vrijdag 3 februari 17:00 |
-| Webapplicaties | ook vrijdag 3 februari 17:00 |
+| Onderwerp            |                     Deadline |
+|----------------------|-----------------------------:|
+| UNIX                 |   donderdag 12 januari 13:00 |
+| Reguliere expressies |     vrijdag 13 januari 17:00 |
+| Databases            |    woensdag 18 januari 17:00 |
+| Pandas               |   donderdag 26 januari 17:00 |
+| Webtechnieken        |    woensdag 1 februari 17:00 |
+| Webapplicaties       |   donderdag 2 februari 17:00 |
 
-Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. Dit moet dan wel zin hebben, want de laatste deadline (3 februari) kan sowieso niet verschoven worden. Bij achterlopen moet je dus even overleggen met de docenten en advies vragen op welke modules je het beste kunt focussen.
+Wie op donderdag 19 januari de eerste drie onderwerpen niet helemaal perfect heeft afgetekend zal op 19 of 20 januari een gesprek hebben met één van de docenten (niet assistenten). Het doel van het gesprek is om duidelijke afspraken te maken over de afronding van het vak. Dit gesprek is verplicht.
 
 
 ## Aanwezigheidsplicht

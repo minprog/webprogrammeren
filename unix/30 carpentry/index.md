@@ -2,7 +2,7 @@
 
 Nu kun je aan de slag met een uitgebreide UNIX-workshop van [Software carpentry](https://swcarpentry.github.io/shell-novice/). Deze geeft je allerlei voorbeelden van commando's die je in UNIX kunt gebruiken.
 
-🌵 Doe alle oefeningen van hoofdstukken 1, 2 en 3. Het doel is om goed voorbereid te zijn voor de komende weken. Je doet dit door goed te oefenen en commando's over te tikken en de resultaten te bestuderen. Als je mazzel hebt maak je ook nog een paar tikfouten waardoor je moet achterhalen wat er fout ging: dan leer je het meest.
+🌵 Doe alle oefeningen van hoofdstukken 1, 2, 3 en 4. Het doel is om goed voorbereid te zijn voor de komende weken. Je doet dit door goed te oefenen en commando's over te tikken en de resultaten te bestuderen. Als je mazzel hebt maak je ook nog een paar tikfouten waardoor je moet achterhalen wat er fout ging: dan leer je het meest.
 
 **Om te oefenen heb je de bestanden nodig die je kunt downloaden vanaf de Setup-pagina in de cursus. Maar ga geen software installeren zoals daar vermeld staat. Je hebt al een werkende UNIX-omgeving, namelijk Ubuntu of macOS.**
 
