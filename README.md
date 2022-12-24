@@ -18,6 +18,11 @@ In vier weken ga je aan de slag met diverse platforms voor dataverwerking en web
 **Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars.** Overweeg je je uit te schrijven, dan mag je gewoon starten met het vak. Als je je uitschrijft krijg je geen studiepunten meer, omdat de uitslag wordt vastgelegd op de laatste vrijdag van het vak.
 
 
+## Rooster
+
+Zie [Datanose voor het rooster](https://datanose.nl/#course[111981]). Alle bijeenkomsten zijn verplicht, maar voor snelle werkers zijn er uitzonderingen mogelijk (zie onder). Het hertentamen van Programmeren IK is gepland op 31 januari in de avond.
+
+
 ## Onderwerpen
 
 We behandelen uiteenlopende onderwerpen in modules:
@@ -70,7 +75,7 @@ Als je heel erg goed gaat, flink vooruit loopt én je procesboek zinvol bijhoudt
 
 Elk onderwerp wordt op een eigen manier getoetst. In de meeste gevallen is er sprake van zelfstandig uitwerken van open vragen.
 
-Je moet bijhouden welke dingen je hebt geleerd die jou opvielen, maar ook welke bronnen je hebt gebruikt en wat voor soort hulp je hebt gevraagd. Bij de meeste opdrachten wordt gevraagd om dit in te vullen. Deze opmerkingen zijn belangrijk om aan te tonen dat je productief aan de cursus hebt gewerkt. Je kunt dit deel van de opdrachten dus niet overslaan, anders kun je geen punten krijgen.
+Je moet voor de meeste opdrachten bijhouden welke dingen je hebt geleerd die jou opvielen, maar ook welke bronnen je hebt gebruikt en wat voor soort hulp je hebt gevraagd. Bij de meeste opdrachten wordt gevraagd om dit in te vullen. Deze opmerkingen zijn belangrijk om aan te tonen dat je productief aan de cursus hebt gewerkt. Je kunt dit deel van de opdrachten dus niet overslaan, anders kun je geen punten krijgen.
 
 
 <!--

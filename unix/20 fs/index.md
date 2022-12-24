@@ -16,4 +16,4 @@ Beantwoord de vragen hieronder. Maak een PDF waarin je de vragen opneemt (of een
 
 4.  Stel dat de "current working directory" (huidige directory) is `C:\Windows\System`. Geef het relatieve pad naar het bestand `proj3.java` zoals in figuur 11.4 van het boek.
 
-5.  Beschrijf hieronder welke opvallende dingen je hebt geleerd bij het lezen in het boek en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen.
+5.  Beschrijf welke opvallende dingen je hebt geleerd bij het lezen in het boek en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen.

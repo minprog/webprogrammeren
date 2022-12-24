@@ -22,4 +22,4 @@ Beantwoord de vragen hieronder. Maak een PDF waarin je de vragen opneemt (of een
 
 7.  Wat is het verschil tussen een firmware-update en een operating system-update? Om deze vraag goed te bantwoorden moet je waarschijnlijk het verschil tussen firware en een besturingssysteem uitleggen.
 
-8.  Beschrijf hieronder welke opvallende dingen je hebt geleerd bij het lezen in het boek en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
+8.  Beschrijf welke opvallende dingen je hebt geleerd bij het lezen in het boek en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
