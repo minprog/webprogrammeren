@@ -45,14 +45,14 @@ De docenten bij dit vak zijn Martijn Stegeman, Robin Langerak en Imane Tarrahi. 
 
 De volgende deadlines gelden. Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. Dit moet dan wel zin hebben, want de laatste deadline (3 februari) kan sowieso niet verschoven worden. Bij achterlopen moet je dus overleggen met de docenten en advies vragen op welke modules je het beste kunt focussen.
 
-| Onderwerp            |                     Deadline |
-|----------------------|-----------------------------:|
-| UNIX                 |   donderdag 12 januari 13:00 |
-| Reguliere expressies |     vrijdag 13 januari 17:00 |
-| Databases            |    woensdag 18 januari 17:00 |
-| Pandas               |   donderdag 26 januari 13:00 |
-| Webtechnieken        |    woensdag 1 februari 17:00 |
-| Webapplicaties       |   donderdag 2 februari 17:00 |
+| Onderwerp            | Punten |                     Deadline |
+|----------------------|-------:|-----------------------------:|
+| UNIX                 |     3p |   donderdag 12 januari 13:00 |
+| Reguliere expressies |     2p |     vrijdag 13 januari 17:00 |
+| Databases            |     3p |    woensdag 18 januari 17:00 |
+| Pandas               |     5p |   donderdag 26 januari 13:00 |
+| Webtechnieken        |     4p |    woensdag 1 februari 17:00 |
+| Webapplicaties       |     5p |   donderdag 2 februari 17:00 |
 
 Wie op donderdag 19 januari de eerste drie onderwerpen niet helemaal perfect heeft afgetekend zal op 19 of 20 januari een gesprek hebben met één van de docenten (niet assistenten). Het doel van het gesprek is om duidelijke afspraken te maken over de afronding van het vak. Dit gesprek is verplicht.
 
@@ -68,13 +68,18 @@ Als je heel erg goed gaat, flink vooruit loopt én je procesboek zinvol bijhoudt
 
 ## Toetsing en eindcijfer
 
-Elk onderwerp wordt op een eigen manier getoetst.
+Elk onderwerp wordt op een eigen manier getoetst. In de meeste gevallen is er sprake van zelfstandig uitwerken van open vragen.
 
+Je moet bijhouden welke dingen je hebt geleerd die jou opvielen, maar ook welke bronnen je hebt gebruikt en wat voor soort hulp je hebt gevraagd. Bij de meeste opdrachten wordt gevraagd om dit in te vullen. Deze opmerkingen zijn belangrijk om aan te tonen dat je productief aan de cursus hebt gewerkt. Je kunt dit deel van de opdrachten dus niet overslaan, anders kun je geen punten krijgen.
+
+
+<!--
 
 ## Procesboek
 
 Tijdens het volgen van het vak hou je een procesboek bij, waarin je per opdracht documenteert welke dingen je hebt geleerd die jou opvielen, maar ook welke bronnen je hebt gebruikt en wat voor soort hulp je hebt gevraagd: opstarten, nare bugs, ideeën opdoen? Allemaal vermelden!
 
+-->
 
 ## Samenwerken
 
