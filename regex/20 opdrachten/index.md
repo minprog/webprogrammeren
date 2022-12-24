@@ -1,7 +1,5 @@
 # Reguliere expressies
 
-Lees het hoofdstuk "Regular expressions & grep" uit het boek _Bulletproof UNIX_ van Gottleber.
-
 Beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en correctheid (3 punten voor de hele opdracht).
 
 Let op: als je testbestanden maakt, doe dat dan niet in Windows met Notepad of Atom. Gebruik in plaats daarvan `nano` (zoals uitgelegd in de Software Carpentry workshop). Dan zijn de line endings correct voor gebruik van `grep`.

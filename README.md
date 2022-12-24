@@ -15,17 +15,18 @@
 
 In vier weken ga je aan de slag met diverse platforms voor dataverwerking en webtechnieken. Elke module staat in principe op zich, maar bouwt wel enigszins op je eerder opgedane programmeerervaring. Dat betekent niet dat je het vak Programmeren IK gehaald moet hebben om dit vak goed te kunnen doen! Maar je moet een begin hebben gemaakt en wat handigheid gekregen.
 
-**Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars.** Overweeg je je uit te schrijven, dan mag je gewoon starten met het vak, maar zorg dat je je teamgenoten én de docenten vooraf op de hoogte brengt. Je kunt het vak gewoon volgen maar als je je uitschrijft krijg je geen studiepunten meer, omdat de uitslag wordt vastgelegd op de laatste vrijdag van het vak.
+**Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars.** Overweeg je je uit te schrijven, dan mag je gewoon starten met het vak. Als je je uitschrijft krijg je geen studiepunten meer, omdat de uitslag wordt vastgelegd op de laatste vrijdag van het vak.
 
 
 ## Onderwerpen
 
 We behandelen uiteenlopende onderwerpen in modules:
 
-1. **UNIX (essentieel).** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX shell. Reguliere expressies.
-2. **Databases (basis).** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
-3. **Pandas (basis).** Data modelleren in Pandas zodat je Python kunt gebruiken om grote datasets te analyseren. Je gaat oefenen met allerlei commando's die je hiervoor kunt gebruiken.
-4. **Webtechnieken (basis).** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Oefenen met scraping van informatie van websites.
+1. **UNIX (essentieel).** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX shell.
+2. **Reguliere expressies (basisvaardigheid).** Leren hoe je teksten kunt filteren en selecteren met hulp van reguliere expressies en het commando `grep`.
+2. **Databases (basisvaardigheid).** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
+3. **Pandas (basisvaardigheid).** Data modelleren in Pandas zodat je Python kunt gebruiken om grote datasets te analyseren. Je gaat oefenen met allerlei commando's die je hiervoor kunt gebruiken.
+4. **Webtechnieken (basisvaardigheid).** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Oefenen met scraping van informatie van websites.
 5. **Webapplicaties (geavanceerd).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
 
 Je gaat tijdens het werken aan de modules een procesboek bijhouden waarin je elke dag vastlegt waar je aan hebt gewerkt, wat je hebt geleerd, welke problemen je bent tegengekomen en hoe je die hebt opgelost. Ook vermeld je daar eventuele extra bronnen die je hebt geraadpleegd.
@@ -52,7 +53,7 @@ De volgende deadlines gelden.
 | Webtechnieken  |     vrijdag 3 februari 17:00 |
 | Webapplicaties | ook vrijdag 3 februari 17:00 |
 
-Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. Dit moet dan wel zin hebben, want de laatste deadline kan sowieso niet verschoven worden. Bij achterlopen moet je dus even overleggen met de docenten en advies vragen op welke modules je het beste kunt focussen.
+Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. Dit moet dan wel zin hebben, want de laatste deadline (3 februari) kan sowieso niet verschoven worden. Bij achterlopen moet je dus even overleggen met de docenten en advies vragen op welke modules je het beste kunt focussen.
 
 
 ## Aanwezigheidsplicht
