@@ -38,3 +38,7 @@ Zorg dat je de reguliere expressies en voorbeelden netjes opmaakt in je PDF, zod
 - https://algs4.cs.princeton.edu/54regexp/
 - https://v4.software-carpentry.org/regexp/index.html
 -->
+
+## Nakijken
+
+Deze opdracht wordt afgetekend. Kom dus langs bij een laptopcollege om dat te regelen. Bovenstaande oefeningen zijn nuttig om reguliere expressies te leren maar ze zijn makkelijk "op te zoeken". Reguliere expressies worden daarom ook getoetst op het tentamen, want de bedoeling is dat je er wat handigheid in krijgt!
