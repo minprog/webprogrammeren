@@ -4,7 +4,7 @@ Beantwoord de vragen hieronder. Let ook weer op de laatste vraag.
 
 - Je antwoorden moeten in een PDF worden ingeleverd met een overzichtelijke opmaak
 - De PDF moet bij voorkeur gemaakt zijn met LaTeX
-- De vragen moeten zijn opgenomen in de PDF (of een ingekorte maar duidelijke versie van elke vraag) met het antwoord er steeds direct onder
+- De vragen moeten zijn opgenomen in de PDF met het antwoord er steeds direct onder
 - De naam van de cursus, de opdracht en jouw eigen naam moeten ook vermeld zijn bovenaan het document
 - Je mag géén titelblad gebruiken, dat is teveel onzinnige ruimte voor zo'n korte opdracht
 - Als je informatie van buiten het boek gebruikt moet je een bronvermelding doen, maar je hoeft hiervoor geen LaTeX-referenties te gebruiken; je mag gewoon de site/titel noemen in de tekst
