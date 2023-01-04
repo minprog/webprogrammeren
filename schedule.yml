@@ -10,14 +10,14 @@ Reguliere expressies:
     Reguliere expressies: /regex/uitleg
     Opdrachten: /regex/opdrachten
 
-Pandas:
-    TBD: '#'
-
 Databases:
     Videocollege: /databases/lecture
     Book: /databases/book
     Movies: /databases/movies
     Fiftyville: /databases/fiftyville
+
+Pandas:
+    TBD: '#'
 
 Web:
     Videocollege HTML: /web/lecture-html
