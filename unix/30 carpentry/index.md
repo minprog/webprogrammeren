@@ -9,3 +9,7 @@ Nu kun je aan de slag met een uitgebreide UNIX-workshop van [Software carpentry]
 3.  Beschrijf in een PDF welke opvallende dingen je hebt geleerd bij het doen van de workshop. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Je kunt ook aangeven waarover je vragen hebt gesteld of waarover je discussies hebt gevoerd met medestudenten.
 
     Tip: je kunt voor zo'n praktische opdracht als deze ook screenshots maken en opnemen in je PDF om te laten zien wat er bijvoorbeeld mis ging.
+
+## Nakijken
+
+Deze opdracht wordt afgetekend. Kom dus langs bij een laptopcollege om dat te regelen.
