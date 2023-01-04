@@ -1,10 +1,21 @@
 # Reguliere expressies
 
-Beantwoord de vragen hieronder. Voor deze opdrachten moet je reguliere expressies schrijven en voorbeelden geven die wél en niet werken. Je moet hiervoor `grep` gebruiken zoals in het boek beschreven.
+Beantwoord de vragen hieronder. Let ook weer op de laatste vraag.
+
+- Je antwoorden moeten in een PDF worden ingeleverd met een overzichtelijke opmaak
+- De PDF moet bij voorkeur gemaakt zijn met LaTeX
+- De vragen moeten zijn opgenomen in de PDF (of een ingekorte maar duidelijke versie van elke vraag) met het antwoord er steeds direct onder
+- De naam van de cursus, de opdracht en jouw eigen naam moeten ook vermeld zijn bovenaan het document
+- Je mag géén titelblad gebruiken, dat is teveel onzinnige ruimte voor zo'n korte opdracht
+- Als je informatie van buiten het boek gebruikt moet je een bronvermelding doen, maar je hoeft hiervoor geen LaTeX-referenties te gebruiken; je mag gewoon de site/titel noemen in de tekst
+
+## Vragen
+
+Voor deze opdrachten moet je reguliere expressies schrijven en voorbeelden geven die wél en niet werken. Je moet hiervoor `grep`, `egrep` of `fgrep` gebruiken zoals in het boek beschreven.
 
 Als je testbestanden maakt voor de opdrachten, doe dat dan niet in Windows met Notepad of Atom. Gebruik in plaats daarvan `nano` (zoals uitgelegd in de Software Carpentry workshop). Dan zijn de line endings correct voor gebruik van `grep`. Als je er technisch niet uitkomt, vraag dan ook hulp!
 
-Zorg dat je de reguliere expressies en voorbeelden netjes opmaakt in je PDF, zodat ze goed herkenbaar en leesbaar zijn als code.
+Zorg dat je de reguliere expressies en voorbeelden netjes opmaakt in je PDF, zodat ze goed herkenbaar en leesbaar zijn als code. Vermeld bovenaan ook in welke omgeving je `grep` gebruikt (Linux, MacOS, Git Bash, enz.)
 
 1.  Geef een reguliere expressie waarmee je elke regel selecteert waar aan het eind van de regel een punt (`.`) staat. Geef een aantal zinnen die matchen en een aantal zinnen die niet matchen. Vermeld welke vorm van `grep` je gebruikt.
 
