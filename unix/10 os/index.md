@@ -1,14 +1,19 @@
 # Besturingssystemen
 
-Lees de laatste vraag hieronder even goed door vóórdat je begint.
+**Lees de laatste vraag hieronder even goed door vóórdat je begint.** Lees daarna het onderdeel "Operating systems" uit het boek van Brookshear, *Computer Science: An Overview*.
 
-Lees daarna het onderdeel "Operating systems" uit het boek van Brookshear, *Computer Science: An Overview*.
+Beantwoord dan de vragen hieronder.
+
+- Je antwoorden moeten in een PDF worden ingeleverd met een overzichtelijke opmaak
+- De PDF moet bij voorkeur gemaakt zijn met LaTeX (je kunt de opmaak hergebruiken bij volgende opdrachten, dus het is prima als het wat extra tijd kost om het goed te maken)
+- De vragen moeten zijn opgenomen in de PDF (of een ingekorte maar duidelijke versie van elke vraag) met het antwoord er steeds direct onder
+- De naam van de cursus, de opdracht en jouw eigen naam moeten ook vermeld zijn bovenaan het document
+- Je mag géén titelblad gebruiken, dat is teveel onzinnige ruimte voor zo'n korte opdracht
+- Als je informatie van buiten het boek gebruikt moet je een bronvermelding doen, maar je hoeft hiervoor geen LaTeX-referenties te gebruiken; je mag gewoon de site/titel noemen in de tekst
 
 ## Vragen
 
-Beantwoord de vragen hieronder. Maak een PDF waarin je de vragen opneemt (of een ingekorte maar duidelijke versie van de vraag) en jouw antwoord. Zorg dat de opmaak zeer overzichtelijk is. Bij voorkeur gebruik je LaTeX om het document te maken (je kunt voor veel opdrachten in deze cursus een soortgelijke opmaak gebruiken, dus als je je LaTeX-document eenmaal netjes hebt kun je het blijven hergebruiken). Vermeld ook de naam van de cursus, van de opdracht en jouw eigen naam.
-
-1.  We hebben een queue waarin we de items R, S en T plaatsen, in die volgorde. Vervolgens verwijderen we één element uit de queue, volgens de queue-regels. Dan plaatsen we een vierde item X in de queue. We verwijderen dan weer één item, en we plaatsen tot slot Y en Z erin. Welke resterende items komen uit de queue als we deze één voor één verwijderen?
+1.  We hebben een queue waarin we de items R, S en T plaatsen, in die volgorde. Vervolgens verwijderen we één element uit de queue, volgens de queue-regels. Dan plaatsen we een vierde item X in de queue. We verwijderen dan weer één item, en we plaatsen tot slot Y en Z erin. Welke resterende items komen uit de queue als we deze één voor één verwijderen? Geef niet alleen het juiste antwoord maar leg uit hoe je daar gekomen bent.
 
 2.  Wat is de rol van de *user interface* in een besturingssysteem? Om deze vraag goed te beantwoorden moet je uitleggen wat een user interface is en waarom dit onderdeel is van wat wij een besturingssysteem noemen.
 
@@ -23,3 +28,7 @@ Beantwoord de vragen hieronder. Maak een PDF waarin je de vragen opneemt (of een
 7.  Wat is het verschil tussen een firmware-update en een operating system-update? Om deze vraag goed te bantwoorden moet je waarschijnlijk het verschil tussen firware en een besturingssysteem uitleggen.
 
 8.  Beschrijf welke opvallende dingen je hebt geleerd bij het lezen in het boek en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
+
+## Nakijken
+
+De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof (het boek), dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: je hoeft niet alles perfect te beantwoorden om punten te kunnen krijgen voor de opdracht.
