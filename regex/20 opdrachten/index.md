@@ -43,7 +43,9 @@ In de volgende opgaven ga je op zoek naar **strings** die matchen. De input is e
 
 2.  Geef een compleet grep-commando waarmee je elke string selecteert die begint met "Wachtwoord" en eindigt met een viercijferig getal. Geef een aantal voorbeeldteksten met matchen en markeer duidelijk welke delen een match zijn. Kijk zoals altijd naar edge cases en geef ook teksten die geen matches bevatten.
 
-4.  Geef een compleet grep-commando waarmee je elk woord selecteert dat met `A`, `D` of `W` begint. Geef een aantal voorbeeldteksten met matchen en markeer duidelijk welke delen een match zijn. Kijk zoals altijd naar edge cases en geef ook teksten die geen matches bevatten.
+3.  Geef een compleet grep-commando waarmee je elk woord selecteert dat met `A`, `D` of `W` begint. Geef een aantal voorbeeldteksten met matchen en markeer duidelijk welke delen een match zijn. Kijk zoals altijd naar edge cases en geef ook teksten die geen matches bevatten.
+
+4.  Geef een compleet grep-commando waarmee je elk woord selecteert waarin een `o` staat gevolgd door één of meer `r`. Geef een aantal voorbeeldteksten met matchen en markeer duidelijk welke delen een match zijn. Kijk zoals altijd naar edge cases en geef ook teksten die geen matches bevatten.
 
 ## Reflectie
 
