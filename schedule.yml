@@ -19,9 +19,11 @@ Databases:
 Pandas:
     TBD: '#'
 
-Web:
+Webtechnologie:
     Videocollege HTML: /web/lecture
     Homepage: /web/homepage
+
+Webtechnieken:
     Curl: /web/curl
     Scraping: /web/scraping
 
