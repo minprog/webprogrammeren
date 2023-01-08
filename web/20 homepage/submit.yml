@@ -1,4 +1,4 @@
-name: profile
+name: homepage
 files:
     required:
-        - profile.zip
+        - homepage.zip

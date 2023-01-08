@@ -1,9 +1,6 @@
-# Profile
-
-> Voor deze opdracht raden we je aan samen te werken met één andere student. Je maakt de opdracht wel zelf, maar overlegt intensief met een andere student. Werk je samen aan de opdracht, dan is het belangrijk dat jullie allebei elkaars naam en studentnummer melden bij het inleveren van de opdracht. Dat doe je onderaan deze pagina. Anders kan het voorkomen dat je opdracht onterecht uit de plagiaatscan komt rollen.
+# Homepage
 
 Build a simple profile page using HTML, CSS, and JavaScript.
-
 
 ## Background
 
@@ -94,14 +91,3 @@ For fairly comprehensive guides on the languages introduced in this problem, che
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 * [JavaScript](https://www.w3schools.com/js/)
-
-
-## Collaboration notice
-
-If you've collaborated with another student on this problem, please note their full name (first and last), and their student number below. Otherwise it suffices to simply note: `-`
-
-Full name:
-<textarea name="form[partner]" rows="1" required></textarea>
-
-Student number:
-<textarea name="form[partner]" rows="1" required></textarea>
