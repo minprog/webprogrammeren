@@ -63,7 +63,7 @@ De volgende deadlines gelden. Als je ziek wordt of veel moeite hebt met de stof 
 | Pandas               |   donderdag 26 januari 13:00 |     5p | one-liners schrijven  |
 | Webtechnieken        |     maandag 30 januari 17:00 |     2p | -                     |
 | Scraping             |    woensdag 1 februari 17:00 |     2p | one-liners schrijven  |
-| Webapplicaties       |   donderdag 2 februari 17:00 |     5p | -                     |
+| Flask                |   donderdag 2 februari 17:00 |     5p | -                     |
 
 **Voor de onderdelen die op het tentamen worden getoetst worden de punten alleen toegekend als dat deel van het tentamen voldoende is.**
 
