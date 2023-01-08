@@ -87,7 +87,7 @@ Elk onderwerp wordt op een eigen manier getoetst. In de meeste gevallen is er sp
 
 Je moet voor de meeste opdrachten bijhouden welke dingen je hebt geleerd die jou opvielen, maar ook welke bronnen je hebt gebruikt en wat voor soort hulp je hebt gevraagd. Bij de meeste opdrachten wordt gevraagd om dit in te vullen. Deze opmerkingen zijn belangrijk om aan te tonen dat je productief aan de cursus hebt gewerkt. Je kunt dit deel van de opdrachten dus niet overslaan, anders kun je geen punten krijgen.
 
-Je eindcijfer is een optelling van de punten die je met de goede uitgewerkte opdrachten kunt halen. Daarnaast moet je een **kort** tentamen voldoende hebben gemaakt. Hierin moet je laten zien dat je de technieken uit het vak voldoende beheerst en voldoende inzicht hebt in de theorie over computers, web en dataverwerking.
+Je eindcijfer is een optelling van de punten die je met de goede uitgewerkte opdrachten kunt halen. De meeste onderdelen komen ook terug op het tentamen. Daar moet je van de geleerde talen en technieken laten zien dat je ze voldoende (dus niet per se perfect) beheerst. Alleen als je dat laat zien krijg je de punten voor de betreffende onderdelen.
 
 
 ## Samenwerken
