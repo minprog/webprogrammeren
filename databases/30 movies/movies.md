@@ -136,3 +136,7 @@ Information courtesy of
 IMDb
 (<http://www.imdb.com>).
 Used with permission.
+
+## Nakijken
+
+Deze opdracht wordt afgetekend. Kom dus langs bij een laptopcollege om dat te regelen. Bovenstaande oefeningen zijn nuttig om reguliere expressies te leren maar ze zijn makkelijk "op te zoeken". Reguliere expressies worden daarom ook getoetst op het tentamen, want de bedoeling is dat je er wat handigheid in krijgt!

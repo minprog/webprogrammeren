@@ -12,7 +12,7 @@ Reguliere expressies:
 
 Databases:
     Videocollege: /databases/lecture
-    Book: /databases/book
+    # Book: /databases/book
     Movies: /databases/movies
     Fiftyville: /databases/fiftyville
 
@@ -20,12 +20,12 @@ Pandas:
     TBD: '#'
 
 Web:
-    Videocollege HTML: /web/lecture-html
+    Videocollege HTML: /web/lecture
     Homepage: /web/homepage
     Curl: /web/curl
     Scraping: /web/scraping
 
 Flask:
-    Videocollege Flask: /web/lecture-flask
-    Finance: /web/finance
-    Eigen project: /web/project
+    Videocollege Flask: /flask/lecture
+    Finance: /flask/finance
+    Eigen project: /flask/project
