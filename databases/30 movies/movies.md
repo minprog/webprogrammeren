@@ -139,4 +139,4 @@ Used with permission.
 
 ## Nakijken
 
-Deze opdracht wordt afgetekend. Kom dus langs bij een laptopcollege om dat te regelen. Bovenstaande oefeningen zijn nuttig om reguliere expressies te leren maar ze zijn makkelijk "op te zoeken". Reguliere expressies worden daarom ook getoetst op het tentamen, want de bedoeling is dat je er wat handigheid in krijgt!
+Deze opdracht wordt automatisch nagekeken op de website. Bovenstaande oefeningen zijn nuttig om SQL te leren maar ze zijn makkelijk "op te zoeken". Het schrijven van SQL-queries wordt daarom ook getoetst op het tentamen, want de bedoeling is dat je er wat handigheid in krijgt!

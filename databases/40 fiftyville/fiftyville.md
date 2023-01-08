@@ -54,18 +54,10 @@ Ultimately, you should submit both your `log.sql` and `answers.txt` files.
 * You may find it helpful to start with the `crime_scene_reports` table. Start by looking for a crime scene report that matches the date and the location of the crime.
 * See [this SQL keywords reference](https://www.w3schools.com/sql/sql_ref_keywords.asp) for some SQL syntax that may be helpful!
 
-## Testing
-
-Execute the below to evaluate the correctness of your code using `check50`.
-
-```
-check50 -l minprog/webprogrammeren/checks_2020/fiftyville
-```
-
 ## Acknowledgements
 
 Inspired by another case over at [SQL City](http://mystery.knightlab.com/).
 
 ## Nakijken
 
-Deze opdracht wordt afgetekend. Kom dus langs bij een laptopcollege om dat te regelen. Bovenstaande oefeningen zijn nuttig om reguliere expressies te leren maar ze zijn makkelijk "op te zoeken". Reguliere expressies worden daarom ook getoetst op het tentamen, want de bedoeling is dat je er wat handigheid in krijgt!
+Deze opdracht wordt automatisch nagekeken op de website. Bovenstaande oefeningen zijn nuttig om SQL te leren maar ze zijn makkelijk "op te zoeken". Het schrijven van SQL-queries wordt daarom ook getoetst op het tentamen, want de bedoeling is dat je er wat handigheid in krijgt!
