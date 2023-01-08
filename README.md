@@ -54,14 +54,17 @@ De docenten bij dit vak zijn Martijn Stegeman, Robin Langerak en Imane Tarrahi. 
 
 De volgende deadlines gelden. Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. Dit moet dan wel zin hebben, want de laatste deadline (2 februari) kan sowieso niet verschoven worden. Bij achterlopen moet je dus overleggen met de docenten en advies vragen op welke modules je het beste kunt focussen.
 
-| Onderwerp            | Punten |                     Deadline |
-|----------------------|-------:|-----------------------------:|
-| UNIX                 |     3p |   donderdag 12 januari 13:00 |
-| Reguliere expressies |     2p |     vrijdag 13 januari 17:00 |
-| Databases            |     3p |    woensdag 18 januari 17:00 |
-| Pandas               |     5p |   donderdag 26 januari 13:00 |
-| Webtechnieken        |     4p |    woensdag 1 februari 17:00 |
-| Webapplicaties       |     5p |   donderdag 2 februari 17:00 |
+| Onderwerp            |                     Deadline | Punten | Tentamen              |
+|----------------------|-----------------------------:|-------:|-----------------------|
+| UNIX                 |   donderdag 12 januari 13:00 |     3p | one-liners schrijven  |
+| Reguliere expressies |     vrijdag 13 januari 17:00 |     2p | regexes schrijven     |
+| Databases            |    woensdag 18 januari 17:00 |     3p | sql-queries schrijven |
+| Pandas               |   donderdag 26 januari 13:00 |     5p | one-liners schrijven  |
+| Webtechnieken        |     maandag 30 januari 17:00 |     2p | -                     |
+| Scraping             |    woensdag 1 februari 17:00 |     2p | one-liners schrijven  |
+| Webapplicaties       |   donderdag 2 februari 17:00 |     5p | -                     |
+
+**Voor de onderdelen die op het tentamen worden getoetst worden de punten alleen toegekend als dat deel van het tentamen voldoende is.**
 
 Wie op donderdag 19 januari de eerste drie onderwerpen niet helemaal perfect heeft afgetekend zal op 19 of 20 januari een gesprek hebben met één van de docenten (niet assistenten). Het doel van het gesprek is om duidelijke afspraken te maken over de afronding van het vak, eventuele omstandigheden te bespreken en advies te krijgen. Dit gesprek is verplicht.
 
@@ -85,14 +88,6 @@ Je moet voor de meeste opdrachten bijhouden welke dingen je hebt geleerd die jou
 
 Je eindcijfer is een optelling van de punten die je met de goede uitgewerkte opdrachten kunt halen. Daarnaast moet je een **kort** tentamen voldoende hebben gemaakt. Hierin moet je laten zien dat je de technieken uit het vak voldoende beheerst en voldoende inzicht hebt in de theorie over computers, web en dataverwerking.
 
-
-<!--
-
-## Procesboek
-
-Tijdens het volgen van het vak hou je een procesboek bij, waarin je per opdracht documenteert welke dingen je hebt geleerd die jou opvielen, maar ook welke bronnen je hebt gebruikt en wat voor soort hulp je hebt gevraagd: opstarten, nare bugs, ideeën opdoen? Allemaal vermelden!
-
--->
 
 ## Samenwerken
 

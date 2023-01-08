@@ -59,4 +59,6 @@ In de volgende opgaven ga je op zoek naar **strings** die matchen. De input is e
 
 ## Nakijken
 
-Deze opdracht wordt afgetekend. Kom dus langs bij een laptopcollege om dat te regelen. Bovenstaande oefeningen zijn nuttig om reguliere expressies te leren maar ze zijn makkelijk "op te zoeken". Reguliere expressies worden daarom ook getoetst op het tentamen, want de bedoeling is dat je er wat handigheid in krijgt!
+Deze opdracht wordt afgetekend. Lever dus je PDF in en kom **daarna** langs bij een laptopcollege om dat te regelen. Bij het aftekenen word je gevraagd om een aantal van je antwoorden te demonstreren en eventueel nog te verbeteren.
+
+**Let op:** bovenstaande oefeningen zijn nuttig om reguliere expressies te leren maar ze zijn makkelijk "op te zoeken". Reguliere expressies worden daarom ook getoetst op het tentamen, want de bedoeling is dat je er wat handigheid in krijgt!
