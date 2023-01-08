@@ -2,6 +2,8 @@
 
 Nu kun je aan de slag met een uitgebreide UNIX-workshop van [Software carpentry](https://swcarpentry.github.io/shell-novice/). Deze geeft je allerlei voorbeelden van commando's die je in UNIX kunt gebruiken.
 
+**Ook bij deze opdracht moet je weer dingen die je hebt geleerd bijhouden, zie de laatste stap hieronder.**
+
 1.  Zorg dat je een UNIX-omgeving klaar hebt staan op je computer, zoals uitgelegd op de pagina "Setup" van deze workshop.
 
 2.  Doe alle oefeningen van hoofdstukken 1, 2, 3 en 4. Het doel is om goed voorbereid te zijn voor de komende weken. Je doet dit door goed te oefenen en commando's over te tikken en de resultaten te bestuderen. Als je mazzel hebt maak je ook nog een paar tikfouten waardoor je moet achterhalen wat er fout ging: dan leer je het meest.
@@ -12,4 +14,4 @@ Nu kun je aan de slag met een uitgebreide UNIX-workshop van [Software carpentry]
 
 ## Nakijken
 
-Deze opdracht wordt afgetekend. Kom dus langs bij een laptopcollege om dat te regelen.
+Deze opdracht wordt afgetekend. Lever daarom eerst alles in, en kom dan langs bij een laptopcollege om dat te regelen. Aftekenen kan niet op afstand.
