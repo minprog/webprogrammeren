@@ -23,7 +23,7 @@ In vier weken ga je aan de slag met diverse platforms voor dataverwerking en web
 - Zie [Datanose voor het rooster](https://datanose.nl/#course[111981]).
 - Het rooster is niet voor alle groepen elke week 100% gelijk.
 - Alle bijeenkomsten zijn verplicht, maar voor snelle werkers zijn er uitzonderingen mogelijk (zie onder).
-- De opdrachten worden niet eerder dan 9 februari vrijgegeven!
+- De opdrachten worden niet eerder dan 9 januari vrijgegeven!
 - Het hertentamen van Programmeren IK is gepland op 31 januari in de avond.
 
 
