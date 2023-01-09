@@ -41,18 +41,24 @@ Dit script werkt niet op Linux.
 
 Het script installeert de tools [pup](https://github.com/ericchiang/pup) en [SQLite](https://www.sqlite.org/index.html) zodat je deze in de terminal kunt gebruiken.
 
-Als het script is afgelopen zou je `sqlite3` moeten kunnen opstarten door dit commando te geven:
+Als het script is afgelopen zou je `pup` moeten kunnen opstarten door dit commando te geven:
 
-    sqlite3
+    pup --help
 
 Dan verschijnt zo'n soort melding:
 
-    SQLite version 3.39.5 2022-10-14 20:58:05
-    Enter ".help" for usage hints.
-    Connected to a transient in-memory database.
-    Use ".open FILENAME" to reopen on a persistent database.
-    sqlite> 
-
-Je bent dan "in" sqlite waarmee je databases kunt openen en queries schrijven (maar daarover veel meer in een volgende module!).
-
-Geef het commando `.quit` om uit SQLite te gaan (vergeet de `.` niet!).
+    Usage
+        pup [flags] [selectors] [optional display function]
+    Version
+        0.4.0
+    Flags
+        -c --color         print result with color
+        -f --file          file to read from
+        -h --help          display this help
+        -i --indent        number of spaces to use for indent or character
+        -n --number        print number of elements selected
+        -l --limit         restrict number of levels printed
+        -p --plain         don't escape html
+        --pre              preserve preformatted text
+        --charset          specify the charset for pup to use
+        --version          display version
