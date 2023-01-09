@@ -2,6 +2,7 @@ Startup:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
 
 UNIX:
+    Installatie: /install
     Besturingssystemen: /unix/os
     Bestandssystemen: /unix/fs
     Software Carpentry UNIX: /unix/carpentry
