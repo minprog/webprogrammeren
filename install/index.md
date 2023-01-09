@@ -25,7 +25,7 @@ Open de "Terminal". Deze staat tussen de programma's die al standaard geinstalle
     
     - Alle andere opties kun je zo laten.
     
-3. Start Windows Terminal en open een "Git Bash"-tabblad.
+3. Start Windows Terminal (eerst sluiten als je 'm toch al geopend had) en open een "Git Bash"-tabblad.
 
     ![git bash](gitbash.png)
 
