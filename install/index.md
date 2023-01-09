@@ -35,7 +35,7 @@ Nadat je toegang hebt gekregen tot een goedwerkende terminal voor UNIX-commando'
 
 Hiermee wordt een script gedownload dat twee tools installeert voor opdrachten later in de cursus.
 
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/uvapl/installer/main/run.sh)"
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/uvapl/installer/main/web.sh)"
 
 Dit script werkt niet op Linux.
 
