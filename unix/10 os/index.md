@@ -2,6 +2,8 @@
 
 **Lees de laatste vraag hieronder even goed door vóórdat je begint.** Lees daarna het onderdeel "Operating systems" uit het boek van Brookshear, *Computer Science: An Overview*.
 
+Het hoofdstuk kun je downloaden bij de [mededelingen](/announcements).
+
 Beantwoord dan de vragen hieronder.
 
 - Je antwoorden moeten in een PDF worden ingeleverd met een overzichtelijke opmaak
