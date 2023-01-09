@@ -63,4 +63,4 @@ Dan verschijnt zo'n soort melding:
         --charset          specify the charset for pup to use
         --version          display version
 
-Als dat bij jou ook zo is ben je helemaal klaar. Mocht het niet lukken, vraag dan hulp, maar voor de volgende opdrachten heb je sowieso nog geen werkende terminal nodig! Daarvoor ga je hoofdstukken lezen en hier vragen over beantwoorden.
+Als dat bij jou ook zo is ben je helemaal klaar. Mocht het niet lukken, vraag dan hulp, maar voor de volgende opdrachten heb je sowieso nog geen werkende terminal nodig! Daarvoor ga je hoofdstukken lezen en daar vragen over beantwoorden.
