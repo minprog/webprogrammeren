@@ -26,7 +26,7 @@ Here's how to download this problem's "distribution code" (i.e., starter code) i
 1. Execute `ls`. You should see this problem's distribution, including `index.html` and `styles.css`.
 1. You can immediately start a server to view the site by running
 
-        $ http-server
+        $ python3 -m http.server -b localhost 8080
 
 in the terminal window and clicking on the link that appears.
 
@@ -56,13 +56,9 @@ Implement in your `profile` directory a website that must:
 
 ## Testing
 
-If you want to view how your site looks while you work on it, there are two options:
+If you want to view how your site looks while you work on it, use the following command:
 
-1.  Within CS50 IDE, navigate to your `profile` directory (remember how?) and then execute
-
-        $ http-server
-
-1.  Within CS50 IDE, right-click (or Ctrl+click, on a Mac) on the `profile` directory in the file tree at left. From the options that appear, select **Serve**, which should open a new tab in your browser (it may take a second or two) with your site therein.
+    $ python3 -m http.server -b localhost 8080
 
 Recall also that by opening Developer Tools in Google Chrome, you can _simulate_ visiting your page on a mobile device by clicking the phone-shaped icon to the left of **Elements** in the developer tools window, or, once the Developer Tools tab has already been opened, by typing `Ctrl`+`Shift`+`M` on a PC or `Cmd`+`Shift`+`M` on a Mac, rather than needing to visit your site on a mobile device separately!
 

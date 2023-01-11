@@ -11,7 +11,7 @@
     }
 </style>
 
-*Versie: Januari 2023 (versie 2)*
+*Versie: Januari 2023 (versie 3)*
 
 In vier weken ga je aan de slag met diverse platforms voor dataverwerking en webtechnieken. Elke module staat in principe op zich, maar bouwt wel enigszins op je eerder opgedane programmeerervaring. Dat betekent **niet** dat je het vak Programmeren IK gehaald moet hebben om dit vak goed te kunnen doen! Maar je moet wél een begin hebben gemaakt met programmeren en wat handigheid gekregen.
 
@@ -25,6 +25,11 @@ In vier weken ga je aan de slag met diverse platforms voor dataverwerking en web
 - Alle bijeenkomsten zijn verplicht, maar voor snelle werkers zijn er uitzonderingen mogelijk (zie onder).
 - Het hertentamen van Programmeren IK is gepland op 31 januari in de avond.
 - Het tentamen van dit vak is gepland op 3 februari in de vroege middag.
+
+
+## Docenten en assistenten
+
+De docenten bij dit vak zijn Martijn Stegeman, Robin Langerak en Imane Tarrahi. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <python@proglab.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is: Nedim Bjelić, Tim van Dijk, Mayla Kersten, Souad Laaziz, Stijn Lakeman, Kato Schmidt en Max Westerman. 
 
 
 ## Onderwerpen
@@ -43,33 +48,60 @@ Alle modules zijn individueel ("vroeger" was er een groepsproject in dit vak, ma
 
 Sommige modules ga je aftekenen bij de docenten. Je laat dan zien wat je gedaan hebt en je vertelt hoe het in elkaar zit. Waarschijnlijk moet je ook nog een vraag beantwoorden over je werk.
 
-De verwachting is dat de laatste module (Webapplicaties) niet door iedereen gedaan wordt. De module telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
-
-
-## Docenten en assistenten
-
-De docenten bij dit vak zijn Martijn Stegeman, Robin Langerak en Imane Tarrahi. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <python@proglab.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is: Nedim Bjelić, Tim van Dijk, Mayla Kersten, Souad Laaziz, Stijn Lakeman, Kato Schmidt en Max Westerman. 
+De verwachting is dat de laatste module (Flask) niet door iedereen gedaan wordt. De module telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
 
 
 ## Deadlines
 
 De volgende deadlines gelden. Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. Dit moet dan wel zin hebben, want de laatste deadline (2 februari) kan sowieso niet verschoven worden. Bij achterlopen moet je dus overleggen met de docenten en advies vragen op welke modules je het beste kunt focussen.
 
-| Onderwerp            |                     Deadline | Punten | Tentamen              |
-|----------------------|-----------------------------:|-------:|-----------------------|
-| UNIX                 |   donderdag 12 januari 13:00 |     3p | one-liners schrijven  |
-| Reguliere expressies |     vrijdag 13 januari 17:00 |     2p | regexes schrijven     |
-| Databases            |    woensdag 18 januari 17:00 |     3p | sql-queries schrijven |
-| Pandas               |   donderdag 26 januari 13:00 |     5p | one-liners schrijven  |
-| Webtechnieken        |     maandag 30 januari 17:00 |     2p | -                     |
-| Scraping             |    woensdag 1 februari 17:00 |     2p | one-liners schrijven  |
-| Flask                |   donderdag 2 februari 17:00 |     5p | -                     |
-
-**Voor de onderdelen die op het tentamen worden getoetst worden de punten alleen toegekend als dat deel van het tentamen voldoende is.**
+| Onderwerp            |                     Deadline |
+|----------------------|-----------------------------:|
+| UNIX                 |   donderdag 12 januari 13:00 |
+| Reguliere expressies |     vrijdag 13 januari 17:00 |
+| Databases            |    woensdag 18 januari 17:00 |
+| Pandas               |   donderdag 26 januari 13:00 |
+| Webtechnologie       |     maandag 30 januari 17:00 |
+| Scraping             |    woensdag 1 februari 17:00 |
+| Flask                |   donderdag 2 februari 17:00 |
 
 Wie op donderdag 19 januari de eerste drie onderwerpen niet helemaal perfect heeft afgetekend zal op 19 of 20 januari een gesprek hebben met één van de docenten (niet assistenten). Het doel van het gesprek is om duidelijke afspraken te maken over de afronding van het vak, eventuele omstandigheden te bespreken en advies te krijgen. Dit gesprek is verplicht.
 
-De laatste module (Webapplicaties) is veel meer dan één dag werk. Ga je lekker met de andere modules en wil je graag webapplicaties bouwen, zorg dan dat je flink vooruit loopt. De module Webapplicaties telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
+De laatste module (Flask) is veel meer dan één dag werk. Ga je lekker met de andere modules en wil je graag webapplicaties bouwen, zorg dan dat je flink vooruit loopt. De module Webapplicaties telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
+
+
+## Punten
+
+Voor het krijgen van punten moet je aan een aantal eisen voldoen. Dat is meestal een combinatie van het huiswerk maken en op het tentamen je basiskennis aantonen.
+
+- **UNIX** 3 punten te verkijgen mits voldaan aan:
+    - 2 schrijfopdrachten voldoende en volgens de eisen ingeleverd
+    - verslag workshop ingeleverd en daarna afgetekend tijdens werkcollege
+    - op tentamen aangetoonde basiskennis middels schrijven van one-liners
+
+- **Reguliere expressies** 2 punten te verkrijgen mits voldaan aan:
+    - oefenopdrachten voldoende en volgens de eisen ingeleverd
+    - op tentamen aangetoonde basiskennis middels schrijven van grep-commando's
+
+- **Databases** 3 punten te verkrijgen mits voldaan aan:
+    - 2 opdrachten voldoende en volgens de eisen ingeleverd
+    - op tentamen aangetoonde basiskennis middels schrijven van sql-queries
+
+- **Pandas** 5 punten te verkrijgen mits voldaan aan:
+    - oefenopdrachten voldoende en volgens de eisen ingeleverd
+    - op tentamen aangetoonde basiskennis middels schrijven van Pandas-commando's
+
+- **Webtechnologie** 2 punten te verkrijgen mits voldaan aan:
+    - persoonlijke website voldoende en volgens de eisen ingeleverd
+
+- **Scraping** 2 punten te verkrijgen mits voldaan aan:
+    - 2 opdrachten voldoende en volgens de eisen ingeleverd
+    - op tentamen aangetoonde basiskennis middels schrijven van scraping-oneliners
+
+- **Flask** 3 punten te verkrijgen mits voldaan aan:
+    - opdracht voldoende en volgens de eisen ingeleverd
+
+Over het algemeen worden geen deelpunten gegeven. Zorg dus dat je complete opdrachten inlevert en eventueel nog verbetert als blijkt dat ze niet goed zijn.
 
 
 ## Aanwezigheidsplicht
