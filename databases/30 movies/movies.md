@@ -4,12 +4,7 @@ Write SQL queries to answer questions about a database of movies.
 
 ## Getting Started
 
-Here's how to download SQLite and use it in Git Bash (only on Windows):
-
-* Start Git Bash.
-* Execute `curl -LO https://www.sqlite.org/2022/sqlite-dll-win64-x64-3400100.zip` to download the latest version of SQLite for Windows.
-* Execute `unzip sqlite*` to decompress the files inside the zip archive.
-* Execute `mv sqlite* /usr/bin` to move the SQLite files to the programs directory.
+For this assignment you will need the SQLite tool. If using Git Bash, you will have installed it while getting started with the UNIX module. If using macOS or Linux, the tool should already be available without installation.
 
 Here's how to download the database for this problem via the terminal.
 
