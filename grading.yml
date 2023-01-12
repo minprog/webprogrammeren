@@ -5,14 +5,14 @@ templates:
             akkoord: boolean
         automatic:
             akkoord: -(correctness_score.floor)
-        calculation: done
+        calculation: akkoord
         auto_publish: true
         hide_calculated: true
     3: &aftekenen
         type: pass
         subgrades:
             akkoord: boolean
-        calculation: done
+        calculation: akkoord
         hide_calculated: true
 
 grades:
