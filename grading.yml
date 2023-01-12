@@ -1,17 +1,29 @@
 templates:
-    1: &auto_pset
-        type: float
+    1: &automatisch
+        type: pass
         subgrades:
-            done: boolean
+            akkoord: boolean
         automatic:
-            done: -(correctness_score.floor)
+            akkoord: -(correctness_score.floor)
         calculation: done
-        auto_publish: false
+        auto_publish: true
+        hide_calculated: true
+    3: &aftekenen
+        type: pass
+        subgrades:
+            akkoord: boolean
+        calculation: done
         hide_calculated: true
 
 grades:
-    movies: *auto_pset
-    fiftyville: *auto_pset
+    operating-systems: *aftekenen
+    file-systems: *aftekenen
+    software-carpentry: *aftekenen
+
+    regular-expressions: *aftekenen
+
+    movies: *automatisch
+    fiftyville: *automatisch
 
     profile:
         type: float
@@ -26,13 +38,25 @@ calculation:
         aftekenen: 0
         website: 25
 
-aftekenen:
+unix:
+    show_progress: true
+    submits:
+        operating-systems: 1
+        file-systems: 1
+        software-carpentry: 1
+
+regexes:
+    show_progress: true
+    submits:
+        regular-expressions: 1
+
+databases:
     show_progress: true
     submits:
         movies: 1
         fiftyville: 1
 
-website:
-    show_progress: true
-    submits:
-        profile: 1
+# website:
+#     show_progress: true
+#     submits:
+#         profile: 1

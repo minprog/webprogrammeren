@@ -15,12 +15,12 @@ Create a simple profile page that introduces yourself, your favorite hobby or ex
 
 ## Getting Started
 
-Here's how to download this problem's "distribution code" (i.e., starter code) into your own CS50 IDE. Log into [CS50 IDE](https://ide.cs50.io/) and then, in a terminal window, execute each of the below.
+Here's how to download this problem's "distribution code" (i.e., starter code):
 
 1. Execute `cd` to ensure that you're in `~/` (i.e., your home directory).
-1. Execute `wget https://github.com/minprog/webprogrammeren/raw/2020/Problems/2%20profile/profile.zip` to download a (compressed) ZIP file with this problem's distribution.
+1. Execute `curl -LO https://github.com/minprog/webprogrammeren/raw/2020/Problems/2%20profile/profile.zip` to download a (compressed) ZIP file with this problem's distribution.
 1. Execute `unzip profile.zip` to uncompress that file.
-1. Execute `rm profile.zip` followed by `yes` or `y` to delete that ZIP file.
+1. Execute `rm profile.zip` to delete that ZIP file.
 1. Execute `ls`. You should see a directory called `profile`, which was inside of that ZIP file.
 1. Execute `cd profile` to change into that directory.
 1. Execute `ls`. You should see this problem's distribution, including `index.html` and `styles.css`.
@@ -28,7 +28,7 @@ Here's how to download this problem's "distribution code" (i.e., starter code) i
 
         $ python3 -m http.server -b localhost 8080
 
-in the terminal window and clicking on the link that appears.
+in the terminal window and then opening the address <http://localhost:8080/> in your web browser.
 
 
 ## Specification
@@ -59,6 +59,8 @@ Implement in your `profile` directory a website that must:
 If you want to view how your site looks while you work on it, use the following command:
 
     $ python3 -m http.server -b localhost 8080
+
+In your web browser you should then navigate to <http://localhost:8080/>.
 
 Recall also that by opening Developer Tools in Google Chrome, you can _simulate_ visiting your page on a mobile device by clicking the phone-shaped icon to the left of **Elements** in the developer tools window, or, once the Developer Tools tab has already been opened, by typing `Ctrl`+`Shift`+`M` on a PC or `Cmd`+`Shift`+`M` on a Mac, rather than needing to visit your site on a mobile device separately!
 
