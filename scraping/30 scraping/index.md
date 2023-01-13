@@ -1,7 +1,5 @@
 # Scraping
 
-> Bestudeer de stof en beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op uitleg en correctheid (2 punten voor de hele opdracht).
-
 Lees de [README](https://github.com/EricChiang/pup) van de tool `pup`. Met deze tool kun je informatie scrapen uit HTML-pagina's. Zo kun je informatie van een website laten zien in je terminal, maar je kunt dit ook gebruiken voor bijvoorbeeld dataverzameling voor onderzoek.
 
 Installatie voor Ubuntu en WSL:

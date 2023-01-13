@@ -95,8 +95,8 @@ Voor het krijgen van punten moet je aan een aantal eisen voldoen. Dat is meestal
     - persoonlijke website voldoende en volgens de eisen ingeleverd en **afgetekend**
 
 - **Scraping** 2 punten te verkrijgen mits voldaan aan:
-    - 2 opdrachten voldoende en volgens de eisen ingeleverd
-    - op tentamen aangetoonde basiskennis middels schrijven van scraping-oneliners
+    - 3 opdrachten voldoende en volgens de eisen ingeleverd
+    - op tentamen aangetoonde basiskennis middels schrijven van scraping-oneliners voor JSON en HTML
 
 - **Flask** 3 punten te verkrijgen mits voldaan aan:
     - opdracht voldoende en volgens de eisen ingeleverd en **afgetekend**
