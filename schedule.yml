@@ -25,8 +25,9 @@ Webtechnologie:
     Homepage: /web/homepage
 
 Scraping:
-    Curl: /web/curl
-    Scraping: /web/scraping
+    JSON: /scraping/json
+    Curl: /scraping/curl
+    Scraping: /scraping/scraping
 
 Flask:
     Videocollege Flask: /flask/lecture
