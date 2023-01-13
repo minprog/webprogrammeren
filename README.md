@@ -76,30 +76,30 @@ Voor het krijgen van punten moet je aan een aantal eisen voldoen. Dat is meestal
 
 - **UNIX** 3 punten te verkijgen mits voldaan aan:
     - 2 schrijfopdrachten voldoende en volgens de eisen ingeleverd
-    - verslag workshop ingeleverd en daarna afgetekend tijdens werkcollege
+    - verslag workshop ingeleverd en daarna **afgetekend** tijdens werkcollege
     - op tentamen aangetoonde basiskennis middels schrijven van one-liners
 
 - **Reguliere expressies** 2 punten te verkrijgen mits voldaan aan:
-    - oefenopdrachten voldoende en volgens de eisen ingeleverd
+    - oefenopdrachten voldoende en volgens de eisen ingeleverd en **afgetekend**
     - op tentamen aangetoonde basiskennis middels schrijven van grep-commando's
 
 - **Databases** 3 punten te verkrijgen mits voldaan aan:
-    - 2 opdrachten voldoende en volgens de eisen ingeleverd
+    - 2 opdrachten voldoende en volgens de eisen ingeleverd en goedgekeurd door de website
     - op tentamen aangetoonde basiskennis middels schrijven van sql-queries
 
 - **Pandas** 5 punten te verkrijgen mits voldaan aan:
-    - oefenopdrachten voldoende en volgens de eisen ingeleverd
+    - oefenopdrachten voldoende en volgens de eisen ingeleverd en **afgetekend**
     - op tentamen aangetoonde basiskennis middels schrijven van Pandas-commando's
 
 - **Webtechnologie** 2 punten te verkrijgen mits voldaan aan:
-    - persoonlijke website voldoende en volgens de eisen ingeleverd
+    - persoonlijke website voldoende en volgens de eisen ingeleverd en **afgetekend**
 
 - **Scraping** 2 punten te verkrijgen mits voldaan aan:
     - 2 opdrachten voldoende en volgens de eisen ingeleverd
     - op tentamen aangetoonde basiskennis middels schrijven van scraping-oneliners
 
 - **Flask** 3 punten te verkrijgen mits voldaan aan:
-    - opdracht voldoende en volgens de eisen ingeleverd
+    - opdracht voldoende en volgens de eisen ingeleverd en **afgetekend**
 
 Over het algemeen worden geen deelpunten gegeven. Zorg dus dat je complete opdrachten inlevert en eventueel nog verbetert als blijkt dat ze niet goed zijn.
 
