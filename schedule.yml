@@ -6,6 +6,7 @@ UNIX:
     Besturingssystemen: /unix/os
     Bestandssystemen: /unix/fs
     Software Carpentry UNIX: /unix/carpentry
+    Oefeningen: /unix/oefeningen
 
 Reguliere expressies:
     Reguliere expressies: /regex/uitleg
