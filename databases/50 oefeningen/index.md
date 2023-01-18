@@ -2,6 +2,8 @@
 
 Deze vragen zijn goede oefeningen voor het tentamen. Op het tentamen kun je ook vragen verwachten op basis van de jou al bekende Movies-database. Onderstaande vragen zijn representatief voor de vragen die je op het tentamen tegen zou kunnen komen, maar je zou ook vragen tegen kunnen komen die meer lijken op de vragen bij de [Movies-opdracht](/databases/movies). De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van SQL en wat de verschillende clausules (JOIN, WHERE, enzovoort) doen. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van het videocollege of externe bronnen over SQL.
 
+Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de Databases-module.
+
 ## Database
 
 Voor de vragen gebruiken we de movies-database die je al kent. Hier is het schema:

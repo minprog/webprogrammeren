@@ -2,6 +2,8 @@
 
 Deze vragen zijn goede oefeningen voor het tentamen. Op het tentamen zelf zul je minder vragen krijgen over UNIX, maar verwacht een mix van onderstaande. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van de commando's en wat ze doen. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van de Software Carpentry-workshop.
 
+Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de UNIX-module.
+
 ## Commando's
 
 Beantwoord de volgende vragen. Geef altijd een concreet en compleet commando. Als er geen file- of directorynaam is opgegeven moet je zelf een naam verzinnen.
