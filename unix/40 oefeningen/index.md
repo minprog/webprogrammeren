@@ -42,3 +42,21 @@ Geef one-liners voor de volgende opdrachten:
 7. Display the unique words in the file in order of most to least common.
 8. Display the 3 most common words in the file.
 9. Display the 3 least common words in the file.
+
+## One-liners deel 2
+
+Gegeven dit bestand:
+
+    John, 25, New York
+    Mary, 32, Los Angeles
+    Mike, 19, Chicago
+    Jane, 27, New York
+    Steve, 22, Chicago
+
+Geef one-liners voor de volgende opdrachten:
+
+1. Sort the contents of the file alphabetically by the first column.
+2. Display only the first column of the file (the names).
+3. Display only the third column of the file (cities) and show only unique values.
+4. Create a new file with the first 3 lines of `example.txt`.
+5. Show the second column of the file (ages) in numerical order.
