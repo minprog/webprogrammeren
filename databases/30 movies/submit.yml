@@ -16,4 +16,4 @@ files:
         - 13.sql
 check:
     tool: check50
-    slug: minprog/webprogrammeren/checks_2020/movies
+    slug: minprog/checks/2022/movies
