@@ -25,13 +25,9 @@ grades:
     movies: *automatisch
     fiftyville: *automatisch
 
-    profile:
-        type: float
-        subgrades:
-            kwantiteit: integer
-            kwaliteit: integer
-        calculation: ((kwantiteit + kwaliteit) / 6.0 * 9 + 1).round(1)
-        hide_calculated: true
+    pandas: *aftekenen
+
+    homepage: *aftekenen
 
 calculation:
     eindcijfer:
@@ -56,7 +52,12 @@ databases:
         movies: 1
         fiftyville: 1
 
-# website:
-#     show_progress: true
-#     submits:
-#         profile: 1
+pandas:
+    show_progress: true
+    submits:
+        pandas: 1
+
+webtechnologie:
+    show_progress: true
+    submits:
+        homepage: 1
