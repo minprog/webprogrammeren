@@ -19,8 +19,8 @@ Here's how to download this problem's "distribution code" (i.e., starter code):
 
 1. Execute `cd` to ensure that you're in `~/` (i.e., your home directory).
 1. Execute `curl -LO https://cdn.cs50.net/2022/fall/psets/8/homepage.zip` to download a (compressed) ZIP file with this problem's distribution.
-1. Execute `unzip profile.zip` to uncompress that file.
-1. Execute `rm profile.zip` to delete that ZIP file.
+1. Execute `unzip homepage.zip` to uncompress that file.
+1. Execute `rm homepage.zip` to delete that ZIP file.
 1. Execute `ls`. You should see a directory called `profile`, which was inside of that ZIP file.
 1. Execute `cd profile` to change into that directory.
 1. Execute `ls`. You should see this problem's distribution, including `index.html` and `styles.css`.
