@@ -29,6 +29,7 @@ Scraping:
     JSON: /scraping/json
     Curl: /scraping/curl
     Scraping: /scraping/scraping
+    Tentamen-oefeningen: /scraping/oefeningen
 
 Flask:
     Videocollege Flask: /flask/lecture

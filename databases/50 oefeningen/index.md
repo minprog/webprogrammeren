@@ -50,3 +50,5 @@ Voor de vragen gebruiken we de movies-database die je al kent. Hier is het schem
 4. Schrijf een SQL-query die de titels geeft van alle films gemaakt door een regisseur die geboren is in 1984.
 
 5. Schrijf een SQL-query die het aantal films geeft waarin "Sandra Oh" speelt.
+
+(Deze oefening is gegenereerd met ChatGPT.)

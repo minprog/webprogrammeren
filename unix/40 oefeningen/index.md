@@ -62,3 +62,5 @@ Geef one-liners voor de volgende opdrachten:
 3. Display only the third column of the file (cities) and show only unique values.
 4. Create a new file with the first 3 lines of `example.txt`.
 5. Show the second column of the file (ages) in numerical order.
+
+(Deze oefeningen zijn gegenereerd met ChatGPT.)
