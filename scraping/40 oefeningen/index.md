@@ -36,7 +36,7 @@ Gegeven is dit HTML-document in een bestand `about.html`:
 
 ## Opdrachten
 
-Geef complete `pup`-commando's om het antwoord te geven op de volgende vragen. Geef ook de uitkomst.
+Geef complete `pup`-oneliners's om het antwoord te geven op de volgende vragen. Start met `cat about.html`. Geef ook de uitkomst!
 
 1. What is the text of the h1 element in the #header div?
 1. What is the href of the first a element within the nav element?

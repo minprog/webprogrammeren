@@ -12,15 +12,15 @@ De optie `-L` zorgt ervoor dat in zo'n geval meteen de juiste pagina wordt opgev
 
 In de volgende module gaan we aan de slag met HTML maar nu gaan we eerst JSON-data opvragen via `curl`. Vraag eens de locatie van het International Space Station op:
 
-    curl https://api.wheretheiss.at/v1/satellites/25544
+    curl -s https://api.wheretheiss.at/v1/satellites/25544
 
-Je ziet dan meteen dat je JSON als antwoord krijgt in plaats van HTML.
+Je ziet dan meteen dat je JSON als antwoord krijgt in plaats van HTML. We gebruiken de flag `-s` voor `curl` om te zorgen dat deze geen "progress bar" geeft bij het binnenhalen van de data.
 
     {"name":"iss","id":25544,"latitude":-24.135574363392,"longitude":-111.86401960141,"altitude":425.37210858971,"velocity":27557.51464498,"visibility":"eclipsed","footprint":4534.693976796,"timestamp":1659509744,"daynum":2459794.7887037,"solar_lat":17.482788938462,"solar_lon":77.627649838076,"units":"kilometers"}
 
 Om de JSON een beetje leesbaar te krijgen kun je deze **doorsturen** van `curl` naar `jq`:
 
-    curl https://api.wheretheiss.at/v1/satellites/25544 | jq '.'
+    curl -s https://api.wheretheiss.at/v1/satellites/25544 | jq '.'
 
 Dan wordt de JSON zo op het scherm geprint:
 
@@ -40,33 +40,45 @@ Dan wordt de JSON zo op het scherm geprint:
       "units": "kilometers"
     }
 
+## Rate limit
+
 Let op dat veel API's een **rate limit** hebben. Dat betekent dat je niet al te vaak een verzoek mag sturen (vanaf hetzelfde IP-adres), om misbruik te voorkomen. Zelfs als je met de hand, vanaf de terminal, aan het experimenteren bent kan dit gebeuren. Als je echt veel gaat experimenteren kun je de JSON ook even opslaan op je eigen computer:
 
-    curl https://api.wheretheiss.at/v1/satellites/25544 > iss.json
+    curl -s https://api.wheretheiss.at/v1/satellites/25544 > iss.json
 
 Dan kun je `jq` zo gebruiken:
 
     cat iss.json | jq '.'
 
-🌵 Oefening
+Zorg dat je voor de opdrachten hieronder wel gewoon het complete commando inclusief `curl` en de juiste URL van de API gebruikt.
 
-1.  Geef een commando om alleen de latitude én longitude uit te printen. Het resultaat zou er zo uit moeten zien (met andere getallen natuurlijk!):
+## Oefeningen
+
+1.  Neem de wheretheiss API en geef een commando om alleen de latitude én longitude uit te printen. Het resultaat zou er zo uit moeten zien (met andere getallen natuurlijk!):
 
         -41.536613527854
         -90.033171572304
 
     <textarea name="form[q1]" rows="4" required></textarea>
 
-1.  Geef een commando om op basis van de timestamp uit de JSON de datum netjes uit te printen. Het zou er zo uit moeten zien:
+2.  Gegeven is de API op <https://nationalize.io>. Geef een complete UNIX one-liner om de landcode van het land te geven waar jouw naam (volgens de statistieken) het meest gebruikt wordt. Het is mogelijk dat de dataset niet compleet of up-to-date is dus je kunt ook een andere naam gebruiken.
 
-        Wed Aug  3 09:02:30 CEST 2022
+    Tip: je hebt waarschijnlijk een vraagteken nodig (`?`) in de URL. Zorg dat je in dat geval de URL netjes tussen aanhalingstekens zet (`"`).
 
-    De timestamp is het aantal seconden sinds 1 januari 1970. Dit wordt ook wel een "epoch" tijd genoemd. Er zijn verschillende manieren om zo'n getal te converteren naar een datum. Gebruik een zoekmachine om te achterhalen hoe dit moet.
-    
-    Het kan handig zijn om hier ook "command substitution" te gebruiken. Dit is een constructie die je in plaats van pipes of in samenwerking met pipes kan gebruiken. Zie [Command Substitution](https://www.gnu.org/software/bash/manual/html_node/Command-Substitution.html). Je mag zo'n command substitution gebruiken als parameter van een ander commando.
+    <textarea name="form[q2]" rows="4" required></textarea>
 
-    Documenteer in je antwoord exact welke bronnen je hebt geprobeerd en hoe je ze hebt toegepast. Dus gebruikte zoektermen, een referentie naar een website met een techniek die niet werkte, hoe je het wél werkend hebt gekregen, dat soort dingen.
+3.  Gegeven is de API op <http://official-joke-api.appspot.com>. Geef een complete UNIX one-liner om de twee delen van een random grap te printen. De output moet zonder aanhalingstekens (`"`) zijn; daarvoor kun je de flag `-r` gebruiken voor `jq`.
 
-    **Besteed niet meer dan 1 uur aan dit probleem.** Als je er niet uitkomt dan is dat geen probleem, als je je zoektocht maar documenteert. Als je niet weet hoe te beginnen: vraag een assistent of stuur een mail.
+    <textarea name="form[q3]" rows="4" required></textarea>
 
-    <textarea name="form[q2]" rows="12" required></textarea>
+4.  Gegeven is de API op <https://randomuser.me/>. Geef een complete UNIX one-liner die de postcode van een random user print.
+
+    <textarea name="form[q4]" rows="4" required></textarea>
+
+5.  Gegeven is de API op <http://universities.hipolabs.com/search?country=Netherlands> (geen documentatie). Geef een complete UNIX one-liner die namen van alle universiteiten print (zonder aanhalingstekens).
+
+    <textarea name="form[q5]" rows="4" required></textarea>
+
+## Conclusie
+
+JSON wordt veel gebruikt om informatie tussen websites te communiceren, omdat het zo simpel is en makkelijk om te genereren in bijna elke programmeertaal. Daarnaast worden API's zoals hierboven heel vaak als input gebruikt voor onderzoek of gewoon om andere websites mee te maken (en te vullen). Een [befaamde API is die van het Rijksmuseum](https://data.rijksmuseum.nl/object-metadata/api/), waar je ongeveer alle informatie over alle kunstwerken kunt krijgen en hergebruiken. Voor die API moet je wel een account maken, zodat ze jouw hoeveelheid "requests" kunnen beperken.
