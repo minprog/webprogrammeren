@@ -1,2 +1,4 @@
 name: json
-form: true
+files:
+    required:
+        - json.pdf

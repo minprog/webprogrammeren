@@ -16,31 +16,21 @@ Met de optie `-c` voor `pup` zorgen we ervoor dat de output in kleur wordt weerg
 
 ## Opdrachten
 
+Upload je antwoorden in een PDF met naam, studentnummer, vermelding van de vragen en de antwoorden.
+
 Geef steeds de complete one-liner inclusief het gebruikte `curl`-commando, pipes en andere commando's.
 
 1.  Zoek uit hoe je alle `span`s met de class `green` kunt scrapen van de pagina <https://www.pythonscraping.com/pages/warandpeace.html>.
 
-    <textarea name="form[q1]" rows="4" required></textarea>
-
 1.  Zoek uit hoe je <u>alleen de tekst</u> van bovenstaande `span`s kunt scrapen.
-
-    <textarea name="form[q2]" rows="4" required></textarea>
 
 1.  Zoek uit met welk commando (curl + pup) je alle URL's (links) naar het laatste nieuws van de NOS kunt scrapen. Gebruik hiervoor de pagina <https://nos.nl/nieuws>.
 
-    <textarea name="form[q3]" rows="4" required></textarea>
-
 1.  Zoek uit hoe je alle headlines kunt scrapen, dus de koppen van het nieuws.
-
-    <textarea name="form[q4]" rows="4" required></textarea>
 
 1.  Zoek uit hoe je een korte omschrijving van het weer kunt printen vanuit de website van het KNMI.
 
-    <textarea name="form[q5]" rows="4" required></textarea>
-
 1.  Zoek uit hoe je alle `tr` elementen uit de tabel op <https://pythonscraping.com/pages/page3.html> kunt scrapen, maar met uitzondering van het eerste `tr`-element (deze bevat de tabelkopjes en die hebben we niet nodig). In de README van Pup staan de selectors die je kunt gebruiken. Volg de link naar MDN om uit te zoeken hoe ze werken.
-
-    <textarea name="form[q6]" rows="4" required></textarea>
 
 1.  Extra opdracht (optioneel): zoek uit hoe je een JSON kunt genereren met daarin voor elke nieuwslink een object met een link-tekst:
 
@@ -50,5 +40,3 @@ Geef steeds de complete one-liner inclusief het gebruikte `curl`-commando, pipes
         }
 
     Omdat je alle nieuwslinks wil hebben is het JSON-document uiteindelijk een JSON-array, dus dat begint met `[` en eindigt met `]`.
-
-    <textarea name="form[q7]" rows="4" required></textarea>

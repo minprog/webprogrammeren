@@ -52,32 +52,24 @@ Dan kun je `jq` zo gebruiken:
 
 Zorg dat je voor de opdrachten hieronder wel gewoon het complete commando inclusief `curl` en de juiste URL van de API gebruikt.
 
-## Oefeningen
+## Opdrachten
+
+Upload je antwoorden in een PDF met naam, studentnummer, vermelding van de vragen en de antwoorden.
 
 1.  Neem de wheretheiss API en geef een commando om alleen de latitude én longitude uit te printen. Het resultaat zou er zo uit moeten zien (met andere getallen natuurlijk!):
 
         -41.536613527854
         -90.033171572304
 
-    <textarea name="form[q1]" rows="4" required></textarea>
-
 2.  Gegeven is de API op <https://nationalize.io>. Geef een complete UNIX one-liner om de landcode van het land te geven waar jouw naam (volgens de statistieken) het meest gebruikt wordt. Het is mogelijk dat de dataset niet compleet of up-to-date is dus je kunt ook een andere naam gebruiken.
 
     Tip: je hebt waarschijnlijk een vraagteken nodig (`?`) in de URL. Zorg dat je in dat geval de URL netjes tussen aanhalingstekens zet (`"`).
 
-    <textarea name="form[q2]" rows="4" required></textarea>
-
 3.  Gegeven is de API op <http://official-joke-api.appspot.com>. Geef een complete UNIX one-liner om de twee delen van een random grap te printen. De output moet zonder aanhalingstekens (`"`) zijn; daarvoor kun je de flag `-r` gebruiken voor `jq`.
-
-    <textarea name="form[q3]" rows="4" required></textarea>
 
 4.  Gegeven is de API op <https://randomuser.me/>. Geef een complete UNIX one-liner die de postcode van een random user print.
 
-    <textarea name="form[q4]" rows="4" required></textarea>
-
 5.  Gegeven is de API op <http://universities.hipolabs.com/search?country=Netherlands> (geen documentatie). Geef een complete UNIX one-liner die namen van alle universiteiten print (zonder aanhalingstekens).
-
-    <textarea name="form[q5]" rows="4" required></textarea>
 
 ## Conclusie
 

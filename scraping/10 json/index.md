@@ -62,17 +62,13 @@ Via [deze link](https://raw.githubusercontent.com/prust/wikipedia-movie-data/mas
 
 ## Opdrachten
 
-1.  Geef een complete UNIX one-liner om alleen de gegevens van de eerste film uit het bestand te laten zien.
+Upload je antwoorden in een PDF met naam, studentnummer, vermelding van de vragen en de antwoorden.
 
-    <textarea name="form[q1]" rows="8" required></textarea>
+1.  Geef een complete UNIX one-liner om alleen de gegevens van de eerste film uit het bestand te laten zien.
 
 2.  Geef een complete UNIX one-liner om alleen de titel van de eerste film uit het bestand te laten zien.
 
-    <textarea name="form[q2]" rows="8" required></textarea>
-
 3.  Geef een complete UNIX one-liner om de titels van alle films uit het bestand te laten zien.
-
-    <textarea name="form[q3]" rows="8" required></textarea>
 
 ## Conclusie
 

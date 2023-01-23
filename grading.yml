@@ -29,6 +29,10 @@ grades:
 
     homepage: *aftekenen
 
+    json: *aftekenen
+    apis: *aftekenen
+    scraping: *aftekenen
+
 calculation:
     eindcijfer:
         aftekenen: 0
@@ -61,3 +65,10 @@ webtechnologie:
     show_progress: true
     submits:
         homepage: 1
+
+scraping:
+    show_progress: true
+    submits:
+        json: 1
+        apis: 1
+        scraping: 1
