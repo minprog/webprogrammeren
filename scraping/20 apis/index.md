@@ -1,4 +1,4 @@
-# Curl
+# APIs
 
 Gebruik `curl` om de HTML van een webpagina op te vragen. Zo kun je bijvoorbeeld de HTML van zoekmachine DuckDuckGo krijgen:
 
@@ -10,7 +10,9 @@ De optie `-L` zorgt ervoor dat in zo'n geval meteen de juiste pagina wordt opgev
 
 ## JSON via Curl
 
-In de volgende module gaan we aan de slag met HTML maar nu gaan we eerst JSON-data opvragen via `curl`. Vraag eens de locatie van het International Space Station op:
+In de volgende module gaan we aan de slag met HTML maar nu gaan we eerst JSON-data opvragen via `curl`. We gebruiken dan een **API** ofwel een "application programmer interface". Dit is een interface (manier van gebruiken) speciaal bedoeld voor programmeurs.
+
+Op het internet is een API vaak een website die data in het JSON-formaat teruggeeft. Vraag eens de locatie van het International Space Station op:
 
     curl -s https://api.wheretheiss.at/v1/satellites/25544
 
