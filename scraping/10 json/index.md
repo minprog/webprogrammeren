@@ -6,7 +6,7 @@ JSON is een formaat om hierarchische structuren uit te drukken in simpele tekst.
 
 De basis van JSON is dat je twee soorten structuren hebt die weer andere structuren kunnen bevatten. Dit zijn *objecten* en *arrays*. Het feit dat structuren andere structuren bevatten maakt dat je hierarchiën kunt beschrijven in JSON.
 
-Zo kun je een rijtje van objecten vatten in een array (denk aan een lijst van medewerkers). En je kunt een object "eigenschappen" meegeven waarin je weer andere waarden stopt (denk aan een persoon die een naam heeft en een huisnummer).
+Zo kun je een rijtje van objecten vatten in een array (denk aan een lijst van medewerkers). En je kunt een object "eigenschappen" meegeven waarin je weer andere waarden stopt (denk aan een persoon die een naam heeft en een huisnummer). Die laatste lijkt wel op een dictionary in Python.
 
 Hieronder een *array* met daarin twee *objects*. Elk object heeft daarin twee attributes, `name` en `address`. De waarde van `address` is ook weer een object, met daarin twee attributes, `street` en `number`.
 
@@ -47,6 +47,14 @@ Met de tool `jq` kun je data uit JSON-bestanden extraheren. Er is een speciale s
 Filmpjes om JQ beter te begrijpen:
 
 - [Szymon Stepniak: JSON on the command line](https://www.youtube.com/watch?v=FSn_38gDvzM)
+
+Op Windows in Git Bash installeer je `jq` met dit commando:
+
+    curl -L -o ~/jq.exe https://github.com/stedolan/jq/releases/latest/download/jq-win64.exe
+
+Op Mac installeer je `jq` met:
+
+    brew install jq
 
 ## Movie data
 
