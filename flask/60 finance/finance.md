@@ -108,9 +108,11 @@ Start Flask's built-in web server (within `finance/`):
 
 Visit the URL outputted by `flask` to see the distribution code in action. You won't be able to log in or register, though, just yet!
 
-Via CS50's file browser, double-click `finance.db` in order to open it with phpLiteAdmin. Notice how `finance.db` comes with a table called `users`. Take a look at its structure (i.e., schema). Notice how, by default, new users will receive $10,000 in cash. But there aren't (yet!) any users (i.e., rows) therein to browse.
+Now inspect the database:
 
-Here on out, if you'd prefer a command line, you're welcome to use `sqlite3` instead of phpLiteAdmin.
+    $ sqlite3 finance.db
+
+Take a look at the current structure (i.e., via `.tables` and `.schema`). Notice how, by default, new users will receive $10,000 in cash. But there aren't (yet!) any users (i.e., rows) therein to browse.
 
 ### Understanding
 
@@ -164,7 +166,7 @@ Complete the implementation of `register` in such a way that it allows a user to
 
 *   `INSERT` the new user into `users`, storing a hash of the user's password, not the password itself. Hash the user's password with [`generate_password_hash`](http://werkzeug.pocoo.org/docs/0.14/utils/#werkzeug.security.generate_password_hash.
 
-Once you've implemented `register` correctly, you should be able to register for an account and log in (since `login` and `logout` already work)! And you should be able to see your rows via phpLiteAdmin or `sqlite3`.
+Once you've implemented `register` correctly, you should be able to register for an account and log in (since `login` and `logout` already work)! And you should be able to see your rows via `sqlite3`.
 
 ### Quote
 
@@ -200,7 +202,7 @@ Complete the implementation of `buy` in such a way that it enables a user to buy
 
 *   You don't need to worry about race conditions (or use transactions).
 
-Once you've implemented `buy` correctly, you should be able to see users' purchases in your new table(s) via phpLiteAdmin or `sqlite3`.
+Once you've implemented `buy` correctly, you should be able to see users' purchases in your new table(s) via `sqlite3`.
 
 ### Index
 
