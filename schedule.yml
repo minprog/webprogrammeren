@@ -34,4 +34,4 @@ Scraping:
 Flask:
     Videocollege Flask: /flask/lecture
     Finance: /flask/finance
-    Eigen project: /flask/project
+    # Eigen project: /flask/project

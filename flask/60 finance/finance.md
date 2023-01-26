@@ -67,12 +67,12 @@ Let's turn our attention now to this problem's distribution code!
 ### Downloading
 
 
-    $ wget https://github.com/minprog/webprogrammeren/raw/2020/Problems/3%20Finance/finance.zip
+    $ curl -LO https://cdn.cs50.net/2022/fall/psets/9/finance.zip
     $ unzip finance.zip
     $ rm finance.zip
     $ cd finance
     $ ls
-    application.py  helpers.py        static/
+    app.py          helpers.py        static/
     finance.db      requirements.txt  templates/
 
 
@@ -80,22 +80,29 @@ Let's turn our attention now to this problem's distribution code!
 
 Before getting started on this assignment, we'll need to register for an API key in order to be able to query IEX's data. To do so, follow these steps:
 
-* Visit [iexcloud.io/cloud-login#/register/](https://iexcloud.io/cloud-login#/register/).
-* Select the "Individual" account type, then enter your email address and a password, and click "Create account".
-* Once registered, scroll down to “Get started for free” and click “Select Start” to choose the free plan.
-* Once you've confirmed your account via a confirmation email, visit [https://iexcloud.io/console/tokens](https://iexcloud.io/console/tokens).
-* Copy the key that appears under the *Token* column (it should begin with `pk_`).
-* In a terminal window within CS50 IDE, execute:
+*   Visit <https://iexcloud.io/cloud-login#/register/>.
 
+*   Select the "Individual" account type, then enter your name, email address, and a password, and click "Create account".
 
-    $ export API_KEY=value
+*   Once registered, scroll down to "Get started for free" and click "Select Start plan" to choose the free plan. Note that this plan only works for 30 days from the day you create your account.
 
+*   Once you've confirmed your account via a confirmation email, visit <https://iexcloud.io/console/tokens>.
 
-where `value` is that (pasted) value, without any space immediately before or after the `=`. You also may wish to paste that value in a text document somewhere, in case you need it again later.
+*   Copy the key that appears under the Token column (it should begin with `pk_`).
+
+*   In a terminal window within CS50 IDE, execute:
+
+        $ export API_KEY=value
+
+    where `value` is that (pasted) value, without any space immediately before or after the `=`. You also may wish to paste that value in a text document somewhere, in case you need it again later.
 
 ### Running
 
-. Start Flask's built-in web server (within `finance/`):
+Install required Python packages using `pip` or `pip3`:
+
+    $ pip3 install -r requirements.txt
+
+Start Flask's built-in web server (within `finance/`):
 
     $ flask run
 
@@ -107,9 +114,9 @@ Here on out, if you'd prefer a command line, you're welcome to use `sqlite3` ins
 
 ### Understanding
 
-#### `application.py`
+#### `app.py`
 
-Open up `application.py`. Atop the file are a bunch of imports, among them CS50's SQL module and a few helper functions. More on those soon.
+Open up `app.py`. Atop the file are a bunch of imports, among them CS50's SQL module and a few helper functions. More on those soon.
 
 After configuring [Flask](http://flask.pocoo.org/), notice how this file disables caching of responses (provided you're in debugging mode, which you are by default on CS50 IDE), lest you make a change to some file but your browser not notice. Notice next how it configures [Jinja](http://jinja.pocoo.org/) with a custom "filter," `usd`, a function (defined in `helpers.py`) that will make it easier to format values as US dollars (USD). It then further configures Flask to store [sessions](http://flask.pocoo.org/docs/1.0/quickstart/#sessions) on the local filesystem (i.e., disk) as opposed to storing them inside of (digitally signed) cookies, which is Flask's default. The file then configures CS50's SQL module to use `finance.db`, a SQLite database whose contents we'll soon see!
 
@@ -145,85 +152,123 @@ Last up is `layout.html`. It's a bit bigger than usual, but that's mostly becaus
 
 ## Specification
 
-### `register`
+### Register
 
 Complete the implementation of `register` in such a way that it allows a user to register for an account via a form.
 
-* Require that a user input a username, implemented as a text field whose `name` is `username`. Render an apology if the user's input is blank or the username already exists.
-* Require that a user input a password, implemented as a text field whose `name` is `password`, and then that same password again, implemented as a text field whose `name` is `confirmation`. Render an apology if either input is blank or the passwords do not match.
-* Submit the user's input via `POST` to `/register`.
-* `INSERT` the new user into `users`, storing a hash of the user's password, not the password itself. Hash the user's password with [`generate_password_hash`](http://werkzeug.pocoo.org/docs/0.14/utils/#werkzeug.security.generate_password_hash.
-*) Odds are you'll want to create a new template (e.g., `register.html`) that's quite similar to `login.html`.
+*   Require that a user input a username, implemented as a text field whose `name` is `username`. Render an apology if the user's input is blank or the username already exists.
+
+*   Require that a user input a password, implemented as a text field whose `name` is `password`, and then that same password again, implemented as a text field whose `name` is `confirmation`. Render an apology if either input is blank or the passwords do not match.
+
+*   Submit the user's input via `POST` to `/register`.
+
+*   `INSERT` the new user into `users`, storing a hash of the user's password, not the password itself. Hash the user's password with [`generate_password_hash`](http://werkzeug.pocoo.org/docs/0.14/utils/#werkzeug.security.generate_password_hash.
 
 Once you've implemented `register` correctly, you should be able to register for an account and log in (since `login` and `logout` already work)! And you should be able to see your rows via phpLiteAdmin or `sqlite3`.
 
-### `quote`
+### Quote
 
 Complete the implementation of `quote` in such a way that it allows a user to look up a stock's current price.
 
-* Require that a user input a stock's symbol, implemented as a text field whose `name` is `symbol`.
-* Submit the user's input via `POST` to `/quote`.
-* Odds are you'll want to create two new templates (e.g., `quote.html` and `quoted.html`). When a user visits `/quote` via GET, render one of those templates, inside of which should be an HTML form that submits to `/quote` via POST. In response to a POST, `quote` can render that second template, embedding within it one or more values from `lookup`.
+*   Require that a user input a stock's symbol, implemented as a text field whose `name` is `symbol`.
 
-### `buy`
+*   Submit the user's input via `POST` to `/quote`.
+
+*   Odds are you'll want to create two new templates (e.g., `quote.html` and `quoted.html`). When a user visits `/quote` via GET, render one of those templates, inside of which should be an HTML form that submits to `/quote` via POST. In response to a POST, `quote` can render that second template, embedding within it one or more values from `lookup`.
+
+### Buy
 
 Complete the implementation of `buy` in such a way that it enables a user to buy stocks.
 
-* Require that a user input a stock's symbol, implemented as a text field whose `name` is `symbol`. Render an apology if the input is blank or the symbol does not exist (as per the return value of `lookup`).
-* Require that a user input a number of shares, implemented as a text field whose `name` is `shares`. Render an apology if the input is not a positive integer.
-* Submit the user's input via `POST` to `/buy`.
-* Odds are you'll want to call `lookup` to look up a stock's current price.
-* Odds are you'll want to `SELECT` how much cash the user currently has in `users`.
-* Add one or more new tables to `finance.db` via which to keep track of the purchase. Store enough information so that you know who bought what at what price and when.
-  * Use appropriate SQLite types.
-  * Define `UNIQUE` indexes on any fields that should be unique.
-  * Define (non-`UNIQUE`) indexes on any fields via which you will search (as via `SELECT` with `WHERE`).
-* Render an apology, without completing a purchase, if the user cannot afford the number of shares at the current price.
-* You don't need to worry about race conditions (or use transactions).
+*   Require that a user input a stock's symbol, implemented as a text field whose `name` is `symbol`. Render an apology if the input is blank or the symbol does not exist (as per the return value of `lookup`).
+
+*   Require that a user input a number of shares, implemented as a text field whose `name` is `shares`. Render an apology if the input is not a positive integer.
+
+*   Submit the user's input via `POST` to `/buy`.
+
+*   Odds are you'll want to call `lookup` to look up a stock's current price.
+
+*   Odds are you'll want to `SELECT` how much cash the user currently has in `users`.
+
+*   Add one or more new tables to `finance.db` via which to keep track of the purchase. Store enough information so that you know who bought what at what price and when.
+
+  *   Use appropriate SQLite types.
+  *   Define `UNIQUE` indexes on any fields that should be unique.
+  *   Define (non-`UNIQUE`) indexes on any fields via which you will search (as via `SELECT` with `WHERE`).
+
+*   Render an apology, without completing a purchase, if the user cannot afford the number of shares at the current price.
+
+*   You don't need to worry about race conditions (or use transactions).
 
 Once you've implemented `buy` correctly, you should be able to see users' purchases in your new table(s) via phpLiteAdmin or `sqlite3`.
 
-### `index`
+### Index
 
 Complete the implementation of `index` in such a way that it displays an HTML table summarizing, for the user currently logged in, which stocks the user owns, the numbers of shares owned, the current price of each stock, and the total value of each holding (i.e., shares times price). Also display the user's current cash balance along with a grand total (i.e., stocks' total value plus cash).
 
-* Odds are you'll want to execute multiple `SELECT`s. Depending on how you implement your table(s), you might find [GROUP BY](https://www.google.com/search?q=SQLite+GROUP+BY,) [HAVING](https://www.google.com/search?q=SQLite+HAVING,) [SUM](https://www.google.com/search?q=SQLite+SUM,) and/or [WHERE](https://www.google.com/search?q=SQLite+WHERE) of interest.
-* Odds are you'll want to call `lookup` for each stock.
+*   Odds are you'll want to execute multiple `SELECT`s. Depending on how you implement your table(s), you might find [GROUP BY](https://www.google.com/search?q=SQLite+GROUP+BY,) [HAVING](https://www.google.com/search?q=SQLite+HAVING,) [SUM](https://www.google.com/search?q=SQLite+SUM,) and/or [WHERE](https://www.google.com/search?q=SQLite+WHERE) of interest.
 
-### `sell`
+*   Odds are you'll want to call `lookup` for each stock.
+
+### Sell
 
 Complete the implementation of `sell` in such a way that it enables a user to sell shares of a stock (that he or she owns).
 
-* Require that a user input a stock's symbol, implemented as a `select` menu whose `name` is `symbol`. Render an apology if the user fails to select a stock or if (somehow, once submitted) the user does not own any shares of that stock.
-* Require that a user input a number of shares, implemented as a text field whose `name` is `shares`. Render an apology if the input is not a positive integer or if the user does not own that many shares of the stock.
-* Submit the user's input via `POST` to `/sell`.
-* You don't need to worry about race conditions (or use transactions).
+*   Require that a user input a stock's symbol, implemented as a `select` menu whose `name` is `symbol`. Render an apology if the user fails to select a stock or if (somehow, once submitted) the user does not own any shares of that stock.
+
+*   Require that a user input a number of shares, implemented as a text field whose `name` is `shares`. Render an apology if the input is not a positive integer or if the user does not own that many shares of the stock.
+
+*   Submit the user's input via `POST` to `/sell`.
+
+*   You don't need to worry about race conditions (or use transactions).
+
+### History
+
+Complete the implementation of history in such a way that it displays an HTML table summarizing all of a user's transactions ever, listing row by row each and every buy and every sell.
+
+*   For each row, make clear whether a stock was bought or sold and include the stock's symbol, the (purchase or sale) price, the number of shares bought or sold, and the date and time at which the transaction occurred.
+
+*   You might need to alter the table you created for buy or supplement it with an additional table. Try to minimize redundancies.
+
+### Personal touch
+
+Implement at least one personal touch of your choice:
+
+*   Allow users to change their passwords.
+
+*   Allow users to add additional cash to their account.
+
+*   Allow users to buy more shares or sell shares of stocks they already own via index itself, without having to type stocks' symbols manually.
+
+*   Require users' passwords to have some number of letters, numbers, and/or symbols.
+
+*   Implement some other feature of comparable scope.
+
+Be sure to include a comment at the top of `app.py` to indicate what your personal touch is!
 
 ## Walkthrough
 
-![embed](https://www.youtube.com/embed/kAvCTffbH04)
-
-> Note that Finance has been shortened for this course and no longer requires a history page, nor an additional "personal touch". Do just ignore these features in the video above.
+![embed](https://www.youtube.com/embed/7wPTAwT-6bA)
 
 ## Testing
 
-To test your code with `check50`, execute the below.
+Be sure to test your web app manually, as by
 
-    $ check50 -l minprog/webprogrammeren/checks_2020/finance
+- registering a new user and verifying that their portfolio page loads with the correct information,
+- requesting a quote using a valid stock symbol,
+- purchasing one stock multiple times, verifying that the portfolio displays correct totals,
+- selling all or some of a stock, again verifying the portfolio, and
+- verifying that your history page shows all transactions for your logged in user.
 
-Be sure to test your web app manually too, as by
+Also test some unexpected usage, as by
 
-* inputting alphabetical strings into forms when only numbers are expected,
-* inputting zero or negative numbers into forms when only positive numbers are expected,
-* inputting floating-point values into forms when only integers are expected,
-* trying to spend more cash than a user has,
-* trying to sell more shares than a user has,
-* inputting an invalid stock symbol, and
-* including potentially dangerous characters like `'` and `;` in SQL queries.
-
-Execute the below to evaluate the style of your Python files using `style50`.
-
-    style50 *.py
+- inputting alphabetical strings into forms when only numbers are expected,
+- inputting zero or negative numbers into forms when only positive numbers are expected,
+- inputting floating-point values into forms when only integers are expected,
+- trying to spend more cash than a user has,
+- trying to sell more shares than a user has,
+- inputting an invalid stock symbol, and
+- including potentially dangerous characters like `'` and `;` in SQL queries.
 
 ## Staff's Solution
 
@@ -237,25 +282,23 @@ It is **reasonable** to look at the staff's HTML and CSS.
 
 ## Hints
 
-* To format a value as a US dollar value (with cents listed to two decimal places), you can use the `usd` filter in your Jinja templates (printing values as `{% raw %}{{ value | usd }}{% endraw %}` instead of `{% raw %}{{ value }}{% endraw %}`.
-* Within `cs50.SQL` is an `execute` method whose first argument should be a `str` of SQL. If that `str` contains question mark parameters to which values should be bound, those values can be provided as additional named parameters to `execute`. See the implementation of `login` for one such example. The return value of `execute` is as follows:
-
-  * If `str` is a `SELECT`, then `execute` returns a `list` of zero or more `dict` objects, inside of which are keys and values representing a table's fields and cells, respectively.
-  * If `str` is an `INSERT`, and the table into which data was inserted contains an autoincrementing `PRIMARY KEY`, then `execute` returns the value of the newly inserted row's primary key.
-  * If `str` is a `DELETE` or an `UPDATE`, then `execute` returns the number of rows deleted or updated by `str`.
-
-* Recall that `cs50.SQL` will log to your terminal window any queries that you execute via `execute` (so that you can confirm whether they're as intended).
-* Be sure to use question mark-bound parameters (i.e., a [paramstyle](https://www.python.org/dev/peps/pep-0249/#paramstyle) of `named`) when calling CS50's `execute` method, a la `WHERE ?`. Do **not** use f-strings, [`format`](https://docs.python.org/3.6/library/functions.html#format,) or `+` (i.e., concatenation), lest you risk a SQL injection attack.
-* If (and only if) already comfortable with SQL, you're welcome to use [SQLAlchemy Core](http://docs.sqlalchemy.org/en/latest/index.html) or [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org/) (i.e., [SQLAlchemy ORM](http://docs.sqlalchemy.org/en/latest/index.html)) instead of `cs50.SQL`.
-* You're welcome to add additional static files to `static/`.
-* Odds are you'll want to consult [Jinja's documentation](http://jinja.pocoo.org/docs/dev/) when implementing your templates.
-* It is **reasonable** to ask others to try out (and try to trigger errors in) your site.
-* You're welcome to alter the aesthetics of the sites, as via
-  * https://bootswatch.com/,
-  * https://getbootstrap.com/docs/4.1/content/,
-  * https://getbootstrap.com/docs/4.1/components/, and/or
-  * https://memegen.link/.
-* You may find [Flask's documentation](https://flask.palletsprojects.com/en/1.1.x/quickstart/) and [Jinja's documentation](https://jinja.palletsprojects.com/en/2.11.x/templates/) helpful!
+*   To format a value as a US dollar value (with cents listed to two decimal places), you can use the `usd` filter in your Jinja templates (printing values as `{{ value | usd }}` instead of `{{ value }}`.
+*   Within the package `cs50.SQL` is an `execute` method whose first argument should be a `str` of SQL. If that `str` contains question mark parameters to which values should be bound, those values can be provided as additional named parameters to `execute`. See the implementation of `login` for one such example. The return value of `execute` is as follows:
+    *   If `str` is a `SELECT`, then `execute` returns a `list` of zero or more `dict` objects, inside of which are keys and values representing a table's fields and cells, respectively.
+    *   If `str` is an `INSERT`, and the table into which data was inserted contains an autoincrementing `PRIMARY KEY`, then `execute` returns the value of the newly inserted row's primary key.
+    *   If `str` is a `DELETE` or an `UPDATE`, then `execute` returns the number of rows deleted or updated by `str`.
+*   Recall that `cs50.SQL` will log to your terminal window any queries that you execute via `execute` (so that you can confirm whether they're as intended).
+*   Be sure to use question mark-bound parameters (i.e., a [paramstyle](https://www.python.org/dev/peps/pep-0249/#paramstyle) of `named`) when calling CS50's `execute` method, a la `WHERE ?`. Do **not** use f-strings, [`format`](https://docs.python.org/3.6/library/functions.html#format,) or `+` (i.e., concatenation), lest you risk a SQL injection attack.
+*   If (and only if) already comfortable with SQL, you're welcome to use [SQLAlchemy Core](http://docs.sqlalchemy.org/en/latest/index.html) or [Flask-SQLAlchemy](http://flask-sqlalchemy.pocoo.org/) (i.e., [SQLAlchemy ORM](http://docs.sqlalchemy.org/en/latest/index.html)) instead of `cs50.SQL`.
+*   You're welcome to add additional static files to `static/`.
+*   Odds are you'll want to consult [Jinja's documentation](http://jinja.pocoo.org/docs/dev/) when implementing your templates.
+*   It is **reasonable** to ask others to try out (and try to trigger errors in) your site.
+*   You're welcome to alter the aesthetics of the sites, as via
+    *   <https://bootswatch.com/>,
+    *   <https://getbootstrap.com/docs/5.1/content/>,
+    *   <https://getbootstrap.com/docs/5.1/components/>, and/or
+    *   <https://memegen.link/>.
+*   You may find [Flask's documentation](https://flask.palletsprojects.com/en/1.1.x/quickstart/) and [Jinja's documentation](https://jinja.palletsprojects.com/en/2.11.x/templates/) helpful!
 
 ## FAQs
 
