@@ -4,6 +4,8 @@ Implement a website via which users can "buy" and "sell" stocks, a la the below.
 
 ![C$50 Finance](finance.png)
 
+> **Deze opdracht is véél werk. Overweeg om je tijd te besteden aan herhalen en oefenen met de andere modules.**
+
 ## Background
 
 If you're not quite sure what it means to buy and sell stocks (i.e., shares of a company), head [here](https://www.investopedia.com/articles/basics/06/invest1000.asp) for a tutorial.
