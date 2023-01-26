@@ -4,6 +4,9 @@ Deze vragen zijn goede oefeningen voor het tentamen. Op het tentamen zelf zul je
 
 Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de UNIX-module.
 
+De commando's die je moet kennen staan expliciet vermeld op de [pagina van de Software Carpentry workshop](/unix/carpentry).
+
+
 ## Commando's
 
 Beantwoord de volgende vragen. Geef altijd een concreet en compleet commando. Als er geen file- of directorynaam is opgegeven moet je zelf een naam verzinnen.
