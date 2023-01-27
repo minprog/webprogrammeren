@@ -19,7 +19,7 @@ Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op h
         5           Marge  Programming 1    8.0
         6          Ursula  Programming 2    9.0
 
-    Geef een statement om het gemiddelde cijfer van alle studenten uit te rekenen en in aflopende volgorde te sorteren.
+    Geef een statement om het gemiddelde cijfer van alle studenten uit te rekenen en in aflopende volgorde te sorteren. De gewenste uitvoer:
 
         student_name
         Ursula            9.25
@@ -43,7 +43,7 @@ Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op h
         4        Morty  Programming 2    3.5
         6       Ursula  Programming 2    9.0
 
-    Geef een statement om op basis van de variabele `groups` het gemiddelde cijfer uit te rekenen voor elk van beide vakken.
+    Geef een statement om op basis van de variabele `groups` het gemiddelde cijfer uit te rekenen voor elk van beide vakken. De gewenste uitvoer:
 
         course_name
         Programming 1    7.375
@@ -64,13 +64,13 @@ Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op h
         Morty     3.5
         Ursula    9.0
 
-    Geef een statement om `series_a` af te trekken van `series_b`, om het verschil in cijfers te zien. Zorg ervoor dat alleen die studenten blijven staan die voor beide vakken een cijfer hebben. Er mogen dus geen NaN-waarden in het resultaat overblijven.
+    Geef een statement om `series_a` af te trekken van `series_b`, om het verschil in cijfers te zien. Zorg ervoor dat alleen die studenten blijven staan die voor beide vakken een cijfer hebben. Er mogen dus geen NaN-waarden in het resultaat overblijven. De gewenste uitvoer:
 
         student_name
         Morty     2.0
         Ursula    0.5
 
-4.  Schrijf een statement op basis van `series_a` dat de studenten selecteert die een cijfer hebben gehaald van 7.0 of hoger.
+4.  Schrijf een statement op basis van `series_a` dat de studenten selecteert die een cijfer hebben gehaald van 7.0 of hoger. De gewenste uitvoer:
 
         student_name
         Ursula            9.5
