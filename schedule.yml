@@ -11,6 +11,7 @@ UNIX:
 Reguliere expressies:
     Reguliere expressies: /regex/uitleg
     Opdrachten: /regex/opdrachten
+    Tentamen-oefeningen: /regex/oefeningen
 
 Databases:
     Videocollege: /databases/lecture
@@ -19,7 +20,8 @@ Databases:
     Tentamen-oefeningen: /databases/oefeningen
 
 Pandas:
-    Pandas Notebook: '/pandas'
+    Pandas Notebook: /pandas
+    Tentamen-oefeningen: /pandas/oefeningen
 
 Webtechnologie:
     Videocollege HTML: /web/lecture
