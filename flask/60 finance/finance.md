@@ -92,7 +92,7 @@ Before getting started on this assignment, we'll need to register for an API key
 
 *   Copy the key that appears under the Token column (it should begin with `pk_`).
 
-*   In a terminal window within CS50 IDE, execute:
+*   In a terminal window, execute:
 
         $ export API_KEY=value
 
@@ -106,7 +106,7 @@ Install required Python packages using `pip` or `pip3`:
 
 Start Flask's built-in web server (within `finance/`):
 
-    $ flask run
+    $ FLASK_ENV=development flask run
 
 Visit the URL outputted by `flask` to see the distribution code in action. You won't be able to log in or register, though, just yet!
 
@@ -122,7 +122,7 @@ Take a look at the current structure (i.e., via `.tables` and `.schema`). Notice
 
 Open up `app.py`. Atop the file are a bunch of imports, among them CS50's SQL module and a few helper functions. More on those soon.
 
-After configuring [Flask](http://flask.pocoo.org/), notice how this file disables caching of responses (provided you're in debugging mode, which you are by default on CS50 IDE), lest you make a change to some file but your browser not notice. Notice next how it configures [Jinja](http://jinja.pocoo.org/) with a custom "filter," `usd`, a function (defined in `helpers.py`) that will make it easier to format values as US dollars (USD). It then further configures Flask to store [sessions](http://flask.pocoo.org/docs/1.0/quickstart/#sessions) on the local filesystem (i.e., disk) as opposed to storing them inside of (digitally signed) cookies, which is Flask's default. The file then configures CS50's SQL module to use `finance.db`, a SQLite database whose contents we'll soon see!
+After configuring [Flask](http://flask.pocoo.org/), notice how this file disables caching of responses, lest you make a change to some file but your browser not notice. Notice next how it configures [Jinja](http://jinja.pocoo.org/) with a custom "filter," `usd`, a function (defined in `helpers.py`) that will make it easier to format values as US dollars (USD). It then further configures Flask to store [sessions](http://flask.pocoo.org/docs/1.0/quickstart/#sessions) on the local filesystem (i.e., disk) as opposed to storing them inside of (digitally signed) cookies, which is Flask's default. The file then configures CS50's SQL module to use `finance.db`, a SQLite database whose contents we'll soon see!
 
 Thereafter are a whole bunch of routes, only two of which are fully implemented: `login` and `logout`. Read through the implementation of `login` first. Notice how it uses `db.execute` (from CS50's library) to query `finance.db`. And notice how it uses `check_password_hash` to compare hashes of users' passwords. Finally, notice how `login` "remembers" that a user is logged in by storing his or her `user_id`, an INTEGER, in `session`. That way, any of this file's routes can check which user, if any, is logged in. Meanwhile, notice how `logout` simply clears `session`, effectively logging a user out.
 
@@ -308,7 +308,7 @@ It is **reasonable** to look at the staff's HTML and CSS.
 
 ### ImportError: No module named 'application'
 
-By default, `flask` looks for a file called `application.py` in your current working directory (because we've configured the value of `FLASK_APP`, an environment variable, to be `application.py`). If seeing this error, odds are you've run `flask` in the wrong directory!
+By default, `flask` looks for a file called `app.py` in your current working directory (because we've configured the value of `FLASK_APP`, an environment variable, to be `app.py`). If seeing this error, odds are you've run `flask` in the wrong directory!
 
 ### OSError: [Errno 98] Address already in use
 
