@@ -38,12 +38,14 @@ Gegeven is dit HTML-document in een bestand `about.html`:
 
 ## Opdrachten
 
-Geef complete `pup`-oneliners's om het antwoord te geven op de volgende vragen. Start met `cat about.html`. Geef ook de uitkomst!
+Geef complete `pup`-oneliners om het antwoord te geven op de volgende vragen. Start met `cat about.html`. Geef ook de uitkomst!
 
-1. What is the text of the h1 element in the #header div?
-1. What is the href of the first a element within the nav element?
-1. What is the text of the second p element within the #main-content div?
-1. How many a elements are within the nav element? (deze kun je beantwoorden door te combineren met een ander UNIX-commando, want pup kan niet tellen)
-1. What is the text of the p element in the #footer div?
+Je antwoorden moeten zo specifiek mogelijk zijn. Als er wordt gevraagd naar de `h2` in de tweede `div`, dan moet je niet alleen de `h2` selecteren maar `div:nth-child(2) h2`.
+
+1. What is the text of the `h1` element in the `#header` `div`?
+1. What is the href of the first `a` element within the `nav` element?
+1. What is the text of the second `p` element within the `#main-content` `div`?
+1. How many a elements are within the `nav` element? (deze kun je beantwoorden door te combineren met een ander UNIX-commando, want pup kan niet tellen)
+1. What is the text of the `p` element in the `#footer` div?
 
 (Deze oefening is gegenereerd met ChatGPT.)
