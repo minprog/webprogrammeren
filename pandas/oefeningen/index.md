@@ -6,17 +6,9 @@ Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de d
 
 Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. Je zult DataFrames en Series moeten produceren met hulp van Panda's-functionaliteit.
 
-## Database
+## Vragen
 
-Voor deze vragen gebruiken we een Dataframe uit de Pandas-notebook:
-
-    grades = pd.DataFrame([["Pascal", "Programming 2", 7.0], ["Morty", "Programming 1", 5.5], 
-                           ["Slartibartfast", "Programming 1", 6.5], ["Ursula", "Programming 1", 9.5],
-                           ["Morty", "Programming 2", 3.5], ["Marge", "Programming 1", 8.0],
-                           ["Ursula", "Programming 2", 9.0]], 
-                           columns = ["student_name", "course_name", "grade"])
-
-De Dataframe `grades` ziet er dan zo uit:
+1.  De Dataframe `grades` ziet er zo uit:
 
          student_name    course_name  grade
     0          Pascal  Programming 2    7.0
@@ -27,65 +19,65 @@ De Dataframe `grades` ziet er dan zo uit:
     5           Marge  Programming 1    8.0
     6          Ursula  Programming 2    9.0
 
-En de variabele `groups` bevat een gegroepeerde versie:
+    Geef een statement om het gemiddelde cijfer van alle studenten uit te rekenen en in aflopende volgorde te sorteren.
 
-    Programming 1
-         student_name    course_name  grade
-    1           Morty  Programming 1    5.5
-    2  Slartibartfast  Programming 1    6.5
-    3          Ursula  Programming 1    9.5
-    5           Marge  Programming 1    8.0
+        student_name
+        Ursula            9.25
+        Marge             8.00
+        Pascal            7.00
+        Slartibartfast    6.50
+        Morty             4.50
 
-    Programming 2
-      student_name    course_name  grade
-    0       Pascal  Programming 2    7.0
-    4        Morty  Programming 2    3.5
-    6       Ursula  Programming 2    9.0
+2.  De variabele `groups` bevat een gegroepeerde versie van dezelfde data:
 
-Een variabele `series_a` met de cijfers van Programmeren 1, geindexeerd op naam.
+        Programming 1
+             student_name    course_name  grade
+        1           Morty  Programming 1    5.5
+        2  Slartibartfast  Programming 1    6.5
+        3          Ursula  Programming 1    9.5
+        5           Marge  Programming 1    8.0
 
-    student_name
-    Morty             5.5
-    Slartibartfast    6.5
-    Ursula            9.5
-    Marge             8.0
+        Programming 2
+          student_name    course_name  grade
+        0       Pascal  Programming 2    7.0
+        4        Morty  Programming 2    3.5
+        6       Ursula  Programming 2    9.0
 
-En een `series_b` met de cijfers van Programmeren 2, geindexeerd op naam.
-
-    student_name
-    Pascal    7.0
-    Morty     3.5
-    Ursula    9.0
-
-
-## Vragen
-
-Gebruik bij deze vragen de bovenstaande variabelen `grades` en `groups`.
-
-1.  Schrijf een statement om een `DataFrame`-object te maken met het gemiddelde cijfer voor elk van beide vakken.
+    Geef een statement om op basis van de variabele `groups` het gemiddelde cijfer uit te rekenen voor elk van beide vakken.
 
         course_name
         Programming 1    7.375
         Programming 2    6.500
 
-2.  Morty en Ursula hebben beide vakken gevolgd, en gehaald. Maak een `Series`-object waarin het gemiddelde cijfer van elk van deze twee studenten in aflopende volgorde staat.
+3.  We geven een variabele `series_a` met de cijfers van Programmeren 1, geindexeerd op naam.
 
         student_name
-        Ursula    9.25
-        Morty     4.50
+        Morty             5.5
+        Slartibartfast    6.5
+        Ursula            9.5
+        Marge             8.0
 
-3.  Trek `series_a` af van `series_b` om het verschil in cijfers te zien. Zorg ervoor dat alleen die studenten blijven staan die voor beide vakken een cijfer hebben. Er mogen dus geen NaN-waarden in het resultaat overblijven.
+    En een variabele `series_b` met de cijfers van Programmeren 2, geindexeerd op naam.
+
+        student_name
+        Pascal    7.0
+        Morty     3.5
+        Ursula    9.0
+
+    Geef een statement om `series_a` af te trekken van `series_b`, om het verschil in cijfers te zien. Zorg ervoor dat alleen die studenten blijven staan die voor beide vakken een cijfer hebben. Er mogen dus geen NaN-waarden in het resultaat overblijven.
 
         student_name
         Morty     2.0
         Ursula    0.5
 
-4.  Schrijf een statement op basis van `series_b` om het hoogste cijfer voor Programmeren 2 te berekenen (9.0).
-
-5.  Schrijf een statement op basis van `series_a` dat de studenten geeft die een cijfer hebben gehaald van 7.0.
+4.  Schrijf een statement op basis van `series_a` dat de studenten selecteert die een cijfer hebben gehaald van 7.0 of hoger.
 
         student_name
         Ursula            9.5
         Marge             8.0
+
+<!-- 5.  Gegeven is een
+
+    Schrijf een statement om een kolom "weights" toe te voegen aan de  op basis van `series_b` om het hoogste cijfer voor Programmeren 2 te berekenen (9.0). -->
 
 (Deze oefening is **niet** gegenereerd met ChatGPT.)
