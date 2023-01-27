@@ -4,7 +4,7 @@ Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je al
 
 Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de regex-module.
 
-Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. De vraagstelling kan wat anders zijn maar je zult sowieso `grep`-commando's op basis van reguliere expressies moeten schrijven.
+Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. De vraagstelling kan wat anders zijn maar je zult sowieso `grep`-commando's op basis van reguliere expressies moeten schrijven. Alle vormen van reguliere expressies van [deze pagina](/regex/opdrachten) kunnen voorkomen.
 
 ## Tekst
 
@@ -48,8 +48,8 @@ Gebruik de volgende tekst (door Robin Langerak) als context voor de opgaven hier
 
 Schrijf voor alle opgaven een complete oneliner die het gevraagde resultaat geeft. Gebruik een vorm van `grep`, `egrep` of `fgrep`, en als invoer de bijgeleverde tekst 'Where the world ends.txt'. Geef ook expliciet aan welke regels matchen.
 
-1. Vind alle voorkomens van de tekst 'length', 'strength' of 'weight'
-2. Vind alle regels met zinnen die beginnen met het woord 'But'
-3. Vind alle regels met zinnen die eindigen op '...'. Let op dat voorkomens van '...' die niet aan het eind van de zin staan niet meetellen.
-4. Vind alle voorkomens van woorden die eindigen op 'ise'
-5. Vind alle voorkomens van woorden die eindigen op 'our', uitgezonderd de woorden 'our' en 'your'. Let op! Je mag meerdere commando's gebruiken
+1. Vind alle voorkomens van de tekst `length`, `strength` of `weight`
+2. Vind alle regels met zinnen die beginnen met het woord `But`
+3. Vind alle regels met zinnen die eindigen op `...`. Let op dat voorkomens van `...` die niet aan het eind van de zin staan niet meetellen.
+4. Vind alle voorkomens van woorden die eindigen op `ise`
+5. Vind alle voorkomens van woorden die eindigen op `our`, uitgezonderd de woorden `our` en `your`. Let op! Je mag meerdere commando's gebruiken
