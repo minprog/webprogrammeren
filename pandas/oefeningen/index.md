@@ -4,7 +4,7 @@ Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je al
 
 Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de Pandas-module.
 
-Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. Je zult DataFrames en Series moeten produceren met hulp van Panda's-functionaliteit.
+Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. Je zult DataFrames en Series moeten produceren met hulp van Pandas-functionaliteit.
 
 ## Vragen
 
