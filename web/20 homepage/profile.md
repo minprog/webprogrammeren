@@ -22,7 +22,7 @@ Here's how to download this problem's "distribution code" (i.e., starter code):
 1. Execute `unzip homepage.zip` to uncompress that file.
 1. Execute `rm homepage.zip` to delete that ZIP file.
 1. Execute `ls`. You should see a directory called `profile`, which was inside of that ZIP file.
-1. Execute `cd profile` to change into that directory.
+1. Execute `cd homepage` to change into that directory.
 1. Execute `ls`. You should see this problem's distribution, including `index.html` and `styles.css`.
 1. You can immediately start a server to view the site by running
 
@@ -33,7 +33,7 @@ in the terminal window and then opening the address <http://localhost:8080/> in 
 
 ## Specification
 
-Implement in your `profile` directory a website that must:
+Implement in your `homepage` directory a website that must:
 
 *   Contain at least four different `.html` pages, at least one of which is `index.html` (the main page of your website), and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
 *   `index.html` should include a profile picture, your name, and a short description of you and your interests.
