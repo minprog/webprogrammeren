@@ -10,14 +10,14 @@ Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op h
 
 1.  De Dataframe `grades` ziet er zo uit:
 
-         student_name    course_name  grade
-    0          Pascal  Programming 2    7.0
-    1           Morty  Programming 1    5.5
-    2  Slartibartfast  Programming 1    6.5
-    3          Ursula  Programming 1    9.5
-    4           Morty  Programming 2    3.5
-    5           Marge  Programming 1    8.0
-    6          Ursula  Programming 2    9.0
+             student_name    course_name  grade
+        0          Pascal  Programming 2    7.0
+        1           Morty  Programming 1    5.5
+        2  Slartibartfast  Programming 1    6.5
+        3          Ursula  Programming 1    9.5
+        4           Morty  Programming 2    3.5
+        5           Marge  Programming 1    8.0
+        6          Ursula  Programming 2    9.0
 
     Geef een statement om het gemiddelde cijfer van alle studenten uit te rekenen en in aflopende volgorde te sorteren.
 
