@@ -4,7 +4,7 @@ Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je al
 
 Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de regex-module.
 
-Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. De vraagstelling kan wat anders zijn maar je zult sowieso `grep`-commando's op basis van reguliere expressies moeten schrijven. Alle vormen van reguliere expressies van [deze pagina](/regex/opdrachten) kunnen voorkomen.
+Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. De vraagstelling kan wat anders zijn maar je zult sowieso `grep`-commando's op basis van reguliere expressies moeten schrijven (in feite gewoon alle stof uit het boek). Alle vormen van reguliere expressies van [de opdrachten op deze pagina](/regex/opdrachten) kunnen voorkomen.
 
 ## Tekst
 
