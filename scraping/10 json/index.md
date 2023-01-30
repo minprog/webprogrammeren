@@ -50,7 +50,7 @@ Filmpjes om JQ beter te begrijpen:
 
 Op Windows in Git Bash installeer je `jq` met dit commando:
 
-    curl -L -o ~/jq.exe https://github.com/stedolan/jq/releases/latest/download/jq-win64.exe
+    curl -L -o ~/bin/jq.exe https://github.com/stedolan/jq/releases/latest/download/jq-win64.exe
 
 Op Mac installeer je `jq` met:
 
