@@ -32,6 +32,8 @@ grades:
     json: *aftekenen
     apis: *aftekenen
     scraping: *aftekenen
+    
+    finance: *aftekenen
 
 calculation:
     eindcijfer:
@@ -72,3 +74,8 @@ scraping:
         json: 1
         apis: 1
         scraping: 1
+
+flask:
+    show_progress: true
+    submits:
+        finance: 1

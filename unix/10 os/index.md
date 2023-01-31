@@ -27,7 +27,7 @@ Beantwoord dan de vragen hieronder.
 
 6.  Waarom is het booten een noodzakelijk proces in een computer? Om deze vraag goed te kunnen beantwoorden moet je vermelden welke rol het booten heeft en je moet ook heel scherp uitleggen waarom het noodzakelijk is (waarom een computer anders niet zou kunnen werken).
 
-7.  Wat is het verschil tussen een firmware-update en een operating system-update? Om deze vraag goed te bantwoorden moet je waarschijnlijk het verschil tussen firware en een besturingssysteem uitleggen.
+7.  Wat is het technische verschil tussen een firmware-update en een operating system-update? Om deze vraag goed te bantwoorden moet je waarschijnlijk uitleggen waar firmware en besturingssysteem worden opgeslagen in een computer. Ook moet je waarschijnlijk uitzoeken waarom het boek enerzijds zegt dat ROM read-only is, maar tegelijk zegt dat een firmware-update mogelijk is. Een goede ingang hiervoor is Wikipedia over ROM.
 
 8.  Beschrijf welke opvallende dingen je hebt geleerd bij het lezen in het boek en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
 
