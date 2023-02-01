@@ -53,3 +53,5 @@ Schrijf voor alle opgaven een complete oneliner die het gevraagde resultaat geef
 3. Vind alle regels met zinnen die eindigen op `...`. Let op dat voorkomens van `...` die niet aan het eind van de zin staan niet meetellen.
 4. Vind alle voorkomens van woorden die eindigen op `ise`
 5. Vind alle voorkomens van woorden die eindigen op `our`, uitgezonderd de woorden `our` en `your`. Let op! Je mag meerdere commando's gebruiken
+
+Je oplossing moet altijd nauwkeurig aansluiten bij de omschrijving in de opgave. Het doel is niet om een zo simpel mogelijke regex te schrijven die toevallig dezelfde resultaten geeft op bovenstaande tekst, maar een regex die precies past bij de omschrijving en in principe voor **elke tekst gebruikt zou kunnen worden**.
