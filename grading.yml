@@ -89,8 +89,8 @@ flask:
 tentamen:
     show_progress: true
     submits:
-        unix: 1
-        regexes: 1
-        sql: 1
-        pandas: 1
-        scraping: 1
+        tentamen_unix: 1
+        tentamen_regexes: 1
+        tentamen_sql: 1
+        tentamen_pandas: 1
+        tentamen_scraping: 1
