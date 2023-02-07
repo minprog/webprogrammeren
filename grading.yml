@@ -79,3 +79,11 @@ flask:
     show_progress: true
     submits:
         finance: 1
+
+tentamen:
+    submits:
+        unix: 1
+        regexes: 1
+        sql: 1
+        pandas: 1
+        scraping: 1
