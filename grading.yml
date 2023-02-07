@@ -35,6 +35,12 @@ grades:
     
     finance: *aftekenen
 
+    unix: *aftekenen
+    regexes: *aftekenen
+    sql: *aftekenen
+    pandas: *aftekenen
+    scraping: *aftekenen
+
 calculation:
     eindcijfer:
         aftekenen: 0
