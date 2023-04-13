@@ -10,7 +10,7 @@ os.environ["API_KEY"] = "foo"
 
 @check50.check()
 def exists():
-    """application.py exists"""
+    """app.py exists"""
     if 'finance.zip' in os.listdir():
         check50.run(f"unzip finance.zip").exit()
 
