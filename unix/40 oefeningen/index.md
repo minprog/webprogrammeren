@@ -2,12 +2,48 @@
 
 Deze vragen zijn goede oefeningen voor het tentamen. Op het tentamen zelf zul je minder vragen krijgen over UNIX, maar verwacht een mix van onderstaande. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van de commando's en wat ze doen. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van de Software Carpentry-workshop.
 
-Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de UNIX-module.
-
 De commando's die je moet kennen staan expliciet vermeld op de [pagina van de Software Carpentry workshop](/unix/carpentry).
 
 
-## Commando's
+## Behandelde commando's
+
+Algemeen:
+
+- man
+
+Navigatie door directories:
+
+- ls, ls --help, ls -F, ls -l, ls -h, ls -r, ls -t
+- pwd
+- cd, cd -, cd ..
+
+Files en directories manipuleren:
+
+- mkdir, mkdir -p
+- touch
+- mv
+- cp, cp -r
+- rm, rm -i, rm -r
+
+Data processing:
+
+- wc, wc -l
+- sort, sort -n, sort -r
+- head, head -n
+- echo
+- tail, tail -n
+- cut, cut -d, cut -f
+- uniq, uniq -c
+- cat
+
+Daarnaast is het voor UNIX nodig om te weten:
+
+- hoe paths werken (van files en directories)
+- hoe wildcards werken
+- hoe pipes en redirects werken
+
+
+## Vragen over commando's
 
 Beantwoord de volgende vragen. Geef altijd een concreet en compleet commando. Als er geen file- of directorynaam is opgegeven moet je zelf een naam verzinnen.
 
@@ -21,7 +57,7 @@ Beantwoord de volgende vragen. Geef altijd een concreet en compleet commando. Al
 1. Wat is het commando om hele map te kopiëren naar een andere locatie?
 1. Hoe verwijder je een bestand?
 
-## One-liners
+## Opgaven met one-liners
 
 Gegeven dit bestand:
 

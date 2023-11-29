@@ -14,43 +14,6 @@ Nu kun je aan de slag met een uitgebreide UNIX-workshop van [Software carpentry]
 
     Tip: je kunt voor zo'n praktische opdracht als deze ook screenshots maken en opnemen in je PDF om te laten zien wat er bijvoorbeeld mis ging.
 
-## Behandelde commando's
-
-Algemeen:
-
-- man
-
-Navigatie door directories:
-
-- ls, ls --help, ls -F, ls -l, ls -h, ls -r, ls -t
-- pwd
-- cd, cd -, cd ..
-
-Files en directories manipuleren:
-
-- mkdir, mkdir -p
-- touch
-- mv
-- cp, cp -r
-- rm, rm -i, rm -r
-
-Data processing:
-
-- wc, wc -l
-- sort, sort -n, sort -r
-- head, head -n
-- echo
-- tail, tail -n
-- cut, cut -d, cut -f
-- uniq, uniq -c
-- cat
-
-Daarnaast is het voor UNIX nodig om te weten:
-
-- hoe paths werken (van files en directories)
-- hoe wildcards werken
-- hoe pipes en redirects werken
-
 ## Nakijken
 
 Deze opdracht wordt afgetekend. Lever daarom eerst alles in, en kom dan langs bij een laptopcollege om dat te regelen. Aftekenen kan niet op afstand.

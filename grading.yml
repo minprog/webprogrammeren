@@ -43,46 +43,72 @@ grades:
 
 calculation:
     eindcijfer:
-        aftekenen: 0
-        website: 25
+        unix: 3
+        regexes: 2
+        databases: 3
+        pandas: 5
+        webtech: 2
+        scraping: 2
+        flask: 3
+        # aftekenen: 0
+        # website: 25
 
 unix:
     show_progress: true
+    type: points
+    minimum: 10
     submits:
         operating-systems: 1
         file-systems: 1
         software-carpentry: 1
+        tentamen_unix: 1
 
 regexes:
     show_progress: true
+    type: points
+    minimum: 10
     submits:
         regular-expressions: 1
+        tentamen_regexes: 1
 
 databases:
     show_progress: true
+    type: points
+    minimum: 10
     submits:
         movies: 1
         fiftyville: 1
+        tentamen_sql: 1
 
 pandas:
     show_progress: true
+    type: points
+    minimum: 10
     submits:
         pandas: 1
+        tentamen_pandas: 1
 
-webtechnologie:
+webtech:
     show_progress: true
+    type: points
+    minimum: 10
     submits:
         homepage: 1
 
 scraping:
     show_progress: true
+    type: points
+    minimum: 10
     submits:
         json: 1
         apis: 1
         scraping: 1
+        tentamen_scraping: 1
 
 flask:
     show_progress: true
+    type: points
+    minimum: 10
     submits:
         finance: 1
 

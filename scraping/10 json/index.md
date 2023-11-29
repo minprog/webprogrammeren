@@ -31,7 +31,7 @@ Naast arrays en objects zijn er nog slechts twee soorten informatie in JSON (typ
 
 ## Syntax
 
-Dit alles wordt gevat in een zeer eenvoudige syntax. Er is een [formele specificatie](https://www.ecma-international.org/wp-content/uploads/ECMA-404_2nd_edition_december_2017.pdf) van deze JSON-syntax. De paragrafen 4 t/m 9 zijn de complete specificatie van de taal. Men gebruikt zogenaamde "railroad diagrams" om uit te leggen waar JSON aan moet voldoen. Zorg dat je [deze korte handleiding](https://www.ibm.com/docs/en/integration-bus/10.0?topic=diagrams-how-read-railroad) van railroad diagrams doorneemt en dan heel precies begrijpt wat een **valide** JSON-document is.
+Dit alles wordt gevat in een zeer eenvoudige syntax. Er is een [formele specificatie](https://www.ecma-international.org/wp-content/uploads/ECMA-404_2nd_edition_december_2017.pdf) van deze JSON-syntax. De paragrafen 4 t/m 9 zijn de complete specificatie van de taal.
 
 Een opmerking die wordt gemaakt in de specificatie is dat JSON weliswaar een **syntax** definieert maar dat de bijbehorende **semantiek** (betekenis van de inhoud) niet vastligt. Elke gebruiker van JSON moet afspraken maken of vastleggen over welke data precies gecommuniceerd wordt en wat je er mee kunt. Als je verwacht dat er een lijst van medewerkers wordt verstuurd dan zal de JSON wel een array zijn met daarin objecten. Als je informatie over één persoon opvraagt dan zal de JSON wel een object zijn.
 
@@ -72,4 +72,4 @@ Upload je antwoorden in een PDF met naam, studentnummer, vermelding van de vrage
 
 ## Conclusie
 
-Het is niet zo makkelijk met JSON en het commando `jq` om echt interessante queries te doen in de informatie. JSON is geen database, het is een *dataformaat*. En `jq` is vooral bedoeld om fragementen van de informatie te filteren. Wil je de informatie intern relateren en daar interessante statistieken of nieuwe informatie uithalen, dan is een database een betere tool. Je kunt dan bijvoorbeeld de JSON-data in een database importeren.
+Het is niet zo makkelijk met JSON en het commando `jq` om echt interessante queries te doen in de informatie. JSON is geen database, het is een *dataformaat*. En `jq` is vooral bedoeld om fragmenten van de informatie te filteren. Wil je de informatie intern relateren en daar interessante statistieken of nieuwe informatie uithalen, dan is een database een betere tool. Je kunt bijvoorbeeld wel de JSON-data in een database importeren.
