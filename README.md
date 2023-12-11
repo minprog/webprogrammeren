@@ -73,26 +73,27 @@ Het kan goed zijn dat je het moeilijk vindt en wat moet **schuiven** met de modu
 
 ## Punten
 
+Het aantal punten per module komt grofweg overeen met het aantal dagen van ca. 7 uur die je eraan moet besteden.
 Voor het krijgen van punten moet je aan een aantal eisen voldoen. Dat is meestal een combinatie van het huiswerk maken en op het tentamen je basiskennis aantonen.
 
 - **Homepage** 2 punten te verkrijgen mits voldaan aan:
-    - persoonlijke website voldoende en volgens de eisen ingeleverd en **afgetekend**
+    - persoonlijke website voldoende en volgens de eisen ingeleverd
 
 - **UNIX** 3 punten te verkijgen mits voldaan aan:
     - 2 schrijfopdrachten voldoende en volgens de eisen ingeleverd
-    - verslag workshop ingeleverd en daarna **afgetekend** tijdens werkcollege
+    - workshop gedaan en oefenopdrachten ingeleverd
     - op tentamen aangetoonde basiskennis middels schrijven van one-liners
 
 - **Databases** 3 punten te verkrijgen mits voldaan aan:
-    - 2 opdrachten voldoende en volgens de eisen ingeleverd en goedgekeurd door de website
+    - 2 opdrachten volgens de eisen ingeleverd en goedgekeurd door de website
     - op tentamen aangetoonde basiskennis middels schrijven van sql-queries
 
 - **Reguliere expressies** 2 punten te verkrijgen mits voldaan aan:
-    - oefenopdrachten voldoende en volgens de eisen ingeleverd en **afgetekend**
+    - oefenopdrachten voldoende en volgens de eisen ingeleverd
     - op tentamen aangetoonde basiskennis middels schrijven van grep-commando's
 
 - **Pandas** 3 punten te verkrijgen mits voldaan aan:
-    - oefenopdrachten voldoende en volgens de eisen ingeleverd en **afgetekend**
+    - oefenopdrachten voldoende en volgens de eisen ingeleverd
     - op tentamen aangetoonde basiskennis middels schrijven van Pandas-commando's
 
 - **Scraping** 2 punten te verkrijgen mits voldaan aan:
@@ -135,6 +136,4 @@ Je mag gerust op het web zoeken naar uitleg die verder gaat dan de colleges en a
 
 ### Officiële regels
 
-Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatica. De richtlijnen kun je [hier vinden](vraag ernaar als de link niet werkt).
-
-[hier vinden]: http://student.uva.nl/az/a-z-lijst/a-z-lijst/content/folder/fraude-plagiaat-en-bronvermelding/plagiaat-en-fraude.html
+Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatiekunde. De richtlijnen kun je [hier vinden](https://student.uva.nl/onderwerpen/plagiaat-en-fraude).
