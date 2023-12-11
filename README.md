@@ -55,8 +55,8 @@ De verwachting is dat de laatste module (Flask) niet door iedereen gedaan wordt.
 
 |        | ma                  | di                        | wo                      | do                         | vr                                                |
 |--------|---------------------|---------------------------|-------------------------|----------------------------|---------------------------------------------------|
-| week 1 | homepage<br>lecture | **carpentry<br>workshop** | homepage                | homepage                   | unix                                              |
-|        | homepage            | unix                      | unix                    | unix                       | **deadline homepage**                             |
+| week 1 | homepage<br>lecture | **carpentry<br>workshop** | unix                    | unix                       | unix                                              |
+|        | homepage            | unix                      | homepage                | homepage                   | **deadline homepage**                             |
 | week 2 | unix                | **database<br>workshop**  | fiftyville              | fiftyville                 | **pre-tentamen<br>unix & db**                     |
 |        | database<br>lecture | movies                    | movies                  | regex                      | regex                                             |
 | week 3 | regex               | **pandas<br>workshop**    | pandas                  | pandas                     | pandas                                            |
