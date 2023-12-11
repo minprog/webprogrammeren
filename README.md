@@ -29,29 +29,35 @@ In vier weken ga je aan de slag met diverse platforms voor dataverwerking en web
 
 ## Docenten en assistenten
 
-De docenten bij dit vak zijn Martijn Stegeman en Imane Tarrahi. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <python@proglab.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is: Nedim Bjelić, Tim van Dijk, Mayla Kersten, Souad Laaziz, Stijn Lakeman, Kato Schmidt en Max Westerman. 
+De docenten bij dit vak zijn Martijn Stegeman en Imane Tarrahi. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <python@proglab.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is: Pim Dijkhuizen, Moad Matoug, Melih Metin, Floor van Steijn en Floor Verkade.
 
 
 ## Onderwerpen
 
 We behandelen uiteenlopende onderwerpen in modules:
 
-1. **UNIX (essentieel).** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX shell.
-2. **Reguliere expressies (basisvaardigheid).** Leren hoe je teksten kunt filteren en selecteren met hulp van reguliere expressies en het commando `grep`.
-2. **Databases (basisvaardigheid).** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
-3. **Pandas (basisvaardigheid).** Data modelleren in Pandas zodat je Python kunt gebruiken om grote datasets te analyseren. Je gaat oefenen met allerlei commando's die je hiervoor kunt gebruiken.
-4. **Webtechnologie (basisvaardigheid).** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Kennis maken met CSS en Javascript.
-4. **Scraping (basisvaardigheid).** Oefenen met het geautomatiseerd scrapen van informatie van websites, om deze informatie verder te kunnen verwerken in eigen programma's.
-5. **Flask (geavanceerd).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
+1. **Homepage (basisvaardigheid).** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Kennis maken met CSS en Javascript.
+2. **UNIX (essentieel).** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX shell.
+3. **Databases (basisvaardigheid).** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
+4. **Reguliere expressies (basisvaardigheid).** Leren hoe je teksten kunt filteren en selecteren met hulp van reguliere expressies en het commando `grep`.
+5. **Pandas (basisvaardigheid).** Data modelleren in Pandas zodat je Python kunt gebruiken om grote datasets te analyseren. Je gaat oefenen met allerlei commando's die je hiervoor kunt gebruiken.
+6. **Scraping (basisvaardigheid).** Oefenen met het geautomatiseerd scrapen van informatie van websites, om deze informatie verder te kunnen verwerken in eigen programma's.
+7. **Flask (geavanceerd).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
 
-Alle modules zijn individueel ("vroeger" was er een groepsproject in dit vak, maar gezien de grote hoeveelheid groepsprojecten en de werkdruk leek het een beter plan om nu eens individueel werk te doen).
+Alle modules bestaan uit individuele opdrachten.
 
-Sommige modules ga je aftekenen bij de docenten. Je laat dan zien wat je gedaan hebt en je vertelt hoe het in elkaar zit. Waarschijnlijk moet je ook nog een vraag beantwoorden over je werk.
-
-De verwachting is dat de laatste module (Flask) niet door iedereen gedaan wordt. De module telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
+De verwachting is dat de laatste module (Flask) niet door iedereen volledig gedaan wordt. De module telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
 
 
-## Deadlines
+## Kalender
+
+De activiteiten zijn in de weken als volgt ingepland. Elke week zijn er ongeveer twee onderwerpen. Je kunt voor een deel zelf schuiven met activiteiten binnen de week.
+
+De **workshops** vinden plaats tijdens de les op dinsdag, en hebben als doel om te zorgen dat je goed op weg bent en geen installatie- of configuratieproblemen hebt.
+
+Er zijn vaste **deadlines** voor de opdrachten Homepage en Finance. Deze opdrachten worden na de genoemde datum nagekeken en kunnen dan niet meer worden ingeleverd.
+
+Het kan goed zijn dat je het moeilijk vindt en wat moet **schuiven** met de modules. Het is akkoord om dit te doen, maar je moet wel elke week voortgang maken en inleveren.
 
 |        | ma                  | di                        | wo                      | do                         | vr                                                |
 |--------|---------------------|---------------------------|-------------------------|----------------------------|---------------------------------------------------|
@@ -64,39 +70,18 @@ De verwachting is dat de laatste module (Flask) niet door iedereen gedaan wordt.
 | week 4 | flask<br>lecture    | finance                   | finance                 | tentamen-<br>voorbereiding | tentamen-<br>voorbereiding                        |
 |        | finance             | finance                   | **deadline<br>finance** | **13:00<br>q&a sessie**    | **tentamen<br>unix,db,regex,<br>pandas,scraping** |
 
-De volgende deadlines gelden. Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. Dit moet dan wel zin hebben, want de laatste deadline (2 februari) kan sowieso niet verschoven worden. Bij achterlopen moet je dus overleggen met de docenten en advies vragen op welke modules je het beste kunt focussen.
-
-
-
-
-| Onderwerp            |                     Deadline |
-|----------------------|-----------------------------:|
-| Webtechnologie       |     dinsdag 30 januari 17:00 |
-| UNIX                 |   donderdag 12 januari 13:00 |
-| Reguliere expressies |     vrijdag 13 januari 17:00 |
-| Databases            |    woensdag 18 januari 17:00 |
-| Pandas               |   donderdag 26 januari 13:00 |
-| Scraping             |    woensdag 1 februari 17:00 |
-| Flask                |   donderdag 2 februari 17:00 |
-
-Wie op donderdag 19 januari de eerste drie onderwerpen niet helemaal perfect heeft afgetekend zal op 19 of 20 januari een gesprek hebben met één van de docenten (niet assistenten). Het doel van het gesprek is om duidelijke afspraken te maken over de afronding van het vak, eventuele omstandigheden te bespreken en advies te krijgen. Dit gesprek is verplicht.
-
-De laatste module (Flask) is veel meer dan één dag werk. Ga je lekker met de andere modules en wil je graag webapplicaties bouwen, zorg dan dat je flink vooruit loopt. De module Webapplicaties telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
-
 
 ## Punten
 
 Voor het krijgen van punten moet je aan een aantal eisen voldoen. Dat is meestal een combinatie van het huiswerk maken en op het tentamen je basiskennis aantonen.
 
+- **Homepage** 2 punten te verkrijgen mits voldaan aan:
+    - persoonlijke website voldoende en volgens de eisen ingeleverd en **afgetekend**
+
 - **UNIX** 3 punten te verkijgen mits voldaan aan:
     - 2 schrijfopdrachten voldoende en volgens de eisen ingeleverd
     - verslag workshop ingeleverd en daarna **afgetekend** tijdens werkcollege
     - op tentamen aangetoonde basiskennis middels schrijven van one-liners
-
-- **Homepage** 2 punten te verkrijgen mits voldaan aan:
-    - persoonlijke website voldoende en volgens de eisen ingeleverd en **afgetekend**
-
----
 
 - **Databases** 3 punten te verkrijgen mits voldaan aan:
     - 2 opdrachten voldoende en volgens de eisen ingeleverd en goedgekeurd door de website
@@ -106,8 +91,6 @@ Voor het krijgen van punten moet je aan een aantal eisen voldoen. Dat is meestal
     - oefenopdrachten voldoende en volgens de eisen ingeleverd en **afgetekend**
     - op tentamen aangetoonde basiskennis middels schrijven van grep-commando's
 
----
-
 - **Pandas** 3 punten te verkrijgen mits voldaan aan:
     - oefenopdrachten voldoende en volgens de eisen ingeleverd en **afgetekend**
     - op tentamen aangetoonde basiskennis middels schrijven van Pandas-commando's
@@ -115,8 +98,6 @@ Voor het krijgen van punten moet je aan een aantal eisen voldoen. Dat is meestal
 - **Scraping** 2 punten te verkrijgen mits voldaan aan:
     - 3 opdrachten voldoende en volgens de eisen ingeleverd
     - op tentamen aangetoonde basiskennis middels schrijven van scraping-oneliners voor JSON en HTML
-
----
 
 - **Flask** 3 punten te verkrijgen mits voldaan aan:
     - opdracht voldoende en volgens de eisen ingeleverd en **afgetekend**
@@ -128,9 +109,9 @@ Over het algemeen worden geen deelpunten gegeven. Zorg dus dat je complete opdra
 
 Er geldt een aanwezigheidsplicht voor alle activiteiten in het vak.
 
-Als je heel erg goed gaat, flink vooruit loopt en alle opdrachten zeer goed hebt gedaan, dan kun je bij het aftekenen ontheffing krijgen voor een groot deel van de verdere aanwezigheidsplicht. Je hoeft dan maar 1x per week aanwezig te zijn. Dit kan **niet** voor de start van het vak geregeld worden. De universiteit is een sociaal gebeuren en in de basis moet je er gewoon zijn. Alleen door de niveauverschillen is het soms niet handig. Je moet dus altijd in goed overleg met de docenten (niet de assistenten) vóórdat je afwezig bent.
+Als je heel erg goed gaat dan kun je de ruimte nemen om de opdrachten versneld af te maken. Zodra je alle opdrachten af hebt en ingeleverd, moet je nog één keer langskomen om ze te bespreken met Imane of Martijn. Dan kun je ontheffing van de aanwezigheidsplicht krijgen.
 
-Studenten die in het tweede jaar van Informatiekunde zitten en dit vak al een keer gevolgd hebben zijn uitgezonderd van de aanwezigheidsplicht. Zij moeten wél tijdens de laptopcolleges hun opdrachten komen aftekenen, en verplicht vóór de deadlines die hierboven zijn genoemd. Lukt dat niet, dan gaat de aanwezigheidsplicht gewoon gelden. Deze uitzondering geldt overigens *niet* voor studenten van andere opleidingen, of ze nu ouderejaars zijn of niet.
+Studenten die in het tweede jaar van de opleiding Informatiekunde zitten en dit vak al een keer gevolgd hebben zijn uitgezonderd van de aanwezigheidsplicht, op voorwaarde dat opdrachten en oefeningen zijn ingeleverd op de laatste dag van het betreffende onderwerp in bovenstaande kalender. Je mag sowieso gewoon komen, maar altijd alleen in de ingedeelde groep.
 
 
 ## Toetsing en eindcijfer
