@@ -11,7 +11,7 @@
     }
 </style>
 
-*Versie: Januari 2023 (versie 3)*
+*Versie: Januari 2024 (versie 1)*
 
 In vier weken ga je aan de slag met diverse platforms voor dataverwerking en webtechnieken. Elke module staat in principe op zich, maar bouwt wel enigszins op je eerder opgedane programmeerervaring. Dat betekent **niet** dat je het vak Programmeren IK gehaald moet hebben om dit vak goed te kunnen doen! Maar je moet wél een begin hebben gemaakt met programmeren en wat handigheid gekregen.
 
@@ -20,16 +20,16 @@ In vier weken ga je aan de slag met diverse platforms voor dataverwerking en web
 
 ## Rooster
 
-- Zie [Datanose voor het rooster](https://datanose.nl/#course[111981]).
-- Het rooster is niet voor alle groepen elke week 100% gelijk.
-- Alle bijeenkomsten zijn verplicht, maar voor snelle werkers zijn er uitzonderingen mogelijk (zie onder).
-- Het hertentamen van Programmeren IK is gepland op 31 januari in de avond.
-- Het tentamen van dit vak is gepland op 3 februari in de vroege middag.
+- Zie [Datanose voor het rooster](https://datanose.nl/#course[121180]).
+- Niet alle groepen hebben tegelijk les. Je moet altijd naar je eigen groep.
+- Alle bijeenkomsten zijn verplicht, tenzij je alle opdrachten van het hele vak af hebt.
+- Het hertentamen van Programmeren IK is gepland op 30 januari in de avond.
+- Het tentamen van dit vak is gepland op 2 februari in de vroege middag.
 
 
 ## Docenten en assistenten
 
-De docenten bij dit vak zijn Martijn Stegeman, Robin Langerak en Imane Tarrahi. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <python@proglab.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is: Nedim Bjelić, Tim van Dijk, Mayla Kersten, Souad Laaziz, Stijn Lakeman, Kato Schmidt en Max Westerman. 
+De docenten bij dit vak zijn Martijn Stegeman en Imane Tarrahi. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <python@proglab.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is: Nedim Bjelić, Tim van Dijk, Mayla Kersten, Souad Laaziz, Stijn Lakeman, Kato Schmidt en Max Westerman. 
 
 
 ## Onderwerpen
@@ -53,16 +53,16 @@ De verwachting is dat de laatste module (Flask) niet door iedereen gedaan wordt.
 
 ## Deadlines
 
-|        | ma                  | di                        | wo                      | do                              | vr                                            |
-|--------|---------------------|---------------------------|-------------------------|---------------------------------|-----------------------------------------------|
-| week 1 | homepage<br>lecture | **carpentry<br>workshop** | homepage                | unix                            | unix                                          |
-|        | homepage            | homepage                  | unix                    | unix                            | **deadline homepage**                         |
-| week 2 | unix                | **database<br>workshop**  | fiftyville              | fiftyville                      | **pre-tentamen<br>unix & db**                 |
-|        | database<br>lecture | movies                    | movies                  | regex                           | regex                                         |
-| week 3 | regex               | **pandas<br>workshop**    | pandas                  | pandas                          | pandas                                        |
-|        | regex               | pandas                    | scraping                | scraping                        | scraping                                      |
-| week 4 | flask<br>lecture    | finance                   | finance                 | tentamen-<br>voorbereiding      | tentamen-<br>voorbereiding                    |
-|        | finance             | finance                   | **deadline<br>finance** | **13:00 laatste<br>q&a sessie** | **tentamen<br>unix,db,regex,pandas,scraping** |
+|        | ma                  | di                        | wo                      | do                         | vr                                                |
+|--------|---------------------|---------------------------|-------------------------|----------------------------|---------------------------------------------------|
+| week 1 | homepage<br>lecture | **carpentry<br>workshop** | homepage                | homepage                   | unix                                              |
+|        | homepage            | unix                      | unix                    | unix                       | **deadline homepage**                             |
+| week 2 | unix                | **database<br>workshop**  | fiftyville              | fiftyville                 | **pre-tentamen<br>unix & db**                     |
+|        | database<br>lecture | movies                    | movies                  | regex                      | regex                                             |
+| week 3 | regex               | **pandas<br>workshop**    | pandas                  | pandas                     | pandas                                            |
+|        | regex               | pandas                    | scraping                | scraping                   | scraping                                          |
+| week 4 | flask<br>lecture    | finance                   | finance                 | tentamen-<br>voorbereiding | tentamen-<br>voorbereiding                        |
+|        | finance             | finance                   | **deadline<br>finance** | **13:00<br>q&a sessie**    | **tentamen<br>unix,db,regex,<br>pandas,scraping** |
 
 De volgende deadlines gelden. Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. Dit moet dan wel zin hebben, want de laatste deadline (2 februari) kan sowieso niet verschoven worden. Bij achterlopen moet je dus overleggen met de docenten en advies vragen op welke modules je het beste kunt focussen.
 
