@@ -1,6 +1,10 @@
 Startup:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
 
+Homepage:
+    Videocollege HTML: /web/lecture
+    Homepage: /web/homepage
+
 UNIX:
     Installatie: /install
     Besturingssystemen: /unix/os
@@ -8,24 +12,20 @@ UNIX:
     Software Carpentry UNIX: /unix/carpentry
     Tentamen-oefeningen: /unix/oefeningen
 
-Reguliere expressies:
-    Reguliere expressies: /regex/uitleg
-    Opdrachten: /regex/opdrachten
-    Tentamen-oefeningen: /regex/oefeningen
-
 Databases:
     Videocollege: /databases/lecture
     Movies: /databases/movies
     Fiftyville: /databases/fiftyville
     Tentamen-oefeningen: /databases/oefeningen
 
+Reguliere expressies:
+    Reguliere expressies: /regex/uitleg
+    Opdrachten: /regex/opdrachten
+    Tentamen-oefeningen: /regex/oefeningen
+
 Pandas:
     Pandas Notebook: /pandas
     Tentamen-oefeningen: /pandas/oefeningen
-
-Webtechnologie:
-    Videocollege HTML: /web/lecture
-    Homepage: /web/homepage
 
 Scraping:
     JSON: /scraping/json

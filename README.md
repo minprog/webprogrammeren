@@ -53,15 +53,29 @@ De verwachting is dat de laatste module (Flask) niet door iedereen gedaan wordt.
 
 ## Deadlines
 
+|        | ma                  | di                        | wo                      | do                              | vr                                            |
+|--------|---------------------|---------------------------|-------------------------|---------------------------------|-----------------------------------------------|
+| week 1 | homepage<br>lecture | **carpentry<br>workshop** | homepage                | unix                            | unix                                          |
+|        | homepage            | homepage                  | unix                    | unix                            | **deadline homepage**                         |
+| week 2 | unix                | **database<br>workshop**  | fiftyville              | fiftyville                      | **pre-tentamen<br>unix & db**                 |
+|        | database<br>lecture | movies                    | movies                  | regex                           | regex                                         |
+| week 3 | regex               | **pandas<br>workshop**    | pandas                  | pandas                          | pandas                                        |
+|        | regex               | pandas                    | scraping                | scraping                        | scraping                                      |
+| week 4 | flask<br>lecture    | finance                   | finance                 | tentamen-<br>voorbereiding      | tentamen-<br>voorbereiding                    |
+|        | finance             | finance                   | **deadline<br>finance** | **13:00 laatste<br>q&a sessie** | **tentamen<br>unix,db,regex,pandas,scraping** |
+
 De volgende deadlines gelden. Als je ziek wordt of veel moeite hebt met de stof dan kan de deadline in overleg worden uitgesteld. Dit moet dan wel zin hebben, want de laatste deadline (2 februari) kan sowieso niet verschoven worden. Bij achterlopen moet je dus overleggen met de docenten en advies vragen op welke modules je het beste kunt focussen.
+
+
+
 
 | Onderwerp            |                     Deadline |
 |----------------------|-----------------------------:|
+| Webtechnologie       |     dinsdag 30 januari 17:00 |
 | UNIX                 |   donderdag 12 januari 13:00 |
 | Reguliere expressies |     vrijdag 13 januari 17:00 |
 | Databases            |    woensdag 18 januari 17:00 |
 | Pandas               |   donderdag 26 januari 13:00 |
-| Webtechnologie       |     maandag 30 januari 17:00 |
 | Scraping             |    woensdag 1 februari 17:00 |
 | Flask                |   donderdag 2 februari 17:00 |
 
@@ -79,24 +93,30 @@ Voor het krijgen van punten moet je aan een aantal eisen voldoen. Dat is meestal
     - verslag workshop ingeleverd en daarna **afgetekend** tijdens werkcollege
     - op tentamen aangetoonde basiskennis middels schrijven van one-liners
 
-- **Reguliere expressies** 2 punten te verkrijgen mits voldaan aan:
-    - oefenopdrachten voldoende en volgens de eisen ingeleverd en **afgetekend**
-    - op tentamen aangetoonde basiskennis middels schrijven van grep-commando's
+- **Homepage** 2 punten te verkrijgen mits voldaan aan:
+    - persoonlijke website voldoende en volgens de eisen ingeleverd en **afgetekend**
+
+---
 
 - **Databases** 3 punten te verkrijgen mits voldaan aan:
     - 2 opdrachten voldoende en volgens de eisen ingeleverd en goedgekeurd door de website
     - op tentamen aangetoonde basiskennis middels schrijven van sql-queries
 
-- **Pandas** 5 punten te verkrijgen mits voldaan aan:
+- **Reguliere expressies** 2 punten te verkrijgen mits voldaan aan:
+    - oefenopdrachten voldoende en volgens de eisen ingeleverd en **afgetekend**
+    - op tentamen aangetoonde basiskennis middels schrijven van grep-commando's
+
+---
+
+- **Pandas** 3 punten te verkrijgen mits voldaan aan:
     - oefenopdrachten voldoende en volgens de eisen ingeleverd en **afgetekend**
     - op tentamen aangetoonde basiskennis middels schrijven van Pandas-commando's
-
-- **Webtechnologie** 2 punten te verkrijgen mits voldaan aan:
-    - persoonlijke website voldoende en volgens de eisen ingeleverd en **afgetekend**
 
 - **Scraping** 2 punten te verkrijgen mits voldaan aan:
     - 3 opdrachten voldoende en volgens de eisen ingeleverd
     - op tentamen aangetoonde basiskennis middels schrijven van scraping-oneliners voor JSON en HTML
+
+---
 
 - **Flask** 3 punten te verkrijgen mits voldaan aan:
     - opdracht voldoende en volgens de eisen ingeleverd en **afgetekend**
