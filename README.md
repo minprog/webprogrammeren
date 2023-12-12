@@ -44,7 +44,7 @@ We behandelen uiteenlopende onderwerpen in modules:
 6. **Scraping (basisvaardigheid).** Oefenen met het geautomatiseerd scrapen van informatie van websites, om deze informatie verder te kunnen verwerken in eigen programma's.
 7. **Flask (geavanceerd).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
 
-Alle modules bestaan uit individuele opdrachten die helpen oefenen voor toetsjes en tentamen.
+Alle modules bestaan uit individuele opdrachten die helpen oefenen voor toetsjes en tentamen. De opdrachten zelf tellen niet mee.
 
 
 ## Kalender en deadlines
@@ -88,37 +88,38 @@ Deadline Homepage: vrijdag 12 januari 17:15 uur
 Deadline Finance: woensdag 31 januari 17:15 uur
 
 
-## Punten
+## Cijfers
 
-Het aantal punten per module komt grofweg overeen met het aantal dagen van ca. 7 uur die je eraan moet besteden.
-Voor het krijgen van punten moet je aan een aantal eisen voldoen. Dat is meestal een combinatie van het huiswerk maken en op het tentamen je basiskennis aantonen.
+Het aantal punten per module komt grofweg overeen met het aantal dagen van ca. 7 uur die je eraan moet besteden. Hieronder vind je per module de punten die je kunt verdienen.
 
-- **Homepage** 2 punten te verkrijgen mits voldaan aan:
-    - persoonlijke website voldoende en volgens de eisen ingeleverd
+- **Homepage**
+    - 2 punten voor een prettig werkende en informatieve persoonlijke website, voldoende en volgens de eisen ingeleverd
 
-- **UNIX** 3 punten te verkijgen mits voldaan aan:
-    - 2 schrijfopdrachten voldoende en volgens de eisen ingeleverd
-    - workshop gedaan en oefenopdrachten ingeleverd
-    - op tentamen aangetoonde basiskennis middels schrijven van one-liners
+- **UNIX**
+    - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, inclusief het uit je hoofd kennen van diverse UNIX-commando's
+    - 3 punten mits voldaan aan:
+        - de twee schrijfopdrachten voldoende en volgens de eisen ingeleverd
+        - op tentamen aangetoonde basiskennis middels schrijven van one-liners
 
-- **Databases** 3 punten te verkrijgen mits voldaan aan:
-    - 2 opdrachten volgens de eisen ingeleverd en goedgekeurd door de website
-    - op tentamen aangetoonde basiskennis middels schrijven van sql-queries
+- **Databases**
+    - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, zoals het schrijven van eenvoudige select-queries
+    - 3 punten door op het tentamen aangetoonde kennis van sql-operaties en manieren om gegevens uit meerdere tabellen te combineren, middels het schrijven van diverse sql-queries
 
-- **Reguliere expressies** 2 punten te verkrijgen mits voldaan aan:
-    - oefenopdrachten voldoende en volgens de eisen ingeleverd
-    - op tentamen aangetoonde basiskennis middels schrijven van grep-commando's
+- **Reguliere expressies**
+    - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, door het schrijven van eenvoudige reguliere expressies
+    - 2 punten door op het tentamen aangetoonde kennis van de elementaire symbolen in reguliere expressies en hun werking, middels schrijven van grep-commando's
 
-- **Pandas** 3 punten te verkrijgen mits voldaan aan:
-    - oefenopdrachten voldoende en volgens de eisen ingeleverd
-    - op tentamen aangetoonde basiskennis middels schrijven van Pandas-commando's
+- **Pandas**
+    - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, door het schrijven van eenvoudige Pandas-operaties
+    - 3 punten door op het tentamen aangetoonde kennis van Pandas-operaties en manieren om data in Dataframes te manipuleren, middels het schrijven van codefragmenten in Python met Pandas
 
-- **Scraping** 2 punten te verkrijgen mits voldaan aan:
-    - 3 opdrachten voldoende en volgens de eisen ingeleverd
-    - op tentamen aangetoonde basiskennis middels schrijven van scraping-oneliners voor JSON en HTML
+- **Scraping**
+    - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, door het schrijven van eenvoudige commando's om informatie te scrapen uit een HTML-bestand
+    - 2 punten door op het tentamen aangetoonde kennis van CSS selectors en toepassing om informatie te scrapen uit HTML-bestanden, middels het schrijven van scraping-oneliners
 
-- **Flask** 3 punten te verkrijgen mits voldaan aan:
-    - opdracht voldoende en volgens de eisen ingeleverd en **afgetekend**
+- **Flask**
+    - 2 punten te verkrijgen mits opdracht voldoende en volgens de eisen ingeleverd
+    - 1 punt voor een extra zelfbedachte feature van de website
 
 Over het algemeen worden geen deelpunten gegeven. Zorg dus dat je complete opdrachten inlevert en eventueel nog verbetert als blijkt dat ze niet goed zijn.
 
