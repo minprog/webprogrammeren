@@ -38,8 +38,6 @@ De docenten bij dit vak zijn Martijn Stegeman en Imane Tarrahi. Zij geven het va
 
 We behandelen uiteenlopende onderwerpen in modules:
 
-1. **Homepage (basisvaardigheid).** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Kennis maken met CSS en Javascript.
-2. **UNIX (essentieel).** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX shell.
 3. **Databases (basisvaardigheid).** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
 4. **Reguliere expressies (basisvaardigheid).** Leren hoe je teksten kunt filteren en selecteren met hulp van reguliere expressies en het commando `grep`.
 5. **Pandas (basisvaardigheid).** Data modelleren in Pandas zodat je Python kunt gebruiken om grote datasets te analyseren. Je gaat oefenen met allerlei commando's die je hiervoor kunt gebruiken.
@@ -57,9 +55,13 @@ De **workshops** vinden plaats tijdens de les op dinsdag, en hebben als doel om 
 
 Het kan goed zijn dat je het moeilijk vindt en wat moet **schuiven** met de modules. Het is akkoord om dit te doen, maar je moet wel elke week voortgang maken en inleveren. In de derde week is het handig om advies te vragen aan Imane of Martijn welke onderwerpen je het beste aandacht kunt geven.
 
-De opdrachten Homepage en Finance worden na de hieronder genoemde **deadlines** nagekeken en kunnen daarna niet meer worden ingeleverd om welke reden dan ook.
+De opdrachten Homepage en Finance worden na de hieronder genoemde **deadlines** nagekeken en kunnen na het verstrijken niet meer worden ingeleverd om welke reden dan ook.
 
 ### Week 1
+
+**Homepage (basisvaardigheid).** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Kennis maken met CSS en Javascript. Je maakt een persoonlijke webpagina die aan het eind van de week af moet zijn.
+
+**UNIX (essentieel).** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX shell. Je gaat geselecteerde commando's leren en daarna ga je ze combineren tot "one-liners" waarmee je snelle bewerkingen op tekstbestanden met data kunt doen.
 
 | ma                  | di                        | wo         | do                         | vr                                                |
 |---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
