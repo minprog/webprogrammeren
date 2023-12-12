@@ -121,14 +121,16 @@ Het aantal punten per module komt grofweg overeen met het aantal dagen van ca. 7
     - 2 punten te verkrijgen mits opdracht voldoende en volgens de eisen ingeleverd
     - 1 punt voor een extra zelfbedachte feature van de website
 
-Over het algemeen worden geen deelpunten gegeven. Zorg dus dat je complete opdrachten inlevert en eventueel nog verbetert als blijkt dat ze niet goed zijn.
+Over het algemeen worden geen deelpunten gegeven.
+
+Het maximumaantal punten is 23 en daarmee is de formule voor een eindcijfer `punten / 23 * 9 + 1`.
 
 
 ## Aanwezigheidsplicht
 
 Er geldt een aanwezigheidsplicht voor alle activiteiten in het vak.
 
-Als je heel erg goed gaat dan kun je de ruimte nemen om de opdrachten versneld af te maken. Zodra je alle opdrachten af hebt en ingeleverd, moet je nog één keer langskomen om ze te bespreken met Imane of Martijn. Dan kun je ontheffing van de aanwezigheidsplicht krijgen.
+Als je heel erg goed gaat dan kun je de ruimte nemen om de opdrachten versneld af te maken. Zodra je *alle* opdrachten af hebt en ingeleverd, moet je nog één keer langskomen om ze te bespreken met Imane of Martijn. Dan kun je ontheffing van de aanwezigheidsplicht krijgen.
 
 Studenten die in het tweede jaar van de opleiding Informatiekunde zitten en dit vak al een keer gevolgd hebben zijn uitgezonderd van de aanwezigheidsplicht, op voorwaarde dat opdrachten en oefeningen zijn ingeleverd op de laatste dag van het betreffende onderwerp in bovenstaande kalender. Je mag sowieso gewoon komen, maar altijd alleen in de ingedeelde groep.
 
