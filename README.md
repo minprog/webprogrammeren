@@ -130,6 +130,10 @@ Het maximumaantal punten is 23 en daarmee is de formule voor een eindcijfer `pun
 
 Er geldt een aanwezigheidsplicht voor alle activiteiten in het vak.
 
+De ochtendsessies lopen van 9:00 tot 12:30 en de middagsessies van 13:30 tot 17:00 uur.
+
+Als je minimaal 5 van de 7 bijeenkomsten volledig bijwoont (maximaal 15 minuten te laat en maximaal 15 minuten eerder vertrekken), dan mag je het hertentamen maken. Ben je niet voldoende aanwezig dan mag je geen hertentamen maken.
+
 Als je heel erg goed gaat dan kun je de ruimte nemen om de opdrachten versneld af te maken. Zodra je *alle* opdrachten af hebt en ingeleverd, moet je nog één keer langskomen om ze te bespreken met Imane of Martijn. Dan kun je ontheffing van de aanwezigheidsplicht krijgen.
 
 Studenten die in het tweede jaar van de opleiding Informatiekunde zitten en dit vak al een keer gevolgd hebben zijn uitgezonderd van de aanwezigheidsplicht, op voorwaarde dat opdrachten en oefeningen zijn ingeleverd op de laatste dag van het betreffende onderwerp in bovenstaande kalender. Je mag sowieso gewoon komen, maar altijd alleen in de ingedeelde groep.
