@@ -139,15 +139,6 @@ Als je heel erg goed gaat dan kun je de ruimte nemen om de opdrachten versneld a
 Studenten die in het tweede jaar van de opleiding Informatiekunde zitten en dit vak al een keer gevolgd hebben zijn uitgezonderd van de aanwezigheidsplicht, op voorwaarde dat opdrachten en oefeningen zijn ingeleverd op de laatste dag van het betreffende onderwerp in bovenstaande kalender. Je mag sowieso gewoon komen, maar altijd alleen in de ingedeelde groep.
 
 
-## Toetsing en eindcijfer
-
-Elk onderwerp wordt op een eigen manier getoetst. In de meeste gevallen is er sprake van zelfstandig uitwerken van open vragen op het tentamen.
-
-Je moet voor de meeste opdrachten bijhouden welke dingen je hebt geleerd die jou opvielen, maar ook welke bronnen je hebt gebruikt en wat voor soort hulp je hebt gevraagd. Bij de meeste opdrachten wordt gevraagd om dit in te vullen. Deze opmerkingen zijn belangrijk om aan te tonen dat je productief aan de cursus hebt gewerkt. Je kunt dit deel van de opdrachten dus niet overslaan, anders kun je geen punten krijgen.
-
-Je eindcijfer is een optelling van de punten die je met de goede uitgewerkte opdrachten kunt halen. De meeste onderdelen komen ook terug op het tentamen. Daar moet je van de geleerde talen en technieken laten zien dat je ze voldoende (dus niet per se perfect) beheerst. Alleen als je dat laat zien krijg je de punten voor de betreffende onderdelen.
-
-
 ## Samenwerken
 
 Je mag met je medestudenten (en anderen) communiceren in het Nederlands of Engels over je werk in deze cursus, maar niet in de vorm van meer dan een paar regels Python, JavaScript, HTML en dergelijke talen. Als je twijfelt of je manier van werken in deze correct is, neem gerust contact op met de docenten.
