@@ -1,4 +1,4 @@
-# Inleiding Dataverwerking en Webtechnieken<br><small>Tools voor Data Science</small>
+# Inleiding Dataverwerking<br> en Webtechnieken<br><small>Tools voor Data Science</small>
 
 <style>
     h2
