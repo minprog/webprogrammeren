@@ -90,34 +90,34 @@ Deadline Finance: woensdag 31 januari 17:15 uur
 
 ## Cijfers
 
-Het aantal punten per module komt grofweg overeen met het aantal dagen van ca. 7 uur die je eraan moet besteden. Hieronder vind je per module de punten die je kunt verdienen.
+Hieronder vind je per module de punten die je kunt verdienen.
 
-- **Homepage**
+- **Homepage** (2 punten)
     - 2 punten voor een prettig werkende en informatieve persoonlijke website, voldoende en volgens de eisen ingeleverd
 
-- **UNIX**
+- **UNIX** (4 punten)
     - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, inclusief het uit je hoofd kennen van diverse UNIX-commando's
     - 3 punten mits voldaan aan:
         - de twee schrijfopdrachten voldoende en volgens de eisen ingeleverd
         - op tentamen aangetoonde basiskennis middels schrijven van one-liners
 
-- **Databases**
+- **Databases** (4 punten)
     - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, zoals het schrijven van eenvoudige select-queries
     - 3 punten door op het tentamen aangetoonde kennis van sql-operaties en manieren om gegevens uit meerdere tabellen te combineren, middels het schrijven van diverse sql-queries
 
-- **Reguliere expressies**
+- **Reguliere expressies** (3 punten)
     - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, door het schrijven van eenvoudige reguliere expressies
     - 2 punten door op het tentamen aangetoonde kennis van de elementaire symbolen in reguliere expressies en hun werking, middels schrijven van grep-commando's
 
-- **Pandas**
+- **Pandas** (4 punten)
     - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, door het schrijven van eenvoudige Pandas-operaties
     - 3 punten door op het tentamen aangetoonde kennis van Pandas-operaties en manieren om data in Dataframes te manipuleren, middels het schrijven van codefragmenten in Python met Pandas
 
-- **Scraping**
+- **Scraping** (3 punten)
     - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, door het schrijven van eenvoudige commando's om informatie te scrapen uit een HTML-bestand
     - 2 punten door op het tentamen aangetoonde kennis van CSS selectors en toepassing om informatie te scrapen uit HTML-bestanden, middels het schrijven van scraping-oneliners
 
-- **Flask**
+- **Flask** (3 punten)
     - 2 punten te verkrijgen mits opdracht voldoende en volgens de eisen ingeleverd
     - 1 punt voor een extra zelfbedachte feature van de website
 
