@@ -15,6 +15,8 @@
 
 In vier weken ga je aan de slag met diverse platforms voor dataverwerking en webtechnieken. De bedoeling is om je skills mee te geven die je op verschillende plekken in de opleiding weer nodig gaat hebben.
 
+Er zijn zeven modules en onderwerpen. Alle modules bestaan uit individuele opdrachten die helpen oefenen voor toetsjes en tentamen. De opdrachten zelf tellen meestal niet mee.
+
 Elke module van dit vak staat voor een deel op zich, maar bouwt wel enigszins op je eerder opgedane programmeerervaring. Dat betekent **niet** dat je het vak Programmeren IK gehaald moet hebben om dit vak goed te kunnen doen! Maar je moet wél een begin hebben gemaakt met programmeren en wat handigheid gekregen.
 
 **Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars.** Overweeg je je uit te schrijven, dan mag je gewoon starten met het vak. Als je je uitschrijft krijg je geen studiepunten meer, omdat de uitslag wordt vastgelegd op de laatste vrijdag van het vak (en dan is het al 2 februari). Het is ook niet mogelijk om een gedeeltelijk eindcijfer te krijgen zonder het maken van het tentamen.
@@ -32,19 +34,6 @@ Elke module van dit vak staat voor een deel op zich, maar bouwt wel enigszins op
 ## Docenten en assistenten
 
 De docenten bij dit vak zijn Martijn Stegeman en Imane Tarrahi. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <python@proglab.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is: Pim Dijkhuizen, Moad Matoug, Melih Metin, Floor van Steijn en Floor Verkade.
-
-
-## Onderwerpen
-
-We behandelen uiteenlopende onderwerpen in modules:
-
-3. **Databases (basisvaardigheid).** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
-4. **Reguliere expressies (basisvaardigheid).** Leren hoe je teksten kunt filteren en selecteren met hulp van reguliere expressies en het commando `grep`.
-5. **Pandas (basisvaardigheid).** Data modelleren in Pandas zodat je Python kunt gebruiken om grote datasets te analyseren. Je gaat oefenen met allerlei commando's die je hiervoor kunt gebruiken.
-6. **Scraping (basisvaardigheid).** Oefenen met het geautomatiseerd scrapen van informatie van websites, om deze informatie verder te kunnen verwerken in eigen programma's.
-7. **Flask (geavanceerd).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
-
-Alle modules bestaan uit individuele opdrachten die helpen oefenen voor toetsjes en tentamen. De opdrachten zelf tellen niet mee.
 
 
 ## Kalender en deadlines
@@ -72,6 +61,10 @@ Deadline Homepage: vrijdag 12 januari 17:15 uur
 
 ### Week 2
 
+**Databases (basisvaardigheid).** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
+
+**Reguliere expressies (basisvaardigheid).** Leren hoe je teksten kunt filteren en selecteren met hulp van reguliere expressies en het commando `grep`.
+
 | ma                  | di                        | wo         | do                         | vr                                                |
 |---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
 | database<br>lecture | **database<br>workshop**  | fiftyville | regex                      | **toetsje<br>databases, regex**                   |
@@ -79,12 +72,19 @@ Deadline Homepage: vrijdag 12 januari 17:15 uur
 
 ### Week 3
 
+**Pandas (basisvaardigheid).** Data modelleren in Pandas zodat je Python kunt gebruiken om grote datasets te analyseren. Je gaat oefenen met allerlei commando's die je hiervoor kunt gebruiken.
+
+**Scraping (basisvaardigheid).** Oefenen met het geautomatiseerd scrapen van informatie van websites, om deze informatie verder te kunnen verwerken in eigen programma's.
+
+
 | ma                  | di                        | wo         | do                         | vr                                                |
 |---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
 | scraping            | **pandas<br>workshop**    | pandas     | scraping                   | **toetsje<br>pandas, scraping**                   |
 | scraping            | pandas                    | pandas     | scraping                   | scraping                                          |
 
 ### Week 4
+
+**Flask (geavanceerd).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
 
 | ma                  | di                        | wo         | do                         | vr                                                |
 |---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
