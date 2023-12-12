@@ -62,6 +62,8 @@ Het kan goed zijn dat je het moeilijk vindt en wat moet **schuiven** met de modu
 | homepage<br>lecture | **carpentry<br>workshop** | unix       | homepage                   | **toetsje<br>unix**                               |
 | homepage            | unix                      | unix       | homepage                   | homepage                                          |
 
+Deadline Homepage: vrijdag 12 januari 17:15 uur
+
 **Week 2**
 
 | ma                  | di                        | wo         | do                         | vr                                                |
@@ -81,13 +83,11 @@ Het kan goed zijn dat je het moeilijk vindt en wat moet **schuiven** met de modu
 | flask<br>lecture    | finance                   | finance    | tentamen-<br>voorbereiding | tentamen-<br>voorbereiding                        |
 | finance             | finance                   | finance    | **13:00<br>q&a sessie**    | **tentamen<br>unix,db,regex,<br>pandas,scraping** |
 
+Deadline Finance: woensdag 31 januari 17:15 uur
 
-Er zijn vaste **deadlines** voor de opdrachten Homepage en Finance:
+**Deadlines**
 
-- Homepage: vrijdag 12 januari 17:15 uur
-- Finance: woensdag 31 januari 17:15 uur
-
-Deze opdrachten worden na de genoemde datum nagekeken en kunnen dan niet meer worden ingeleverd.
+De opdrachten Homepage worden na de genoemde datum nagekeken en kunnen daarna niet meer worden ingeleverd om welke reden dan ook.
 
 
 ## Punten
