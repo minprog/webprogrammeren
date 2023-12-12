@@ -57,7 +57,7 @@ Het kan goed zijn dat je het moeilijk vindt en wat moet **schuiven** met de modu
 
 De opdrachten Homepage en Finance worden na de hieronder genoemde **deadlines** nagekeken en kunnen daarna niet meer worden ingeleverd om welke reden dan ook.
 
-**Week 1**
+### Week 1
 
 | ma                  | di                        | wo         | do                         | vr                                                |
 |---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
@@ -66,22 +66,24 @@ De opdrachten Homepage en Finance worden na de hieronder genoemde **deadlines** 
 
 Deadline Homepage: vrijdag 12 januari 17:15 uur
 
-**Week 2**
+### Week 2
 
 | ma                  | di                        | wo         | do                         | vr                                                |
 |---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
 | database<br>lecture | **database<br>workshop**  | fiftyville | regex                      | **toetsje<br>databases, regex**                   |
 | movies              | movies                    | regex      | regex                      | regex                                             |
 
-**Week 3**
+### Week 3
 
 | ma                  | di                        | wo         | do                         | vr                                                |
 |---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
 | scraping            | **pandas<br>workshop**    | pandas     | scraping                   | **toetsje<br>pandas, scraping**                   |
 | scraping            | pandas                    | pandas     | scraping                   | scraping                                          |
 
-**Week 4**
+### Week 4
 
+| ma                  | di                        | wo         | do                         | vr                                                |
+|---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
 | flask<br>lecture    | finance                   | finance    | tentamen-<br>voorbereiding | tentamen-<br>voorbereiding                        |
 | finance             | finance                   | finance    | **13:00<br>q&a sessie**    | **tentamen<br>unix,db,regex,<br>pandas,scraping** |
 
