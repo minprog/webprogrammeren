@@ -55,6 +55,8 @@ De **workshops** vinden plaats tijdens de les op dinsdag, en hebben als doel om 
 
 Het kan goed zijn dat je het moeilijk vindt en wat moet **schuiven** met de modules. Het is akkoord om dit te doen, maar je moet wel elke week voortgang maken en inleveren. In de derde week is het handig om advies te vragen aan Imane of Martijn welke onderwerpen je het beste aandacht kunt geven.
 
+De opdrachten Homepage en Finance worden na de hieronder genoemde **deadlines** nagekeken en kunnen daarna niet meer worden ingeleverd om welke reden dan ook.
+
 **Week 1**
 
 | ma                  | di                        | wo         | do                         | vr                                                |
@@ -84,10 +86,6 @@ Deadline Homepage: vrijdag 12 januari 17:15 uur
 | finance             | finance                   | finance    | **13:00<br>q&a sessie**    | **tentamen<br>unix,db,regex,<br>pandas,scraping** |
 
 Deadline Finance: woensdag 31 januari 17:15 uur
-
-**Deadlines**
-
-De opdrachten Homepage worden na de genoemde datum nagekeken en kunnen daarna niet meer worden ingeleverd om welke reden dan ook.
 
 
 ## Punten
