@@ -15,7 +15,7 @@
 
 In vier weken ga je aan de slag met diverse platforms voor dataverwerking en webtechnieken. Elke module staat in principe op zich, maar bouwt wel enigszins op je eerder opgedane programmeerervaring. Dat betekent **niet** dat je het vak Programmeren IK gehaald moet hebben om dit vak goed te kunnen doen! Maar je moet wél een begin hebben gemaakt met programmeren en wat handigheid gekregen.
 
-**Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars.** Overweeg je je uit te schrijven, dan mag je gewoon starten met het vak. Als je je uitschrijft krijg je geen studiepunten meer, omdat de uitslag wordt vastgelegd op de laatste vrijdag van het vak (en dan is het al 3 februari).
+**Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars.** Overweeg je je uit te schrijven, dan mag je gewoon starten met het vak. Als je je uitschrijft krijg je geen studiepunten meer, omdat de uitslag wordt vastgelegd op de laatste vrijdag van het vak (en dan is het al 2 februari).
 
 
 ## Rooster
