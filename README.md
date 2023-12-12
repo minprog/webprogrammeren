@@ -49,26 +49,31 @@ Alle modules bestaan uit individuele opdrachten.
 De verwachting is dat de laatste module (Flask) niet door iedereen volledig gedaan wordt. De module telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
 
 
-## Kalender
+## Kalender en deadlines
 
-De activiteiten zijn in de weken als volgt ingepland. Elke week zijn er ongeveer twee onderwerpen. Je kunt voor een deel zelf schuiven met activiteiten binnen de week.
+De activiteiten zijn in de weken als volgt **ingepland**. Elke week zijn er twee onderwerpen. Je kunt voor een deel zelf schuiven met activiteiten binnen de week, maar je kunt verwachten de volle werkweek bezig te zijn met het vak.
 
 De **workshops** vinden plaats tijdens de les op dinsdag, en hebben als doel om te zorgen dat je goed op weg bent en geen installatie- of configuratieproblemen hebt.
 
-Er zijn vaste **deadlines** voor de opdrachten Homepage en Finance. Deze opdrachten worden na de genoemde datum nagekeken en kunnen dan niet meer worden ingeleverd.
+Het kan goed zijn dat je het moeilijk vindt en wat moet **schuiven** met de modules. Het is akkoord om dit te doen, maar je moet wel elke week voortgang maken en inleveren. In de derde week is het handig om advies te vragen aan Imane of Martijn welke onderwerpen je het beste aandacht kunt geven.
 
-Het kan goed zijn dat je het moeilijk vindt en wat moet **schuiven** met de modules. Het is akkoord om dit te doen, maar je moet wel elke week voortgang maken en inleveren.
+|        | ma                  | di                        | wo         | do                         | vr                                                |
+|--------|---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
+| week 1 | homepage<br>lecture | **carpentry<br>workshop** | unix       | homepage                   | **toetsje<br>unix**                               |
+|        | homepage            | unix                      | unix       | homepage                   | homepage                                          |
+| week 2 | database<br>lecture | **database<br>workshop**  | fiftyville | regex                      | **toetsje<br>databases, regex**                   |
+|        | movies              | movies                    | regex      | regex                      | regex                                             |
+| week 3 | scraping            | **pandas<br>workshop**    | pandas     | scraping                   | **toetsje<br>pandas, scraping**                   |
+|        | scraping            | pandas                    | pandas     | scraping                   | scraping                                          |
+| week 4 | flask<br>lecture    | finance                   | finance    | tentamen-<br>voorbereiding | tentamen-<br>voorbereiding                        |
+|        | finance             | finance                   | finance    | **13:00<br>q&a sessie**    | **tentamen<br>unix,db,regex,<br>pandas,scraping** |
 
-|        | ma                  | di                        | wo                      | do                         | vr                                                |
-|--------|---------------------|---------------------------|-------------------------|----------------------------|---------------------------------------------------|
-| week 1 | homepage<br>lecture | **carpentry<br>workshop** | unix                    | unix                       | unix                                              |
-|        | homepage            | unix                      | homepage                | homepage                   | **deadline homepage**                             |
-| week 2 | unix                | **database<br>workshop**  | fiftyville              | fiftyville                 | **pre-tentamen<br>unix & db**                     |
-|        | database<br>lecture | movies                    | movies                  | regex                      | regex                                             |
-| week 3 | regex               | **pandas<br>workshop**    | pandas                  | pandas                     | pandas                                            |
-|        | regex               | pandas                    | scraping                | scraping                   | scraping                                          |
-| week 4 | flask<br>lecture    | finance                   | finance                 | tentamen-<br>voorbereiding | tentamen-<br>voorbereiding                        |
-|        | finance             | finance                   | **deadline<br>finance** | **13:00<br>q&a sessie**    | **tentamen<br>unix,db,regex,<br>pandas,scraping** |
+Er zijn vaste **deadlines** voor de opdrachten Homepage en Finance:
+
+- Homepage: vrijdag 12 januari 17:15 uur
+- Finance: woensdag 31 januari 17:15 uur
+
+Deze opdrachten worden na de genoemde datum nagekeken en kunnen dan niet meer worden ingeleverd.
 
 
 ## Punten
@@ -117,7 +122,7 @@ Studenten die in het tweede jaar van de opleiding Informatiekunde zitten en dit 
 
 ## Toetsing en eindcijfer
 
-Elk onderwerp wordt op een eigen manier getoetst. In de meeste gevallen is er sprake van zelfstandig uitwerken van open vragen.
+Elk onderwerp wordt op een eigen manier getoetst. In de meeste gevallen is er sprake van zelfstandig uitwerken van open vragen op het tentamen.
 
 Je moet voor de meeste opdrachten bijhouden welke dingen je hebt geleerd die jou opvielen, maar ook welke bronnen je hebt gebruikt en wat voor soort hulp je hebt gevraagd. Bij de meeste opdrachten wordt gevraagd om dit in te vullen. Deze opmerkingen zijn belangrijk om aan te tonen dat je productief aan de cursus hebt gewerkt. Je kunt dit deel van de opdrachten dus niet overslaan, anders kun je geen punten krijgen.
 
