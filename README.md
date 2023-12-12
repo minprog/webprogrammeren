@@ -44,9 +44,7 @@ We behandelen uiteenlopende onderwerpen in modules:
 6. **Scraping (basisvaardigheid).** Oefenen met het geautomatiseerd scrapen van informatie van websites, om deze informatie verder te kunnen verwerken in eigen programma's.
 7. **Flask (geavanceerd).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
 
-Alle modules bestaan uit individuele opdrachten.
-
-De verwachting is dat de laatste module (Flask) niet door iedereen volledig gedaan wordt. De module telt wel mee, maar ook zonder deze module kun je een goed cijfer voor het vak halen.
+Alle modules bestaan uit individuele opdrachten die helpen oefenen voor toetsjes en tentamen.
 
 
 ## Kalender en deadlines
@@ -57,16 +55,32 @@ De **workshops** vinden plaats tijdens de les op dinsdag, en hebben als doel om 
 
 Het kan goed zijn dat je het moeilijk vindt en wat moet **schuiven** met de modules. Het is akkoord om dit te doen, maar je moet wel elke week voortgang maken en inleveren. In de derde week is het handig om advies te vragen aan Imane of Martijn welke onderwerpen je het beste aandacht kunt geven.
 
-|        | ma                  | di                        | wo         | do                         | vr                                                |
-|--------|---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
-| week 1 | homepage<br>lecture | **carpentry<br>workshop** | unix       | homepage                   | **toetsje<br>unix**                               |
-|        | homepage            | unix                      | unix       | homepage                   | homepage                                          |
-| week 2 | database<br>lecture | **database<br>workshop**  | fiftyville | regex                      | **toetsje<br>databases, regex**                   |
-|        | movies              | movies                    | regex      | regex                      | regex                                             |
-| week 3 | scraping            | **pandas<br>workshop**    | pandas     | scraping                   | **toetsje<br>pandas, scraping**                   |
-|        | scraping            | pandas                    | pandas     | scraping                   | scraping                                          |
-| week 4 | flask<br>lecture    | finance                   | finance    | tentamen-<br>voorbereiding | tentamen-<br>voorbereiding                        |
-|        | finance             | finance                   | finance    | **13:00<br>q&a sessie**    | **tentamen<br>unix,db,regex,<br>pandas,scraping** |
+**Week 1**
+
+| ma                  | di                        | wo         | do                         | vr                                                |
+|---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
+| homepage<br>lecture | **carpentry<br>workshop** | unix       | homepage                   | **toetsje<br>unix**                               |
+| homepage            | unix                      | unix       | homepage                   | homepage                                          |
+
+**Week 2**
+
+| ma                  | di                        | wo         | do                         | vr                                                |
+|---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
+| database<br>lecture | **database<br>workshop**  | fiftyville | regex                      | **toetsje<br>databases, regex**                   |
+| movies              | movies                    | regex      | regex                      | regex                                             |
+
+**Week 3**
+
+| ma                  | di                        | wo         | do                         | vr                                                |
+|---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
+| scraping            | **pandas<br>workshop**    | pandas     | scraping                   | **toetsje<br>pandas, scraping**                   |
+| scraping            | pandas                    | pandas     | scraping                   | scraping                                          |
+
+**Week 4**
+
+| flask<br>lecture    | finance                   | finance    | tentamen-<br>voorbereiding | tentamen-<br>voorbereiding                        |
+| finance             | finance                   | finance    | **13:00<br>q&a sessie**    | **tentamen<br>unix,db,regex,<br>pandas,scraping** |
+
 
 Er zijn vaste **deadlines** voor de opdrachten Homepage en Finance:
 
