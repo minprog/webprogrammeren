@@ -33,7 +33,7 @@ Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars. Overwee
 
 ## Docenten en assistenten
 
-De docenten bij dit vak zijn Martijn Stegeman en Imane Tarrahi. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <python@proglab.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is: Pim Dijkhuizen, Moad Matoug, Melih Metin, Floor van Steijn en Floor Verkade.
+De docenten bij dit vak zijn Martijn Stegeman en Imane Tarrahi. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <python@proglab.nl>. Daarnaast zijn er student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is: Pim Dijkhuizen, Moad Matoug, Melih Metin, Floor van Steijn en Floor Verkade.
 
 
 ## Kalender en deadlines
@@ -81,7 +81,7 @@ Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats
 
 **Pandas (basisvaardigheid).** Data modelleren in Pandas zodat je Python kunt gebruiken om grote datasets te analyseren. Je gaat oefenen met allerlei commando's die je hiervoor kunt gebruiken.
 
-**Scraping (basisvaardigheid).** Oefenen met het geautomatiseerd scrapen van informatie van websites, om deze informatie verder te kunnen verwerken in eigen programma's.
+**Scraping (basisvaardigheid).** Deze module bouwt voort op je kennis over HTML en CSS uit de module Homepage. Hier ga je oefenen met het geautomatiseerd scrapen van informatie van websites, om deze informatie verder te kunnen verwerken in eigen programma's.
 
 Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk.
 
