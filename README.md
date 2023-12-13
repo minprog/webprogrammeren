@@ -15,7 +15,7 @@
 
 In vier weken ga je aan de slag met diverse platforms voor dataverwerking en webtechnieken. De bedoeling is om je skills mee te geven die je op verschillende plekken in de opleiding weer nodig gaat hebben.
 
-Er zijn acht modules en onderwerpen. De modules bestaan uit individuele opdrachten die helpen oefenen voor toetsjes en tentamen. In enkele modules heb je huiswerkopdrachten waar je punten voor krijgt, maar meestal gaat het om oefeningen voor het tentamen. Op het tentamen moet je laten zien dat je een groot deel van de behandelde commando's en constructies uit je hoofd kent en weet hoe je ze moet toepassen.
+Er zijn acht modules en onderwerpen. De modules bestaan meestal uit individuele opdrachten die helpen oefenen voor toetsjes en tentamen. Op het tentamen moet je laten zien dat je een groot deel van de behandelde commando's en constructies uit je hoofd kent en weet hoe je ze moet toepassen. In enkele modules heb je huiswerkopdrachten waar je direct punten voor krijgt.
 
 Elke module van dit vak staat voor een deel op zich, maar bouwt wel enigszins op je eerder opgedane programmeerervaring. Dat betekent overigens niet dat je het vak Programmeren IK gehaald moet hebben om dit vak goed te kunnen doen! Maar je moet wél een begin hebben gemaakt met programmeren en wat handigheid gekregen.
 
