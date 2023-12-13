@@ -56,7 +56,7 @@ Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats
 
 | ma                  | di                        | wo         | do                         | vr                                                |
 |---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
-| homepage<br>lecture | **carpentry<br>workshop** | unix       | homepage                   | **toetsje<br>unix**                               |
+| homepage<br>lecture | **carpentry<br>workshop** | unix       | homepage                   | **toetsje:<br>unix**                               |
 | homepage            | unix                      | unix       | homepage                   | homepage                                          |
 
 Deadline Homepage: vrijdag 12 januari 17:15 uur
@@ -71,7 +71,7 @@ Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats
 
 | ma                  | di                        | wo         | do                         | vr                                                |
 |---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
-| database<br>lecture | **database<br>workshop**  | fiftyville | regex                      | **toetsje<br>databases, regex**                   |
+| database<br>lecture | **database<br>workshop**  | fiftyville | regex                      | **toetsje:<br>databases, regex**                   |
 | movies              | movies                    | regex      | regex                      | regex                                             |
 
 ### Week 3
@@ -84,7 +84,7 @@ Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats
 
 | ma                  | di                        | wo         | do                         | vr                                                |
 |---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
-| scraping            | **pandas<br>workshop**    | pandas     | scraping                   | **toetsje<br>pandas, scraping**                   |
+| scraping            | **pandas<br>workshop**    | pandas     | scraping                   | **toetsje:<br>pandas, scraping**                   |
 | scraping            | pandas                    | pandas     | scraping                   | scraping                                          |
 
 ### Week 4
@@ -96,7 +96,7 @@ Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats
 | ma                  | di                        | wo         | do                         | vr                                                |
 |---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
 | flask<br>lecture    | finance                   | finance    | tentamen-<br>voorbereiding | tentamen-<br>voorbereiding                        |
-| finance             | finance                   | finance    | **13:00<br>q&a sessie**    | **tentamen<br>unix,db,regex,<br>pandas,scraping** |
+| finance             | finance                   | finance    | **13:00<br>q&a sessie**    | **tentamen:<br>unix,db,regex,<br>pandas,scraping** |
 
 Deadline Finance: woensdag 31 januari 17:15 uur
 
@@ -105,38 +105,51 @@ Deadline Finance: woensdag 31 januari 17:15 uur
 
 Hieronder vind je per module de punten die je kunt verdienen.
 
-- **Homepage** (2 punten)
-    - 2 punten voor een prettig werkende en informatieve persoonlijke website, voldoende en volgens de eisen ingeleverd
+- **Homepage** (4 punten, huiswerk, niet herkansbaar)
+    - 5 punten voor een prettig werkende en informatieve persoonlijke website, voldoende en volgens de eisen ingeleverd
 
-- **UNIX** (4 punten)
+- **Computing** (1 punt, huiswerk, niet herkansbaar)
+    - 1 punt als je de twee schrijfopdrachten voldoende en volgens de eisen hebt ingeleverd (niet herkansbaar)
+
+- **UNIX** (5 punten)
     - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, inclusief het uit je hoofd kennen van diverse UNIX-commando's
-    - 3 punten mits voldaan aan:
-        - de twee schrijfopdrachten voldoende en volgens de eisen ingeleverd
-        - op tentamen aangetoonde basiskennis middels schrijven van one-liners
+    - 4 punten mits door op het tentamen aangetoonde kennis, middels het schrijven van one-liners met UNIX-commando's
 
-- **Databases** (4 punten)
-    - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, zoals het schrijven van eenvoudige select-queries
-    - 3 punten door op het tentamen aangetoonde kennis van sql-operaties en manieren om gegevens uit meerdere tabellen te combineren, middels het schrijven van diverse sql-queries
+- **Databases** (5 punten)
+    - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, zoals het schrijven van eenvoudige queries
+    - 4 punten door op het tentamen aangetoonde kennis van sql-operaties en manieren om gegevens uit meerdere tabellen te combineren, middels het schrijven van diverse sql-queries
 
-- **Reguliere expressies** (3 punten)
+- **Reguliere expressies** (5 punten)
     - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, door het schrijven van eenvoudige reguliere expressies
-    - 2 punten door op het tentamen aangetoonde kennis van de elementaire symbolen in reguliere expressies en hun werking, middels schrijven van grep-commando's
+    - 4 punten door op het tentamen aangetoonde kennis van de elementaire symbolen in reguliere expressies en hun werking, middels schrijven van grep-commando's
 
-- **Pandas** (4 punten)
+- **Pandas** (5 punten)
     - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, door het schrijven van eenvoudige Pandas-operaties
-    - 3 punten door op het tentamen aangetoonde kennis van Pandas-operaties en manieren om data in Dataframes te manipuleren, middels het schrijven van codefragmenten in Python met Pandas
+    - 4 punten door op het tentamen aangetoonde kennis van Pandas-operaties en manieren om data in Dataframes te manipuleren, middels het schrijven van codefragmenten in Python met Pandas
 
-- **Scraping** (3 punten)
+- **Scraping** (5 punten)
     - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, door het schrijven van eenvoudige commando's om informatie te scrapen uit een HTML-bestand
-    - 2 punten door op het tentamen aangetoonde kennis van CSS selectors en toepassing om informatie te scrapen uit HTML-bestanden, middels het schrijven van scraping-oneliners
+    - 4 punten door op het tentamen aangetoonde kennis van CSS selectors en toepassing om informatie te scrapen uit HTML-bestanden, middels het schrijven van scraping-oneliners
 
-- **Flask** (3 punten)
-    - 2 punten te verkrijgen mits opdracht voldoende en volgens de eisen ingeleverd
-    - 1 punt voor een extra zelfbedachte feature van de website
+- **Flask** (6 punten, huiswerk, niet herkansbaar)
+    - 4 punten te verkrijgen mits opdracht voldoende en volgens de eisen ingeleverd
+    - 2 punt voor een extra zelfbedachte feature van de website (vooraf af te stemmen)
 
-Over het algemeen worden geen deelpunten gegeven.
+De verdeling van punten bij het tentamen wordt duidelijk zodra je het oefententamen ontvangt in de loop van het vak.
 
-Het maximumaantal punten is 23 en daarmee is de formule voor een eindcijfer `punten / 23 * 9 + 1`.
+Het maximumaantal punten is 36 en daarmee is de formule voor een eindcijfer `punten / 36 * 9 + 1`.
+
+## Herkansing
+
+Als je voldoende aanwezig bent geweest (zie onder) mag je herkansen. Dit betreft de volledige theoretische stof, dus de volgende onderdelen:
+
+- UNIX
+- Databases
+- Reguliere expressies
+- Pandas
+- Scraping
+
+Als je het hertentamen maakt vervallen alle eerder gehaalde punten van de betreffende modules, *inclusief* die van de toetsjes. Voor elk onderdeel kun je in het hertentamen dan weer 5 punten halen.
 
 
 ## Aanwezigheidsplicht
@@ -145,9 +158,15 @@ Er geldt een aanwezigheidsplicht voor alle activiteiten in het vak.
 
 De ochtendsessies lopen van 9:00 tot 12:30 en de middagsessies van 13:30 tot 17:00 uur.
 
-Als je minimaal 5 van de 7 bijeenkomsten volledig bijwoont (maximaal 15 minuten te laat en maximaal 15 minuten eerder vertrekken), dan mag je het hertentamen maken. Ben je niet voldoende aanwezig dan mag je geen hertentamen maken.
+Als je minimaal 6 van de 7 bijeenkomsten volledig bijwoont (maximaal 15 minuten te laat en maximaal 15 minuten eerder vertrekken), dan mag je het hertentamen maken. Ben je niet voldoende aanwezig dan mag je geen hertentamen maken.
+
+Als je door overmacht niet aan deze eisen kunt voldoen dan kun je contact opnemen met de studieadviseur om een uitzondering te bespreken. Het is dan belangrijk dat je direct melding doet van je problemen en niet achteraf.
+
+### Versneld afmaken
 
 Als je heel erg goed gaat dan kun je de ruimte nemen om de opdrachten versneld af te maken. Zodra je *alle* opdrachten af hebt en ingeleverd, moet je nog één keer langskomen om ze te bespreken met Imane of Martijn. Dan kun je ontheffing van de aanwezigheidsplicht krijgen.
+
+### Al eerder gevolgd
 
 Studenten die in het tweede jaar van de opleiding Informatiekunde zitten en dit vak al een keer gevolgd hebben zijn uitgezonderd van de aanwezigheidsplicht, op voorwaarde dat opdrachten en oefeningen zijn ingeleverd op de laatste dag van het betreffende onderwerp in bovenstaande kalender. Je mag sowieso gewoon komen, maar altijd alleen in de ingedeelde groep.
 
