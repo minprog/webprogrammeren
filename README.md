@@ -116,7 +116,7 @@ Hieronder vind je per module de punten die je kunt verdienen.
 
 - **UNIX** (5 punten)
     - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, inclusief het uit je hoofd kennen van diverse UNIX-commando's
-    - 4 punten mits door op het tentamen aangetoonde kennis, middels het schrijven van one-liners met UNIX-commando's
+    - 4 punten door op het tentamen aangetoonde kennis, middels het schrijven van one-liners met UNIX-commando's
 
 - **Databases** (5 punten)
     - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, zoals het schrijven van eenvoudige queries
