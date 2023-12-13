@@ -15,11 +15,11 @@
 
 In vier weken ga je aan de slag met diverse platforms voor dataverwerking en webtechnieken. De bedoeling is om je skills mee te geven die je op verschillende plekken in de opleiding weer nodig gaat hebben.
 
-Er zijn zeven modules en onderwerpen. Alle modules bestaan uit individuele opdrachten die helpen oefenen voor toetsjes en tentamen. De opdrachten zelf tellen meestal niet mee.
+Er zijn zeven modules en onderwerpen. Alle modules bestaan uit individuele opdrachten die helpen oefenen voor toetsjes en tentamen. De opdrachten zelf tellen meestal niet mee. Op het tentamen moet je laten zien dat je een deel van de commando's en constructies uit je hoofd kent en weet hoe je ze moet toepassen.
 
 Elke module van dit vak staat voor een deel op zich, maar bouwt wel enigszins op je eerder opgedane programmeerervaring. Dat betekent **niet** dat je het vak Programmeren IK gehaald moet hebben om dit vak goed te kunnen doen! Maar je moet wél een begin hebben gemaakt met programmeren en wat handigheid gekregen.
 
-**Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars.** Overweeg je je uit te schrijven, dan mag je gewoon starten met het vak. Als je je uitschrijft krijg je geen studiepunten meer, omdat de uitslag wordt vastgelegd op de laatste vrijdag van het vak (en dan is het al 2 februari). Het is ook niet mogelijk om een gedeeltelijk eindcijfer te krijgen zonder het maken van het tentamen.
+Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars. Overweeg je je uit te schrijven per 1 februari, dan mag je gewoon starten met het vak. Maar als je je uitschrijft krijg je geen studiepunten meer, omdat de uitslag wordt vastgelegd op de laatste vrijdag van het vak (en dan is het al 2 februari). Het is dan ook niet mogelijk om een gedeeltelijk eindcijfer te krijgen.
 
 
 ## Rooster
