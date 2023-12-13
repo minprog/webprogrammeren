@@ -165,7 +165,7 @@ De ochtendsessies lopen van 9:00 tot 12:30 en de middagsessies van 13:30 tot 17:
 
 Als je minimaal 6 van de 7 bijeenkomsten volledig bijwoont (maximaal 15 minuten te laat en maximaal 15 minuten eerder vertrekken), dan mag je het hertentamen maken. Ben je niet voldoende aanwezig dan mag je geen hertentamen maken.
 
-Als je door overmacht niet aan deze eisen kunt voldoen dan kun je contact opnemen met de studieadviseur om een uitzondering te bespreken. Het is dan belangrijk dat je direct melding doet van je problemen en niet achteraf.
+Als je door overmacht niet aan deze eisen kunt voldoen dan kun je contact opnemen met de studieadviseur om een uitzondering te bespreken. Het is dan belangrijk dat je direct melding doet van je problemen en niet pas na een tijdje.
 
 ### Versneld afmaken
 
