@@ -50,6 +50,8 @@ De opdrachten Homepage en Finance worden na de hieronder genoemde **deadlines** 
 
 **Homepage (basisvaardigheid).** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Kennis maken met CSS en Javascript. Je maakt een persoonlijke webpagina die aan het eind van de week af moet zijn.
 
+**Computing (achtergrondkennis).** Begrijpen hoe computers in elkaar zitten en wat de rol van software is. Je gaat ook leren hoe bestandssystemen werken, zodat je in de volgende opdrachten goed begrijpt wat je aan het doen bent. Je beantwoordt een aantal open vragen als huiswerk over dit onderwerp.
+
 **UNIX (essentieel).** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX shell. Je gaat geselecteerde commando's leren en daarna ga je ze combineren tot "one-liners" waarmee je snelle bewerkingen op tekstbestanden met data kunt doen.
 
 Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk.
@@ -59,7 +61,7 @@ Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats
 | homepage<br>lecture | **carpentry<br>workshop** | unix       | homepage                   | **toetsje:<br>unix**                               |
 | homepage            | unix                      | unix       | homepage                   | homepage                                          |
 
-Deadline Homepage: vrijdag 12 januari 17:15 uur
+Deadline Homepage & Computing: vrijdag 12 januari 17:15 uur
 
 ### Week 2
 
@@ -106,7 +108,7 @@ Deadline Finance: woensdag 31 januari 17:15 uur
 Hieronder vind je per module de punten die je kunt verdienen.
 
 - **Homepage** (4 punten, huiswerk, niet herkansbaar)
-    - 5 punten voor een prettig werkende en informatieve persoonlijke website, voldoende en volgens de eisen ingeleverd
+    - 4 punten voor een prettig werkende en informatieve persoonlijke website, voldoende en volgens de eisen ingeleverd
 
 - **Computing** (1 punt, huiswerk, niet herkansbaar)
     - 1 punt als je de twee schrijfopdrachten voldoende en volgens de eisen hebt ingeleverd (niet herkansbaar)
