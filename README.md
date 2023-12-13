@@ -42,9 +42,9 @@ De activiteiten zijn in de weken als volgt **ingepland**. Elke week zijn er twee
 
 De **workshops** vinden plaats tijdens de les op dinsdag, en hebben als doel om te zorgen dat je goed op weg bent en geen installatie- of configuratieproblemen hebt.
 
-Het kan goed zijn dat je het moeilijk vindt en wat moet **schuiven** met de modules. Het is akkoord om dit te doen, maar je moet wel elke week voortgang maken en inleveren. In de derde week is het handig om advies te vragen aan Imane of Martijn welke onderwerpen je het beste aandacht kunt geven.
+Het kan goed zijn dat je het moeilijk vindt en wat moet **schuiven** met de modules. Het is akkoord om sommige oefeningen wat later dan gepland in te leveren. Maar je moet wel elke week voortgang maken. In de derde week is het handig om advies te vragen aan Imane of Martijn welke onderwerpen je het beste aandacht kunt geven voor het tentamen.
 
-De opdrachten Homepage en Finance worden na de hieronder genoemde **deadlines** nagekeken en kunnen na het verstrijken niet meer worden ingeleverd om welke reden dan ook.
+De opdrachten Homepage en Finance worden na de hieronder genoemde **deadlines** nagekeken en kunnen na het verstrijken van deze deadlines niet meer worden ingeleverd om welke reden dan ook.
 
 ### Week 1
 
