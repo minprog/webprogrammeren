@@ -59,7 +59,7 @@ Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats
 | ma                  | di                        | wo         | do                         | vr                                                |
 |---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
 | homepage<br>lecture | **carpentry<br>workshop** | unix       | homepage                   | **toetsje:<br>unix**                               |
-| homepage            | unix                      | unix       | homepage                   | homepage                                          |
+| leeswerk<br>computing            | unix                      | unix       | homepage                   | homepage                                          |
 
 Deadline Homepage & Computing: vrijdag 12 januari 17:15 uur
 
