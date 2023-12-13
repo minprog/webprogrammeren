@@ -99,7 +99,7 @@ Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats
 | ma                  | di                        | wo         | do                         | vr                                                |
 |---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
 | flask<br>lecture    | finance                   | finance    | tentamen-<br>voorbereiding | tentamen-<br>voorbereiding                        |
-| finance             | finance                   | finance    | **13:00<br>q&a sessie**    | **tentamen:<br>unix,db,regex,<br>pandas,scraping** |
+| finance             | finance                   | finance    | **13:00<br>vragenuur**    | **tentamen:<br>unix,db,regex,<br>pandas,scraping** |
 
 Deadline Finance: woensdag 31 januari 17:15 uur
 
