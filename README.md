@@ -138,9 +138,11 @@ Hieronder vind je per module de punten die je kunt verdienen.
     - 4 punten te verkrijgen mits opdracht voldoende en volgens de eisen ingeleverd
     - 2 punt voor een extra zelfbedachte feature van de website (vooraf af te stemmen)
 
-De verdeling van punten bij het tentamen wordt duidelijk zodra je het oefententamen ontvangt in de loop van het vak.
+Dat betekent dat je tijdens de toetsjes en het tentamen 25 punten kunt halen, en voor het praktische huiswerk nog 11 punten.
 
-Het maximumaantal punten is 36 en daarmee is de formule voor een eindcijfer `punten / 36 * 9 + 1`.
+De verdeling van punten die je bij het tentamen kunt verdienen wordt duidelijk zodra je het oefententamen ontvangt in de loop van het vak.
+
+Het totaal aantal punten is 36 en daarmee is de formule voor een eindcijfer `punten / 36 * 9 + 1`.
 
 ## Herkansing
 
