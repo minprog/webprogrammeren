@@ -54,14 +54,14 @@ De opdrachten Homepage en Finance worden na de hieronder genoemde **deadlines** 
 
 **UNIX (essentieel).** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX shell. Je gaat geselecteerde commando's leren en daarna ga je ze combineren tot "one-liners" waarmee je snelle bewerkingen op tekstbestanden met data kunt doen.
 
-Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk.
+Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
 
-| ma                  | di                        | wo         | do                         | vr                                                |
-|---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
-| homepage<br>lecture | **carpentry<br>workshop** | unix       | homepage                   | **toetsje:<br>unix**                               |
-| leeswerk<br>computing            | unix                      | unix       | homepage                   | homepage                                          |
+|         | ma                    | di                        | wo   | do       | vr                   |
+|---------|-----------------------|---------------------------|------|----------|----------------------|
+| ochtend | homepage<br>lecture   | **carpentry<br>workshop** | unix | homepage | **toetsje:<br>unix** |
+| middag  | leeswerk<br>computing | unix                      | unix | homepage | homepage             |
 
-Deadline Computing: woensdag 10 januari 17:15 uur
+Deadline Computing: woensdag 10 januari 17:15 uur  
 Deadline Homepage: vrijdag 12 januari 17:15 uur
 
 ### Week 2
@@ -70,12 +70,12 @@ Deadline Homepage: vrijdag 12 januari 17:15 uur
 
 **Reguliere expressies (basisvaardigheid).** Leren hoe je teksten kunt filteren en selecteren met hulp van reguliere expressies en het commando `grep`.
 
-Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk.
+Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
 
-| ma                  | di                        | wo         | do                         | vr                                                |
-|---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
-| database<br>lecture | **database<br>workshop**  | fiftyville | regex                      | **toetsje:<br>databases, regex**                   |
-| movies              | movies                    | regex      | regex                      | regex                                             |
+|         | ma                  | di                       | wo         | do    | vr                               |
+|---------|---------------------|--------------------------|------------|-------|----------------------------------|
+| ochtend | database<br>lecture | **database<br>workshop** | fiftyville | regex | **toetsje:<br>databases, regex** |
+| middag  | movies              | movies                   | regex      | regex | regex                            |
 
 ### Week 3
 
@@ -83,23 +83,23 @@ Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats
 
 **Scraping (basisvaardigheid).** Deze module bouwt voort op je kennis over HTML en CSS uit de module Homepage. Hier ga je oefenen met het geautomatiseerd scrapen van informatie van websites, om deze informatie verder te kunnen verwerken in eigen programma's.
 
-Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk.
+Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
 
-| ma                  | di                        | wo         | do                         | vr                                                |
-|---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
-| scraping            | **pandas<br>workshop**    | pandas     | scraping                   | **toetsje:<br>pandas, scraping**                   |
-| scraping            | pandas                    | pandas     | scraping                   | scraping                                          |
+|         | ma       | di                     | wo     | do       | vr                               |
+|---------|----------|------------------------|--------|----------|----------------------------------|
+| ochtend | scraping | **pandas<br>workshop** | pandas | scraping | **toetsje:<br>pandas, scraping** |
+| middag  | scraping | pandas                 | pandas | scraping | scraping                         |
 
 ### Week 4
 
 **Flask (geavanceerd).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
 
-Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk.
+Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
 
-| ma                  | di                        | wo         | do                         | vr                                                |
-|---------------------|---------------------------|------------|----------------------------|---------------------------------------------------|
-| flask<br>lecture    | **finance**               | finance    | tentamen-<br>voorbereiding | tentamen-<br>voorbereiding                        |
-| finance             | finance                   | finance    | **vragenuur**    | **tentamen:<br>unix,db,regex,<br>pandas,scraping** |
+|         | ma               | di      | wo      | do                         | vr                                                 |
+|---------|------------------|---------|---------|----------------------------|----------------------------------------------------|
+| ochtend | flask<br>lecture | finance | finance | tentamen-<br>voorbereiding | tentamen-<br>voorbereiding                         |
+| middag  | finance          | finance | finance | **vragenuur**              | **tentamen:<br>unix,db,regex,<br>pandas,scraping** |
 
 Deadline Finance: woensdag 31 januari 17:15 uur
 
