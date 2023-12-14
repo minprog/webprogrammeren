@@ -125,7 +125,8 @@ Hieronder vind je per module de punten die je kunt verdienen.
 
 - **Flask** (6 punten, huiswerk, niet herkansbaar)
     - 4 punten te verkrijgen mits opdracht voldoende en volgens de eisen ingeleverd
-    - 2 punt voor een extra zelfbedachte feature van de website (vooraf af te stemmen)
+    - 2 punt voor een extra zelfbedachte feature van de website  
+      (het verplichte voorstel hiervoor moet uiterlijk op 29 januari 17:15 per mail bij <mailto:python@proglab.nl> ontvangen zijn)
 
 Dat betekent dat je tijdens de toetsjes en het tentamen 25 punten kunt halen, en voor het praktische huiswerk nog 11 punten.
 
