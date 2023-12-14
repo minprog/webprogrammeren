@@ -14,7 +14,7 @@ UNIX:
     Workshop:
         Installatie: /install
         Software Carpentry UNIX: /unix/carpentry
-    Oefeningen:
+    Tentamenvoorbereiding:
         "Commando's": /unix/commandos
         Paths: /unix/paths
         One-liners: /unix/oneliners
@@ -25,30 +25,37 @@ Databases:
     Workshop:
         Movies: /databases/movies
         Fiftyville: /databases/fiftyville
-    Oefeningen:
+    Tentamenvoorbereiding:
         Oefeningen: /databases/oefeningen
 
 Reguliere expressies:
     Voorbereiding:
         Reguliere expressies: /regex/uitleg
-    Opdrachten:
+    Oefeningen:
         Regels matchen: /regex/regels
         Strings matchen: /regex/strings
         Woorden matchen: /regex/woorden
-    Oefeningen:
+    Tentamenvoorbereiding:
         Oefeningen: /regex/oefeningen
 
 Pandas:
-    Pandas Notebook: /pandas
-    Tentamen-oefeningen: /pandas/oefeningen
+    Oefeningen:
+        Pandas Notebook: /pandas
+    Tentamenvoorbereiding:
+        Oefeningen: /pandas/oefeningen
 
 Scraping:
-    JSON: /scraping/json
-    APIs: /scraping/apis
-    Scraping: /scraping/scraping
-    Tentamen-oefeningen: /scraping/oefeningen
+    Voorbereiding:
+        JSON: /scraping/json
+        APIs: /scraping/apis
+    Oefening:
+        Scraping: /scraping/scraping
+    Tentamenvoorbereiding:
+        Oefeningen: /scraping/oefeningen
 
 Flask:
-    Videocollege Flask: /flask/lecture
-    Finance: /flask/finance
-    # Eigen project: /flask/project
+    Voorbereiding:
+        Videocollege Flask: /flask/lecture
+        Extra punten: /flask/punten
+    Opdracht:
+        Finance: /flask/finance
