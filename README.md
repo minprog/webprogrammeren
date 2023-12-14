@@ -4,7 +4,7 @@
 
 In vier weken ga je aan de slag met diverse platforms voor dataverwerking en webtechnieken. De bedoeling is om je skills mee te geven die je op verschillende plekken in de opleiding weer nodig gaat hebben.
 
-Er zijn acht modules en onderwerpen. De modules bestaan meestal uit individuele opdrachten die helpen oefenen voor toetsjes en tentamen. Op het tentamen moet je laten zien dat je een groot deel van de behandelde commando's en constructies uit je hoofd kent en weet hoe je ze moet toepassen. In enkele modules heb je huiswerkopdrachten waar je direct punten voor krijgt.
+Er zijn zeven modules. Deze modules bestaan meestal uit individuele opdrachten die helpen oefenen voor toetsjes en tentamen. Op het tentamen moet je laten zien dat je een groot deel van de behandelde commando's en constructies uit je hoofd kent en weet hoe je ze moet toepassen. In enkele modules heb je huiswerkopdrachten waar je direct punten voor krijgt.
 
 Elke module van dit vak staat voor een deel op zich, maar bouwt wel enigszins op je eerder opgedane programmeerervaring. Dat betekent overigens niet dat je het vak Programmeren IK gehaald moet hebben om dit vak goed te kunnen doen! Maar je moet wél een begin hebben gemaakt met programmeren en daarin wat handigheid gekregen.
 
@@ -38,8 +38,6 @@ De opdrachten Homepage en Finance worden na de hieronder genoemde **deadlines** 
 ### Week 1
 
 **Homepage (basisvaardigheid).** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Kennis maken met CSS en Javascript. Je maakt een persoonlijke webpagina die aan het eind van de week af moet zijn.
-
-**Computing (achtergrondkennis).** Begrijpen hoe computers in elkaar zitten en wat de rol van software is. Je gaat ook leren hoe bestandssystemen werken, zodat je in de volgende opdrachten goed begrijpt wat je aan het doen bent. Je beantwoordt een aantal open vragen als huiswerk over dit onderwerp.
 
 **UNIX (essentieel).** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX shell. Je gaat geselecteerde commando's leren en daarna ga je ze combineren tot "one-liners" waarmee je snelle bewerkingen op tekstbestanden met data kunt doen.
 
@@ -98,11 +96,8 @@ Deadline Finance: woensdag 31 januari 17:15 uur
 
 Hieronder vind je per module de punten die je kunt verdienen.
 
-- **Homepage** (4 punten, huiswerk, niet herkansbaar)
-    - 4 punten voor een prettig werkende en informatieve persoonlijke website, voldoende en volgens de eisen ingeleverd
-
-- **Computing** (1 punt, huiswerk, niet herkansbaar)
-    - 1 punt als je de twee schrijfopdrachten voldoende en volgens de eisen hebt ingeleverd (niet herkansbaar)
+- **Homepage** (5 punten, huiswerk, niet herkansbaar)
+    - 5 punten voor een prettig werkende en informatieve persoonlijke website, voldoende en volgens de eisen ingeleverd
 
 - **UNIX** (5 punten)
     - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, inclusief het uit je hoofd kennen van diverse UNIX-commando's
