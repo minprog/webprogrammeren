@@ -54,7 +54,7 @@ De opdrachten Homepage en Finance worden na de hieronder genoemde **deadlines** 
 
 **UNIX (essentieel).** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX shell. Je gaat geselecteerde commando's leren en daarna ga je ze combineren tot "one-liners" waarmee je snelle bewerkingen op tekstbestanden met data kunt doen.
 
-Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
+Dit is het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
 
 |         | ma                    | di                        | wo   | do       | vr                   |
 |---------|-----------------------|---------------------------|------|----------|----------------------|
@@ -70,7 +70,7 @@ Deadline Homepage: vrijdag 12 januari 17:15 uur
 
 **Reguliere expressies (basisvaardigheid).** Leren hoe je teksten kunt filteren en selecteren met hulp van reguliere expressies en het commando `grep`.
 
-Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
+Dit is het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
 
 |         | ma                  | di                       | wo         | do    | vr                               |
 |---------|---------------------|--------------------------|------------|-------|----------------------------------|
@@ -83,7 +83,7 @@ Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats
 
 **Scraping (basisvaardigheid).** Deze module bouwt voort op je kennis over HTML en CSS uit de module Homepage. Hier ga je oefenen met het geautomatiseerd scrapen van informatie van websites, om deze informatie verder te kunnen verwerken in eigen programma's.
 
-Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
+Dit is het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
 
 |         | ma       | di                     | wo     | do       | vr                               |
 |---------|----------|------------------------|--------|----------|----------------------------------|
@@ -94,7 +94,7 @@ Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats
 
 **Flask (geavanceerd).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
 
-Dit is het werkrooster voor deze week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
+Dit is het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
 
 |         | ma               | di      | wo      | do                         | vr                                                 |
 |---------|------------------|---------|---------|----------------------------|----------------------------------------------------|
