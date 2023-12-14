@@ -1,8 +1,8 @@
 # Scraping
 
-HTML is weliswaar goed gestructureerd maar primair bedoeld om in een visuele vorm omgezet te worden in een “web browser”. Ook is HTML niet altijd zo gestructureerd dat de interessante data er makkelijk uit te halen is.
+HTML is weliswaar goed gestructureerd maar primair bedoeld om naar een visuele vorm omgezet te worden door een "web browser". Ook is HTML niet altijd zo gestructureerd dat de interessante data er makkelijk uit te halen is.
 
-Daarom is het fenomeen “scraping” bedacht, waar het doel is om interessante data toch te verkrijgen. Eén typisch voorbeeld is het scrapen van prijsinformatie van een verkoopwebsite, zodat deze kan weergegeven op een website die informatie van allerlei verkopers bij elkaar wil plaatsen. Winkels willen hun data enerzijds liever niet afstaan, maar tegelijk willen ze hun prijzen wel publiceren voor consumenten. Daarom is zulke informatie vaak wel te scrapen.
+Daarom is het fenomeen "scraping" bedacht, waar het doel is om interessante data toch te verkrijgen. Eén typisch voorbeeld is het scrapen van prijsinformatie van een verkoopwebsite, zodat deze kan weergegeven op een website die informatie van allerlei verkopers bij elkaar wil plaatsen. Winkels willen hun data enerzijds liever niet afstaan, maar tegelijk willen ze hun prijzen wel publiceren voor consumenten. Daarom is zulke informatie vaak wel te scrapen.
 
 Je kunt scraping ook gebruiken voor bijvoorbeeld dataverzameling voor onderzoek. Als je wil onderzoeken hoe informatie wordt geformuleerd op een bepaalde website, of je hebt informatie nodig van, bijvoorbeeld, alle medewerkers van de UvA, dan kun je daar scraping voor inzetten.
 
