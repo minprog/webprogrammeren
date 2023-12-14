@@ -4,9 +4,22 @@ In deze volgende opgaven ga je op zoek naar **woorden** die matchen. De input is
 
 Daarbij kijken we enerzijds naar het zoeken van woorden in regels, waarbij de hele regel geprint wordt (alleen de optie `-w`); en anderzijds naar het zoeken van alleen de woorden zelf, waarbij als resultaat de woorden geprint worden (de gecombineerde optie `-o -w`).
 
+Om een voorbeeld te geven gebruiken we weer `zin.txt`:
+
+    woorden schieten
+    tekort maar daarna
+    blijft alles hangen
+
+Een `grep`-commando om hele woorden te selecteren met voorbeeld-output:
+
+    $ grep -o -w "s.*"
+    schieten
+
+Vergelijk met de vorige pagina's en begrijp waarom dit zo werkt voordat je gaat oefenen. Bespreek altijd met je medestudenten en de assistenten als je iets niet begrijpt.
+
 ## Opdrachten
 
-Beantwoord de vragen hieronder. Het doel is om te experimenteren en uit te vogelen hoe alles werkt. Probeer het antwoord niet direct op te zoeken maar denk goed na welke onderdelen van reguliere expressies je kunt combineren om het doel te bereiken. Vraag ook hulp waar nodig!
+Het doel van deze opgaven is om te experimenteren en uit te vogelen hoe alles werkt. Probeer het antwoord niet direct op te zoeken maar denk goed na welke onderdelen van reguliere expressies je kunt combineren om het doel te bereiken. Vraag ook hulp waar nodig!
 
 1.  Geef een compleet grep-commando waarmee je elke regel selecteert waarin het woord (dus niet de string) `we` staat. Bedenk voorbeelden die matchen en voorbeelden die niet matchen.
 

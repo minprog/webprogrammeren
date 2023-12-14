@@ -2,13 +2,28 @@
 
 In deze opgaven ga je op zoek naar **regels** die matchen in een tekstbestand. De output bestaat uit de regels (ook wel "zinnen" genoemd) waarin een match voorkomt. Dit is een standaard-gebruik van `grep`.
 
-Voor deze opdrachten moet je reguliere expressies schrijven en voorbeelden geven die wél en niet werken. Je formuleert je antwoord als een `grep`-commando. Gebruik de UNIX manual pages op jouw systeem om te juiste opties (flags) te vinden die je nodig hebt.
+Als we het volgende tekstbestand `zin.txt` hebben:
+
+    woorden schieten
+    tekort maar daarna
+    blijft alles hangen
+
+En we gebruiken het commando `grep` met een reguliere expressie die matcht op de letter `s` of de letter `t` aan het begin van een woord:
+
+    $ grep "\b[st]" zin.txt
+
+Dan zal de output zijn:
+
+    woorden schieten
+    tekort maar daarna
+
+Voor onderstaande opdrachten formuleer je je antwoord ook als een `grep`-commando. Je ziet dat de reguliere expressie tussen aanhalingstekens wordt gegeven.
 
 Als je testbestanden maakt voor de opdrachten, doe dat dan niet in Windows met Notepad of Atom. Gebruik in plaats daarvan `nano` (zoals uitgelegd in de Software Carpentry workshop). Dan zijn de line endings correct voor gebruik van `grep`. Als je er technisch niet uitkomt, vraag dan ook hulp!
 
-## Opdrachten
+## Opgaven
 
-Beantwoord de vragen hieronder. Het doel is om te experimenteren en uit te vogelen hoe alles werkt. Probeer het antwoord niet direct op te zoeken maar denk goed na welke onderdelen van reguliere expressies je kunt combineren om het doel te bereiken. Vraag ook hulp waar nodig!
+Het doel van deze opgaven is om te experimenteren en uit te vogelen hoe alles werkt. Probeer het antwoord niet direct op te zoeken maar denk goed na welke onderdelen van reguliere expressies je kunt combineren om het doel te bereiken. Vraag ook hulp waar nodig!
 
 1.  Geef een compleet grep-commando waarmee je elke regel selecteert waar aan het eind van de regel een punt (`.`) staat. Bedenk voorbeeldzinnen die matchen en zinnen die niet matchen.
 
