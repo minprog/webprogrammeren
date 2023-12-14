@@ -2,15 +2,20 @@ Startup:
     "Lees allereerst even rustig de studiewijzer door": /syllabus
 
 Homepage:
-    Leer over internet en HTML: /web/lecture
-    Maak je eigen Homepage: /web/homepage
+    Voorbereiding:
+        Leer over internet en HTML: /web/lecture
+    Opdracht:
+        Maak je eigen Homepage: /web/homepage
 
 UNIX:
-    Installatie: /install
-    Besturingssystemen: /unix/os
-    Bestandssystemen: /unix/fs
-    Software Carpentry UNIX: /unix/carpentry
-    Tentamen-oefeningen: /unix/oefeningen
+    Voorbereiding:
+        Besturingssystemen: /unix/os
+        Bestandssystemen: /unix/fs
+    Workshop:
+        Installatie: /install
+        Software Carpentry UNIX: /unix/carpentry
+    Oefeningen:
+        Oefeningen: /unix/oefeningen
 
 Databases:
     Videocollege: /databases/lecture
