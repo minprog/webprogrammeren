@@ -33,6 +33,12 @@ grades:
     toetsje_pandas: *toetsje
     toetsje_scraping: *toetsje
 
+    tentamen_unix: *aftekenen
+    tentamen_databases: *aftekenen
+    tentamen_regexes: *aftekenen
+    tentamen_pandas: *aftekenen
+    tentamen_scraping: *aftekenen
+
     hertentamen_unix: *aftekenen
     hertentamen_databases: *aftekenen
     hertentamen_regexes: *aftekenen
