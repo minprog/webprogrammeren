@@ -1,4 +1,10 @@
-# Databases and SQL
+# Databases en SQL
+
+1. Bestudeer onderstaand videocollege over databases,
+2. oefen met de opdrachten Movies en Fiftyville,
+3. en maak de tentamen-oefeningen.
+
+## Video
 
 Bekijk het videocollege van David Malan bij Harvard voor een inleiding in databases en het gebruik van SQL. Hou aantekeningen bij van dingen die opvielen en/of moeilijk zijn.
 
