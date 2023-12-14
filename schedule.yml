@@ -31,7 +31,7 @@ Databases:
 Reguliere expressies:
     Overzicht en theorie:
         Reguliere expressies: /regex/uitleg
-    Oefeningen:
+    Technieken:
         Regels matchen: /regex/regels
         Strings matchen: /regex/strings
         Woorden matchen: /regex/woorden
@@ -46,10 +46,9 @@ Pandas:
 
 Scraping:
     Overzicht en theorie:
-        JSON: /scraping/json
-        APIs: /scraping/apis
-    Oefening:
-        Scraping: /scraping/scraping
+        Scraping: /scraping
+    Technieken:
+        Werken met Pup: /scraping/pup
     Tentamenvoorbereiding:
         Oefeningen: /scraping/oefeningen
 
