@@ -1,8 +1,6 @@
 # Oefeningen
 
-Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van Pandas en de operaties die je kunt uitvoeren op Dataframes en Series. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van het de Notebook of externe bronnen over Pandas.
-
-Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de Pandas-module.
+Deze vragen zijn goede oefeningen voor toetsje en tentamen. Je hebt parate kennis nodig van Pandas en de operaties die je kunt uitvoeren op Dataframes en Series. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van de Notebook of externe bronnen over Pandas.
 
 Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. Je zult DataFrames en Series moeten produceren met hulp van Pandas-functionaliteit.
 
@@ -75,9 +73,5 @@ Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op h
         student_name
         Ursula            9.5
         Marge             8.0
-
-<!-- 5.  Gegeven is een
-
-    Schrijf een statement om een kolom "weights" toe te voegen aan de  op basis van `series_b` om het hoogste cijfer voor Programmeren 2 te berekenen (9.0). -->
 
 (Deze oefening is **niet** gegenereerd met ChatGPT.)

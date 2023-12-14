@@ -1,0 +1,57 @@
+# Scraping
+
+In een vorige module heb je kennis gemaakt met CSS, maar je hebt hier nog niet systematisch mee geoefend.
+
+1. Ga naar [deze website om extra te oefenen](https://flukeout.github.io/). Zorg dat je de belangrijkste CSS-selectors kent. In de balk staat uitleg! Let op dat in de oefening speciale HTML-elementen worden gebruik zoals `<bento>`. Deze bestaan normaal niet, maar de CSS werkt exact op dezelfde manier als bijvoorbeeld bij `<h1>`.
+
+2. Ga dan naar de [MDN-pagina over selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Selectors_Tasks) om nog meer te oefenen. Download hier de HTML-bestanden en pas de CSS zo aan dat het precies klopt met het gevraagde!
+
+## Pup
+
+Lees de [README](https://github.com/EricChiang/pup) van de tool `pup`. Met deze tool kun je informatie "scrapen" uit HTML-pagina's. HTML-pagina's bevatten bijvoorbeeld interessante informatie zoals de prijs van een product, of beurskoersen, of het laatste bedrijfsnieuws. Door te "scrapen" filteren we deze relevante informatie uit HTML-pagina's. Deze informatie kun je laten zien in je terminal, maar je kunt dit ook gebruiken voor bijvoorbeeld dataverzameling voor onderzoek.
+
+Scraping met `pup` gaat op basis van de selectors die ook in CSS gebruikt worden. Hiermee kun je aangeven welk deel van de HTML je wilt hebben. Op de gelinkte GitHub-pagina van `pup` staat ook een lijstje van de ondersteunde CSS-selectors in deze tool.
+
+Installatie voor Ubuntu en WSL:
+
+    curl -LO https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.zip
+    unzip pup_v*
+
+Dit geeft in de huidige directory een executable genaamd `pup` die je zoals normaal kunt runnen met `./pup`. Je kunt het programma dus niet runnen door alleen `pup` in te tikken. Pas dit aan in de voorbeelden hieronder! Als pup helemaal niet werkt, stuur even een mail naar <help@mprog.nl>.
+
+Installatie voor Mac:
+
+    brew install pup
+
+Dit installeert een commando `pup` dat je kunt aanroepen met `pup` (anders dan op Windows dus!).
+
+Om Pup uit te testen met websites kun je `curl` gebruiken voor het binnenhalen van de pagina en het resultaat via een pipe doorsturen naar pup. Als voorbeeld kun je op deze pagina de pagina van het KNMI binnen halen en "netjes" uitprinten:
+
+    curl -s 'https://www.knmi.nl/home' | pup -c
+
+Met de optie `-s` voor `curl` zorgen we ervoor dat het programma geen "downloading" indicator geeft. Die is ook niet echt interessant omdat het laden van de meeste HTML-pagina's maar heel kort duurt. Met de optie `-c` voor `pup` zorgen we ervoor dat de output in kleur wordt weergegeven. Die kun je weglaten als je wilt.
+
+## Opdrachten
+
+Geef steeds de complete oneliner inclusief het gebruikte `curl`-commando, pipes en andere commando's.
+
+1.  Zoek uit hoe je alle `span`s met de class `green` kunt scrapen van de pagina <https://www.pythonscraping.com/pages/warandpeace.html>.
+
+1.  Zoek uit hoe je <u>alleen de tekst</u> van bovenstaande `span`s kunt scrapen.
+
+1.  Zoek uit met welk commando (`curl` + `pup`) je alle URL's (links) naar het laatste nieuws van de NOS kunt scrapen. Gebruik hiervoor de pagina <https://nos.nl/nieuws/laatste>.
+
+1.  Zoek uit hoe je alle headlines kunt scrapen, dus de koppen van het nieuws.
+
+1.  Zoek uit hoe je een korte omschrijving van het weer kunt printen vanuit de website van het KNMI.
+
+1.  Zoek uit hoe je alle `tr` elementen uit de tabel op <https://pythonscraping.com/pages/page3.html> kunt scrapen, maar met uitzondering van het eerste `tr`-element (deze bevat de tabelkopjes en die hebben we niet nodig). In de README van Pup staan de selectors die je kunt gebruiken. Volg de link naar MDN om uit te zoeken hoe ze werken.
+
+1.  Extra opdracht (optioneel): zoek uit hoe je een JSON kunt genereren met daarin alle links en headlines als paren. Zo'n paar ziet er dan zo uit:
+
+        {
+          "href": "/artikel/2441789-vogelspin-ontsnapt-op-kinderdagverblijf-velp",
+          "text": "Vogelspin ontsnapt op kinderdagverblijf Velp"
+        }
+
+    Omdat het een lijst van paren is verwachten we dat hele de JSON een array is, dus begint met `[` en eindigt met `]`.

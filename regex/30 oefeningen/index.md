@@ -1,6 +1,6 @@
 # Oefeningen
 
-Onderstaande vragen zijn goede verdere oefeningen voor het tentamen. Om ze te beantwoorden heb je parate kennis nodig van reguliere expressies. Als je merkt dat je deze kennis nog niet echt hebt, dan kun je extra studeren met hulp van het materiaal in de module.
+Onderstaande vragen zijn goede verdere oefeningen voor toetsje en tentamen. Om ze te beantwoorden heb je parate kennis nodig van reguliere expressies. Als je merkt dat je deze kennis nog niet echt hebt, dan kun je extra studeren met hulp van het materiaal in de module.
 
 Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. De vraagstelling kan wat anders zijn maar je zult sowieso `grep`-commando's op basis van reguliere expressies moeten schrijven.
 
