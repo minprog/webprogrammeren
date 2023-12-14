@@ -90,7 +90,7 @@ Dit is het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats t
 | ochtend | flask<br>lecture | finance | finance | tentamen-<br>voorbereiding | tentamen-<br>voorbereiding                         |
 | middag  | finance          | finance | finance | **vragenuur**              | **tentamen:<br>unix,db,regex,<br>pandas,scraping** |
 
-Deadline voorstel extra punten: maandag 29 januari 17:15 uur
+Deadline voorstel extra punten: maandag 29 januari 17:15 uur  
 Deadline Finance: woensdag 31 januari 17:15 uur
 
 
