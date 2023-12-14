@@ -29,7 +29,7 @@ Geef one-liners voor de volgende opdrachten:
 8. Toon de 3 meest voorkomende woorden in het bestand.
 9. Toon de 3 minst voorkomende woorden in het bestand.
 
-## One-liners deel 2
+## Opgaven deel 2
 
 Gegeven dit bestand genaamd `example.txt`:
 
