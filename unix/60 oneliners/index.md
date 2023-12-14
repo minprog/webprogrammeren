@@ -1,5 +1,7 @@
 # Oefeningen met one-liners
 
+Vragen als de onderstaande kun je verwachten op het toetsje voor deze module en bij het tentamen.
+
 Het laatste deel van deze module is het combineren van meerdere commando's tot one-liners. Hiervoor moet je de commando's kennen maar ook de manieren waarop je deze kunt combineren met pipes (`|`) en redirects (`<` en `>`).
 
 ## Opgaven deel 1

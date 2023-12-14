@@ -4,7 +4,7 @@ Bij het toetsje en het tentamen kun je vragen verwachten op basis van de jou al 
 
 Je hebt dus kennis nodig van SQL en wat de verschillende clausules (JOIN, WHERE, enzovoort) betekenen en waarvoor je ze gebruikt. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van het videocollege of externe bronnen over SQL.
 
-Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen, maar je zou ook vragen tegen kunnen komen die meer lijken op de vragen bij de [Movies-opdracht](/databases/movies) of varianten hiervan.
+Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen, maar je zou ook vragen tegen kunnen komen die meer lijken op de vragen bij de [Movies-opdracht](/databases/movies) of varianten.
 
 ## Database
 

@@ -1,10 +1,10 @@
 # Oefeningen met file paths
 
-Geef hieronder commando's om een bestand te `cat`ten, dus de inhoud op het scherm te printen. Twee notities:
+Vragen als de onderstaande kun je verwachten op het toetsje voor deze module en bij het tentamen.
 
-- Als je `cd` gebruikt om naar een directory te "gaan" dan "ben je in de directory", of eigenlijk is de shell in die directory.
+## Opgaven
 
-- Een relatief pad begint nooit met een `/`. Dat is het hele idee. Begrijp je dit nog niet, lees dan het hoofdstuk uit het boek nog eens, bestudeer de uitleg van Software Carpentry, of bespreek met je medestudenten.
+Geef hieronder commando's om een bestand te `cat`ten, dus de inhoud op het scherm te printen. Je mag geen `cd` gebruiken.
 
 De opgaven:
 
@@ -19,3 +19,7 @@ De opgaven:
 1. Hoe `cat` je een file `kattennamen.txt` in de directory `/Users/martijn` met hulp van een absoluut pad?
 
 1. Hoe `cat` je een file `kattennamen.txt` in de directory `/root` met hulp van een absoluut pad?
+
+## Tip
+
+Een relatief pad begint nooit met een `/`. Dat is het hele idee. Begrijp je dit nog niet, lees dan het hoofdstuk uit het boek nog eens, bestudeer de uitleg van Software Carpentry, of bespreek met je medestudenten.

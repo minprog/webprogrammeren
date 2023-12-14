@@ -1,5 +1,7 @@
 # Oefeningen met commando's
 
+Vragen als de onderstaande kun je verwachten op het toetsje voor deze module en bij het tentamen.
+
 Gebruik de onderstaande vragen om te oefenen. Het kan goed zijn dat je een deel van de commando's niet direct kunt benoemen. Gebruik het overzicht hieronder om te leren wat de commando's zijn en waarvoor je ze gebruikt.
 
 ## Vragen over commando's

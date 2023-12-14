@@ -1,11 +1,5 @@
 # Reguliere expressies
 
-1. Bestudeer onderstaande uitleg over reguliere expressies,
-2. oefen met regels, strings en woorden matchen,
-3. en maak de tentamen-oefeningen.
-
-## Herkennen van teksten
-
 Reguliere expressies worden veel gebruikt voor het automatisch verwerken van teksten. Vaak gaat het dan niet om het inlezen van gestructureerde data (zoals uit een CSV-bestand) maar teksten die vrij ingevoerd kunnen worden door een gebruiker.
 
 Het is onder andere gebruikelijk om met reguliere expressies het *format* van een mailadres te controleren. Een mailadres moet uit een aantal vaste componenten bestaan die je heel handig met een reguliere expressies kunt beschrijven. Als iemand een adres opgeeft dat niet aan de regels voldoet is het snel gespot.
