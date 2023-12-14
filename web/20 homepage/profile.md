@@ -20,7 +20,7 @@ Dit zijn de instructies om de "distributiecode" te downloaden die je nodig hebt 
 
 1.  Open Git Bash en voer `cd` uit om ervoor te zorgen dat je in `~/` (oftewel je thuismap) bent.
 
-2.  Geef het commando `curl -LO https://cdn.cs50.net/2022/fall/psets/8/homepage.zip` om een (gecomprimeerd) zip-bestand met de distributie van dit probleem te downloaden.
+2.  Geef het commando `curl -LO https://github.com/minprog/webprogrammeren/raw/2023/web/homepage.zip` om een (gecomprimeerd) zip-bestand met de distributie van dit probleem te downloaden.
 
 3.  Geef het commando `unzip homepage.zip` om dat bestand uit te pakken.
 
