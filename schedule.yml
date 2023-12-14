@@ -20,15 +20,22 @@ UNIX:
         One-liners: /unix/oneliners
 
 Databases:
-    Videocollege: /databases/lecture
-    Movies: /databases/movies
-    Fiftyville: /databases/fiftyville
-    Tentamen-oefeningen: /databases/oefeningen
+    Voorbereiding:
+        Videocollege: /databases/lecture
+    Workshop:
+        Movies: /databases/movies
+        Fiftyville: /databases/fiftyville
+    Oefeningen:
+        Oefeningen: /databases/oefeningen
 
 Reguliere expressies:
-    Reguliere expressies: /regex/uitleg
-    Opdrachten: /regex/opdrachten
-    Tentamen-oefeningen: /regex/oefeningen
+    Voorbereiding:
+        Reguliere expressies: /regex/uitleg
+    Oefeningen:
+        Regels matchen: /regex/regels
+        Strings matchen: /regex/strings
+    Oefeningen:
+        Oefeningen: /regex/oefeningen
 
 Pandas:
     Pandas Notebook: /pandas

@@ -2,56 +2,57 @@
 
 Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van reguliere expressies. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van het materiaal in deze module.
 
+Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. De vraagstelling kan wat anders zijn maar je zult sowieso `grep`-commando's op basis van reguliere expressies moeten schrijven (in feite gewoon alle stof uit het boek). Alle vormen van reguliere expressies van [de opdrachten op deze pagina](/onderwerpen/regex/grep) kunnen voorkomen.
+
 Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de regex-module.
 
-Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. De vraagstelling kan wat anders zijn maar je zult sowieso `grep`-commando's op basis van reguliere expressies moeten schrijven (in feite gewoon alle stof uit het boek). Alle vormen van reguliere expressies van [de opdrachten op deze pagina](/regex/opdrachten) kunnen voorkomen.
 
-## Tekst
+## Parate kennis
 
-Gebruik de volgende tekst (door Robin Langerak) als context voor de opgaven hieronder. De tekst op het tentamen zal korter zijn zodat je makkelijker je antwoorden kan nalopen.
+Wat je zeker moet weten voor het tentamen:
 
-     1    Where the world ends
-     2
-     3    The wall was high, but no one knew its length. We had tried to go underneath but no luck:
-     4    even a tunnel thirty feet long didn't bring us to the other side.
-     5
-     6    The previous night you vandalised the wall by throwing rocks at it with all the
-     7    strength you had in you. Did you really think you could breach it that way? Only
-     8    when we saw you make handholds out of the chips and cracks you caused the night
-     9    before we understood. At first you climbed hesitantly, so concentrated that there
-    10    was no room for your usual dry humour, But soon we saw you move with more
-    11    confidence. The higher you reached, the more people came to watch. I am still not
-    12    sure if they came to see you labour against gravity or to see you fall.
-    13
-    14    The long trip through the mountains had gone at the cost of your weight but you
-    15    still had the trained muscles you have always had because you had carried grandma.
-    16
-    17    Halfway up the wall you looked down as if to vocalise the thought: "See... it's
-    18    not that hard!" But the sweat stains that colourised your shirt told us something
-    19    different. We all held our breath when you climbed the wall with what must have
-    20    been the last of your strength. When you finally managed to swing a leg over the
-    21    edge a deafening cheer rose up from the crowd that stood watching and everyone weighed in.
-    22
-    23    For a moment you lay panting on top of the wall. Then you stood and waved at us.
-    24    Was it a greeting or a goodbye? You disappeared from sight and for a moment the crowd
-    25    continued to cheer. Immediately others ran to the wall as well to try to repeat your
-    26    success. But one by one people gave up or fell down. Us, the ones with too little
-    27    left to even attempt the climb, stood watching the spot where we had last seen you.
-    28
-    29    After a long time of waiting the first people started to return to what they called home
-    30    here. For a moment you had given me hope, but most of us had lost too much to still
-    31    know what hope is. Now only grandma and me are left. We've been waiting here a while
-    32    now, even though I don't recall when it was that we have last seen you.
-    33    Why don't you give us a sign of life...
+- Verschil tussen selecteren van regels (ook wel zinnen), tekst (ook wel strings), of losse woorden.
+- Hoe je dingen aan begin/eind regel kunt selecteren.
+- Hoe je woorden met iets ervoor of erachter kunt selecteren.
+- Betekenis van speciale tekens zoals `()|[]^$` enz.
+- Alle andere dingen die je nodig had om de regex-opdrachten te doen.
 
-## Vragen
 
-Schrijf voor alle opgaven een complete oneliner die het gevraagde resultaat geeft. Gebruik een vorm van `grep`, `egrep` of `fgrep`, en als invoer de bijgeleverde tekst 'Where the world ends.txt'. Geef ook expliciet aan welke regels matchen.
+## Opgaven
 
-1. Vind alle voorkomens van de tekst `length`, `strength` of `weight`
-2. Vind alle regels met zinnen die beginnen met het woord `But`
-3. Vind alle regels met zinnen die eindigen op `...`. Let op dat voorkomens van `...` die niet aan het eind van de zin staan niet meetellen.
-4. Vind alle voorkomens van woorden die eindigen op `ise`
-5. Vind alle voorkomens van woorden die eindigen op `our`, uitgezonderd de woorden `our` en `your`. Let op! Je mag meerdere commando's gebruiken
+Gegeven is de volgende ChatGPT-poëzie:
 
-Je oplossing moet altijd nauwkeurig aansluiten bij de omschrijving in de opgave. Het doel is niet om een zo simpel mogelijke regex te schrijven die toevallig dezelfde resultaten geeft op bovenstaande tekst, maar een regex die precies past bij de omschrijving en in principe voor **elke tekst gebruikt zou kunnen worden**.
+    0 Winter, een tijd van stilte en verdriet,
+    1 Met sneeuw bedekte bomen, als een doodskleed geweven.
+    2 De koude wind die blaast door de straten,
+    3 Een bevroren wereld, verstild en verlaten.
+    4 De zon verdwijnt vroeg achter de horizon,
+    5 De nacht wordt langer, het daglicht verdwijnt.
+    6 In deze stille tijd, wordt het hart geroerd,
+    7 Door de herinneringen aan de zomer, voorbij en verloren.
+    8 Maar de winter heeft ook schoonheid,
+    9 In de besneeuwde bossen en de heldere nachten.
+
+Geef hieronder UNIX-onliners gebaseerd op een variant van `grep`. Een voorbeeld grep-opdracht kan zijn `grep -o "zon"`.
+
+1. Geef een commando om alle regels te selecteren waarin de string "sneeuw" staat, onafhankelijk van hoofdlettergebruik. De uitvoer bestaat uit regels 0 en 9.
+
+2. Geef een commando om alle regels te selecteren waarin het woord "de" staat, onafhankelijk van hoofdlettergebruik. Het woord "deze" mag niet gematcht worden. De uitvoer bestaat daarom uit regels 2, 4, 5, 7, 8, 9 maar niet regel 6.
+
+3. Geef een commando om alle woorden te selecteren die eindigen op een komma. De uitvoer begint met:
+
+        Winter,
+        verdriet,
+        bomen,
+
+4. Geef een commando om alle woorden te selecteren die aan het begin van de regel staan (de regelnummers horen niet tot het bestand, dus die mag je negeren!). De uitvoer begint met:
+
+        Winter
+        Met
+        De
+
+5. Geef een commando om alle woorden te selecteren die beginnen met een letter "v", daarna een klinker (a, e, i, o, u, y). De rest van het woord maakt niet uit. De uitvoer begint met:
+
+        van
+        verdriet
+        verstild
