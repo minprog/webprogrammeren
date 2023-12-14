@@ -34,6 +34,7 @@ Reguliere expressies:
     Opdrachten:
         Regels matchen: /regex/regels
         Strings matchen: /regex/strings
+        Woorden matchen: /regex/woorden
     Oefeningen:
         Oefeningen: /regex/oefeningen
 
