@@ -2,7 +2,7 @@
 
 In deze module ga leren hoe het internet werkt, zodat je weet wat er gebeurt als je op jouw computer een webpagina opvraagt. Daarnaast ga je nieuwe talen leren waarmee webpagina's gebouwd worden.
 
-Voor de filmpjes danken we Doug Lloyd van Harvard!
+De filmpjes hieronder geven een eerste, gedetailleerde, inleiding die je nodig hebt om de stof te begrijpen. Bij de opdracht vind je daarnaast links naar tutorials die je verder kunnen helpen met het toepassen. Voor de filmpjes hieronder danken we Doug Lloyd van Harvard!
 
 ## Internet
 
