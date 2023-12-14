@@ -1,4 +1,4 @@
-# Installatie voor Web + Data
+# Installatie
 
 Tijdens dit vak ga je diverse opdrachten uitvoeren in een UNIX-omgeving.
 UNIX is een systeem dat speciaal is bedacht voor het snel kunnen uitvoeren en combineren van allerlei tools die teksten verwerken. Dit hoeven niet per se geschreven teksten te zijn, maar het kan ook gaan om CSV-bestanden of andere datafiles.
