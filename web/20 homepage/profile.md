@@ -1,88 +1,101 @@
 # Homepage
 
-Build a simple profile page using HTML, CSS, and JavaScript.
+Bouw een profielpagina voor jezelf met HTML, CSS en wat JavaScript.
 
-## Background
+## Achtergrond
 
-The internet has enabled incredible things: we can use a search engine to research anything imaginable, communicate with friends and family members around the globe, play games, take courses, and so much more. But it turns out that nearly all pages we may visit are built on three core languages, each of which serves a slightly different purpose:
+Op het internet kun je de meest uiteenlopende toepassingen gebruiken: we kunnen met een zoekmachine onderzoek doen naar alles wat er maar te weten is, we kunnen communiceren met vrienden en familieleden over de hele wereld, spelletjes spelen, cursussen volgen en nog veel meer.
 
-1. HTML, or _HyperText Markup Language_, which is used to describe the content of websites;
-1. CSS, _Cascading Style Sheets_, which is used to describe the aesthetics of websites; and
-1. JavaScript, which is used to make websites interactive and dynamic.
+Het blijkt dat bijna alle pagina's die we bezoeken zijn gebouwd op basis van drie talen, die elk een eigen doel dienen:
 
-Create a simple profile page that introduces yourself, your favorite hobby or extracurricular, your interests (music, books, food) and/or your motivation to study Information Science.
+1. HTML, of _HyperText Markup Language_, dat wordt gebruikt om de inhoud van websites te beschrijven;
+2. CSS, _Cascading Style Sheets_, dat wordt gebruikt om de layout en esthetiek van websites te beschrijven; en
+3. JavaScript, dat wordt gebruikt om websites interactief en dynamisch te maken.
 
+Maak in deze opdracht een profielpagina waarmee jezelf introduceert aan de wereld, en daarbij je favoriete hobby of buitenschoolse activiteiten, je interesses (denk aan muziek, boeken, eten) en/of je motivatie om Informatiekunde te studeren.
 
-## Getting Started
+## Opstarten
 
-Here's how to download this problem's "distribution code" (i.e., starter code):
+Dit zijn de instructies om de "distributiecode" te downloaden die je nodig hebt om een begin te maken met deze opdracht:
 
-1. Execute `cd` to ensure that you're in `~/` (i.e., your home directory).
-1. Execute `curl -LO https://cdn.cs50.net/2022/fall/psets/8/homepage.zip` to download a (compressed) ZIP file with this problem's distribution.
-1. Execute `unzip homepage.zip` to uncompress that file.
-1. Execute `rm homepage.zip` to delete that ZIP file.
-1. Execute `ls`. You should see a directory called `profile`, which was inside of that ZIP file.
-1. Execute `cd homepage` to change into that directory.
-1. Execute `ls`. You should see this problem's distribution, including `index.html` and `styles.css`.
-1. You can immediately start a server to view the site by running
+1.  Open Git Bash en voer `cd` uit om ervoor te zorgen dat je in `~/` (oftewel je thuismap) bent.
+
+2.  Geef het commando `curl -LO https://cdn.cs50.net/2022/fall/psets/8/homepage.zip` om een (gecomprimeerd) zip-bestand met de distributie van dit probleem te downloaden.
+
+3.  Geef het commando `unzip homepage.zip` om dat bestand uit te pakken.
+
+4.  Geef het commando `rm homepage.zip` om het zip-bestand te verwijderen.
+
+5.  Geef het commando `ls`. Je zou een map genaamd `homepage` moeten zien, met daarin de bestanden die uit het zip-bestand komen.
+
+6.  Geef het commando `cd homepage` om naar die map te gaan.
+
+7.  Geef het commando `ls`. Je zou de bestanden voor deze opdracht moeten zien, namelijk `index.html` en `styles.css`.
+
+8.  Je kunt een "server" starten om de site te bekijken door het volgende uit te voeren:
 
         $ python3 -m http.server -b localhost 8080
 
-in the terminal window and then opening the address <http://localhost:8080/> in your web browser.
+9. Opening dan het addres <http://localhost:8080/> in je webbrowser.
 
+## Specificatie
 
-## Specification
+Maak op basis van de gegeven bestanden een website die voldoet aan de volgende eisen:
 
-Implement in your `homepage` directory a website that must:
+*   De website moet minimaal vier verschillende `.html`-pagina's bevatten, inclusief `index.html`  (de hoofdpagina van je website). Het moet mogelijk zijn om vanaf *elke* pagina op je website naar *elke* andere pagina te gaan door één of meer hyperlinks te volgen.
 
-*   Contain at least four different `.html` pages, at least one of which is `index.html` (the main page of your website), and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
-*   `index.html` should include a profile picture, your name, and a short description of you and your interests.
-*   Use at least ten (10) distinct HTML tags besides `<html>`, `<head>`, `<body>`, and `<title>`. Using some tag (e.g., `<p>`) multiple times still counts as just one (1) of those ten!
-*   Integrate one or more features from Bootstrap into your site. Bootstrap is a popular library (that comes with lots of CSS classes and more) via which you can beautify your site. See [Bootstrap's documentation](https://getbootstrap.com/docs/5.2/) to get started. In particular, you might find some of [Bootstrap's components](https://getbootstrap.com/docs/5.2/components/) of interest. To add Bootstrap to your site, it suffices to include
+*   De pagina `index.html` moet een profielfoto, je naam en een korte beschrijving van jou en je interesses bevatten.
 
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" crossorigin="anonymous">
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+*   Gebruik minstens tien (10) verschillende HTML-tags naast `<html>`, `<head>`, `<body>`, en `<title>`. Het meerdere keren gebruiken van een tag (bijv. `<p>`) telt nog steeds als één (1) van die tien!
 
-    in your pages' `<head>`, below which you can also include
+*   Integreer een of meer functies van Bootstrap in je site. Bootstrap is een populaire bibliotheek of library waarmee je je site kunt verfraaien. Bekijk de [documentatie van Bootstrap](https://getbootstrap.com/docs/5.3/) om aan de slag te gaan. Specifiek is het handig om te kijken bij de [componenten van Bootstrap](https://getbootstrap.com/docs/5.3/components/). Om Bootstrap aan je site toe te voegen, volstaat het om
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+
+    in de `<head>` van je pagina's op te nemen. Daaronder heb je dan de link naar jouw eigen CSS-bestand staan:
 
         <link href="styles.css" rel="stylesheet">
 
-    to link your own CSS.
-*   Have at least one stylesheet file of your own creation, `styles.css`, which uses at least five (5) different CSS selectors (e.g. tag (`example`), class (`.example`), or ID (`#example`)), and within which you use a total of at least five (5) different CSS properties, such as `font-size`, or `margin`; and
-*   Integrate one or more features of JavaScript into your site to make your site more interactive. For example, you can use JavaScript to add alerts, to have an effect at a recurring interval, or to add interactivity to buttons, dropdowns, or forms. Feel free to be creative!
-*   Ensure that your site looks nice on browsers both on mobile devices as well as laptops and desktops.
+*   Er moet ten minste één stylesheet-bestand `styles.css` gebruikt worden waarin je zelfgeschreven CSS-regels hebt staan. Hiervoor moet je minstens vijf (5) verschillende CSS-selectors gebruiken (bijvoorbeeld op tag (`voorbeeld`), class (`.voorbeeld`), of ID (`#voorbeeld`)), en minstens vijf (5) verschillende CSS-eigenschappen zoals `font-size` of `margin`.
 
-## Testing
+*   Integreer een of meer functies van JavaScript in je site om je site interactiever te maken. Je kunt bijvoorbeeld JavaScript gebruiken om waarschuwingen toe te voegen, om een effect op regelmatige tijdstippen te laten plaatsvinden, of om interactiviteit toe te voegen aan knoppen, keuzemenu's of formulieren. Voel je vrij om creatief te zijn!
 
-If you want to view how your site looks while you work on it, use the following command:
+## Testen
+
+Om de website te bekijken terwijl je er aan werkt gebruik je het volgende commando:
 
     $ python3 -m http.server -b localhost 8080
 
-In your web browser you should then navigate to <http://localhost:8080/>.
+In je webbrowser moet je dan naar het adres <http://localhost:8080/> gaan.
 
-Recall also that by opening Developer Tools in Google Chrome, you can _simulate_ visiting your page on a mobile device by clicking the phone-shaped icon to the left of **Elements** in the developer tools window, or, once the Developer Tools tab has already been opened, by typing `Ctrl`+`Shift`+`M` on a PC or `Cmd`+`Shift`+`M` on a Mac, rather than needing to visit your site on a mobile device separately!
+## Nakijken
 
-## Assessment
+De website zal beoordeeld worden door te controleren of deze aan de eisen voldoet die hierboven worden genoemd, én of je HTML er netjes uitziet, valide is, en goed gebruik hebt gemaakt van de mogelijkheden van de talen om een verzorgde website te maken.
 
-No `check50` for this assignment! Instead, your site's correctness will be assessed based on whether you meet the requirements of the specification as outlined above, and whether your HTML is well-formed and valid. To ensure that your pages are, you can use this [Markup Validation Service](https://validator.w3.org/#validate_by_input), copying and pasting your HTML directly into the provided text box. Take care to eliminate any warnings or errors suggested by the validator before submitting!
+**Validiteit HTML** Om te zorgen dat je HTML inderdaad valide is, gebruik je de [Markup Validation Service](https://validator.w3.org/#validate_by_input), waar je je HTML-pagina's direct in de tekstbox plakt.
 
-Consider also:
+Zorg dat je *alle* warnings en errors oplost voordat je definitief gaat submitten.
 
-* whether the aesthetics of your site are such that it is intuitive and straightforward for a user to navigate;
-* whether your CSS has been factored out into a separate CSS file(s); and
-* whether you have avoided repetition and redundancy by "cascading" style properties from parent tags.
+**Netheid HTML en CSS** Zorg dat je indentatie op orde is in je HTML-bestanden, CSS en Javascript. Ook kun je als volgt comments schrijven in HTML:
 
-Afraid `style50` does not support HTML files, and so it is incumbent upon you to indent and align your HTML tags cleanly. Know also that you can create an HTML comment with:
+    <!-- Comment goes here -->
 
-        <!-- Comment goes here -->
+In CSS kun je als volgt comments schrijven:
 
-but commenting your HTML code is not as imperative as it is when commenting code in, say, C or Python. You can also comment your CSS, in CSS files, with:
+    /* Comment goes here */
 
-        /* Comment goes here */
+**Overige aanwijzingen**
 
-## Hints
+* Denk goed na of de layout en andere design-keuzes voor je website ervoor zorgen dat een gebruiker intuitief de juiste informatie kan vinden en op een prettige manier kan navigeren.
 
-For fairly comprehensive guides on the languages introduced in this problem, check out these tutorials:
+* Denk na of het nodig is de CSS op te splitsen over meerdere bestanden als deze groot wordt.
+
+* Bestudeer hoe je herhaling van instructies kunt voorkomen in CSS door goed gebruik te maken van het "cascading" idee van CSS.
+
+## Naslag
+
+Gebruik deze tutorials voor meer hulp bij het begrijpen van de drie talen en de mogelijkheden die je hebt:
 
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
