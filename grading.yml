@@ -8,6 +8,12 @@ templates:
         calculation: akkoord
         auto_publish: true
         hide_calculated: true
+    2: &toetsje
+        type: points
+        subgrades:
+            gehaald: boolean
+        calculation: gehaald
+        hide_calculated: true
     3: &aftekenen
         type: pass
         subgrades:
@@ -16,107 +22,94 @@ templates:
         hide_calculated: true
 
 grades:
-    operating-systems: *aftekenen
-    file-systems: *aftekenen
-    software-carpentry: *aftekenen
 
-    regular-expressions: *aftekenen
+    homepage:
+        <<: *aftekenen
+        deadline: 12/1/24 17:15
 
-    movies: *automatisch
-    fiftyville: *automatisch
+    toetsje_unix: *toetsje
+    toetsje_databases: *toetsje
+    toetsje_regexes: *toetsje
+    toetsje_pandas: *toetsje
+    toetsje_scraping: *toetsje
 
-    pandas: *aftekenen
+    hertentamen_unix: *aftekenen
+    hertentamen_databases: *aftekenen
+    hertentamen_regexes: *aftekenen
+    hertentamen_pandas: *aftekenen
+    hertentamen_scraping: *aftekenen
 
-    homepage: *aftekenen
-
-    json: *aftekenen
-    apis: *aftekenen
-    scraping: *aftekenen
-    
-    finance: *aftekenen
-
-    tentamen_unix: *aftekenen
-    tentamen_regexes: *aftekenen
-    tentamen_sql: *aftekenen
-    tentamen_pandas: *aftekenen
-    tentamen_scraping: *aftekenen
+    finance:
+        <<: *aftekenen
+        deadline: 31/1/24 17:15
 
 calculation:
     eindcijfer:
-        unix: 3
-        regexes: 2
-        databases: 3
+        web: 5
+        unix: 5
+        databases: 5
+        regexes: 5
         pandas: 5
-        webtech: 2
-        scraping: 2
-        flask: 3
-        # aftekenen: 0
-        # website: 25
+        scraping: 5
+        flask: 6
+    herkansing:
+        web: 5
+        hertentamen: 25
+        flask: 6
+
+web:
+    show_progress: true
+    type: points
+    submits:
+        homepage: 5
 
 unix:
     show_progress: true
     type: points
-    minimum: 10
     submits:
-        operating-systems: 1
-        file-systems: 1
-        software-carpentry: 1
-        tentamen_unix: 1
-
-regexes:
-    show_progress: true
-    type: points
-    minimum: 10
-    submits:
-        regular-expressions: 1
-        tentamen_regexes: 1
+        toetsje_unix: 1
+        tentamen_unix: 4
 
 databases:
     show_progress: true
     type: points
-    minimum: 10
     submits:
-        movies: 1
-        fiftyville: 1
-        tentamen_sql: 1
+        toetsje_databases: 1
+        tentamen_databases: 4
+
+regexes:
+    show_progress: true
+    type: points
+    submits:
+        toetsje_regexes: 1
+        tentamen_regexes: 4
 
 pandas:
     show_progress: true
     type: points
-    minimum: 10
     submits:
-        pandas: 1
-        tentamen_pandas: 1
-
-webtech:
-    show_progress: true
-    type: points
-    minimum: 10
-    submits:
-        homepage: 1
+        toetsje_pandas: 1
+        tentamen_pandas: 4
 
 scraping:
     show_progress: true
     type: points
-    minimum: 10
     submits:
-        json: 1
-        apis: 1
-        scraping: 1
-        tentamen_scraping: 1
+        toetsje_scraping: 1
+        tentamen_scraping: 4
 
 flask:
     show_progress: true
     type: points
-    minimum: 10
     submits:
-        finance: 1
+        finance: 6
 
-tentamen:
+hertentamen:
     show_progress: true
+    type: points
     submits:
-        tentamen_unix: 1
-        tentamen_regexes: 1
-        tentamen_sql: 1
-        tentamen_pandas: 1
-        tentamen_scraping: 1
+        hertentamen_unix: 5
+        hertentamen_regexes: 5
+        hertentamen_sql: 5
+        hertentamen_pandas: 5
+        hertentamen_scraping: 5
