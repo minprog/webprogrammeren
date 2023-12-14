@@ -13,13 +13,13 @@ templates:
         subgrades:
             gehaald: boolean
         calculation: gehaald
-        hide_calculated: true
+        hide_subgrades: true
     3: &aftekenen
         type: pass
         subgrades:
             akkoord: boolean
         calculation: akkoord
-        hide_calculated: true
+        hide_subgrades: true
 
 grades:
 
