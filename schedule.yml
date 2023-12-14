@@ -15,7 +15,9 @@ UNIX:
         Installatie: /install
         Software Carpentry UNIX: /unix/carpentry
     Oefeningen:
-        Oefeningen: /unix/oefeningen
+        "Commando's": /unix/commandos
+        Paths: /unix/paths
+        One-liners: /unix/oneliners
 
 Databases:
     Videocollege: /databases/lecture

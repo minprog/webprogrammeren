@@ -5,7 +5,7 @@ UNIX is een systeem dat speciaal is bedacht voor het snel kunnen uitvoeren en co
 
 Sommige besturingssystemen zijn direct gebaseerd op UNIX, namelijk Linux en macOS. Heb je zo'n systeem, dan hoef je alleen een "Terminal" te openen en je kunt UNIX-commando's invoeren.
 
-Windows is juist niet gebaseerd op UNIX, maar op Windows is het mogelijk om "Git Bash" te installeren waarmee je eigenlijk precies zoals in UNIX kunt werken. Zo heb je vrijwel precies dezelfde mogelijkheden als in Linux of macOS.
+Windows is juist niet gebaseerd op UNIX, maar op Windows is het mogelijk om "Git Bash" te installeren waarmee je eigenlijk precies zoals in UNIX kunt werken. Zo heb je dezelfde mogelijkheden als in Linux of macOS.
 
 ## macOS en Linux
 
