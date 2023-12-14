@@ -1,8 +1,8 @@
 # Reguliere expressies
 
 1. Bestudeer onderstaande uitleg over reguliere expressies,
-2. oefen met de materialen die gelinkt zijn,
-2. en hou goed bij wat je opvalt en wat je leert.
+2. oefen met regels, strings en woorden matchen,
+3. en maak de tentamen-oefeningen.
 
 ## Herkennen van teksten
 
