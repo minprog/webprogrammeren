@@ -1,7 +1,21 @@
-# HTML, CSS and JavaScript
+# HTML, CSS en JavaScript
 
-Bekijk het videocollege van David Malan bij Harvard voor een inleiding in HTML, CSS en Javascript. Hou aantekeningen bij van dingen die opvielen en/of moeilijk zijn.
+In deze module ga leren hoe het internet werkt, zodat je weet wat er gebeurt als je op jouw computer een webpagina opvraagt. Daarnaast ga je nieuwe talen leren waarmee webpagina's gebouwd worden.
 
-![HTML, CSS, JavaScript lecture](http://img.youtube.com/vi/alnzFK-4xMY/0.jpg)
+Voor de filmpjes danken we Doug Lloyd van Harvard!
 
-[Open video player](https://video.cs50.io/alnzFK-4xMY?start=380)
+## Internet
+
+[![Screenshot van filmpje Internet](internet.png)](https://video.cs50.io/04GztBlVo_s)
+
+## HTTP
+
+[![Screenshot van filmpje HTTP](http.png)](https://video.cs50.io/4axL8Gfw2nI)
+
+## HTML
+
+[![Screenshot van filmpje HTML](html.png)](https://video.cs50.io/YK78KhMf7bs)
+
+## CSS
+
+[![Screenshot van filmpje CSS](css.png)](https://video.cs50.io/Ub3FKU21ubk)
