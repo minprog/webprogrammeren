@@ -8,7 +8,7 @@ Homepage:
         Maak je eigen Homepage: /web/homepage
 
 UNIX:
-    Voorbereiding:
+    Overzicht en theorie:
         Besturingssystemen: /unix/os
         Bestandssystemen: /unix/fs
     Workshop:
@@ -20,7 +20,7 @@ UNIX:
         One-liners: /unix/oneliners
 
 Databases:
-    Voorbereiding:
+    Overzicht en theorie:
         Videocollege: /databases/lecture
     Workshop:
         Movies: /databases/movies
@@ -29,7 +29,7 @@ Databases:
         Oefeningen: /databases/oefeningen
 
 Reguliere expressies:
-    Voorbereiding:
+    Overzicht en theorie:
         Reguliere expressies: /regex/uitleg
     Oefeningen:
         Regels matchen: /regex/regels
@@ -39,13 +39,13 @@ Reguliere expressies:
         Oefeningen: /regex/oefeningen
 
 Pandas:
-    Oefeningen:
+    Overzicht en theorie:
         Pandas Notebook: /pandas
     Tentamenvoorbereiding:
         Oefeningen: /pandas/oefeningen
 
 Scraping:
-    Voorbereiding:
+    Overzicht en theorie:
         JSON: /scraping/json
         APIs: /scraping/apis
     Oefening:
