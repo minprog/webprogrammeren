@@ -116,6 +116,6 @@ hertentamen:
     submits:
         hertentamen_unix: 5
         hertentamen_regexes: 5
-        hertentamen_sql: 5
+        hertentamen_databases: 5
         hertentamen_pandas: 5
         hertentamen_scraping: 5
