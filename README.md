@@ -45,8 +45,8 @@ Dit is het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats t
 
 |         | ma                    | di                        | wo   | do       | vr                   |
 |---------|-----------------------|---------------------------|------|----------|----------------------|
-| ochtend | homepage<br>lecture   | **carpentry<br>workshop** | unix | homepage | **toetsje:<br>unix** |
-| middag  | leeswerk<br>computing | unix                      | unix | homepage | homepage             |
+| ochtend | video's<br>homepage   | **carpentry<br>workshop** | unix | homepage | **toetsje:<br>unix** |
+| middag  | leeswerk<br>unix      | unix                      | unix | homepage | homepage             |
 
 Deadline Computing: woensdag 10 januari 17:15 uur  
 Deadline Homepage: vrijdag 12 januari 17:15 uur
@@ -79,7 +79,7 @@ Dit is het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats t
 
 ### Week 4
 
-**Flask (geavanceerd).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
+**Flask (toepassing).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
 
 Dit is het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
 
