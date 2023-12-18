@@ -10,7 +10,7 @@ Om een voorbeeld te geven gebruiken we weer `zin.txt`:
 
 Een `grep`-commando om strings te selecteren met voorbeeld-output:
 
-    $ grep -o "\b[st]"
+    $ grep -o "\b[st]" zin.txt
     s
     t
 
