@@ -47,10 +47,16 @@ Voor de vragen gebruiken we de movies-database die je al kent. Hier is het schem
 
 2. Schrijf een SQL-query die de namen geeft van alle acteurs in de film "Titanic" uit 1997.
 
-3. Schrijf een SQL-query die de gemiddelde rating van alle films uit 2005 geeft.
+3. Schrijf een SQL-query die de gemiddelde rating van alle films uit 2005 geeft. Gebruik JOINs en geen subquery.
 
 4. Schrijf een SQL-query die de titels geeft van alle films gemaakt door een regisseur die geboren is in 1984.
 
-5. Schrijf een SQL-query die het aantal films geeft waarin "Sandra Oh" speelt.
+5. Schrijf een SQL-query die het aantal films geeft waarin "Sandra Oh" speelt. Gebruik een subquery en geen JOINs.
 
-(Deze oefening is gegenereerd met ChatGPT.)
+6. Schrijf een SQL-query om de namen te selecteren van alle regisseurs die betrokken zijn bij de film "The Matrix" uit 1999. Gebruik een subquery en geen joins.
+
+7. Schrijf een SQL-query die het aantal films selecteert die een rating hoger dan 8.5 hebben en meer dan 100 stemmen hebben ontvangen.
+
+8. Schrijf een SQL-query om naam en de rating te selecteren van alle films waarin "Marouane Meftah" speelt (de rating is `ratings.rating`).
+
+9. Schrijf een SQL-query om de namen van alle mensen te selecteren, gesorteerd op geboortejaar, die speelden in een film uit het jaar 2005. Gebruik JOINs en geen subquery.
