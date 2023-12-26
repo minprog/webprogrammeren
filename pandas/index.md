@@ -8,7 +8,7 @@ Alle [oefeningen en de benodigde achtergrondinformatie](pandas.zip) staan in een
 
 Daar ga je eerst Jupyter installeren:
 
-    pip3 install jupyter 
+    pip3 install jupyter pandas
 
 (Of eventueel `pip` in plaats van `pip3`.)
 

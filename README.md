@@ -8,14 +8,12 @@ Er zijn zeven modules. Deze modules bestaan meestal uit individuele opdrachten d
 
 Elke module van dit vak staat voor een deel op zich, maar bouwt wel enigszins op je eerder opgedane programmeerervaring. Dat betekent overigens niet dat je het vak Programmeren IK gehaald moet hebben om dit vak goed te kunnen doen! Maar je moet wél een begin hebben gemaakt met programmeren en daarin wat handigheid gekregen.
 
-Let op! Dit vak eindigt na de uitschrijfdeadline voor studietwijfelaars. Overweeg je je uit te schrijven per 1 februari, dan mag je gewoon starten met het vak. Maar als je je uitschrijft krijg je geen studiepunten meer, omdat de uitslag wordt vastgelegd op de laatste vrijdag van het vak (en dan is het al 2 februari). Het is dan ook niet mogelijk om een gedeeltelijk eindcijfer te krijgen.
-
 
 ## Rooster
 
 - Zie [Datanose voor het rooster](https://datanose.nl/#course[121180]).
 - Niet alle groepen hebben tegelijk les. Je moet altijd naar je eigen groep.
-- Alle bijeenkomsten zijn verplicht, tenzij je alle opdrachten van het hele vak af hebt.
+- De bijeenkomsten zijn verplicht, tenzij je alle opdrachten van het hele vak af hebt.
 - Het hertentamen van Programmeren IK is gepland op 30 januari in de avond.
 - Het tentamen van dit vak is gepland op 2 februari in de vroege middag.
 
@@ -124,11 +122,15 @@ Hieronder vind je per module de punten die je kunt verdienen.
     - 2 punt voor een extra zelfbedachte feature van de website  
       (het verplichte voorstel hiervoor moet uiterlijk op 29 januari 17:15 per mail bij <mailto:python@proglab.nl> ontvangen zijn)
 
-Dat betekent dat je tijdens de toetsjes en het tentamen 25 punten kunt halen, en voor het praktische huiswerk nog 11 punten.
-
 De verdeling van punten die je bij het tentamen kunt verdienen wordt duidelijk zodra je het oefententamen ontvangt in de loop van het vak.
 
+Het eindcijfer bestaat daarmee uit twee deelcijfers:
+
+- 25/36 deel: theoretisch tentamen (herkansbaar mits voldoende aanwezig geweest)
+- 11/36 deel: praktische oefening (niet herkansbaar)
+
 Het totaal aantal punten is 36 en daarmee is de formule voor een eindcijfer `punten / 36 * 9 + 1`.
+
 
 ## Herkansing
 
@@ -151,11 +153,11 @@ De ochtendsessies lopen van 9:00 tot 12:30 en de middagsessies van 13:30 tot 17:
 
 Als je minimaal 6 van de 7 bijeenkomsten volledig bijwoont (maximaal 15 minuten te laat en maximaal 15 minuten eerder vertrekken), dan mag je het hertentamen maken. Ben je niet voldoende aanwezig dan mag je geen hertentamen maken.
 
-Als je door overmacht niet aan deze eisen kunt voldoen dan kun je contact opnemen met de studieadviseur om een uitzondering te bespreken. Het is dan belangrijk dat je direct melding doet van je problemen en niet pas na een tijdje.
+Als je door bijzondere omstandigheden niet aan deze eisen kunt voldoen dan kun je contact opnemen met de studieadviseur om een uitzondering te bespreken. Het is dan belangrijk dat je direct melding doet van je problemen en niet pas na een tijdje.
 
 ### Versneld afmaken
 
-Als je heel erg goed gaat dan kun je de ruimte nemen om de opdrachten versneld af te maken. Zodra je *alle* opdrachten af hebt en ingeleverd, moet je nog één keer langskomen om ze te bespreken met Imane of Martijn. Dan kun je ontheffing van de aanwezigheidsplicht krijgen.
+Als je heel erg goed gaat dan kun je de ruimte nemen om de opdrachten versneld af te maken. Zodra je *alle* oefeningen en opdrachten af hebt, moet je nog één keer langskomen om ze te bespreken met Imane of Martijn. Dan kun je ontheffing van de aanwezigheidsplicht krijgen.
 
 ### Al eerder gevolgd
 
