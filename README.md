@@ -6,7 +6,7 @@ In vier weken ga je aan de slag met diverse platforms voor dataverwerking en web
 
 Er zijn zeven modules. Deze modules bestaan meestal uit individuele opdrachten die helpen oefenen voor toetsjes en tentamen. Op het tentamen moet je laten zien dat je een groot deel van de behandelde commando's en constructies uit je hoofd kent en weet hoe je ze moet toepassen. In enkele modules heb je huiswerkopdrachten waar je direct punten voor krijgt.
 
-Elke module van dit vak staat voor een deel op zich, maar bouwt wel enigszins op je eerder opgedane programmeerervaring. Dat betekent overigens niet dat je het vak Programmeren IK gehaald moet hebben om dit vak goed te kunnen doen! Maar je moet wél een begin hebben gemaakt met programmeren en daarin wat handigheid gekregen.
+De meeste modules van dit vak staan voor groot deel los van de andere modules, maar ze bouwen wel enigszins op je eerder opgedane programmeerervaring. Dat betekent overigens niet dat je het vak Programmeren IK gehaald moet hebben om dit vak goed te kunnen doen! Maar je moet wél een begin hebben gemaakt met programmeren en daarin wat handigheid gekregen.
 
 
 ## Rooster
@@ -23,15 +23,15 @@ Elke module van dit vak staat voor een deel op zich, maar bouwt wel enigszins op
 De docenten bij dit vak zijn Martijn Stegeman en Imane Tarrahi. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <python@proglab.nl>. Daarnaast zijn er student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is: Pim Dijkhuizen, Moad Matoug, Melih Metin, Floor van Steijn en Floor Verkade.
 
 
-## Kalender en deadlines
+## Activiteiten, kalender en deadlines
 
-De activiteiten zijn in de weken als volgt **ingepland**. Elke week zijn er twee onderwerpen. Je kunt voor een deel zelf schuiven met activiteiten binnen de week, maar je kunt verwachten de volle werkweek bezig te zijn met het vak.
+Elke week zijn er twee onderwerpen gepland. Je kunt verwachten de volle werkweek bezig te zijn met het vak, dus zo'n 30-40 uur. De ingeroosterde uren zijn dus <u>niet</u> voldoende om al het werk te doen, tenzij je toevallig ervaring hebt met één van de onderwerpen.
 
-De **workshops** vinden plaats tijdens de les op dinsdag, en hebben als doel om te zorgen dat je goed op weg bent en geen installatie- of configuratieproblemen hebt.
+Voor diverse onderwerpen zijn er workshops die plaatsvinden tijdens de les op dinsdag. Deze workshops hebben als doel om te zorgen dat je goed op weg bent en geen installatie- of configuratieproblemen hebt. Mocht je onverhoopt ziek zijn, zorg dan zelf dat je om hulp vraagt, bijvoorbeeld per e-mail naar de docenten.
 
-Het kan goed zijn dat je het moeilijk vindt en wat moet **schuiven** met de modules. Het is akkoord om sommige oefeningen wat later dan gepland in te leveren. Maar je moet wel elke week voortgang maken. In de derde week is het handig om advies te vragen aan Imane of Martijn welke onderwerpen je het beste aandacht kunt geven voor het tentamen.
+Het kan zijn dat je het moeilijk vindt en dat je daarom uitloopt met een module. Het is prima om sommige oefeningen wat later dan gepland te maken. Maar naast aanwezig zijn moet je verplicht elke week flink voortgang maken. Als je echt achterloopt, dan is het handig om aan het begin van de derde week om advies te vragen aan Imane of Martijn over welke onderwerpen je moet kiezen voor het tentamen.
 
-De opdrachten Homepage en Finance worden na de hieronder genoemde **deadlines** nagekeken en kunnen na het verstrijken van deze deadlines niet meer worden ingeleverd om welke reden dan ook.
+De opdrachten Homepage en Finance worden na de hieronder genoemde deadlines nagekeken en kunnen na het verstrijken van deze deadlines niet meer worden ingeleverd om welke reden dan ook.
 
 ### Week 1
 
@@ -39,7 +39,7 @@ De opdrachten Homepage en Finance worden na de hieronder genoemde **deadlines** 
 
 **UNIX (essentieel).** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX shell. Je gaat geselecteerde commando's leren en daarna ga je ze combineren tot "one-liners" waarmee je snelle bewerkingen op tekstbestanden met data kunt doen.
 
-Dit is het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
+Hieronder vind je het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De andere activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
 
 |         | ma                    | di                        | wo   | do       | vr                   |
 |---------|-----------------------|---------------------------|------|----------|----------------------|
@@ -55,7 +55,7 @@ Deadline Homepage: vrijdag 12 januari 17:15 uur
 
 **Reguliere expressies (basisvaardigheid).** Leren hoe je teksten kunt filteren en selecteren met hulp van reguliere expressies en het commando `grep`.
 
-Dit is het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
+Hieronder vind je het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De andere activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
 
 |         | ma                  | di                       | wo         | do    | vr                               |
 |---------|---------------------|--------------------------|------------|-------|----------------------------------|
@@ -68,7 +68,7 @@ Dit is het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats t
 
 **Scraping (basisvaardigheid).** Deze module bouwt voort op je kennis over HTML en CSS uit de module Homepage. Hier ga je oefenen met het geautomatiseerd scrapen van informatie van websites, om deze informatie verder te kunnen verwerken in eigen programma's.
 
-Dit is het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
+Hieronder vind je het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De andere activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
 
 |         | ma       | di                     | wo     | do       | vr                               |
 |---------|----------|------------------------|--------|----------|----------------------------------|
@@ -79,7 +79,7 @@ Dit is het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats t
 
 **Flask (toepassing).** Kennis maken met Flask als platform om webapplicaties mee te bouwen. Een webapplicatie bouwen als opdracht en ruimte om zelf uitbreidingen te maken.
 
-Dit is het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De overige activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
+Hieronder vind je het werkrooster voor de week. De dikgedrukte activiteiten vinden plaats tijdens de colleges. De andere activiteiten zijn huiswerk. Afhankelijk van je groepsrooster moet je ochtend en middag omwisselen.
 
 |         | ma               | di      | wo      | do                         | vr                                                 |
 |---------|------------------|---------|---------|----------------------------|----------------------------------------------------|
@@ -102,7 +102,7 @@ Hieronder vind je per module de punten die je kunt verdienen.
     - 4 punten door op het tentamen aangetoonde kennis, middels het schrijven van one-liners met UNIX-commando's
 
 - **Databases** (5 punten)
-    - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, zoals het schrijven van eenvoudige queries
+    - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, zoals het schrijven van eenvoudige SQL-queries
     - 4 punten door op het tentamen aangetoonde kennis van sql-operaties en manieren om gegevens uit meerdere tabellen te combineren, middels het schrijven van diverse sql-queries
 
 - **Reguliere expressies** (5 punten)
@@ -114,7 +114,7 @@ Hieronder vind je per module de punten die je kunt verdienen.
     - 4 punten door op het tentamen aangetoonde kennis van Pandas-operaties en manieren om data in Dataframes te manipuleren, middels het schrijven van codefragmenten in Python met Pandas
 
 - **Scraping** (5 punten)
-    - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, door het schrijven van eenvoudige commando's om informatie te scrapen uit een HTML-bestand
+    - 1 punt door op het wekelijkse toetsje te laten zien dat je op dat moment de basis beheerst, door het schrijven van eenvoudige pup-commando's om informatie te scrapen uit een HTML-bestand
     - 4 punten door op het tentamen aangetoonde kennis van CSS selectors en toepassing om informatie te scrapen uit HTML-bestanden, middels het schrijven van scraping-oneliners
 
 - **Flask** (6 punten, huiswerk, niet herkansbaar)
@@ -142,7 +142,7 @@ Als je voldoende aanwezig bent geweest (zie onder) mag je herkansen. Dit betreft
 - Pandas
 - Scraping
 
-Als je het hertentamen maakt vervallen alle eerder gehaalde punten van de betreffende modules, *inclusief* die van de toetsjes. Voor elk onderdeel kun je in het hertentamen dan weer 5 punten halen.
+Als je het hertentamen maakt vervallen alle eerder gehaalde punten van de betreffende modules, *inclusief* die van de wekelijkse toetsjes. Voor elk onderdeel kun je in het hertentamen dan weer 5 punten halen.
 
 
 ## Aanwezigheidsplicht
