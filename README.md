@@ -46,7 +46,6 @@ Hieronder vind je het werkrooster voor de week. De dikgedrukte activiteiten vind
 | ochtend | video's<br>homepage   | **carpentry<br>workshop** | unix | homepage | **toetsje:<br>unix** |
 | middag  | leeswerk<br>unix      | unix                      | unix | homepage | homepage             |
 
-Deadline Computing: woensdag 10 januari 17:15 uur  
 Deadline Homepage: vrijdag 12 januari 17:15 uur
 
 ### Week 2
