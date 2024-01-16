@@ -11,9 +11,10 @@ templates:
     2: &toetsje
         type: points
         subgrades:
-            gehaald: boolean
-        calculation: gehaald
+            punten: float
+        calculation: punten
         hide_subgrades: true
+        is_test: true
     3: &aftekenen
         type: pass
         subgrades:
