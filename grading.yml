@@ -13,7 +13,7 @@ templates:
         subgrades:
             punten: float
         calculation: punten
-        hide_subgrades: true
+        hide_calculated: true
         is_test: true
     3: &aftekenen
         type: pass
