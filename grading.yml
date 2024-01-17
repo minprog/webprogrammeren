@@ -84,6 +84,12 @@ databases:
         toetsje_databases: 1
         tentamen_databases: 4
 
+databases:
+    show_overview: true
+    submits:
+        movies: 1
+        fiftyville: 1
+
 regexes:
     show_progress: true
     type: points
