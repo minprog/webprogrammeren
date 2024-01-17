@@ -17,7 +17,11 @@ Dan zal de output zijn:
     woorden schieten
     tekort maar daarna
 
-Voor onderstaande opdrachten formuleer je je antwoord ook als een `grep`-commando. Je ziet dat de reguliere expressie tussen aanhalingstekens wordt gegeven.
+Voor onderstaande opdrachten formuleer je je antwoord ook steeds als een `grep`-commando. Je ziet dat de reguliere expressie tussen aanhalingstekens wordt gegeven.
+
+Gebruik tot slot de optie `-i` van grep om (indien gevraagd) matches onafhankelijk te maken van het gebruik van hoofd- of kleine letters. Het volgende commando selecteert regels waarin een grote of een kleine letter A staat:
+
+    $ grep -i "A" zin.txt
 
 Als je testbestanden maakt voor de opdrachten, doe dat dan niet in Windows met Notepad of Atom. Gebruik in plaats daarvan `nano` (zoals uitgelegd in de Software Carpentry workshop). Dan zijn de line endings correct voor gebruik van `grep`. Als je er technisch niet uitkomt, vraag dan ook hulp!
 
