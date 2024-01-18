@@ -29,7 +29,7 @@ Gegeven is de volgende ChatGPT-poëzie:
     8 Maar de winter heeft ook schoonheid,
     9 In de besneeuwde bossen en de heldere nachten.
 
-Geef hieronder UNIX-onliners gebaseerd op `grep`. Een voorbeeld kan zijn `grep -o "zon"`.
+Geef hieronder UNIX-onliners gebaseerd op `grep`. Een voorbeeld kan zijn `grep -E -o "zon"`.
 
 1. Geef een commando om alle regels te selecteren waarin de string "sneeuw" staat, onafhankelijk van hoofdlettergebruik. De uitvoer bestaat uit regels 0 en 9.
 

@@ -10,7 +10,7 @@ Als we het volgende tekstbestand `zin.txt` hebben:
 
 En we gebruiken het commando `grep` met een reguliere expressie die matcht op de letter `s` of de letter `t` aan het begin van een woord:
 
-    $ grep "\b[st]" zin.txt
+    $ grep -E "\b[st]" zin.txt
 
 Dan zal de output zijn:
 
@@ -21,7 +21,7 @@ Voor onderstaande opdrachten formuleer je je antwoord ook steeds als een `grep`-
 
 Gebruik tot slot de optie `-i` van grep om (indien gevraagd) matches onafhankelijk te maken van het gebruik van hoofd- of kleine letters. Het volgende commando selecteert regels waarin een grote of een kleine letter A staat:
 
-    $ grep -i "A" zin.txt
+    $ grep -E -i "A" zin.txt
 
 Als je testbestanden maakt voor de opdrachten, doe dat dan niet in Windows met Notepad of Atom. Gebruik in plaats daarvan `nano` (zoals uitgelegd in de Software Carpentry workshop). Dan zijn de line endings correct voor gebruik van `grep`. Als je er technisch niet uitkomt, vraag dan ook hulp!
 

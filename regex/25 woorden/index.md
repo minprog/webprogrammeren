@@ -12,7 +12,7 @@ Om een voorbeeld te geven gebruiken we weer `zin.txt`:
 
 Een `grep`-commando om hele woorden te selecteren met voorbeeld-output:
 
-    $ grep -o -w "s.*" zin.txt
+    $ grep -E -o -w "s.*" zin.txt
     schieten
 
 Vergelijk met de vorige pagina's en begrijp waarom dit zo werkt voordat je gaat oefenen. Bespreek altijd met je medestudenten en de assistenten als je iets niet begrijpt.
