@@ -84,7 +84,7 @@ databases:
         toetsje_databases: 1
         tentamen_databases: 4
 
-databases:
+databases_oefeningen:
     show_overview: true
     submits:
         movies: 1
