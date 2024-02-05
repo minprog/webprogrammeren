@@ -117,6 +117,16 @@ flask:
     submits:
         finance: 6
 
+tentamen:
+    show_progress: true
+    type: points
+    submits:
+        tentamen_unix: 4
+        tentamen_regexes: 4
+        tentamen_databases: 4
+        tentamen_pandas: 4
+        tentamen_scraping: 4
+
 hertentamen:
     show_progress: true
     type: points
