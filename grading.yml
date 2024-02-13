@@ -26,7 +26,7 @@ grades:
 
     homepage:
         <<: *aftekenen
-        deadline: 12/1/24 17:15
+        deadline: 22/2/24 17:15
 
     toetsje_unix: *toetsje
     toetsje_databases: *toetsje
