@@ -133,7 +133,7 @@ Het totaal aantal punten is 36 en daarmee is de formule voor een eindcijfer `pun
 
 ## Herkansing
 
-Als je voldoende aanwezig bent geweest (zie onder) mag je herkansen. Dit betreft de volledige theoretische stof, dus de volgende onderdelen:
+De herkansing betreft de volledige theoretische stof, dus de volgende onderdelen:
 
 - UNIX
 - Databases
@@ -143,6 +143,11 @@ Als je voldoende aanwezig bent geweest (zie onder) mag je herkansen. Dit betreft
 
 Als je het hertentamen maakt vervallen alle eerder gehaalde punten van de betreffende modules, *inclusief* die van de wekelijkse toetsjes. Voor elk onderdeel kun je in het hertentamen dan weer 5 punten halen.
 
+*Aanpassing 16 februari 2024:*
+
+Als je niet voldoende aanwezig was (zie onder) dan kun je na herkansing nog maximaal een 6 halen voor het vak.
+
+(De oude regel was dat je helemaal niet kon meedoen aan het hertentamen.)
 
 ## Aanwezigheidsplicht
 
