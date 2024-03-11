@@ -59,6 +59,14 @@ calculation:
         pandas: 5
         scraping: 5
         flask: 6
+    eindcijfer_na_homepage:
+        web: 5
+        unix: 5
+        databases: 5
+        regexes: 5
+        pandas: 5
+        scraping: 5
+        flask: 6
     herkansing:
         web: 5
         hertentamen: 25
