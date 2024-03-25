@@ -40,11 +40,11 @@ grades:
     tentamen_pandas: *toetsje
     tentamen_scraping: *toetsje
 
-    hertentamen_unix: *aftekenen
-    hertentamen_databases: *aftekenen
-    hertentamen_regexes: *aftekenen
-    hertentamen_pandas: *aftekenen
-    hertentamen_scraping: *aftekenen
+    hertentamen_unix: *toetsje
+    hertentamen_databases: *toetsje
+    hertentamen_regexes: *toetsje
+    hertentamen_pandas: *toetsje
+    hertentamen_scraping: *toetsje
 
     finance:
         <<: *aftekenen
