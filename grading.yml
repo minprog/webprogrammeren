@@ -9,7 +9,7 @@ templates:
         auto_publish: true
         hide_calculated: true
     2: &toetsje
-        type: points
+        type: float
         subgrades:
             punten: float
         calculation: punten
